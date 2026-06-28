@@ -137,5 +137,6 @@ scripts/jsonfeed.js    JSON-Feed-Adapter
 scripts/normalize.js   Gemeinsames internes Format und Suchindex
 scripts/utils.js       JSON, Text, Datum, URL und Slug-Helfer
 ```
+x
 
 Die Demo-Website verwendet ausschliesslich `fetch("./api/latest.json")`.
