@@ -1,4 +1,4 @@
-﻿# selected-podcasts
+﻿# selected-podcasts (Ausgewählte Podcasts)
 
 `selected-podcasts` ist ein statischer Podcast- und Feed-Aggregator fuer GitHub Pages.
 
