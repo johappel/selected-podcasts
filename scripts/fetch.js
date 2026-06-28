@@ -1,163 +1,145 @@
 ﻿import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { readFile } from "node:fs/promises";
-import { createFallbackImage, formatIsoDate, normalizeWhitespace, readJsonFile, uniqueBy, writeJsonFile } from "./utils.js";
-import { parseFeedXml } from "./parser.js";
+import { mkdir, rm } from "node:fs/promises";
+import { parseAtom } from "./atom.js";
+import { parseJsonFeed } from "./jsonfeed.js";
+import { buildSearchIndex, compareByDateDesc, normalizeEntry, normalizeSource } from "./normalize.js";
+import { parseRss } from "./rss.js";
+import { createFallbackImage, readJsonFile, uniqueBy, writeJsonFile } from "./utils.js";
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const repoRoot = path.resolve(scriptDir, "..");
-const docsDir = path.join(repoRoot, "docs");
-const feedsPath = path.join(docsDir, "feeds.json");
-const podcastsPath = path.join(docsDir, "podcasts.json");
+const apiDir = path.join(repoRoot, "docs", "api");
+const feedsPath = path.join(apiDir, "feeds.json");
 const requestTimeoutMs = 20000;
 
-function clampCount(value, fallback = 6) {
-  const count = Number(value);
-  if (!Number.isFinite(count) || count <= 0) {
-    return fallback;
-  }
-
-  return Math.trunc(count);
-}
-
-function pickNonEmpty(...values) {
-  for (const value of values) {
-    const text = normalizeWhitespace(value);
-    if (text) {
-      return text;
-    }
-  }
-
-  return "";
-}
-
-function buildSampleFeedXml(feed) {
-  const baseTitle = feed.title || feed.id || "Selected Podcast";
-  const baseLink = feed.feed || "https://example.com/podcast";
-  const now = Date.now();
-  const episodes = Array.from({ length: Math.max(3, clampCount(feed.count, 3)) }, (_, index) => {
-    const episodeDate = new Date(now - index * 86400000);
-    const episodeNumber = index + 1;
-    const episodeTitle = `${baseTitle} Episode ${episodeNumber}`;
-    const episodeDescription = `Sample episode generated as an offline fallback for ${baseTitle}.`;
-
-    return `
-      <item>
-        <title>${episodeTitle}</title>
-        <link>${baseLink}/episodes/${episodeNumber}</link>
-        <guid isPermaLink="false">${feed.id || "sample"}-${episodeNumber}</guid>
-        <description><![CDATA[${episodeDescription}]]></description>
-        <pubDate>${episodeDate.toUTCString()}</pubDate>
-        <enclosure url="${baseLink}/audio/${episodeNumber}.mp3" type="audio/mpeg" length="123456" />
-        <itunes:image href="${baseLink}/cover-${episodeNumber}.jpg" />
-      </item>`;
-  }).join("\n");
-
-  return `<?xml version="1.0" encoding="UTF-8"?>
-    <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
-      <channel>
-        <title>${baseTitle}</title>
-        <link>${baseLink}</link>
-        <description>Offline sample feed for ${baseTitle}</description>
-        <image>
-          <url>${baseLink}/cover.jpg</url>
-          <title>${baseTitle}</title>
-          <link>${baseLink}</link>
-        </image>
-        ${episodes}
-      </channel>
-    </rss>`;
-}
-
-async function readFeedSource(feed) {
-  if (!feed.feed) {
-    throw new Error(`Feed ${feed.id || feed.title || "unknown"} is missing the feed URL.`);
-  }
-
-  if (feed.feed.startsWith("file://")) {
-    const { fileURLToPath } = await import("node:url");
-    return await readFile(fileURLToPath(feed.feed), "utf8");
-  }
-
-  if (!/^https?:\/\//i.test(feed.feed)) {
-    const localPath = path.isAbsolute(feed.feed) ? feed.feed : path.resolve(repoRoot, feed.feed);
-    return await readFile(localPath, "utf8");
-  }
+async function readFeedText(source) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), requestTimeoutMs);
 
   try {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), requestTimeoutMs);
-    const response = await fetch(feed.feed, {
+    const response = await fetch(source.feed, {
       signal: controller.signal,
       headers: {
         "user-agent": "selected-podcasts/1.0 (+https://johappel.github.io/selected-podcasts/)",
-        accept: "application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.1",
+        accept: "application/feed+json, application/rss+xml, application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.1",
       },
     });
-    clearTimeout(timeout);
 
     if (!response.ok) {
-      throw new Error(`Unexpected response ${response.status} for ${feed.feed}`);
+      throw new Error(`${response.status} ${response.statusText}`);
     }
 
     return await response.text();
-  } catch (error) {
-    console.warn(`Falling back to a generated sample feed for ${feed.id || feed.title || feed.feed}: ${error.message}`);
-    return buildSampleFeedXml(feed);
+  } finally {
+    clearTimeout(timeout);
   }
 }
 
-function normalizeEpisode(feed, parsedFeed, item, index) {
-  const source = pickNonEmpty(feed.title, parsedFeed.title, feed.id, "Podcast");
-  const title = pickNonEmpty(item.title, `${source} Episode ${index + 1}`);
-  const description = pickNonEmpty(item.description, parsedFeed.description, `Episode from ${source}.`);
-  const date = formatIsoDate(item.date) || new Date().toISOString();
-  const link = pickNonEmpty(item.link, feed.feed);
-  const audio = pickNonEmpty(item.audio);
-  const image = pickNonEmpty(item.image, parsedFeed.image, createFallbackImage(source, "#4a6a8a"));
-  const id = pickNonEmpty(item.id, `${feed.id || source}-${date}-${title}`);
-
-  return {
-    id,
-    source,
-    title,
-    description,
-    date,
-    link,
-    audio,
-    image,
-  };
-}
-
-function compareByDateDesc(left, right) {
-  return new Date(right.date).getTime() - new Date(left.date).getTime();
-}
-
-async function main() {
-  const feeds = await readJsonFile(feedsPath, []);
-  if (!Array.isArray(feeds)) {
-    throw new Error("docs/feeds.json must contain an array of feed definitions.");
+function parseByType(source, raw) {
+  if (source.type === "atom") {
+    return parseAtom(raw, source.feed);
   }
 
-  const enabledFeeds = feeds.filter((feed) => feed && feed.enabled !== false && feed.feed);
-  const episodes = [];
+  if (source.type === "jsonfeed") {
+    return parseJsonFeed(raw, source.feed);
+  }
 
-  for (const feed of enabledFeeds) {
-    const rawXml = await readFeedSource(feed);
-    const parsedFeed = parseFeedXml(rawXml, feed.feed, feed.title);
-    const limit = clampCount(feed.count, 6);
-    const sortedItems = [...parsedFeed.items].sort(compareByDateDesc);
+  return parseRss(raw, source.feed);
+}
 
-    for (const [index, item] of sortedItems.slice(0, limit).entries()) {
-      episodes.push(normalizeEpisode(feed, parsedFeed, item, index));
+async function collectEntries(sources) {
+  const entries = [];
+
+  for (const source of sources) {
+    if (!source.enabled || !source.feed) {
+      continue;
+    }
+
+    try {
+      const raw = await readFeedText(source);
+      const parsed = parseByType(source, raw)
+        .sort(compareByDateDesc)
+        .slice(0, source.maxEpisodes)
+        .map((entry, index) => normalizeEntry(source, entry, index));
+
+      entries.push(...parsed);
+    } catch (error) {
+      console.warn(`Skipping ${source.id}: ${error.message}`);
     }
   }
 
-  const uniqueEpisodes = uniqueBy(episodes, (episode) => episode.link || episode.id || `${episode.source}:${episode.title}:${episode.date}`)
-    .sort(compareByDateDesc);
+  return uniqueBy(entries, (entry) => entry.url || entry.id).sort(compareByDateDesc);
+}
 
-  await writeJsonFile(podcastsPath, uniqueEpisodes);
-  console.log(`Wrote ${uniqueEpisodes.length} episodes to ${path.relative(repoRoot, podcastsPath)}`);
+function publicSource(source) {
+  return {
+    id: source.id,
+    title: source.title,
+    type: source.type,
+    homepage: source.homepage,
+    feed: source.feed,
+    language: source.language,
+    category: source.category,
+    tags: source.tags,
+    image: source.image || createFallbackImage(source.title),
+    enabled: source.enabled,
+    maxEpisodes: source.maxEpisodes,
+  };
+}
+
+async function writeSourceFiles(entries) {
+  const bySource = Map.groupBy(entries, (entry) => entry.source);
+
+  for (const [sourceId, sourceEntries] of bySource) {
+    await writeJsonFile(path.join(apiDir, "sources", `${sourceId}.json`), sourceEntries);
+  }
+}
+
+async function writeTagFiles(entries) {
+  const tagMap = new Map();
+
+  for (const entry of entries) {
+    for (const tag of entry.tags) {
+      const current = tagMap.get(tag) || [];
+      current.push(entry);
+      tagMap.set(tag, current);
+    }
+  }
+
+  for (const [tag, tagEntries] of tagMap) {
+    await writeJsonFile(path.join(apiDir, "tags", `${tag}.json`), tagEntries.sort(compareByDateDesc));
+  }
+}
+
+async function cleanGeneratedDirectories() {
+  await rm(path.join(apiDir, "sources"), { recursive: true, force: true });
+  await rm(path.join(apiDir, "tags"), { recursive: true, force: true });
+  await mkdir(path.join(apiDir, "sources"), { recursive: true });
+  await mkdir(path.join(apiDir, "tags"), { recursive: true });
+}
+
+async function main() {
+  const sourceConfig = await readJsonFile(feedsPath, []);
+  if (!Array.isArray(sourceConfig)) {
+    throw new Error("docs/api/feeds.json must contain an array of source definitions.");
+  }
+
+  const sources = sourceConfig.map(normalizeSource);
+  const entries = await collectEntries(sources);
+
+  await cleanGeneratedDirectories();
+  await writeJsonFile(feedsPath, sources.map(publicSource));
+  await writeJsonFile(path.join(apiDir, "podcasts.json"), entries);
+  await writeJsonFile(path.join(apiDir, "latest.json"), entries.slice(0, 10));
+  await writeJsonFile(path.join(apiDir, "latest-5.json"), entries.slice(0, 5));
+  await writeJsonFile(path.join(apiDir, "latest-10.json"), entries.slice(0, 10));
+  await writeJsonFile(path.join(apiDir, "latest-20.json"), entries.slice(0, 20));
+  await writeJsonFile(path.join(apiDir, "search-index.json"), buildSearchIndex(entries));
+  await writeSourceFiles(entries);
+  await writeTagFiles(entries);
+
+  console.log(`Wrote ${entries.length} entries to ${path.relative(repoRoot, apiDir)}`);
 }
 
 await main();

@@ -1,12 +1,9 @@
 ﻿export function normalizeWhitespace(value) {
-  return String(value ?? "")
-    .replace(/\s+/g, " ")
-    .trim();
+  return String(value ?? "").replace(/\s+/g, " ").trim();
 }
 
 export function decodeHtmlEntities(value) {
-  const text = String(value ?? "");
-  return text
+  return String(value ?? "")
     .replace(/&nbsp;/gi, " ")
     .replace(/&amp;/gi, "&")
     .replace(/&lt;/gi, "<")
@@ -34,6 +31,15 @@ export function escapeRegExp(value) {
   return String(value ?? "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
+export function slugify(value) {
+  return normalizeWhitespace(value)
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "") || "item";
+}
+
 export function uniqueBy(items, getKey) {
   const seen = new Set();
   const output = [];
@@ -59,7 +65,7 @@ export function parseDate(value) {
   return Number.isNaN(date.getTime()) ? null : date;
 }
 
-export function formatIsoDate(value) {
+export function toIsoDate(value) {
   const date = value instanceof Date ? value : parseDate(value);
   return date ? date.toISOString() : "";
 }
@@ -78,7 +84,7 @@ export function resolveMaybeUrl(baseUrl, value) {
 }
 
 export function createFallbackImage(label, accent = "#4a6a8a") {
-  const safeLabel = normalizeWhitespace(label) || "Podcast";
+  const safeLabel = normalizeWhitespace(label) || "Feed";
   const initials = safeLabel
     .split(/\s+/)
     .slice(0, 2)
@@ -89,15 +95,12 @@ export function createFallbackImage(label, accent = "#4a6a8a") {
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="${safeLabel}">
       <defs>
         <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-          <stop offset="0%" stop-color="${accent}" stop-opacity="0.95" />
-          <stop offset="100%" stop-color="#f0d8b0" stop-opacity="0.95" />
+          <stop offset="0%" stop-color="${accent}" />
+          <stop offset="100%" stop-color="#f0d8b0" />
         </linearGradient>
       </defs>
-      <rect width="1200" height="800" rx="72" fill="url(#g)" />
-      <circle cx="960" cy="160" r="180" fill="rgba(255,255,255,0.14)" />
-      <circle cx="180" cy="660" r="220" fill="rgba(255,255,255,0.09)" />
-      <text x="84" y="710" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="700">${initials}</text>
-      <text x="84" y="138" fill="#ffffff" fill-opacity="0.88" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="600">${safeLabel}</text>
+      <rect width="1200" height="800" rx="64" fill="url(#g)" />
+      <text x="80" y="690" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="112" font-weight="700">${initials}</text>
     </svg>
   `;
 
@@ -119,11 +122,9 @@ export async function readJsonFile(filePath, fallbackValue) {
 }
 
 export async function writeJsonFile(filePath, value) {
-  const { writeFile, mkdir } = await import("node:fs/promises");
+  const { mkdir, writeFile } = await import("node:fs/promises");
   const { dirname } = await import("node:path");
 
   await mkdir(dirname(filePath), { recursive: true });
   await writeFile(filePath, `${JSON.stringify(value, null, 2)}\n`, "utf8");
 }
-
-

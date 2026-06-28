@@ -1,98 +1,141 @@
 ﻿# selected-podcasts
 
-A static GitHub Pages site that aggregates selected podcast episodes from configurable RSS feeds.
+`selected-podcasts` ist ein statischer Podcast- und Feed-Aggregator fuer GitHub Pages.
 
-The repository has no server-side logic. A GitHub Action refreshes `docs/podcasts.json`, and the site renders only the generated JSON.
+Die Website in `docs/` ist nur eine Demo. Der eigentliche Zweck des Repositories ist die erzeugte JSON-API unter `docs/api/`, die andere Webseiten direkt per `fetch()` nutzen koennen.
 
-## Project idea
+## API-Endpunkte
 
-- collect a curated list of podcast episodes from one or more feeds
-- generate static JSON from RSS or Atom sources
-- render everything as a lightweight GitHub Pages site
-- keep the structure easy to extend for categories, tags, search, favorites, YouTube feeds, Atom feeds, and JSON feeds later
+Nach `npm run update` werden diese Dateien erzeugt:
 
-## Setup
+```text
+docs/api/
+├── feeds.json
+├── podcasts.json
+├── latest.json
+├── latest-5.json
+├── latest-10.json
+├── latest-20.json
+├── search-index.json
+├── sources/
+│   └── zeitzeichen.json
+└── tags/
+    ├── bildung.json
+    ├── geschichte.json
+    └── zeitgeschichte.json
+```
 
-1. Install Node.js 22 or newer.
-2. Install dependencies:
+Beispiele:
 
-   ```bash
-   npm install
-   ```
+```js
+fetch("https://johappel.github.io/selected-podcasts/api/latest.json");
+fetch("https://johappel.github.io/selected-podcasts/api/latest-5.json");
+fetch("https://johappel.github.io/selected-podcasts/api/sources/zeitzeichen.json");
+fetch("https://johappel.github.io/selected-podcasts/api/tags/geschichte.json");
+```
 
-3. Regenerate the podcast data:
+## Datenformat
 
-   ```bash
-   npm run update
-   ```
+Alle Feed-Typen werden auf ein gemeinsames Format normalisiert:
 
-4. Start the local web server:
+```json
+{
+  "id": "zeitzeichen:example-id",
+  "source": "zeitzeichen",
+  "sourceTitle": "WDR Zeitzeichen",
+  "type": "rss",
+  "title": "Episode title",
+  "summary": "Bereinigte Zusammenfassung ohne HTML.",
+  "date": "2026-06-28T04:00:33.000Z",
+  "url": "https://example.com/episode",
+  "image": "https://example.com/image.jpg",
+  "audio": "https://example.com/audio.mp3",
+  "tags": ["geschichte"],
+  "category": ["Geschichte"],
+  "language": "de"
+}
+```
 
-   ```bash
-   npm run dev
-   ```
+## Quellen konfigurieren
 
-Open the site in the browser shown by the terminal output.
+Quellen werden in `docs/api/feeds.json` gepflegt:
+
+```json
+{
+  "id": "zeitzeichen",
+  "title": "WDR Zeitzeichen",
+  "type": "rss",
+  "homepage": "https://www1.wdr.de/mediathek/audio/zeitzeichen/zeitzeichen-podcast-100.html",
+  "feed": "https://www1.wdr.de/mediathek/audio/zeitzeichen/zeitzeichen-podcast-100.podcast",
+  "language": "de",
+  "category": ["Geschichte", "Bildung"],
+  "tags": ["geschichte", "bildung"],
+  "image": "https://example.com/cover.jpg",
+  "enabled": true,
+  "maxEpisodes": 10
+}
+```
+
+Ein neuer Podcast braucht im Normalfall nur einen weiteren Eintrag in dieser Datei.
+
+Unterstuetzte Typen:
+
+- `rss`
+- `atom`
+- `jsonfeed`
+
+Weitere Typen wie `youtube`, `mastodon` oder `github-releases` koennen spaeter als eigene Adapter in `scripts/` ergaenzt werden, ohne das API-Format zu aendern.
+
+## Einrichtung
+
+```bash
+npm install
+npm run update
+npm run dev
+```
+
+`npm run dev` startet einen kleinen lokalen HTTP-Server fuer `docs/`.
 
 ## GitHub Pages
 
-1. Push the repository to GitHub.
-2. Open **Settings > Pages**.
-3. Set the source to **Deploy from a branch**.
-4. Choose the branch you want to publish from.
-5. Set the folder to **/docs**.
-6. Save.
+1. Repository zu GitHub pushen.
+2. In **Settings > Pages** die Quelle auf **Deploy from a branch** setzen.
+3. Branch auswaehlen.
+4. Ordner **/docs** auswaehlen.
+5. Speichern.
 
-The site is prepared for the Pages URL:
+Die geplante Pages-URL ist:
 
-`https://johappel.github.io/selected-podcasts/`
-
-## Adding a feed
-
-Edit `docs/feeds.json` and add a new object with these fields:
-
-```json
-{
-  "id": "my-feed",
-  "title": "My Feed",
-  "feed": "https://example.com/feed.xml",
-  "count": 6,
-  "enabled": true
-}
+```text
+https://johappel.github.io/selected-podcasts/
 ```
 
-Then run:
+Die API liegt dann unter:
 
-```bash
-npm run update
+```text
+https://johappel.github.io/selected-podcasts/api/
 ```
-
-The update script reads `docs/feeds.json`, downloads every enabled feed, parses the XML, merges the newest episodes, sorts them by date, and writes `docs/podcasts.json`.
 
 ## GitHub Action
 
-`.github/workflows/update.yml` runs daily and can also be started manually.
+`.github/workflows/update.yml` laeuft taeglich und kann manuell gestartet werden.
 
-It uses Node 22, installs dependencies with `npm install`, runs `npm run update`, and commits `docs/podcasts.json` only when that file changed.
+Der Workflow:
 
-## Data contract
+- verwendet Node 22
+- fuehrt `npm install` aus
+- startet `npm run update`
+- committed nur, wenn sich Dateien unter `docs/api/` geaendert haben
 
-The site reads only `docs/podcasts.json`.
-Each item uses this shape:
+## Architektur
 
-```json
-{
-  "id": "...",
-  "source": "...",
-  "title": "...",
-  "description": "...",
-  "date": "...",
-  "link": "...",
-  "audio": "...",
-  "image": "..."
-}
+```text
+scripts/fetch.js       Orchestriert Download, Normalisierung und API-Ausgabe
+scripts/rss.js         RSS-Adapter
+scripts/atom.js        Atom-Adapter
+scripts/jsonfeed.js    JSON-Feed-Adapter
+scripts/normalize.js   Gemeinsames internes Format und Suchindex
+scripts/utils.js       JSON, Text, Datum, URL und Slug-Helfer
 ```
 
-## Notes on extension
-
-The code is split into small modules so later work can add categories, tags, search, favorites, multiple feed types, YouTube feeds, Atom feeds, and JSON feeds without changing the site architecture.
+Die Demo-Website verwendet ausschliesslich `fetch("./api/latest.json")`.

@@ -1,4 +1,4 @@
-﻿name: Update podcast data
+﻿name: Update content API
 
 on:
   schedule:
@@ -27,18 +27,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Update podcast data
+      - name: Update content API
         run: npm run update
 
-      - name: Commit changes when podcasts changed
+      - name: Commit API changes
         run: |
-          if git diff --quiet -- docs/podcasts.json; then
-            echo "No podcast changes detected."
+          if git diff --quiet -- docs/api; then
+            echo "No API changes detected."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/podcasts.json
-          git commit -m "Update podcasts"
+          git add docs/api
+          git commit -m "Update content API"
           git push

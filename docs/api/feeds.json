@@ -1,0 +1,22 @@
+[
+  {
+    "id": "zeitzeichen",
+    "title": "WDR Zeitzeichen",
+    "type": "rss",
+    "homepage": "https://www1.wdr.de/mediathek/audio/zeitzeichen/zeitzeichen-podcast-100.html",
+    "feed": "https://www1.wdr.de/mediathek/audio/zeitzeichen/zeitzeichen-podcast-100.podcast",
+    "language": "de",
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-podcast-100~_v-Podcast.jpg",
+    "enabled": true,
+    "maxEpisodes": 10
+  }
+]
