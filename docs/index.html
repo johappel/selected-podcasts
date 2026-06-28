@@ -1,0 +1,66 @@
+﻿<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light" />
+    <meta
+      name="description"
+      content="Eine statische GitHub-Pages-Seite mit ausgewahlten Podcast-Folgen aus konfigurierbaren RSS-Feeds."
+    />
+    <title>Ausgewaehlte Podcasts</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <h1>Ausgewaehlte Podcasts</h1>
+          <p class="hero-text">
+            Die Seite liest ausschliesslich die erzeugte Datei <code>docs/podcasts.json</code> und zeigt daraus eine
+            aufgeraeumte, responsive Liste kuratierter Podcast-Episoden.
+          </p>
+        </div>
+        <div class="hero-panel" aria-label="Ubersicht">
+          <div class="metric">
+            <span class="metric-label">Episoden</span>
+            <strong id="podcast-count">0</strong>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Quelle</span>
+            <strong>RSS / Atom</strong>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Render</span>
+            <strong>Vanilla JS</strong>
+          </div>
+        </div>
+      </header>
+
+      <main class="content">
+        <div id="status" class="status" role="status" aria-live="polite">Lade Episoden ...</div>
+        <section id="podcast-list" class="podcast-grid" aria-label="Podcast-Liste"></section>
+      </main>
+    </div>
+
+    <template id="podcast-card-template">
+      <article class="podcast-card">
+        <a class="podcast-image-link" target="_blank" rel="noreferrer noopener">
+          <img class="podcast-image" alt="" loading="lazy" />
+        </a>
+        <div class="podcast-body">
+          <div class="podcast-topline">
+            <span class="podcast-source"></span>
+            <time class="podcast-date"></time>
+          </div>
+          <h2 class="podcast-title"></h2>
+          <p class="podcast-description"></p>
+          <audio class="podcast-audio" controls preload="none"></audio>
+          <a class="podcast-button" target="_blank" rel="noreferrer noopener">Podcast oeffnen</a>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
