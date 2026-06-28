@@ -1,6 +1,6 @@
 ﻿name: Update content API
 
-on:
+"on":
   push:
     branches:
       - main
