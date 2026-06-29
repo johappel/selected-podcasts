@@ -82,10 +82,21 @@ function tagsOf(item) {
 // Jede Episode wird GENAU einem Thema zugeordnet (erstes passendes Topic in
 // Reihenfolge der topics.json), damit keine Episode doppelt erscheint.
 function assignPrimaryTopics() {
+    // Episoden-eigene category/tags bestimmen die Prioritaet:
+    // iteriere die episode-tags in ihrer Reihenfolge und suche das erste Topic, das passt.
+    // So landet eine Episode mit ["Musik","Geschichte"] bei Musik, nicht bei Geschichte.
     podcastData.forEach(it => {
-        const set = tagsOf(it);
-        const hit = topics.find(t => t.tags.some(x => set.includes(String(x).toLowerCase())));
-        it._primary = hit ? hit.id : (set[0] || "");
+        const epTags = [
+            ...(Array.isArray(it.category) ? it.category : it.category ? [it.category] : []),
+            ...(Array.isArray(it.tags) ? it.tags : [])
+        ].map(t => String(t).toLowerCase());
+
+        let primary = "";
+        for (const epTag of epTags) {
+            const hit = topics.find(t => t.tags.some(x => String(x).toLowerCase() === epTag));
+            if (hit) { primary = hit.id; break; }
+        }
+        it._primary = primary || epTags[0] || "";
     });
 }
 
