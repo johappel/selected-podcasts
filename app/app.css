@@ -473,9 +473,10 @@ h1 {
 
     .logo-placeholder,
     .random-btn {
-        width: 80px;
-        height: 80px;
-        font-size: 0.95rem;
+        width: clamp(126px, 36vw, 180px);
+        height: clamp(126px, 36vw, 180px);
+        font-size: 2.0rem;
+        font-weight: initial;
     }
 
     .logo-placeholder {
