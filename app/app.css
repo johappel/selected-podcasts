@@ -411,3 +411,16 @@ h1 {
 }
 
 .episode-duration { font-size: 1.2rem; color: #fff; opacity: 0.85; margin-top: 6px; }
+
+/* --- Struktur im Summary-Text --- */
+.episode-summary p { margin-bottom: 0.8em; }
+.episode-summary p:last-child { margin-bottom: 0; }
+.episode-summary ul,
+.episode-summary ol { padding-left: 1.6em; margin-bottom: 0.8em; }
+.episode-summary li { margin-bottom: 0.3em; }
+.episode-summary a { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
+.episode-summary a:hover { opacity: 0.85; }
+.episode-summary strong,
+.episode-summary b { font-weight: 700; }
+.episode-summary em,
+.episode-summary i { font-style: italic; }

@@ -63,6 +63,41 @@ export function applyTitleReplacers(title, replacers) {
   return normalizeWhitespace(result);
 }
 
+﻿export function sanitizeHtml(value) {
+  let s = String(value ?? "");
+  if (!s) return "";
+
+  // CDATA entpacken
+  s = s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/gi, "$1");
+  // Gefaehrliche Bloecke komplett entfernen
+  s = s.replace(/<script\b[\s\S]*?<\/script>/gi, "");
+  s = s.replace(/<style\b[\s\S]*?<\/style>/gi, "");
+
+  // <a href> nur mit http/https-URL behalten
+  s = s.replace(/<a\b[^>]*>/gi, function(tag) {
+    var m = tag.match(/href\s*=\s*(["'])(https?:\/\/[^"'<>]+)\1/i);
+    return m ? '<a href="' + m[2] + '" rel="noopener" target="_blank">' : "";
+  });
+
+  // Attribute von strukturellen Tags entfernen
+  ["p","ul","ol","li","strong","b","em","i","blockquote"].forEach(function(t) {
+    s = s.replace(new RegExp("<" + t + "\\b[^>]*>", "gi"), "<" + t + ">");
+  });
+  s = s.replace(/<br\b[^>]*\/?>/gi, "<br>");
+
+  // Alle anderen Tags entfernen
+  s = s.replace(/<(?!\/?(p|br|ul|ol|li|strong|b|em|i|a|blockquote)(\s|>|\/)[^>]*>|\/?a>)[^>]+>/gi, " ");
+
+
+  // HTML-Entities dekodieren
+  s = decodeHtmlEntities(s);
+
+  // Whitespace normalisieren
+  s = s.replace(/[ \t]+/g, " ").replace(/ *\n */g, "\n").replace(/\n{3,}/g, "\n\n");
+  return s.trim();
+}
+
+
 export function escapeRegExp(value) {
   return String(value ?? "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }

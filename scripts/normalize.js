@@ -1,4 +1,4 @@
-﻿import { applyTitleReplacers, formatDuration, normalizeWhitespace, slugify, toIsoDate } from "./utils.js";
+﻿import { applyTitleReplacers, formatDuration, normalizeWhitespace, sanitizeHtml, slugify, stripHtml, toIsoDate } from "./utils.js";
 
 function asArray(value) {
   if (Array.isArray(value)) {
@@ -49,7 +49,7 @@ export function normalizeEntry(source, entry, index) {
     sourceTitle: source.title,
     type: source.type,
     title,
-    summary: normalizeWhitespace(entry.summary || entry.description),
+    summary: sanitizeHtml(entry.summary || entry.description),
     date,
     url,
     image: normalizeWhitespace(entry.image || source.image),
@@ -75,7 +75,7 @@ export function buildSearchIndex(entries) {
     url: entry.url,
     tags: entry.tags,
     category: entry.category,
-    text: [entry.title, entry.summary, entry.sourceTitle, ...entry.tags, ...entry.category]
+    text: [entry.title, stripHtml(entry.summary), entry.sourceTitle, ...entry.tags, ...entry.category]
       .map(normalizeWhitespace)
       .filter(Boolean)
       .join(" ")

@@ -211,7 +211,8 @@ function renderEpisodes(episodes) {
         card.querySelector('[data-field="meta"]').textContent = host;
         const durEl = card.querySelector('[data-field="duration"]');
         if (durEl) { if (ep.duration) durEl.textContent = ep.duration; else durEl.remove(); }
-        card.querySelector('[data-field="summary"]').textContent = summary;
+        const sumEl = card.querySelector('[data-field="summary"]');
+        if (sumEl) sumEl.innerHTML = summary;
         const img = card.querySelector('[data-field="image"]');
         if (image) { img.src = image; } else { img.remove(); }
         const a = card.querySelector('[data-field="link"]');
