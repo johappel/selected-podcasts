@@ -195,3 +195,51 @@ h1 {
 .source-link:hover {
     opacity: 1;
 }
+/* === Barrierefreiheit & neue Interaktionen === */
+
+/* Zurueck-Button: gross, rund, oben links im Detailbereich */
+.back-btn {
+    width: 120px;
+    height: 120px;
+    background-color: #ffffff;
+    color: #222;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 40px;
+    box-shadow: 0 8px 18px rgba(0,0,0,0.25);
+}
+
+/* Karte: Hauptzeile + ausklappbarer Detailbereich */
+.card-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    width: 100%;
+}
+.episode-card { flex-direction: column; align-items: stretch; cursor: pointer; background: rgba(0,0,0,0.28); }
+.episode-detail { display: none; margin-top: 24px; }
+.episode-card.expanded .episode-detail { display: block; }
+.episode-image { width: 100%; max-width: 420px; border-radius: 16px; display: block; margin-bottom: 20px; }
+.episode-summary { font-size: 1.5rem; line-height: 1.5; color: #fff; }
+
+/* Hohe Kontraste */
+.episode-title { color: #fff; }
+.episode-meta { opacity: 1; color: #fff; }
+.source-link { opacity: 1; color: #fff; }
+.empty-note { font-size: 2rem; text-align: center; color: #fff; }
+
+/* Play/Stop gross und rund wie die Themen-Buttons */
+.play-stop-btn {
+    width: 160px;
+    height: 160px;
+    min-width: 160px;
+    padding: 0;
+    border-radius: 50%;
+    font-size: 1.9rem;
+    flex-shrink: 0;
+}
+.cat-btn:focus-visible, .random-btn:focus-visible, .play-stop-btn:focus-visible, .back-btn:focus-visible, .source-link:focus-visible {
+    outline: 5px solid #ffe600;
+    outline-offset: 4px;
+}

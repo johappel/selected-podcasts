@@ -5,23 +5,54 @@ const API_URL = "../api/latest-20.json";
 const colors = {
     politik: "#a84343",
     geschichte: "#3b52ab",
-    interview: "#3b52ab", // Fallback, falls statt "geschichte" ein anderer Tag genutzt wird
+    interview: "#3b52ab",
     kunst: "#5ce676",
     musik: "#b55ce6"
 };
+const RANDOM_COLOR = "#e3be4d"; // Hintergrundfarbe des Zufall-Buttons
 
 let podcastData = [];
+let renderedEpisodes = [];
+let autoplay = false; // Zufallsmodus: nach Ende automatisch naechste Episode
 const audioPlayer = document.getElementById("global-player");
 const episodeSection = document.getElementById("episode-section");
 const episodeList = document.getElementById("episode-list");
 
-// 1. Daten laden beim Start
+// --- Multimodales Feedback: kurzer Ton bei Klick (einmaliger AudioContext) ---
+let audioCtx = null;
+function playFeedbackSound(type = "click") {
+    if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    }
+    if (audioCtx.state === "suspended") {
+        audioCtx.resume();
+    }
+    const t = audioCtx.currentTime;
+    const osc = audioCtx.createOscillator();
+    const gain = audioCtx.createGain();
+    osc.connect(gain);
+    gain.connect(audioCtx.destination);
+    if (type === "stop") {
+        osc.type = "sine";
+        osc.frequency.setValueAtTime(400, t);
+        osc.frequency.linearRampToValueAtTime(200, t + 0.12);
+        gain.gain.setValueAtTime(0.25, t);
+        gain.gain.exponentialRampToValueAtTime(0.01, t + 0.12);
+        osc.start(t); osc.stop(t + 0.12);
+    } else {
+        osc.type = "sine";
+        osc.frequency.setValueAtTime(300, t);
+        osc.frequency.exponentialRampToValueAtTime(520, t + 0.09);
+        gain.gain.setValueAtTime(0.25, t);
+        gain.gain.exponentialRampToValueAtTime(0.01, t + 0.09);
+        osc.start(t); osc.stop(t + 0.09);
+    }
+}
+
 async function fetchPodcasts() {
     try {
         const response = await fetch(API_URL, { cache: "no-store" });
-        if (!response.ok) {
-            throw new Error(`API ${response.status}`);
-        }
+        if (!response.ok) throw new Error(`API ${response.status}`);
         podcastData = await response.json();
         initApp();
     } catch (error) {
@@ -32,20 +63,29 @@ async function fetchPodcasts() {
 function initApp() {
     document.querySelectorAll(".cat-btn").forEach(btn => {
         btn.addEventListener("click", (e) => {
-            const cat = e.target.getAttribute("data-category");
-            showCategory(cat);
+            playFeedbackSound("click");
+            showCategory(e.currentTarget.getAttribute("data-category"));
         });
     });
 
     document.getElementById("btn-random").addEventListener("click", () => {
-        stopGlobalAudio();
-        const categories = Object.keys(colors).filter(c => c !== "interview");
-        const randomCat = categories[Math.floor(Math.random() * categories.length)];
-        showCategory(randomCat);
+        playFeedbackSound("click");
+        showRandom();
+    });
+
+    document.getElementById("btn-back").addEventListener("click", () => {
+        playFeedbackSound("stop");
+        goBack();
+    });
+
+    // Karten zusammenklappen, wenn ausserhalb geklickt wird
+    document.addEventListener("click", (e) => {
+        if (!e.target.closest(".episode-card")) {
+            document.querySelectorAll(".episode-card.expanded").forEach(c => c.classList.remove("expanded"));
+        }
     });
 }
 
-// Tags und Kategorien der API sind Arrays -> normalisiert auf Kleinbuchstaben pruefen
 function matchesCategory(item, category) {
     const needle = category.toLowerCase();
     const tags = Array.isArray(item.tags) ? item.tags : [];
@@ -53,101 +93,125 @@ function matchesCategory(item, category) {
     return [...tags, ...cats].some(t => String(t).toLowerCase() === needle);
 }
 
-// 2. Kategorie anzeigen und rendern
 function showCategory(category) {
     stopGlobalAudio();
-
+    autoplay = false;
     const filtered = podcastData.filter(item => matchesCategory(item, category)).slice(0, 3);
-
     if (filtered.length === 0) {
-        episodeList.innerHTML = `<p style="font-size:2rem; text-align:center;">Keine aktuellen Episoden zu diesem Thema gefunden.</p>`;
+        renderedEpisodes = [];
+        episodeList.innerHTML = `<p class="empty-note">Keine aktuellen Episoden zu diesem Thema gefunden.</p>`;
     } else {
         renderEpisodes(filtered);
     }
-
-    episodeSection.style.backgroundColor = colors[category] || "#7cd1e8";
-    episodeSection.classList.remove("hidden");
-
-    setTimeout(() => {
-        episodeSection.scrollIntoView({ behavior: "smooth" });
-    }, 50);
+    openSection(colors[category] || "#7cd1e8");
 }
 
-// 3. Episoden-Karten generieren
-function renderEpisodes(episodes) {
-    episodeList.innerHTML = "";
+function showRandom() {
+    stopGlobalAudio();
+    autoplay = true;
+    const shuffled = [...podcastData].sort(() => Math.random() - 0.5).slice(0, 5);
+    renderEpisodes(shuffled);
+    openSection(RANDOM_COLOR);
+    if (shuffled.length) {
+        setTimeout(() => playEpisode(0), 100);
+    }
+}
 
+function openSection(bgColor) {
+    episodeSection.style.backgroundColor = bgColor;
+    episodeSection.classList.remove("hidden");
+    setTimeout(() => episodeSection.scrollIntoView({ behavior: "smooth" }), 50);
+}
+
+function goBack() {
+    stopGlobalAudio();
+    autoplay = false;
+    episodeSection.classList.add("hidden");
+    window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function renderEpisodes(episodes) {
+    renderedEpisodes = episodes;
+    episodeList.innerHTML = "";
     episodes.forEach((ep, index) => {
+        const title = ep.title || "Hörbeitrag ohne Titel";
+        const host = ep.sourceTitle || ep.source || "Unbekannter Sender";
+        const summary = ep.summary || "Keine Beschreibung verfügbar.";
+        const image = ep.image || "";
+        const link = ep.url || "";
+
         const card = document.createElement("div");
         card.className = "episode-card";
         card.id = `ep-card-${index}`;
-
-        const title = ep.title || "Hörbeitrag ohne Titel";
-        const host = ep.sourceTitle || ep.source || "Unbekannter Sender";
-        const audioUrl = ep.audio || ep.url;
-        const link = ep.url;
-
         card.innerHTML = `
-            <div class="episode-info">
-                <h3 class="episode-title">${title}</h3>
-                <p class="episode-meta">${host}</p>
+            <div class="card-main">
+                <div class="episode-info">
+                    <h3 class="episode-title">${title}</h3>
+                    <p class="episode-meta">${host}</p>
+                </div>
+                <button class="circle-btn play-stop-btn" data-index="${index}" aria-label="Abspielen: ${title}">HÖREN</button>
             </div>
-            <div class="controls">
-                <button class="play-stop-btn" data-url="${audioUrl}" data-index="${index}">HÖREN</button>
+            <div class="episode-detail">
+                ${image ? `<img class="episode-image" src="${image}" alt="">` : ""}
+                <p class="episode-summary">${summary}</p>
                 ${link ? `<a href="${link}" target="_blank" rel="noopener" class="source-link">Zur Originalseite</a>` : ""}
             </div>
         `;
-
+        card.addEventListener("click", (e) => {
+            if (e.target.closest(".play-stop-btn") || e.target.closest(".source-link")) return;
+            const open = card.classList.contains("expanded");
+            document.querySelectorAll(".episode-card.expanded").forEach(c => c.classList.remove("expanded"));
+            if (!open) card.classList.add("expanded");
+        });
         episodeList.appendChild(card);
     });
-
     episodeList.querySelectorAll(".play-stop-btn").forEach(btn => {
-        btn.addEventListener("click", handlePlayClick);
+        btn.addEventListener("click", (e) => {
+            const index = Number(e.currentTarget.getAttribute("data-index"));
+            if (e.currentTarget.classList.contains("playing")) {
+                playFeedbackSound("stop");
+                stopGlobalAudio();
+            } else {
+                playFeedbackSound("click");
+                playEpisode(index);
+            }
+        });
     });
 }
 
-// 4. Player-Steuerung (Exklusiver Fokus)
-function handlePlayClick(e) {
-    const btn = e.target;
-    const url = btn.getAttribute("data-url");
-    const currentIndex = btn.getAttribute("data-index");
+function playEpisode(index) {
+    const ep = renderedEpisodes[index];
+    if (!ep) return;
+    const url = ep.audio || ep.url;
     const cards = document.querySelectorAll(".episode-card");
-
-    if (btn.classList.contains("playing")) {
-        stopGlobalAudio();
-        return;
-    }
-
-    cards.forEach(card => {
-        if (card.id !== `ep-card-${currentIndex}`) {
-            card.classList.add("disabled");
-        }
-    });
-
+    cards.forEach((c, i) => c.classList.toggle("disabled", i !== index));
+    resetButtons();
+    const btn = episodeList.querySelector(`.play-stop-btn[data-index="${index}"]`);
+    if (btn) { btn.textContent = "STOPP"; btn.classList.add("playing"); }
     audioPlayer.src = url;
     audioPlayer.play();
-
-    btn.textContent = "STOPP";
-    btn.classList.add("playing");
-
     audioPlayer.onended = () => {
-        stopGlobalAudio();
+        if (autoplay && index + 1 < renderedEpisodes.length) {
+            playEpisode(index + 1);
+        } else {
+            stopGlobalAudio();
+        }
     };
+}
+
+function resetButtons() {
+    document.querySelectorAll(".play-stop-btn").forEach(btn => {
+        btn.textContent = "HÖREN";
+        btn.classList.remove("playing");
+    });
 }
 
 function stopGlobalAudio() {
     audioPlayer.pause();
     audioPlayer.src = "";
-
-    document.querySelectorAll(".play-stop-btn").forEach(btn => {
-        btn.textContent = "HÖREN";
-        btn.classList.remove("playing");
-    });
-
-    document.querySelectorAll(".episode-card").forEach(card => {
-        card.classList.remove("disabled");
-    });
+    audioPlayer.onended = null;
+    resetButtons();
+    document.querySelectorAll(".episode-card").forEach(card => card.classList.remove("disabled"));
 }
 
-// Starten
 window.addEventListener("DOMContentLoaded", fetchPodcasts);
