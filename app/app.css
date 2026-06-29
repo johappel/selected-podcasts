@@ -243,3 +243,169 @@ h1 {
     outline: 5px solid #ffe600;
     outline-offset: 4px;
 }
+/* --- Deutlicheres visuelles Feedback (Hover/Active/Focus) --- */
+.circle-btn {
+    transition: transform 0.16s ease, box-shadow 0.16s ease, filter 0.16s ease;
+}
+
+/* Basis-Schatten für alle runden Buttons (inkl. Zufall) */
+.cat-btn,
+.random-btn,
+.back-btn,
+.play-stop-btn {
+    box-shadow: 0 10px 22px rgba(0, 0, 0, 0.24);
+}
+
+/* Hover nur auf Geraeten mit echter Hover-Unterstuetzung */
+@media (hover: hover) {
+    .circle-btn:hover {
+        transform: translateY(-3px) scale(1.03);
+        box-shadow: 0 16px 30px rgba(0, 0, 0, 0.42);
+        filter: saturate(1.06);
+    }
+
+    .episode-card:hover {
+        border-color: rgba(255, 255, 255, 0.62);
+        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.34);
+    }
+}
+
+/* Klick deutlich sichtbar (wichtig bei motorischer Unsicherheit) */
+.circle-btn:active {
+    transform: scale(0.92);
+    box-shadow: inset 0 4px 10px rgba(0, 0, 0, 0.35), 0 4px 12px rgba(0, 0, 0, 0.28);
+}
+
+.play-stop-btn.playing {
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25), 0 0 0 4px rgba(255, 255, 255, 0.22);
+}
+
+.source-link:hover,
+.source-link:focus-visible {
+    text-decoration-thickness: 3px;
+}
+
+/* --- Responsive Kategorie-Anordnung: 2x2 statt abgeschnitten --- */
+@media (max-width: 1200px) {
+    .category-selection {
+        height: auto;
+        min-height: 70vh;
+        padding: 20px 0 40px;
+    }
+
+    .category-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(220px, 1fr));
+        gap: 34px 22px;
+        width: min(92vw, 760px);
+        padding: 0;
+        justify-items: center;
+        align-items: start;
+    }
+
+    .category-item {
+        width: 100%;
+    }
+
+    .category-label {
+        font-size: clamp(2rem, 4.6vw, 2.8rem);
+        min-height: 44px;
+        text-align: center;
+    }
+
+    .cat-btn {
+        width: clamp(160px, 29vw, 220px);
+        height: clamp(160px, 29vw, 220px);
+    }
+}
+
+@media (max-width: 760px) {
+    .main-header {
+        padding: 22px 18px;
+        gap: 12px;
+        height: auto;
+    }
+
+    h1 {
+        font-size: clamp(2rem, 7.2vw, 3rem);
+    }
+
+    .logo-placeholder,
+    .random-btn {
+        width: 92px;
+        height: 92px;
+        font-size: 1.15rem;
+    }
+
+    .category-grid {
+        grid-template-columns: repeat(2, minmax(130px, 1fr));
+        gap: 26px 12px;
+        width: min(96vw, 520px);
+    }
+
+    .cat-btn {
+        width: clamp(126px, 36vw, 180px);
+        height: clamp(126px, 36vw, 180px);
+    }
+}
+
+/* --- Mobile Fix fuer Detailbereich: kein abgeschnittener STOPP-Button --- */
+.episode-title {
+    overflow-wrap: anywhere;
+    hyphens: auto;
+}
+
+@media (max-width: 900px) {
+    .episode-section {
+        padding: 28px 12px 36px;
+    }
+
+    .section-content {
+        max-width: 100%;
+    }
+
+    .episode-list {
+        gap: 24px;
+    }
+
+    .episode-card {
+        padding: 20px 14px;
+        overflow: hidden;
+    }
+
+    .card-main {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 16px;
+    }
+
+    .episode-title {
+        font-size: clamp(2rem, 7.4vw, 2.8rem);
+        line-height: 1.15;
+    }
+
+    .episode-meta {
+        font-size: clamp(1.3rem, 4.7vw, 1.7rem);
+    }
+
+    .play-stop-btn {
+        align-self: center;
+        width: 132px;
+        height: 132px;
+        min-width: 132px;
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 520px) {
+    .back-btn {
+        width: 96px;
+        height: 96px;
+        font-size: 1.2rem;
+        margin-bottom: 24px;
+    }
+
+    .episode-summary {
+        font-size: 1.25rem;
+    }
+}
