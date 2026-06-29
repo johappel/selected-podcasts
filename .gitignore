@@ -7,7 +7,7 @@ pnpm-debug.log*
 Thumbs.db
 .cache/
 coverage/
-sources/
+
 
 # Generierte API-Dateien (bei jedem npm run update neu erzeugt)
 api/sources/
