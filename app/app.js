@@ -136,6 +136,8 @@ function renderTopics() {
 }
 
 function initApp() {
+    setupProgressBar();
+    setupProgressBarClick();
     renderTopics();
     document.getElementById("btn-random").addEventListener("click", () => { playFeedbackSound("click"); showRandom(); });
     document.getElementById("btn-back").addEventListener("click", () => { playFeedbackSound("stop"); goBack(); });
@@ -240,11 +242,14 @@ function renderEpisodes(episodes) {
 function playEpisode(index) {
     const ep = renderedEpisodes[index];
     if (!ep) return;
-    markHeard(ep.id); // gemerkt: wird Karenzzeit lang seltener gezeigt
+    markHeard(ep.id);
     const url = ep.audio || ep.url;
     const cards = document.querySelectorAll(".episode-card");
     cards.forEach((c, i) => c.classList.toggle("disabled", i !== index));
     resetButtons();
+    hideProgressBars();
+    const playingCard = episodeList.querySelector(`.episode-card:nth-child(${index + 1})`);
+    showProgressBar(playingCard);
     const btn = episodeList.querySelector(`.play-stop-btn[data-index="${index}"]`);
     if (btn) { btn.textContent = "STOPP"; btn.classList.add("playing"); }
     audioPlayer.src = url;
@@ -255,16 +260,78 @@ function playEpisode(index) {
     };
 }
 
+
 function resetButtons() {
     document.querySelectorAll(".play-stop-btn").forEach(btn => { btn.textContent = "HÖREN"; btn.classList.remove("playing"); });
 }
 
 function stopGlobalAudio() {
+    hideProgressBars();
     audioPlayer.pause();
     audioPlayer.src = "";
     audioPlayer.onended = null;
     resetButtons();
     document.querySelectorAll(".episode-card").forEach(card => card.classList.remove("disabled"));
+}
+
+
+
+// --- Progress Bar Helpers ---
+function formatTime(seconds) {
+    if (isNaN(seconds)) return '0:00';
+    const mins = Math.floor(seconds / 60);
+    const secs = Math.floor(seconds % 60);
+    return mins + ':' + (secs < 10 ? '0' : '') + secs;
+}
+
+function setupProgressBar() {
+    audioPlayer.addEventListener('timeupdate', () => {
+        const container = document.querySelector('.progress-container:not(.hidden)');
+        if (!container) return;
+        const playingCard = container.closest('.episode-card');
+        if (!playingCard) return;
+        const fillEl = playingCard.querySelector('.progress-fill');
+        const currEl = playingCard.querySelector('.current-time');
+        const totalEl = playingCard.querySelector('.total-time');
+        
+        if (audioPlayer.duration && fillEl) {
+            const percent = (audioPlayer.currentTime / audioPlayer.duration) * 100;
+            fillEl.style.width = percent + '%';
+            currEl.textContent = formatTime(audioPlayer.currentTime);
+            totalEl.textContent = formatTime(audioPlayer.duration);
+        }
+    });
+
+    audioPlayer.addEventListener('loadedmetadata', () => {
+        const container = document.querySelector('.progress-container:not(.hidden)');
+        if (!container) return;
+        const playingCard = container.closest('.episode-card');
+        if (!playingCard) return;
+        const totalEl = playingCard.querySelector('.total-time');
+        totalEl.textContent = formatTime(audioPlayer.duration);
+    });
+}
+
+function showProgressBar(card) {
+    if (!card) return;
+    card.querySelectorAll('.progress-container').forEach(c => c.classList.remove('hidden'));
+}
+
+function hideProgressBars() {
+    document.querySelectorAll('.progress-container').forEach(c => c.classList.add('hidden'));
+}
+
+
+// Progress Bar Click Handler (Spulen)
+function setupProgressBarClick() {
+    document.addEventListener('click', (e) => {
+        if (!e.target.closest('.progress-bar') || e.target.closest('.progress-fill')) return;
+        const bar = e.target.closest('.progress-bar');
+        if (!bar || !audioPlayer.duration) return;
+        const rect = bar.getBoundingClientRect();
+        const percent = (e.clientX - rect.left) / rect.width;
+        audioPlayer.currentTime = Math.max(0, Math.min(percent * audioPlayer.duration, audioPlayer.duration));
+    });
 }
 
 window.addEventListener("DOMContentLoaded", fetchPodcasts);
