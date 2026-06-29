@@ -8,14 +8,3 @@ Thumbs.db
 .cache/
 coverage/
 sources/
-
-# Generierte API-Dateien (bei jedem npm run update neu erzeugt)
-api/sources/
-api/tags/
-api/latest.json
-api/latest-5.json
-api/latest-10.json
-api/latest-20.json
-api/podcasts.json
-api/search-index.json
-api/feeds.json

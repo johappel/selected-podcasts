@@ -47,7 +47,7 @@ jobs:
       - name: Commit generated API
         shell: bash
         run: |
-          git add --force api
+          git add api
           if git diff --cached --quiet -- api; then
             echo "No API changes detected."
             exit 0
