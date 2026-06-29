@@ -15,24 +15,8 @@
     </header>
 
     <main class="category-selection">
-        <div class="category-grid">
-            <div class="category-item">
-                <span class="category-label">politik</span>
-                <button class="circle-btn cat-btn" data-category="politik" style="background-color: #a84343;" aria-label="Politik"></button>
-            </div>
-            <div class="category-item">
-                <span class="category-label" id="label-history">geschichte</span>
-                <button class="circle-btn cat-btn" data-category="geschichte" style="background-color: #3b52ab;" aria-label="Geschichte"></button>
-            </div>
-            <div class="category-item">
-                <span class="category-label">kunst</span>
-                <button class="circle-btn cat-btn" data-category="kunst" style="background-color: #5ce676;" aria-label="Kunst"></button>
-            </div>
-            <div class="category-item">
-                <span class="category-label">musik</span>
-                <button class="circle-btn cat-btn" data-category="musik" style="background-color: #b55ce6;" aria-label="Musik"></button>
-            </div>
-        </div>
+        <!-- Themen-Buttons werden aus config/topics.json + API erzeugt -->
+        <div id="category-grid" class="category-grid"></div>
     </main>
 
     <section id="episode-section" class="episode-section hidden" aria-label="Episoden">
@@ -63,6 +47,14 @@
                 <a class="source-link" data-field="link" target="_blank" rel="noopener">Zur Originalseite</a>
             </div>
         </article>
+    </template>
+
+    <!-- Themen-Button-Template (Reihenfolge/Markup frei anpassbar) -->
+    <template id="category-item-template">
+        <div class="category-item">
+            <span class="category-label" data-field="label"></span>
+            <button class="circle-btn cat-btn" type="button"></button>
+        </div>
     </template>
 
     <audio id="global-player" preload="none"></audio>

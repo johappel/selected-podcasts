@@ -38,3 +38,4 @@ Einige YAML-Parser und KI-Editoren interpretieren `on` nach YAML 1.1 als Boolean
 - Responsiv: Themen 2x2 unter 1200/760px; Detailbereich bricht Play/Stop unter den Titel (<900px).
 - Zielgruppe: ältere Nutzer mit Zittern + Information-Overload; große runde Ziele, ein Player, wenig Klicks, Zufall spielt sofort.
 - Dokumentation liegt in `docs/README.md` (kein Deploy-Ordner mehr, nur Projektdoku).
+- Themen kommen aus `config/topics.json` (4–8 Wunsch-Topics mit label/color/tags); App lädt `api/podcasts.json` (voller Satz), zeigt 4 Topics mit Inhalt, überspringt leere und füllt sonst mit zufälligen vorhandenen Feed-Tags auf.

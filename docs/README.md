@@ -81,3 +81,17 @@ npm install
 npm run update
 npm run dev
 ```
+
+## 6. Themen steuern (config/topics.json)
+
+`api/latest-20.json` enthielt nur die 20 neuesten Episoden über alle Feeds –
+fehlende Themen blieben leer. Stattdessen lädt die App jetzt `api/podcasts.json`
+(voller Datensatz) und 4–8 Wunsch-Topics aus `config/topics.json`:
+
+```json
+{ "id": "geschichte", "label": "geschichte", "color": "#3b52ab", "tags": ["geschichte", "zeitgeschichte"] }
+```
+
+Es werden immer 4 Buttons gezeigt: bevorzugt Topics mit Episoden; fehlt Inhalt,
+rückt das nächste gefüllte Topic nach; reichen die Wunsch-Topics nicht, ergänzt
+die App zufällige vorhandene Feed-Tags. So gibt es unter jedem Button Inhalte.
