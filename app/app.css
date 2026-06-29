@@ -432,6 +432,7 @@ h1 {
 
     .logo-placeholder {
         order: 1;  /* Logo oben */
+        display: none; /*ausblenden, da es sonst zu viel Platz wegnimmt und die Buttons zu klein werden */
     }
 
     .random-btn {
