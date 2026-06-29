@@ -408,8 +408,36 @@ h1 {
     .episode-summary {
         font-size: 1.25rem;
     }
-}
 
+    /* Bei sehr kleinen Screens: Header als Spalte mit zentrierten Buttons */
+
+    .main-header {
+        flex-direction: column;
+        gap: 24px;
+        padding: 20px;
+        justify-content: center;
+    }
+
+    h1 {
+        order: 2;  /* h1 in die Mitte */
+        font-size: clamp(2rem, 7vw, 2.8rem);
+    }
+
+    .logo-placeholder,
+    .random-btn {
+        width: 80px;
+        height: 80px;
+        font-size: 0.95rem;
+    }
+
+    .logo-placeholder {
+        order: 1;  /* Logo oben */
+    }
+
+    .random-btn {
+        order: 3;  /* Zufall unten */
+    }
+}
 .episode-duration { font-size: 1.2rem; color: #fff; opacity: 0.85; margin-top: 6px; }
 
 /* --- Struktur im Summary-Text --- */
