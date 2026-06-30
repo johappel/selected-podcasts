@@ -1,5 +1,28 @@
 [
   {
+    "id": "zeitzeichen:fd995e29dfdcaa6e856f71b644343579",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Jan Ullrich: Vom Tour‑Triumph zum Absturz eines deutschen Idols",
+    "summary": "<p>Am 30. Juni 2006 wird Jan Ullrich wegen Dopings von der Tour ausgeschlossen. Vom Tourhelden zur tragischen Figur - und eine Gesellschaft, die lange nicht hinsehen wollte.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Stephan Beuting:</strong><br><ul><li>wie Jan Ullrich 1997 als erster Deutscher die Tour de France gewinnt und zum Nationalhelden wird, </li><li>warum sein kometenhafter Aufstieg eng mit dem DDR-Sportsystem und den Erwartungen der Wiedervereinigungszeit verbunden ist, </li><li>weshalb Doping, Medienhype und öffentlicher Druck schließlich zu seinem tiefen Fall beitragen.</li></ul><br>Am 15. Juli 1997 attackiert Jan Ullrich auf der Bergetappe nach Arcalis in Andorra. Eigentlich ist der 23-Jährige als Helfer seines Teamkapitäns vorgesehen. Doch an diesem Tag fährt er der Konkurrenz davon, übernimmt das Gelbe Trikot und gewinnt wenige Tage später die Führung der gesamten Tour de France. Deutschland erlebt einen sportlichen Ausnahmezustand: Ullrich wird gefeiert wie ein Volksheld. Der junge Radprofi aus Rostock scheint alles zu haben - außergewöhnliches Talent, die Ausbildung des DDR-Leistungssports und eine Zukunft, die ihm offensteht. <br><br>Doch mit dem Erfolg wachsen auch die Erwartungen. Während Doping im Radsport zunehmend sichtbar wird, wollen viele Beteiligte die Euphorie nicht hinterfragen. Als Ullrich Jahre später selbst in einen Dopingskandal gerät, zerbricht sein öffentliches Bild. Es folgen Rückzug, Depressionen und persönliche Krisen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Sebastian Moll, Autor</li><li>Sebastian Moll: Ulle. Jan Ullrich. Geschichte eines tragischen Helden, Bielefeld 2022</li><li>Hans Leyendecker: Jan Ullrich und die Medien. Das goldene Lenkrad, Süddeutsche Zeitung, 17.05.2010</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:e6dcd1a8e57046ce/\" rel=\"noopener\" target=\"_blank\">Vom belächelten Spinner zum Radheld - Nils Gustaf Håkansson</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:9df1373ea3067667/\" rel=\"noopener\" target=\"_blank\">Der beste Radrennfahrer seiner Zeit - Eddy Merckx</a></li><li>Zeitzeichen: <a href=\"https://www.ardsounds.de/episode/urn:ard:episode:6843d77406f0fc69/\" rel=\"noopener\" target=\"_blank\">Mit Rad und Revolver - Heinrich Horstmann umrundet die Welt</a></li></ul><br><strong>Hörtipp: </strong>Wie wurde aus großer Liebe große Abneigung? Der NDR-Podcast Jan Ulrich: Held auf Zeit<br><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Stephan Beuting<br>Redaktion: Matti Hesse",
+    "date": "2026-06-30T04:00:11.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-jan-ullrich-vom-tourtriumph-zum-absturz-eines-deutschen-idols-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-jan-ullrich-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/22/e7300449-a285-43d2-a782-e10b37b3b595/e7300449-a285-43d2-a782-e10b37b3b595_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:e8a3cfecfdccfd0ba894bb3b6012349a",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -195,29 +218,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-republik-christiania-kopenhagen-102~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/11/c28ec6db-e364-4646-a216-413394ceffaf/c28ec6db-e364-4646-a216-413394ceffaf_MP3-128.mp3",
     "duration": "14 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:c4710dbde727a44a2619767a91ecda3e",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Der Priester, der den Urknall entdeckte: George Lemaître",
-    "summary": "<p>Als Lemaître (gest. am 20.6.1966) sein Modell des Urknalls vorstellt, sieht der Papst darin einen Gottesbeweis. In der Wissenschaft wird er erst verspottet - und dann gefeiert.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Ralph Erdenberger:</strong><br><ul><li>wie ein katholischer Priester die Urknall-Theorie entwickelt und damit die Kosmologie revolutioniert, </li><li>warum Lemaître Wissenschaft und Religion strikt trennt - trotz seiner doppelten Berufung,</li><li> weshalb seine Idee zunächst übersehen wird, während andere Forscher berühmt werden, </li><li>wie die Entdeckung der kosmischen Hintergrundstrahlung ihm posthum recht gibt, </li><li>warum der \"Anfang von allem\" bis heute ein ungelöstes Rätsel bleibt.</li></ul><br>Ein Universum, das sich ausdehnt, Galaxien, die auseinanderdriften, und ein Anfangspunkt, in dem alles enthalten ist: Georges Lemaître denkt das Weltall radikal neu. Als Priester und Physiker verfolgt er zwei Wege zur Wahrheit, ohne sie zu vermischen. Seine Theorie vom \"Uratom\" legt den Grundstein für das, was später Urknall genannt wird.<br><br>Doch die Anerkennung kommt spät. Während andere Forscher Ruhm ernten, bleibt Lemaître lange im Schatten. Selbst als die Kirche seine Ideen als Beweis für Gott deuten will, widerspricht er entschieden. Für ihn bleibt der Glaube unabhängig von der Wissenschaft. Am Ende bestätigt ein kosmisches Echo seine Theorie. Doch die größte Frage bleibt offen: Was geschah vor dem Anfang?<br><br><strong>Das ist unsere wichtigste Interviewpartnerin:</strong><br><ul><li> Dr . Susanne Hüttemeister (Astrophysikerin und Leiterin Planetarium Bochum)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 17.07.1894: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/lemaitre-114.html\" rel=\"noopener\" target=\"_blank\">Geburtstag von Georges Lemaître </a></li><li>Zeitzeichen 23.11.1951: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/papst-pius-urknall-100.html\" rel=\"noopener\" target=\"_blank\">Papst Pius XII .: Urknall ist Schöpfung</a></li></ul><br><strong>Unser Hörtipp: </strong><a href=\"https://1.ard.de/alles-in-butter\" rel=\"noopener\" target=\"_blank\"><strong>WDR 5 Alles in Butter, der Genuss-Podcast</strong></a><strong><br><br>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Ralph Erdenberger<br>Redaktion: Carolin Rückl und Sefa Inci Suvak",
-    "date": "2026-06-20T04:00:00.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-priester-der-den-urknall-entdeckte-george-lemaitre-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-george-lemaitre-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/10/6cb06d58-b5ed-43ac-a4c4-6b0a2015129d/6cb06d58-b5ed-43ac-a4c4-6b0a2015129d_MP3-128.mp3",
-    "duration": "16 Min",
     "tags": [
       "geschichte",
       "bildung",
