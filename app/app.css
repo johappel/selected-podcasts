@@ -42,8 +42,10 @@ body {
 }
 
 h1 {
-    font-size: 3.5rem;
-    font-weight: normal;
+  font-size: 5rem;
+  font-weight: normal;
+  line-height: 1;
+
 }
 
 /* Große Buttons */
@@ -59,12 +61,76 @@ h1 {
 }
 
 .random-btn {
+    position: relative;
+    overflow: hidden;
+    isolation: isolate;
     width: 120px;
     height: 120px;
-    background-color: #e3be4d;
-    color: #222; /* Dunkler Text für besseren Kontrast */
+    background: transparent;
+    color: #ffffff;
     font-size: 1.5rem;
     font-weight: bold;
+}
+
+.random-btn::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    background: conic-gradient(
+        from -90deg,
+        var(--wheel-gradient, #ff8702 0 16.66%, #ad4b62 16.66% 33.33%, #315dd5 33.33% 50%, #11147a 50% 66.66%, #22a470 66.66% 83.33%, #ffc412 83.33% 100%)
+    );
+    box-shadow: inset 0 0 0 4px rgba(255, 255, 255, 0.35), inset 0 0 28px rgba(0, 0, 0, 0.18);
+    z-index: 0;
+}
+
+.random-btn::after {
+    content: "";
+    position: absolute;
+    inset: 22%;
+    border-radius: 50%;
+    background: rgba(53, 28, 37, 0.92);
+    border: 3px solid rgba(255, 255, 255, 0.65);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.28);
+    z-index: 1;
+}
+
+.random-btn-label {
+    position: relative;
+    z-index: 2;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    padding: 0.6em;
+    text-align: center;
+    line-height: 1;
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.38);
+}
+
+.random-btn.is-spinning::before,
+.random-btn.spin-burst::before {
+    will-change: transform;
+}
+
+.random-btn.is-spinning::before {
+    animation: random-wheel-spin 2.8s linear infinite;
+}
+
+.random-btn.spin-burst::before {
+    animation: random-wheel-burst 900ms cubic-bezier(0.2, 0.9, 0.25, 1);
+}
+
+@keyframes random-wheel-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+@keyframes random-wheel-burst {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(540deg); }
 }
 
 /* Kategorien Grid */
@@ -328,6 +394,11 @@ h1 {
     .episode-card:hover {
         border-color: rgba(255, 255, 255, 0.62);
         box-shadow: 0 12px 28px rgba(0, 0, 0, 0.34);
+    }
+
+    .random-btn:hover::before,
+    .random-btn:focus-visible::before {
+        animation: random-wheel-spin 2.8s linear infinite;
     }
 }
 

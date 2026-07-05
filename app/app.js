@@ -17,6 +17,7 @@ const audioPlayer = document.getElementById("global-player");
 const episodeSection = document.getElementById("episode-section");
 const episodeList = document.getElementById("episode-list");
 const categoryGrid = document.getElementById("category-grid");
+const randomButton = document.getElementById("btn-random");
 
 // --- gehoerte Episoden merken (Karenzzeit) ---
 function loadHeard() {
@@ -133,18 +134,56 @@ function renderTopics() {
         btn.addEventListener("click", () => { playFeedbackSound("click"); showTopic(topic); });
         categoryGrid.appendChild(item);
     });
+    updateRandomWheel();
 }
 
 function initApp() {
     setupProgressBar();
     setupProgressBarClick();
     renderTopics();
-    document.getElementById("btn-random").addEventListener("click", () => { playFeedbackSound("click"); showRandom(); });
+    setupRandomButton();
+    randomButton.addEventListener("click", () => { playFeedbackSound("click"); showRandom(); });
     document.getElementById("btn-back").addEventListener("click", () => { playFeedbackSound("stop"); goBack(); });
     document.addEventListener("click", (e) => {
         if (!e.target.closest(".episode-card")) {
             document.querySelectorAll(".episode-card.expanded").forEach(c => c.classList.remove("expanded"));
         }
+    });
+}
+
+function updateRandomWheel() {
+    const wheelTopics = activeTopics.length ? activeTopics : topics.slice(0, VISIBLE_TOPICS);
+    const colors = wheelTopics.map(topic => topic.color).filter(Boolean);
+    if (colors.length === 0) return;
+    const step = 100 / colors.length;
+    const gradientStops = colors.map((color, index) => {
+        const start = (index * step).toFixed(2);
+        const end = ((index + 1) * step).toFixed(2);
+        return `${color} ${start}% ${end}%`;
+    }).join(", ");
+    randomButton.style.setProperty("--wheel-gradient", gradientStops);
+}
+
+function setupRandomButton() {
+    let spinResetTimer = 0;
+
+    const triggerSpinBurst = () => {
+        randomButton.classList.remove("spin-burst");
+        void randomButton.offsetWidth;
+        randomButton.classList.add("spin-burst");
+        window.clearTimeout(spinResetTimer);
+        spinResetTimer = window.setTimeout(() => {
+            randomButton.classList.remove("spin-burst");
+        }, 900);
+    };
+
+    randomButton.addEventListener("pointerenter", () => randomButton.classList.add("is-spinning"));
+    randomButton.addEventListener("pointerleave", () => randomButton.classList.remove("is-spinning"));
+    randomButton.addEventListener("focus", () => randomButton.classList.add("is-spinning"));
+    randomButton.addEventListener("blur", () => randomButton.classList.remove("is-spinning"));
+    randomButton.addEventListener("pointerdown", triggerSpinBurst);
+    randomButton.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") triggerSpinBurst();
     });
 }
 
