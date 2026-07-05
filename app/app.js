@@ -251,7 +251,13 @@ function playEpisode(index) {
     const playingCard = episodeList.querySelector(`.episode-card:nth-child(${index + 1})`);
     showProgressBar(playingCard);
     const btn = episodeList.querySelector(`.play-stop-btn[data-index="${index}"]`);
-    if (btn) { btn.textContent = "STOPP"; btn.classList.add("playing"); }
+    if (btn) {
+        const playIcon = btn.querySelector(".play-icon");
+        const stopIcon = btn.querySelector(".stop-icon");
+        if (playIcon) playIcon.classList.add("hidden");
+        if (stopIcon) stopIcon.classList.remove("hidden");
+        btn.classList.add("playing");
+    }
     audioPlayer.src = url;
     audioPlayer.play();
     audioPlayer.onended = () => {
@@ -262,7 +268,13 @@ function playEpisode(index) {
 
 
 function resetButtons() {
-    document.querySelectorAll(".play-stop-btn").forEach(btn => { btn.textContent = "HÖREN"; btn.classList.remove("playing"); });
+    document.querySelectorAll(".play-stop-btn").forEach(btn => {
+        const playIcon = btn.querySelector(".play-icon");
+        const stopIcon = btn.querySelector(".stop-icon");
+        if (playIcon) playIcon.classList.remove("hidden");
+        if (stopIcon) stopIcon.classList.add("hidden");
+        btn.classList.remove("playing");
+    });
 }
 
 function stopGlobalAudio() {
