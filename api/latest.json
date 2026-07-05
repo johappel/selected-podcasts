@@ -23,6 +23,185 @@
     "language": "de"
   },
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-kulturmeldungen-04072026-dlf-20260704-1755-38fc7da2-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 04.07.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-04T15:55:20.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-04-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/kulturmeldungen_04072026_dlf_20260704_1755_38fc7da2.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-israels-kino-unter-druck-das-jerusalem-film-festival-beginnt-dlf-20260704-1750-6afa0316-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Israels Kino unter Druck: Das Jerusalem Film Festival beginnt",
+    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-04T15:50:07.000Z",
+    "url": "https://www.deutschlandfunk.de/israels-kino-unter-druck-das-jerusalem-film-festival-beginnt-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/israels_kino_unter_druck_das_jerusalem_film_festival_beginnt_dlf_20260704_1750_6afa0316.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-der-besuch-der-alten-dame-nikolaus-habjan-inszeniert-am-dlf-20260704-1745-eff77fa3-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Besuch der alten Dame - Nikolaus Habjan inszeniert am Gärtnerplatztheater",
+    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-04T15:45:07.000Z",
+    "url": "https://www.deutschlandfunk.de/der-besuch-der-alten-dame-nikolaus-habjan-inszeniert-am-gaertnerplatztheater-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/der_besuch_der_alten_dame_nikolaus_habjan_inszeniert_am_dlf_20260704_1745_eff77fa3.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-circus-oresteia-thomas-koecks-neues-stueck-nach-aischylos-am-dlf-20260704-1739-78f50c57-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Circus Oresteia\" - Thomas Köcks neues Stück nach Aischylos am Theater a.d. Ruhr",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-04T15:39:57.000Z",
+    "url": "https://www.deutschlandfunk.de/circus-oresteia-thomas-koecks-neues-stueck-nach-aischylos-am-theater-a-d-ruhr-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/circus_oresteia_thomas_koecks_neues_stueck_nach_aischylos_am_dlf_20260704_1739_78f50c57.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-04-geistersuche-im-internet-andreas-spechtls-neues-bandprojekt-dlf-20260704-1530-727b23eb-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geistersuche im Internet - Andreas Spechtls neues Bandprojekt Weird Eerie",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-07-04T13:30:19.000Z",
+    "url": "https://www.deutschlandfunk.de/geistersuche-im-internet-andreas-spechtls-neues-bandprojekt-weird-eerie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/geistersuche_im_internet_andreas_spechtls_neues_bandprojekt_dlf_20260704_1530_727b23eb.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-04-rapper-fatoni-und-die-kunst-des-durchhaltens-dlf-20260704-1515-f97953a7-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Rapper Fatoni und die Kunst des Durchhaltens",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-07-04T13:15:03.000Z",
+    "url": "https://www.deutschlandfunk.de/rapper-fatoni-und-die-kunst-des-durchhaltens-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/rapper_fatoni_und_die_kunst_des_durchhaltens_dlf_20260704_1515_f97953a7.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-04-confessions-ii-von-madonna-neue-beichten-von-der-pop-ikone-dlf-20260704-1506-9d7bf99f-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Confessions II\" von Madonna: Neue Beichten von der Pop-Ikone",
+    "summary": "Müller, Tobi www.deutschlandfunk.de, Corso",
+    "date": "2026-07-04T13:06:16.000Z",
+    "url": "https://www.deutschlandfunk.de/confessions-ii-von-madonna-neue-beichten-von-der-pop-ikone-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/confessions_ii_von_madonna_neue_beichten_von_der_pop_ikone_dlf_20260704_1506_9d7bf99f.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:1fb3f2162ae1d4f1ce3077f1e41933d3",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -46,193 +225,28 @@
     "language": "de"
   },
   {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3987111",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-kulturmeldungen-03072026-dlf-20260703-1756-e9cd74d1-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "High ohne Drogen: Kann man das Bewusstsein verändern?",
-    "summary": "<p>Der Mensch versucht schon immer, sein Bewusstsein gezielt zu verändern. Bereits seit Jahrtausenden sind Atemtechniken, Hypnose, Meditation oder bestimmte Rituale gebräuchlich, um veränderte Bewusstseinszustände zu erleben — ganz ohne psychoaktive Substanzen.</p>\n<p>Solche Praktiken existieren in vielen Kulturen, etwa in schamanischen Ritualen, hinduistischen Gesängen oder Trancetänzen. Heute erleben Methoden wie Breathwork, Yoga und Hypnose einen Boom.</p>\n<p>Breathwork, das ist eine bewusste Atemarbeit, häufig verbunden mit intensiver Hyperventilation. Durch schnelles, tiefes Atmen sinkt der Kohlendioxidgehalt im Blut. Dadurch verändern sich Blutfluss und Sauerstoffversorgung im Gehirn.</p>\nBewusstsein ohne Drogen verändern\n<p>Solche Techniken können teils psychedelisch wirkende Erfahrungen auslösen. Teilnehmende berichten von einem veränderten Bewusstsein, von Ego-Auflösung, intensiven Emotionen oder einem Gefühl tiefer Verbundenheit. Hirnscans zeigen Parallelen zu psychedelischen Zuständen: Bestimmte Hirnregionen, die mit Körperwahrnehmung, Emotionen und Gedächtnis zusammenhängen, verändern ihre Aktivität.</p>\n<p>Ähnliche Erfahrungen gibt es im Bereich Hypnose. Als Zustand intensiver Konzentration und veränderter Wahrnehmung zeigt sich in Studien, dass Hypnose tatsächlich Wahrnehmung und Verhalten beeinflussen kann. Hirnforschende vermuten, dass dabei mehrere Netzwerke im Gehirn zusammenspielen, die Aufmerksamkeit, Selbstwahrnehmung und Reizverarbeitung steuern.</p>\n<p>Doch hier bleiben noch viele Fragen offen. Insgesamt steht die Forschung in diesem Bereich noch am Anfang. Viele Studien haben kleine Stichproben und liefern uneinheitliche Ergebnisse. Dabei wären gesicherte Erkenntnisse hochinteressant: Neurowissenschaft und Psychologie versuchen zu verstehen, was genau im Gehirn passiert und ob diese Techniken therapeutisches Potenzial haben — etwa bei Depressionen, Angststörungen oder Traumata. Gleichzeitig warnen die Forschenden davor, die bisherigen Ergebnisse zu überschätzen. Vieles sei faszinierend, aber noch nicht ausreichend verstanden.</p>\n<p><strong>Anna Lorenzen</strong> ist Redakteurin bei <em>Spektrum der Wissenschaft</em>. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt sie, wie Menschen ihr Bewusstsein gezielt und ohne Drogen verändern. Sie geht dabei auch auf Gefahren und Grenzen dieser Techniken ein.</p>",
-    "date": "2026-07-03T04:02:37.000Z",
-    "url": "https://feedpress.me/link/19604/17372081/spektrum-podcast-bewusstsein-high-drogen",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260703spektrumhighohnedrogen.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260703spektrumhighohnedrogen.63.mp3",
-    "duration": "12 Min",
+    "title": "Kulturmeldungen 03.07.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-03T15:56:51.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/kulturmeldungen_03072026_dlf_20260703_1756_e9cd74d1.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
     "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:2740ff158adb15e50a55491909c6d91a",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Skandal und Startschuss: \"Nicht der Homosexuelle ist pervers ...\"",
-    "summary": "<p>Am 3.7.1971 feiert Praunheims Film auf der Berlinale Premiere und löst einen Medienskandal aus. Er wird zum Startschuss für die Schwulen‑ und Lesbenbewegung.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Gianna Scholten:</strong><br><ul><li>dass zwischen 1949 und 1969 doppelt so viele Männer wegen Homosexualität verurteilt werden wie noch während der Nazizeit,</li><li>warum Rosa von Praunheim das Wort \"schwul\" als selbstbewusste Eigenbezeichnung propagiert,</li><li>wie die ARD-Programmdirektoren zunächst die Ausstrahlung des Films verhindern,</li><li>weshalb er schließlich doch gesendet wird.</li></ul><br>Anfang der 1970er-Jahre ist für die meisten homosexuellen Männer undenkbar, offen schwul zu leben. Sie geben sich nach außen bewusst \"männlich\", um ihre Sexualität zu verbergen. Als größter Feind gilt die \"auffällige Tunte\", die sofort als homosexuell erkannt wird.<br><br>1971 verschiebt Filmemacher Rosa von Praunheim die Perspektiven grundlegend. Seine zentrale Botschaft \"Nicht der Homosexuelle ist pervers, sondern die Situation, in der er lebt\", packt er gleich in den Filmtitel. Der Film wird heftig diskutiert, auch in der Schwulen-Szene, für die sich \"schwul\" damals noch nach Beschimpfung anhört. <br>Praunheim hat damit sein Ziel erreicht: Sein Werk gilt als Initialzündung für eine neue, selbstbewusstere Schwulenbewegung.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Rosa von Praunheim, Anke Vetter: Rosas Rache. Filme und Tagebücher seit 1960. Berlin 2009</li><li>Nicht der Homosexuelle ist pervers, sondern die Situation, in der er lebt. (Rosa von Praunheim Filmverlag, Berlin 2008)</li><li>Schwules Museum Berlin</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>WDR 5: Erlebte Geschichte – <a href=\"https://www1.wdr.de/av/audio-erlebte-geschichten-rosa-von-praunheim--100.html\" rel=\"noopener\" target=\"_blank\">Rosa von Praunheim</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/rosa-von-praunheim-100.html\" rel=\"noopener\" target=\"_blank\">10.12.1991 - Rosa von Praunheim outet Prominente</a></li><li>ARD Mediathek: <a href=\"https://www.ardmediathek.de/video/dokus-und-reportagen/glueckskind-der-schwule-filmemacher-rosa-von-praunheim/hr/MGU4NWMyMGItNTVjMy00NTEyLTk0ZWMtNzUwOTYxMTdlNmE2\" rel=\"noopener\" target=\"_blank\">Glückskind - Der schwule Filmemacher Rosa von Praunheim</a></li><li>Homepage: <a href=\"http://www.rosavonpraunheim.de/\" rel=\"noopener\" target=\"_blank\">Rosa von Praunheim</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Gianna Scholten<br>Redaktion: Carolin Rückl und Matti Hesse",
-    "date": "2026-07-03T04:00:23.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-skandal-und-startschuss-nicht-der-homosexuelle-ist-pervers-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-nicht-der-homosexuelle-ist-pervers-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/06/24/2c1cb39e-64bc-40f0-9e02-28767b5296c8/2c1cb39e-64bc-40f0-9e02-28767b5296c8_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4000739",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Rüdiger, der Multi-Roboter",
-    "summary": "<b>Betonentfernung ist ein Knochenjob</b>\n<p>Häuser, Tunnel, Mauern, Brücken — vieles besteht aus Beton. Der Baustoff gilt als stabil, doch er hält nicht ewig. Umwelt und Zeit setzen ihm zu, weshalb er regelmäßig saniert werden muss. Dafür müssen Arbeiterinnen und Arbeiter beschädigte Schichten abtragen und dann mit neuem Material auffüllen. Dieses Abtragen ist Schwerstarbeit, die langfristig die Gesundheit gefährden kann. <strong>Lena-Marie Pätzmann</strong> vom Münchener Startup Sitegeist Robotics beschreibt die mühsame Tätigkeit so:</p>\nRüdiger soll den Job machen\n<p>Sitegeist Robotics entwickelt einen Roboter, der mehrere Aufgaben auf der Baustelle übernehmen kann. Die Prototypen, genannt „Rüdiger“, sollen modular funktionieren und lassen sich auch für andere Arbeiten im Bau einsetzen. Denn nicht nur die körperliche Belastung spricht dafür, Roboter einzusetzen. Die Baubranche leidet unter Fachkräftemangel, während viele Bauwerke in Deutschland — oft aus Beton — dringend saniert werden müssen. Roboter könnten den Sanierungsfortschritt beschleunigen.</p>\n<p>Über die Chancen der Robotik in der Baubranche und die ganz konkreten Hürden und Perspektiven in der Entwicklung spricht <em>detektor.fm</em>-Moderator Christian Bollert in dieser neuen Folge des „brand eins Podcasts“ mit <strong>Lena-Marie Pätzmann</strong>.</p>",
-    "date": "2026-07-03T03:00:53.000Z",
-    "url": "https://feedpress.me/link/19604/17372082/brand-eins-podcast-lena-marie-paetzmann-sitegeist",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260702brandeinslena-mariepaetzmannsitegeist.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/20260702brandeinslena-mariepaetzmannsitegeist.63.mp3",
-    "duration": "30 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:987231a8-6f23-4738-8809-57030320ca44",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interview: Wie baut man (einarmige) Federgabeln, Dirk Lüde?",
-    "summary": "<p> </p>\n<p> </p>",
-    "date": "2026-07-03T03:00:40.000Z",
-    "url": "https://feedpress.me/link/19604/17372083/antritt-dirk-luede-ueber-lefty-entwicklung-bei-cannondale",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1783/24/010726antrittdirkluede.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1783/24/010726antrittdirkluede.63.mp3",
-    "duration": "1 Std 26 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4000563",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Juli 2026: Großes „Spektrum-Podcast“-Jubiläum!",
-    "summary": "Wissenschaft zum Hören\n<p>Seit mehr als sieben Jahren bringt der „Spektrum-Podcast“ aktuelle Forschung verständlich und unterhaltsam auf die Ohren. Jede Woche tauscht sich <em>detektor.fm</em>-Moderator Marc Zimmer mit Redakteurinnen und Redakteuren von <em>Spektrum der Wissenschaft</em> über neueste Forschungsthemen- und entwicklungen aus. Dabei geht es sowohl um moderne Medizin als auch um die Weiten des Kosmos. Mit mehreren hunderttausend regelmäßigen Hörerinnen und Hörern zählt der „Spektrum-Podcast“ heute zu einem der erfolgreichsten Wissenschaftspodcasts Deutschlands.</p>\nDie Anfänge des „Spektrum-Podcasts“\n<p>Aus einem monatlichen Format wurde schnell ein wöchentliches, mit dem <em>Spektrum der Wissenschaft</em> und <em>detektor.fm</em> heute eine wesentlich größere Zielgruppe erreichen. Wissenschaft auf die Ohren — damit können sehr viele Menschen in Deutschland etwas anfangen, weiß der heutige Chefredakteur des Verlags Daniel Lingenhöhl. Besonders hängengeblieben ist ihm dabei die „Spektrum-Podcast“-Folge „Wie Sport unser Gehirn beflügelt“ mit der Hirnforscherin Anna von Hopffgarten.  </p>\n<p>Mittlerweile sind durch die gute Zusammenarbeit auch weitere Kooperationen entstanden: Im Podcast „Die großen Fragen der Wissenschaft“ gehen Redakteurin Katharina Menne und der ehemalige <em>Spektrum der Wissenschaft</em>-Chefredakteur Carsten Könneker den größten Rätseln der Wissenschaft auf den Grund. In „Geschichten aus der Mathematik“ erzählen Manon Bischoff von <em>Spektrum der Wissenschaft</em> und Mathematiker Demian Nahuel Goos <em>detektor.fm</em>-Moderatorin Rabea Schloz in jeder Folge eine spannende und konfliktreiche Geschichte aus der Mathematik.</p>\nTipps für den Juli\n<p>In dieser Ausgabe von „detektor.fm-destilliert“ spricht <strong>Christian Bollert</strong> mit  <strong>Daniel Lingenhöhl</strong> über den Erfolg des „Spektrum-Podcasts“, Hörtipps des Monats und liefert einen Ausblick auf die 300. „Spektrum-Podcast“-Folge – mit neuem Sound, frischem Cover und besonderen Beiträgen aus der Redaktion sowie der Community.  </p>\n<p>Wer kein Highlight von <em>detektor.fm</em> verpassen will: Über alle Neuigkeiten informiert einmal pro Monat der <em>detektor.fm</em>-Newsletter.</p>",
-    "date": "2026-07-03T03:00:18.000Z",
-    "url": "https://feedpress.me/link/19604/17372084/destilliert-juli-2026-grosses-spektrum-podcast-jubilaeum",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260703destilliertjuli.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/07/260703destilliertjuli.63.mp3",
-    "duration": "19 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-1562329047941402",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Schauspieler Ben Becker im Gespräch mit Inka Schneider",
-    "summary": "Wo er auftritt, entsteht garantiert ein Moment von außergewöhnlicher Intensität: auf der Bühne, im Film oder auf dem Roten Sofa. Sein Markenzeichen: die Stimme - sonor, rauchig, unverwechselbar. Mit ihr veredelt er seit Jahrzehnten zahlreiche Film-, Hörspiel- oder Theaterproduktionen wie \"Ich Judas\". Aktuell leiht Ben Becker für die Show \"Luminiscence\" seine Stimme dem Hamburger Michel und erzählt die Geschichte der Kirche - ihre Entstehung, Zerstörungen und Wiedergeburten.",
-    "date": "2026-07-02T16:45:00.000Z",
-    "url": "https://www.ndr.de/schauspieler-ben-becker-im-gespraech-mit-inka-schneider,audio-3335784.html",
-    "image": "https://images.ndr.de/image/3be031f5-f89f-489c-991c-60091b9c12e8/AAABnyRANSc/AAABnSStX0g/1x1-big/screenshot-190694.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0702/AU-20260702-2028-3100.mp3",
-    "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
       "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-3999033",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Migration in Sachsen-Anhalt: Die Situation vor der Landtsagswahl",
-    "summary": "Sachsen-Anhalt streitet über Migration\n<p>Migration ist vor der Landtagswahl in Sachsen-Anhalt Topthema für viele Menschen. Etwa 192.000 Menschen ohne deutschen Pass leben in Sachsen-Anhalt. Die AfD sagt: zu viele. Sie fordert in ihrem Wahlprogramm unter anderem, das Grundrecht auf Asyl abzuschaffen, auf die Anwerbung „kulturfremder Fachkräfte“ zu verzichten und Remigration statt Integration. Andere Parteien sind uneins. Viele bewegen sich in ihren Maßnahmen zwischen der Anwerbung junger Fachkräfte, Maßnahmen zur Integration und Maßnahmen zur Begrenzung von Zuwanderung.</p>\nMigranten blicken mit Angst auf die Wahl\n<p>Viele Migrantinnen und Migranten sind besorgt über die aktuelle Situation und blicken ängstlich auf die anstehende Wahl. Sie berichten über eine stetig steigende Anzahl an Übergriffen und rassistischen Vorfällen. Undra Dreßler (SPD), Geschäftsführerin des Landesnetzwerks Migrantenorganisationen in Sachsen-Anhalt (LAMSA), berichtet davon, dass eine deutliche Mehrheit der befragten Mitglieder darüber nachdenkt, das Land zu verlassen.</p>\nHaustürgespräche für ein besseres Miteinander\n<p>Um dem Entgegenzutreten, hat LAMSA elf Forderungen an die Politik übergeben und versucht unter anderem mit Haustürgesprächen, in den Dialog zu treten, Vorurteile abzubauen und Menschen dazu zu bewegen, sich für die Demokratie einzusetzen und eine Partei aus dem demokratischen Spektrum zu wählen.</p>\nDie Lage der Migration bei DAZWISCHEN\n<p>In dieser Podcastfolge schauen Marie und Katja auf die Lage der Migration in Sachsen-Anhalt. Sie diskutieren über Probleme und Vorurteile, sprechen mit Betroffenen, begleiten Haustürgespräche und ordnen ein. Sie reflektieren dabei ihre Rolle als Journalistinnen und stellen sich einmal mehr die Frage: Wie kann ein gutes Zusammenleben in unserer Gesellschaft gelingen? Das alles in der neuen Folge von DAZWISCHEN.</p>\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</p>",
-    "date": "2026-07-02T13:00:11.000Z",
-    "url": "https://feedpress.me/link/19604/17371715/dazwischen-streit-um-migration-sachsen-anhalt",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260623dazwischenfolge15-migration.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/06/260623dazwischenfolge15-migration.63.mp3",
-    "duration": "40 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Politik",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "30-minuten-kunst:11c0742f5c253202b006b054083c2ae5",
-    "source": "30-minuten-kunst",
-    "sourceTitle": "30 Minuten Kunst",
-    "type": "rss",
-    "title": "Was für ein Fest der Kunst: Biennale Venedig 2026",
-    "summary": "Pavillons, Werke & Perspektiven\n<p>Die Biennale Venedig 2026 steht unter dem Motto \"In Minor Keys\" und rückt damit die leisen, vielschichtigen und oft überraschenden Stimmen der Gegenwartskunst in den Mittelpunkt. In dieser Podcastfolge spreche ich mit Ann-Katrin Günzel, Chefredakteurin von KUNSTFORUM International, über ausgewählte Pavillons und ihre künstlerischen Strategien. Von Performance und Körperlichkeit bis zu einem Archiv der persönlichen Erinnerungen, das die politischen Entwicklungen im Osten Deutschlands thematisiert, diese Biennale zeigt, wie Kunst sich mit dieser Welt auseinandersetzt</p>\n<p>Die besprochenen Pavillons:</p>\n<p>Österreich: <a href=\"https://www.bmwkms.gv.at/themen/aktuell/biennale-eroeffnung-2026.html\" rel=\"noopener\" target=\"_blank\">https://www.bmwkms.gv.at/themen/aktuell/biennale-eroeffnung-2026.html</a></p>\n<p>Vatikan: <a href=\"https://www.coopculture.it/it/eventi/evento/lorecchio-e-locchio-dellanima/\" rel=\"noopener\" target=\"_blank\">https://www.coopculture.it/it/eventi/evento/lorecchio-e-locchio-dellanima/</a></p>\n<p>Belgien: <a href=\"https://www.belgianpavilion.be/en/projects/belgian-pavilion-2026\" rel=\"noopener\" target=\"_blank\">https://www.belgianpavilion.be/en/projects/belgian-pavilion-2026</a></p>\n<p>Niederlande: <a href=\"https://www.mondriaanfonds.nl/en/current/news/dutch-pavilion-at-the-venice-biennale-officially-opened/\" rel=\"noopener\" target=\"_blank\">https://www.mondriaanfonds.nl/en/current/news/dutch-pavilion-at-the-venice-biennale-officially-opened/</a></p>\n<p>Spanien: <a href=\"https://www.accioncultural.es/en/spain-pavilion-at-the-61st-venice-art-biennale-2026\" rel=\"noopener\" target=\"_blank\">https://www.accioncultural.es/en/spain-pavilion-at-the-61st-venice-art-biennale-2026</a></p>\n<p>Deutschland: <a href=\"https://www.ifa.de/ausstellung/deutscher-pavillon-venedig-biennale-2026/\" rel=\"noopener\" target=\"_blank\">https://www.ifa.de/ausstellung/deutscher-pavillon-venedig-biennale-2026/</a></p>\n<p>Dänemark: <a href=\"https://www.kunst.dk/english/art-forms/visual-arts/maja-malou-lyses-things-to-come-at-la-biennale-di-venezia\" rel=\"noopener\" target=\"_blank\">https://www.kunst.dk/english/art-forms/visual-arts/maja-malou-lyses-things-to-come-at-la-biennale-di-venezia</a></p>\n<p><strong>In diesem Podcast steckt jede Menge Herzblut. Deshalb meine Bitte: Unterstützen Sie mich und den Podcast.\n</strong>\nBitte fördern Sie uns hier:\n<a href=\"https://steadyhq.com/de/30-minuten-kunst/about\" rel=\"noopener\" target=\"_blank\">https://steadyhq.com/de/30-minuten-kunst/about</a></p>\n<p>Oder unterstützen Sie den Podcast per Paypal: <a href=\"https://paypal.me/JensTrocha?country.x=DE&locale.x=de_DE\" rel=\"noopener\" target=\"_blank\">https://paypal.me/JensTrocha?country.x=DE&locale.x=de_DE</a>\n(Link kopieren und in die Adresszeile des Browsers einfügen)</p>\n<p>Oder überweisen Sie einen Betrag Ihrer Wahl auf das Konto:\nDE15 1203 0000 1082 0466 97\nIBAN: BYLADEM1001</p>\n<p>Repro-Credits: Cover KUNSTFORUM International",
-    "date": "2026-07-02T07:00:00.000Z",
-    "url": "https://30-minuten-kunst.podigee.io/129-neue-episode",
-    "image": "https://images.podigee-cdn.net/0x,s5ipo1RTp_xCHw67Mj_UrLB2Hc51xx542kWUEsAZBHPE=/https://main.podigee-cdn.net/uploads/u26284/7438686b-53c9-4b89-92f2-672a179966de.jpeg",
-    "audio": "https://audio.podigee-cdn.net/2532060-m-bc4556c68651d11779bcff8d35e23c6c.mp3?source=feed",
-    "duration": "34 Min",
-    "tags": [
+      "theater",
       "kunst",
-      "kultur",
-      "bildung"
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
     ],
     "category": [
-      "Kunst",
-      "Bildung"
+      "Kultur",
+      "Gesellschaft"
     ],
     "language": "de"
   }
