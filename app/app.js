@@ -190,11 +190,37 @@ function openSection(bgColor) {
     setTimeout(() => episodeSection.scrollIntoView({ behavior: "smooth" }), 50);
 }
 
-function goBack() {
+function smoothScrollToTop(duration = 600) {
+    return new Promise((resolve) => {
+        const start = window.scrollY;
+        const startTime = performance.now();
+        
+        function easeOutQuad(t) {
+            return t * (2 - t); // smooth deceleration
+        }
+        
+        function scroll(currentTime) {
+            const elapsed = currentTime - startTime;
+            const progress = Math.min(elapsed / duration, 1);
+            const easeProgress = easeOutQuad(progress);
+            window.scrollTo(0, start * (1 - easeProgress));
+            
+            if (progress < 1) {
+                requestAnimationFrame(scroll);
+            } else {
+                resolve();
+            }
+        }
+        
+        requestAnimationFrame(scroll);
+    });
+}
+
+async function goBack() {
     stopGlobalAudio();
     autoplay = false;
+    await smoothScrollToTop(700);
     episodeSection.classList.add("hidden");
-    window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
 function renderEpisodes(episodes) {
