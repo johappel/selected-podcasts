@@ -1,5 +1,185 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-3456296660234224",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Katharina Mahrenholtz, Jan Ehlert und Daniel Kaiser mit Büchertipps für den Sommer",
+    "summary": "Katharina Mahrenholtz, Daniel Kaiser und Jan Ehlert geben im Gespräch mit Inka Schneider persönliche Einblicke in ihre gemeinsame Arbeit und verraten, was ihren Podcast eat.READ.sleep. so besonders macht. Diesmal geht es nicht nur um Lieblingsautoren und Lesetrends, sondern auch um ganz konkrete Tipps für die nächste Urlaubslektüre. Mit viel Charme, Witz und Expertise empfehlen sie Bücher, die perfekt in den Koffer passen - von entspannender Unterhaltung bis hin zu packenden Thrillern.",
+    "date": "2026-07-05T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/katharina-mahrenholtz-jan-ehlert-und-daniel-kaiser-mit-buechertipps-fuer-sommer,audio-3341112.html",
+    "image": "https://images.ndr.de/image/8f343d16-ff77-40a7-805b-ce7f3895c98b/AAABnzM2ndI/AAABnSStX0g/1x1-big/screenshot-191616.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0706/AU-20260706-0947-1600.mp3",
+    "duration": "43 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-kulturmeldungen-05072026-dlf-20260705-1756-dc1e5986-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 05.07.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:56:16.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/kulturmeldungen_05072026_dlf_20260705_1756_dc1e5986.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-vilhelm-hammershi-maler-des-stillen-klangs-ausstellung-im-dlf-20260705-1751-6a1d0f54-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Vilhelm Hammershøi - Maler des stillen Klangs\" Ausstellung im Kunsthaus Zürich",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:51:13.000Z",
+    "url": "https://www.deutschlandfunk.de/vilhelm-hammersh-i-maler-des-stillen-klangs-ausstellung-im-kunsthaus-zuerich-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/vilhelm_hammershi_maler_des_stillen_klangs_ausstellung_im_dlf_20260705_1751_6a1d0f54.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-maldoror-und-uma-luz-cordial-auftakt-beim-theaterfestival-in-dlf-20260705-1744-ac1bd717-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Maldoror\" und \"Uma luz cordial\" - Auftakt beim Theaterfestival in Avignon",
+    "summary": "Klaeui, Andreas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:44:05.000Z",
+    "url": "https://www.deutschlandfunk.de/maldoror-und-uma-luz-cordial-auftakt-beim-theaterfestival-in-avignon-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/maldoror_und_uma_luz_cordial_auftakt_beim_theaterfestival_in_dlf_20260705_1744_ac1bd717.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-nach-aus-fuer-neubau-wie-geht-es-weiter-in-der-deutschen-dlf-20260705-1738-741a5fd6-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach Aus für Neubau - Wie geht es weiter in der Deutschen Oper am Rhein?",
+    "summary": "Panning, Jonas www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:38:19.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-aus-fuer-neubau-wie-geht-es-weiter-in-der-deutschen-oper-am-rhein-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/nach_aus_fuer_neubau_wie_geht_es_weiter_in_der_deutschen_dlf_20260705_1738_741a5fd6.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-islamische-kunst-in-deutscher-forschung-religionspaed-m-dlf-20260705-1730-121918af-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Islamische Kunst in deutscher Forschung - Religionspäd. M. Khorchide im Gespräch",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-05T15:30:15.000Z",
+    "url": "https://www.deutschlandfunk.de/islamische-kunst-in-deutscher-forschung-religionspaed-m-khorchide-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/islamische_kunst_in_deutscher_forschung_religionspaed_m_dlf_20260705_1730_121918af.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-6412461121231126",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Profunder Kenner der amerikanischen Geschichte: Dr. Hiram Kümper",
+    "summary": "Dr. Hiram Kümper, Historiker und profunder Kenner der amerikanischen Geschichte, ist zu Gast auf dem Roten Sofa im NDR. Eine seiner Thesen lautet: \"Die aktuelle politische und gesellschaftliche Situation der USA liegt bereits in deren Verfassung von 1776 begründet.\" Sein neues Buch \"1776 - Traum und Erwachen der amerikanischen Nation\" ist ein spannender Blick hinter die Kulissen historischer Wahrheiten. Darüber sprechen wir mit ihm - ergänzt durch aktuelle Umfrageergebnisse zum Verhältnis Deutschland/USA von #NDRfragt.",
+    "date": "2026-07-04T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/profunder-kenner-der-amerikanischen-geschichte-dr-hiram-kuemper,audio-3341038.html",
+    "image": "https://images.ndr.de/image/2bc8e8f6-7430-4aae-95fd-e7248ccf4304/AAABny4MDpE/AAABnSStX0g/1x1-big/screenshot-191418.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0706/AU-20260706-0932-2100.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-kulturmeldungen-04072026-dlf-20260704-1755-38fc7da2-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -179,6 +359,31 @@
     "language": "de"
   },
   {
+    "id": "ndr-being-the-beatles:rnd0-32789719168910036",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Autorin und Hinterbliebene Christine Dawood im Gespräch mit Inka Schneider",
+    "summary": "Man braucht ein Dorf, um ein Kind aufzuziehen - aber man braucht auch ein Dorf, wenn man ein Kind verliert, sagt Christine Dawood. Sie hat ihren Sohn Suleman und ihren Ehemann Shahzada verloren. Die beiden starben am 18. Juni 2023 in der Tauchkapsel \"Titan\" auf dem Weg zum Wrack der Titanic in etwa 3.800 Metern Tiefe. Die gebürtige Rosenheimerin erzählt exklusiv auf dem Roten Sofa von den letzten Momenten vor dem Tauchgang, den traumatischen 96 Stunden an Bord des Suchschiffes während der Rettungsmission sowie von ihrem Umgang mit dem Verlust.",
+    "date": "2026-07-03T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/autorin-und-hinterbliebene-christine-dawood-im-gespraech-mit-inka-schneider,audio-3341026.html",
+    "image": "https://images.ndr.de/image/05433b0d-ac00-47e8-93bb-ab9867279213/AAABnykIXNM/AAABnSStX0g/1x1-big/screenshot-190984.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0706/AU-20260706-0931-4000.mp3",
+    "duration": "28 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-kulturmeldungen-03072026-dlf-20260703-1756-e9cd74d1-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -190,110 +395,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/kulturmeldungen_03072026_dlf_20260703_1756_e9cd74d1.mp3?refId=kultur-heute-104",
     "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-radikal-real-der-nouveau-realisme-und-die-kunst-der-1960er-dlf-20260703-1752-dacb9b53-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Radikal. Real - Der Nouveau Réalisme und die Kunst der 1960er Jahre in Mannheim",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:52:27.000Z",
-    "url": "https://www.deutschlandfunk.de/radikal-real-der-nouveau-r-alisme-und-die-kunst-der-1960er-jahre-in-mannheim-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/radikal_real_der_nouveau_realisme_und_die_kunst_der_1960er_dlf_20260703_1752_dacb9b53.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-zauberfloete-clement-cogitore-inszeniert-mozart-in-aix-dlf-20260703-1747-d1c9e5a6-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zauberflöte - Clément Cogitore inszeniert Mozart in Aix",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:47:34.000Z",
-    "url": "https://www.deutschlandfunk.de/zauberfloete-cl-ment-cogitore-inszeniert-mozart-in-aix-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/zauberfloete_clement_cogitore_inszeniert_mozart_in_aix_dlf_20260703_1747_d1c9e5a6.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-frueher-oder-spaeter-das-werkleitz-festival-2026-in-halle-dlf-20260703-1742-9cc7b656-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Früher oder später\" - Das Werkleitz Festival 2026 in Halle und die Zeit",
-    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:42:10.000Z",
-    "url": "https://www.deutschlandfunk.de/frueher-oder-spaeter-das-werkleitz-festival-2026-in-halle-und-die-zeit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/frueher_oder_spaeter_das_werkleitz_festival_2026_in_halle_dlf_20260703_1742_9cc7b656.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-leben-in-der-platte-kuratorin-anne-meinzenbach-ueber-dlf-20260703-1736-bcc4e67c-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Leben in der Platte - Kuratorin Anne Meinzenbach über Ausstellung in Leipzig",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:36:37.000Z",
-    "url": "https://www.deutschlandfunk.de/leben-in-der-platte-kuratorin-anne-meinzenbach-ueber-ausstellung-in-leipzig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/leben_in_der_platte_kuratorin_anne_meinzenbach_ueber_dlf_20260703_1736_bcc4e67c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "theater",
@@ -380,32 +481,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-02-kulturmeldungen-02072026-dlf-20260702-1756-22aa16f5-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 02.07.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-02T15:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/02/kulturmeldungen_02072026_dlf_20260702_1756_22aa16f5.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -709,81 +784,6 @@
       "Kunst",
       "Geschichte",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-47833222779724527",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Wie gelingt \"Erbschaft ohne Streit\", Verena Finkenberger?",
-    "summary": "Alljährlich gibt es in Deutschland etwa 140.000 steuerpflichtige Erbfälle. Nicht wenige davon lösen bei den Hinterbliebenen Uneinigkeit um den Nachlass aus, landen im schlimmsten Fall vor Gericht. Weil sie nicht mehr zusehen wollte, wie sich Familien nach einem Todesfall zerreißen, hat Verena Finkenberger das Ratgeberbuch \"Erbschaft ohne Streit\" geschrieben. Ihre Mission: Das Erbrecht jede und jeden verständlich machen. Dieses Ziel wollen wir mit Verena Finkenberger auch auf dem Roten Sofa angehen.",
-    "date": "2026-06-29T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/wie-gelingt-erbschaft-ohne-streit-verena-finkenberger,audio-3329518.html",
-    "image": "https://images.ndr.de/image/b1b94ec2-317f-4fb6-a566-83d1806052a9/AAABnxSSCeM/AAABnSStX0g/1x1-big/screenshot-188648.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0630/AU-20260630-0939-2900.mp3",
-    "duration": "37 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-9197872435351069",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Expertin für Wortgewandtheit und Lebensfreude: Bestsellerautorin Nicole Staudinger",
-    "summary": "Bekannt wurde Nicole Staudinger durch ihren unkonventionellen Umgang mit der eigenen Brustkrebserkrankung. Mitreißend und auch humorvoll berichtete sie in ihrem Buch \"Brüste umständehalber abzugeben\" von der Zeit nach der schweren Diagnose. Mit Titeln wie \"Schlagfertigkeitsqueen\" etablierte sich die Kommunikationstrainerin als Expertin für Wortgewandtheit und Lebensfreude und wurde SPIEGEL-Bestsellerautorin. Ihr mittlerweile zehntes Werk \"Time for Tacheles\" ist ein leidenschaftlicher Appell für Zivilcourage, Selbstbehauptung und klare Worte.",
-    "date": "2026-06-28T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/expertin-fuer-wortgewandtheit-und-lebensfreude-bestsellerautorin-nicole-staudinger,audio-3327344.html",
-    "image": "https://images.ndr.de/image/8ddacfb3-938c-4dcc-8380-2271df8bac52/AAABnw-QS98/AAABnSStX0g/1x1-big/screenshot-188198.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0629/AU-20260629-0956-1900.mp3",
-    "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-35358157232671483",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Jetzt auch als Sänger im Ensemble \"Gentlemen Forever\": Francis Fulton Smith",
-    "summary": "Der britisch-deutsche Schauspieler Francis Fulton-Smith ist längst nicht nur durch die Titelrolle in der ARD-Erfolgsserie \"Familie Dr. Kleist\" bekannt. Neben seiner schauspielerischen Präsenz in mehr als 150 Produktionen, betätigt er sich auch als Autor und Kunstmaler. Im vergangenen Jahr hat Francis Fulton-Smith mit der Gründung der Formation \"Gentlemen Forever\" ein neues, ein musikalisches Kapitel aufgeschlagen. Zusammen mit Erol Sander und Dave Kaufmann singt er im edlen Smoking klassischen Swing und deutschen Schlager.",
-    "date": "2026-06-27T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/jetzt-auch-als-saenger-im-ensemble-gentlemen-forever-francis-fulton-smith,audio-3327334.html",
-    "image": "https://images.ndr.de/image/99f4eb81-dcaf-4985-8e73-ea4d7101ea64/AAABnwoPE5Y/AAABnSStX0g/1x1-big/screenshot-187730.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0629/AU-20260629-0948-2700.mp3",
-    "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   },
