@@ -1,5 +1,135 @@
 [
   {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-kulturmeldungen-06072026-dlf-20260706-1756-195afccd-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 06.07.2026",
+    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:56:34.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-07-104.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/kulturmeldungen_06072026_dlf_20260706_1756_195afccd.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-mensch-natur-im-wandel-der-zeit-kunst-zur-landesgartenschau-dlf-20260706-1750-f8496935-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Mensch Natur im Wandel der Zeit\" - Kunst zur Landesgartenschau Neuss",
+    "summary": "Oelze, Sabine www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:50:51.000Z",
+    "url": "https://www.deutschlandfunk.de/mensch-natur-im-wandel-der-zeit-kunst-zur-landesgartenschau-neuss-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/mensch_natur_im_wandel_der_zeit_kunst_zur_landesgartenschau_dlf_20260706_1750_f8496935.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-dirk-schuetz-zu-den-auswirkungen-des-reformpakets-auf-die-dlf-20260706-1745-fb486bff-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dirk Schütz zu den Auswirkungen des Reformpakets auf die Kulturbranche",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:45:30.000Z",
+    "url": "https://www.deutschlandfunk.de/dirk-schuetz-zu-den-auswirkungen-des-reformpakets-auf-die-kulturbranche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/dirk_schuetz_zu_den_auswirkungen_des_reformpakets_auf_die_dlf_20260706_1745_fb486bff.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-entruempelt-die-buehnen-optionen-fuer-theater-in-dlf-20260706-1740-4f46c49c-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Entrümpelt die Bühnen! - Optionen für Theater in Krisenzeiten",
+    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:40:31.000Z",
+    "url": "https://www.deutschlandfunk.de/entruempelt-die-buehnen-optionen-fuer-theater-in-krisenzeiten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/entruempelt_die_buehnen_optionen_fuer_theater_in_dlf_20260706_1740_4f46c49c.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-06-millionenraub-einbruch-ins-lalique-museum-im-elsass-dlf-20260706-1735-0545c079-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Millionenraub - Einbruch ins Lalique-Museum im Elsass",
+    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-06T15:35:42.000Z",
+    "url": "https://www.deutschlandfunk.de/millionenraub-einbruch-ins-lalique-museum-im-elsass-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/millionenraub_einbruch_ins_lalique_museum_im_elsass_dlf_20260706_1735_0545c079.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-05-kulturmeldungen-05072026-dlf-20260705-1756-dc1e5986-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/05/islamische_kunst_in_deutscher_forschung_religionspaed_m_dlf_20260705_1730_121918af.mp3?refId=kultur-heute-104",
     "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-kulturmeldungen-04072026-dlf-20260704-1755-38fc7da2-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 04.07.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-04T15:55:20.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-04-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/kulturmeldungen_04072026_dlf_20260704_1755_38fc7da2.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-israels-kino-unter-druck-das-jerusalem-film-festival-beginnt-dlf-20260704-1750-6afa0316-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Israels Kino unter Druck: Das Jerusalem Film Festival beginnt",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-04T15:50:07.000Z",
-    "url": "https://www.deutschlandfunk.de/israels-kino-unter-druck-das-jerusalem-film-festival-beginnt-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/israels_kino_unter_druck_das_jerusalem_film_festival_beginnt_dlf_20260704_1750_6afa0316.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-der-besuch-der-alten-dame-nikolaus-habjan-inszeniert-am-dlf-20260704-1745-eff77fa3-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Besuch der alten Dame - Nikolaus Habjan inszeniert am Gärtnerplatztheater",
-    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-04T15:45:07.000Z",
-    "url": "https://www.deutschlandfunk.de/der-besuch-der-alten-dame-nikolaus-habjan-inszeniert-am-gaertnerplatztheater-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/der_besuch_der_alten_dame_nikolaus_habjan_inszeniert_am_dlf_20260704_1745_eff77fa3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-04-circus-oresteia-thomas-koecks-neues-stueck-nach-aischylos-am-dlf-20260704-1739-78f50c57-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Circus Oresteia\" - Thomas Köcks neues Stück nach Aischylos am Theater a.d. Ruhr",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-04T15:39:57.000Z",
-    "url": "https://www.deutschlandfunk.de/circus-oresteia-thomas-koecks-neues-stueck-nach-aischylos-am-theater-a-d-ruhr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/circus_oresteia_thomas_koecks_neues_stueck_nach_aischylos_am_dlf_20260704_1739_78f50c57.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-03-kulturmeldungen-03072026-dlf-20260703-1756-e9cd74d1-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 03.07.2026",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-03T15:56:51.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/03/kulturmeldungen_03072026_dlf_20260703_1756_e9cd74d1.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",
