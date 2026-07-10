@@ -1,5 +1,234 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-8959112591818605",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Gastiert beim Schleswig-Holstein Musikfestival: Schauspielerin Eva Mattes",
+    "summary": "Mit sechs Jahren beschloss sie Schauspielerin zu werden. Bis heute hat Eva Mattes in mehr als 200 Kinofilmen, TV-Produktionen und Theaterinszenierungen gespielt, arbeitete mit namhaften Regisseuren wie Werner Herzog, Michael Verhoeven, Rainer Werner Fassbinder und Peter Zadek. Das Fernsehpublikum kennt sie als Bodensee-\"Tatort\"-Kommissarin Klara Blum und als Hebammen-Mutter Eva in der ZDF-Serie \"Lena Lorenz\". Jetzt gastiert die deutsch-österreichische Schauspielerin beim Schleswig-Holstein Musikfestival in Geesthacht mit einer musikalischen Lesung aus den Tagebüchern von Astrid Lindgren.",
+    "date": "2026-07-09T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/gastiert-beim-schleswig-holstein-musikfestival-schauspielerin-eva-mattes,audio-3349622.html",
+    "image": "https://images.ndr.de/image/09c30c44-8605-419f-80cc-ee8f94603abb/AAABn0fKON4/AAABnSStX0g/1x1-big/screenshot-193538.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0710/AU-20260710-0758-2100.mp3",
+    "duration": "31 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-kulturmeldungen-09072026-dlf-20260709-1756-9cb69703-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 09.07.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-09T15:56:14.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-09-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/kulturmeldungen_09072026_dlf_20260709_1756_9cb69703.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-marode-kulturbauten-wie-das-theaterprovisorium-in-chemnitz-dlf-20260709-1751-dfb47227-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Marode Kulturbauten - Wie das Theaterprovisorium in Chemnitz funktioniert",
+    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-09T15:51:41.000Z",
+    "url": "https://www.deutschlandfunk.de/marode-kulturbauten-wie-das-theaterprovisorium-in-chemnitz-funktioniert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/marode_kulturbauten_wie_das_theaterprovisorium_in_chemnitz_dlf_20260709_1751_dfb47227.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-etwas-ganz-besonderes-der-neue-film-von-eva-trobisch-kommt-dlf-20260709-1746-b1b24662-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Etwas ganz Besonderes - Der neue Film von Eva Trobisch kommt ins Kino",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-09T15:46:16.000Z",
+    "url": "https://www.deutschlandfunk.de/etwas-ganz-besonderes-der-neue-film-von-eva-trobisch-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/etwas_ganz_besonderes_der_neue_film_von_eva_trobisch_kommt_dlf_20260709_1746_b1b24662.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-09-unbekuemmerter-eigensinn-buechner-preis-fuer-christine-dlf-20260709-1737-4aafe1be-mp3-refid-kultur-heute-104",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Unbekümmerter Eigensinn\" - Büchner-Preis für Christine Wunnicke",
+    "summary": "Porombka, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-09T15:37:01.000Z",
+    "url": "https://www.deutschlandfunk.de/unbekuemmerter-eigensinn-buechner-preis-fuer-christine-wunnicke-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/unbekuemmerter_eigensinn_buechner_preis_fuer_christine_dlf_20260709_1737_4aafe1be.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-09-diktator-mbappe-was-die-ki-generierten-fussball-animes-dlf-20260709-1515-2d201b26-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Diktator Mbappé - Was die KI-generierten Fußball-Animes erzählen",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-07-09T13:15:59.000Z",
+    "url": "https://www.deutschlandfunk.de/diktator-mbapp-was-die-ki-generierten-fussball-animes-erzaehlen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/diktator_mbappe_was_die_ki_generierten_fussball_animes_dlf_20260709_1515_2d201b26.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-09-heroines-of-sounds-japanische-pionierinnen-der-dlf-20260709-1515-1abbb021-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Heroines of Sounds - Japanische Pionierinnen der elektronischen Musik",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-07-09T13:15:20.000Z",
+    "url": "https://www.deutschlandfunk.de/heroines-of-sounds-japanische-pionierinnen-der-elektronischen-musik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/heroines_of_sounds_japanische_pionierinnen_der_dlf_20260709_1515_1abbb021.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-09-zum-tod-der-walisischen-saengerin-bonnie-tyler-dlf-20260709-1506-c5294a50-mp3-refid-corso-104",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Tod der walisischen Sängerin Bonnie Tyler",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-07-09T13:06:53.000Z",
+    "url": "https://www.deutschlandfunk.de/zum-tod-der-walisischen-saengerin-bonnie-tyler-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/09/zum_tod_der_walisischen_saengerin_bonnie_tyler_dlf_20260709_1506_c5294a50.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-5140234226840212",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Erzählen von ihrem Leben auf Mallorca: Phong Lan Hofer und Jan Hofer",
+    "summary": "Sie leben dort, wo viele Deutsche Urlaub machen: auf der spanischen Mittelmeer-Insel Mallorca. Der frühere \"tagesschau\"-Chefsprecher Jan Hofer und seine Ehefrau Phong Lan wohnen mit ihrem 10-jährigen Sohn Henry in der Insel-Hauptstadt Palma. Nach der langjährigen TV-Karriere eine bewusste Entscheidung für die Familie, so Jan Hofer, der seit 2018 mit Phong Lan verheiratet ist. Auf dem Roten Sofa erzählt das Paar von seinem Familienleben und seiner tiefen Liebe zur Sonneninsel. Und die beiden berichten, dass Ruhestand für sie überhaupt kein Thema ist.",
+    "date": "2026-07-08T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/erzaehlen-von-ihrem-leben-auf-mallorca-phong-lan-hofer-und-jan-hofer,audio-3347870.html",
+    "image": "https://images.ndr.de/image/106082d7-2822-4043-891e-fc4c192a2c3a/AAABn0LwoNg/AAABnSStX0g/1x1-big/screenshot-192948.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0709/AU-20260709-1026-0000.mp3",
+    "duration": "41 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-08-kulturmeldungen-08072026-dlf-20260708-1756-3f9f8b6f-mp3-refid-kultur-heute-104",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -256,110 +485,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-kita-von-kere-die-hoelzerne-kindertagesstaette-in-muenchen-dlf-20260707-1751-e06a2539-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kita von Kéré - Die hölzerne Kindertagesstätte in München wird eingeweiht",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-07T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kita-von-k-r-die-hoelzerne-kindertagesstaette-in-muenchen-wird-eingeweiht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/kita_von_kere_die_hoelzerne_kindertagesstaette_in_muenchen_dlf_20260707_1751_e06a2539.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-zerstoerte-kulturstaetten-thomas-schaumberg-ueber-das-dlf-20260707-1745-8d683bdd-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zerstörte Kulturstätten - Thomas Schaumberg über das Erdbeben in Venezuela",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-07T15:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zerstoerte-kulturstaetten-thomas-schaumberg-ueber-das-erdbeben-in-venezuela-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/zerstoerte_kulturstaetten_thomas_schaumberg_ueber_das_dlf_20260707_1745_8d683bdd.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-symphonie-der-farben-paul-signac-und-der-neoimpressionismus-dlf-20260707-1740-3e662566-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Symphonie der Farben - Paul Signac und der Neoimpressionismus\" in Potsdam",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-07T15:40:00.000Z",
-    "url": "https://www.deutschlandfunk.de/symphonie-der-farben-paul-signac-und-der-neoimpressionismus-in-potsdam-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/symphonie_der_farben_paul_signac_und_der_neoimpressionismus_dlf_20260707_1740_3e662566.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:https-podcast-mp3-dradio-de-podcast-2026-07-07-mr-filmfestival-ex-berlinalechef-moritz-de-hadeln-ist-dlf-20260707-1736-eb64b2ee-mp3-refid-kultur-heute-104",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mr. Filmfestival\" - Ex-Berlinalechef Moritz de Hadeln ist gestorben",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-07T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/mr-filmfestival-ex-berlinalechef-moritz-de-hadeln-ist-gestorben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/07/mr_filmfestival_ex_berlinalechef_moritz_de_hadeln_ist_dlf_20260707_1736_eb64b2ee.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-07-virales-versteckspiel-warum-ist-meccha-chameleon-so-dlf-20260707-1520-69c4a3ab-mp3-refid-corso-104",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -537,31 +662,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-06-zum-80-geburtstag-was-die-filme-von-sylvester-stallone-ueber-dlf-20260706-1505-84b6c67f-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zum 80. Geburtstag - Was die Filme von Sylvester Stallone über die USA verraten",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-06T13:05:33.000Z",
-    "url": "https://www.deutschlandfunk.de/zum-80-geburtstag-was-die-filme-von-sylvester-stallone-ueber-die-usa-verraten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/06/zum_80_geburtstag_was_die_filme_von_sylvester_stallone_ueber_dlf_20260706_1505_84b6c67f.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "ndr-being-the-beatles:rnd0-3456296660234224",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -598,106 +698,6 @@
     "image": "https://images.ndr.de/image/2bc8e8f6-7430-4aae-95fd-e7248ccf4304/AAABny4MDpE/AAABnSStX0g/1x1-big/screenshot-191418.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0706/AU-20260706-0932-2100.mp3",
     "duration": "42 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-04-geistersuche-im-internet-andreas-spechtls-neues-bandprojekt-dlf-20260704-1530-727b23eb-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geistersuche im Internet - Andreas Spechtls neues Bandprojekt Weird Eerie",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-04T13:30:19.000Z",
-    "url": "https://www.deutschlandfunk.de/geistersuche-im-internet-andreas-spechtls-neues-bandprojekt-weird-eerie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/geistersuche_im_internet_andreas_spechtls_neues_bandprojekt_dlf_20260704_1530_727b23eb.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-04-rapper-fatoni-und-die-kunst-des-durchhaltens-dlf-20260704-1515-f97953a7-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Rapper Fatoni und die Kunst des Durchhaltens",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-04T13:15:03.000Z",
-    "url": "https://www.deutschlandfunk.de/rapper-fatoni-und-die-kunst-des-durchhaltens-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/04/rapper_fatoni_und_die_kunst_des_durchhaltens_dlf_20260704_1515_f97953a7.mp3?refId=corso-104",
-    "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-32789719168910036",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Autorin und Hinterbliebene Christine Dawood im Gespräch mit Inka Schneider",
-    "summary": "Man braucht ein Dorf, um ein Kind aufzuziehen - aber man braucht auch ein Dorf, wenn man ein Kind verliert, sagt Christine Dawood. Sie hat ihren Sohn Suleman und ihren Ehemann Shahzada verloren. Die beiden starben am 18. Juni 2023 in der Tauchkapsel \"Titan\" auf dem Weg zum Wrack der Titanic in etwa 3.800 Metern Tiefe. Die gebürtige Rosenheimerin erzählt exklusiv auf dem Roten Sofa von den letzten Momenten vor dem Tauchgang, den traumatischen 96 Stunden an Bord des Suchschiffes während der Rettungsmission sowie von ihrem Umgang mit dem Verlust.",
-    "date": "2026-07-03T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/autorin-und-hinterbliebene-christine-dawood-im-gespraech-mit-inka-schneider,audio-3341026.html",
-    "image": "https://images.ndr.de/image/05433b0d-ac00-47e8-93bb-ab9867279213/AAABnykIXNM/AAABnSStX0g/1x1-big/screenshot-190984.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0706/AU-20260706-0931-4000.mp3",
-    "duration": "28 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-1562329047941402",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Schauspieler Ben Becker im Gespräch mit Inka Schneider",
-    "summary": "Wo er auftritt, entsteht garantiert ein Moment von außergewöhnlicher Intensität: auf der Bühne, im Film oder auf dem Roten Sofa. Sein Markenzeichen: die Stimme - sonor, rauchig, unverwechselbar. Mit ihr veredelt er seit Jahrzehnten zahlreiche Film-, Hörspiel- oder Theaterproduktionen wie \"Ich Judas\". Aktuell leiht Ben Becker für die Show \"Luminiscence\" seine Stimme dem Hamburger Michel und erzählt die Geschichte der Kirche - ihre Entstehung, Zerstörungen und Wiedergeburten.",
-    "date": "2026-07-02T16:45:00.000Z",
-    "url": "https://www.ndr.de/schauspieler-ben-becker-im-gespraech-mit-inka-schneider,audio-3335784.html",
-    "image": "https://images.ndr.de/image/3be031f5-f89f-489c-991c-60091b9c12e8/AAABnyRANSc/AAABnSStX0g/1x1-big/screenshot-190694.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0702/AU-20260702-2028-3100.mp3",
-    "duration": "39 Min",
     "tags": [
       "beatles",
       "popgeschichte",
