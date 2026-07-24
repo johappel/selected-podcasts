@@ -1,5 +1,211 @@
 [
   {
+    "id": "dlf-kultur-heute:0e28966c-fe1e-51d8-9d2d-9655d5f55e9a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 23.07.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-23T15:55:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/kulturmeldungen_23072026_dlf_20260723_1755_6dd5fd63.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9cf7d53e-bc07-58fe-869b-d3fbe63394de",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Verlangen und Verrat - Der neue Film \"Dreams\" mit Jessica Chastain",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-23T15:48:57.000Z",
+    "url": "https://www.deutschlandfunk.de/verlangen-und-verrat-der-neue-film-dreams-mit-jessica-chastain-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/verlangen_und_verrat_der_neue_film_dreams_mit_jessica_dlf_20260723_1748_49d4c2fa.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0c5d21db-9d86-5c25-ac04-8a011f5e28d1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Liebesdrama am Bodensee - Verdis \"La Traviata\" eröffnet die Bregenzer Festspiele",
+    "summary": "Friedrich, Uwe www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-23T15:42:40.000Z",
+    "url": "https://www.deutschlandfunk.de/liebesdrama-am-bodensee-verdis-la-traviata-eroeffnet-die-bregenzer-festspiele-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/liebesdrama_am_bodensee_verdis_la_traviata_eroeffnet_die_dlf_20260723_1742_45d3739b.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1b2fff48-1226-5b71-93e7-3360f85a79d3",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Lust an der heißen Luft\" - Doris Dörrie zu Werner Enkes \"Zur Sache, Schätzchen\"",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-23T15:35:25.000Z",
+    "url": "https://www.deutschlandfunk.de/lust-an-der-heissen-luft-doris-doerrie-zu-werner-enkes-zur-sache-schaetzchen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/lust_an_der_heissen_luft_doris_doerrie_zu_werner_enkes_zur_dlf_20260723_1735_20d17ed5.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a1803bfb-f71d-5143-9c61-166f59a64a30",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Chéri, ich komme!\" - Das echte Erfinderpaar hinter dem Womanizer im Gespräch",
+    "summary": "Plodroch, Ina; Lenke, Michael; Lenke, Brigitte www.deutschlandfunk.de, Corso",
+    "date": "2026-07-23T13:20:45.000Z",
+    "url": "https://www.deutschlandfunk.de/ch-ri-ich-komme-das-echte-erfinderpaar-hinter-dem-womanizer-im-gespraech-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/cheri_ich_komme_das_echte_erfinderpaar_hinter_dem_womanizer_dlf_20260723_1520_a14965ce.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:71442f1e-2028-520e-8a58-019e5c346e84",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Serie - Das \"Big Bang Theory\"-Spinoff \"Stuart Fails To Save The Universe\"",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
+    "date": "2026-07-23T13:15:35.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-serie-das-big-bang-theory-spinoff-stuart-fails-to-save-the-universe-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/neue_serie_das_big_bang_theory_spinoff_stuart_fails_to_save_dlf_20260723_1515_ee474f78.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:73995585-8c8f-51e2-be03-adb869bd2e72",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Liebling des Pop - Carsten Friedrichs zum Tod von Schauspieler Werner Enke",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-07-23T13:05:07.000Z",
+    "url": "https://www.deutschlandfunk.de/der-liebling-des-pop-carsten-friedrichs-zum-tod-von-schauspieler-werner-enke-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/der_liebling_des_pop_carsten_friedrichs_zum_tod_von_dlf_20260723_1505_92436cc6.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-23-geburtenpolitik-der-staat-im-schlafzimmer-dlf-20260723-1300-dea0a391-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Geburtenpolitik - Der Staat im Schlafzimmer",
+    "summary": "Schon lange versuchen Staaten, auf Geburtenraten Einfluss zu nehmen: mal sollen es mehr, mal weniger Kinder sein. Teils hatten die Maßnahmen schwerwiegende Folgen - wie massenhafte Abtreibungen, Zwangssterilisationen und Morde.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(02:20) Mao Zedong und die erste Volkszählung im modernen China <br>(07:57) Weniger Geburten für mehr Wirtschaftswachstum: Chinas Ein-Kind-Politik <br>(11:56) Folgen der Ein-Kind-Politik: Zwangssterilisationen, Abtreibungen, Männerüberschuss <br>(17:16) 2015: Das Ende der chinesischen Ein-Kind-Politik<br>(23:31) Wann und warum Herrscher angefangen haben, ihre Bevölkerung zu zählen <br>(28:48) Thomas Robert Malthus - Vordenker moderner Bevölkerungspolitik<br>(34:59) Der Biologe Paul Ehrlich und seine \"Bevölkerungsbombe\" <br>(37:40) Das Beispiel Frankreich: erfolgreiche Anreize für mehr Nachwuchs <br>(43:52) Soziologin: \"Können positiv auf die Geburten-Entwicklung schauen\"<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Klaus Mühlhahn</strong> ist Professor für Kultur und Geschichte des modernen China an der Freien Universität Berlin. </li><li><strong>Michaela Kreyenfeld </strong>ist Professorin für Soziologie an der Hertie School in Berlin.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Anh Tran<br>Skript, Regie und Produktion: Sonja Ernst und Carina Schroeder<br>Faktencheck: Johanna Ploog und Kathrin Krautwasser<br>Redaktion: Christian Röther<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/china-mao-geschichte-diktatur-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Mao Zedong </li><li><a href=\"https://www.deutschlandfunk.de/frauenbilder-tradition-tradwives-feminismus-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den Wandel von Frauenbildern </li><li><a href=\"https://www.deutschlandfunk.de/hebammen-geschichte-geburt-beruf-102.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Hebammen </li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li><a href=\"https://www.bpb.de/themen/soziale-lage/demografischer-wandel/\" rel=\"noopener\" target=\"_blank\">Dossier</a> der Bundeszentrale für politische Bildung über den Demografischen Wandel </li><li><a href=\"https://www.bpb.de/shop/zeitschriften/apuz/demografie-2026/577155/mehr-als-zahlen/\" rel=\"noopener\" target=\"_blank\">Artikel</a> unserer Expertin Michaela Kreyenfeld über die politischen Dimensionen demografischer Daten </li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br>\" target=\"_blank\" href=\"https://1.ard.de/IQWissenschaft\" class=\"click-tracking-paragraph\" data-tracking=\"{\"name\":\"Link in Beitrag\",\"chapter1\":\"https://1.ard.de/IQWissenschaft\",\"chapter2\":\"<br>\",\"chapter3\":\"Geburtenpolitik - Der Staat im Schlafzimmer\",\"level2\":1}\"><br></a><a href=\"https://1.ard.de/die_entscheidung_olympia36?cp=drig\" rel=\"noopener\" target=\"_blank\">Die Entscheidung: Mein Opa, die Nazis und Olympia</a><br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-07-23T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/geburtenpolitik-bevoelkerung-staat-schlafzimmer-100.html",
+    "image": "https://bilder.deutschlandfunk.de/1c/5b/ca/af/1c5bcaaf-5ee1-41e9-aa2c-ad4270680796/schulklasse-bevoelkerungspolitik-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/geburtenpolitik_der_staat_im_schlafzimmer_dlf_20260723_1300_dea0a391.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "48 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:eaa1248f-7110-5eb6-8aa0-80e5e3f7f563",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -231,58 +437,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:4bb5357e-3560-5c0c-9c38-5cfb5277e4c7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gemeinsam Literatur erleben - das Literaturfestival \"kindly invited\" in Köln",
-    "summary": "Seidel, Änne; Reiner, Svenja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-21T15:43:28.000Z",
-    "url": "https://www.deutschlandfunk.de/gemeinsam-literatur-erleben-das-literaturfestival-kindly-invited-in-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/gemeinsam_literatur_erleben_das_literaturfestival_kindly_dlf_20260721_1743_3b824731.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9e13d361-7fbf-5629-9b70-1d6cffc699bc",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nightborne - Filmwissenschaftler Marcus Stiglegger über KI-generierten Kurzfilm",
-    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-21T15:35:20.000Z",
-    "url": "https://www.deutschlandfunk.de/nightborne-filmwissenschaftler-marcus-stiglegger-ueber-ki-generierten-kurzfilm-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/nightborne_filmwissenschaftler_marcus_stiglegger_ueber_ki_dlf_20260721_1735_4d80e4fa.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:d751440d-bcb3-51db-a1c9-308344bcee10",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -384,58 +538,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:43b55b1b-3eba-5555-a7e6-2d9d701d7ff6",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 20.07.2026",
-    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-20T15:56:06.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/kulturmeldungen_20072026_dlf_20260720_1756_1257c8cc.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0f9723c0-af22-5b61-baaa-9dfc0f4d4408",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Vergiss es?!\" - Kampagne der Gedenkstätten in Sachsen-Anhalt",
-    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-20T15:51:05.000Z",
-    "url": "https://www.deutschlandfunk.de/vergiss-es-kampagne-der-gedenkstaetten-in-sachsen-anhalt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/vergiss_es_kampagne_der_gedenkstaetten_in_sachsen_anhalt_dlf_20260720_1751_a956527c.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:cc5ede64-037f-54d7-a6ab-7c61eb32c777",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -447,31 +549,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/fussball_wm_halbzeitshow_lahm_ueberfluessig_und_gefaehrlich_dlf_20260720_1510_5a8a110b.mp3?refId=corso-104",
     "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:dd723ad2-57bb-5bb9-95f2-acafa0c94e98",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Reihe \"Selber machen\": Das eigene Top - Widerständige Maschen (I)",
-    "summary": "Freches, David www.deutschlandfunk.de, Corso",
-    "date": "2026-07-20T13:10:21.000Z",
-    "url": "https://www.deutschlandfunk.de/reihe-selber-machen-das-eigene-top-widerstaendige-maschen-i-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/reihe_selber_machen_das_eigene_top_widerstaendige_maschen_i_dlf_20260720_1510_6ec4837a.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
@@ -508,56 +585,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-saengerin-lido-pimienta-die-karibische-enya-tanzt-gegen-dlf-20260718-1554-7881eda7-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sängerin Lido Pimienta: Die karibische Enya tanzt gegen rechts",
-    "summary": "Behlert, Anke www.deutschlandfunk.de, Corso",
-    "date": "2026-07-18T13:54:14.000Z",
-    "url": "https://www.deutschlandfunk.de/saengerin-lido-pimienta-die-karibische-enya-tanzt-gegen-rechts-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/saengerin_lido_pimienta_die_karibische_enya_tanzt_gegen_dlf_20260718_1554_7881eda7.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:https-podcast-mp3-dradio-de-podcast-2026-07-18-brasilien-sportwetten-treiben-menschen-in-den-persoenlichen-dlf-20260718-1345-be70176b-mp3-refid-corso-104",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Brasilien - Sportwetten treiben Menschen in den persönlichen Ruin",
-    "summary": "Herrberg, Anne www.deutschlandfunk.de, Corso",
-    "date": "2026-07-18T13:45:00.000Z",
-    "url": "https://www.deutschlandfunk.de/brasilien-sportwetten-treiben-menschen-in-den-persoenlichen-ruin-102.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/18/brasilien_sportwetten_treiben_menschen_in_den_persoenlichen_dlf_20260718_1345_be70176b.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -984,33 +1011,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-06-04-waffentechnik-krieg-ist-auch-nicht-mehr-das-was-er-mal-war-dlf-20260604-1300-df90f6f0-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Waffentechnik - Krieg ist auch nicht mehr das, was er mal war",
-    "summary": "Früher haben sich Menschen mit Steinen und Schwertern bekriegt, später kamen Bomben und Panzer. Die Kriege von heute werden mit billigen Drohnen geführt. Neue Waffen verändern jeden Krieg – und meistens werfen sie ethische Fragen auf.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:30) Töten per Joystick in Afghanistan und Billig-Drohnen in der Ukraine<br>(05:50) Langsame Waffenentwicklung vor dem 19. Jahrhundert<br>(11:30) Industrialisierung im Deutsch-Französischen Krieg 1870/71<br>(14:00) 1915: Im Ersten Weltkrieg wird Giftgas eingesetzt<br>(19:00) Die Idee der „Hightech-Kriege“ nach 1945 <br>(23:15) Ethische Folgen der KI-Entwicklung: Wer entscheidet im Krieg?<br>(32:30) Hybride Kriegsführung<br>(39:00) Die Technologie-Sprünge werden schneller<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li>Der Historiker <strong>Sönke Neitzel</strong> hat an der Universität Potsdam den Lehrstuhl für Militärgeschichte und die Kulturgeschichte der Gewalt inne. Es ist die einzige Professur für Militärgeschichte in Deutschland.</li></ul><br><ul><li><strong>Herfried Münkler</strong> ist Politikwissenschaftler. Bis zu seiner Emeritierung 2018 lehrte er an der Humboldt-Universität in Berlin. Zahlreiche Veröffentlichungen zur Weltordnung, Kriegs- und Ideengeschichte.</li></ul> <br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Anja Reinhardt und Robert Hauspurg<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/atombombe-hiroshima-abschreckung-kalter-krieg-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Atombombe</li><li><a href=\"https://www.deutschlandfunk.de/reparationen-ukrainekrieg-russland-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Reparationen</li><li><a href=\"https://www.deutschlandfunk.de/wehrpflicht-warum-die-deutschen-sich-schwertun-mit-buergern-als-soldaten-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Wehrpflicht</li><li><a href=\"https://www.deutschlandfunk.de/usa-trump-militaer-krieg-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über die Militärmacht der USA </li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.dhm.de/lemo/kapitel/erster-weltkrieg/kriegsverlauf/ypern-1915\" rel=\"noopener\" target=\"_blank\">Deutsches Historisches Museum</a> über die Schlacht bei Ypern 1915 und den ersten Einsatz von Giftgas</li><li><a href=\"https://www.bpb.de/themen/europa/ukraine-analysen/nr-321/573073/analyse-drohnenkrieg-in-der-ukraine-das-zusammenspiel-von-high-und-low-tech/\" rel=\"noopener\" target=\"_blank\">Analyse der Bundeszentrale für politische Bildung</a> über Drohnenkrieg und -produktion in der Ukraine</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen:</a> Jeden Samstag eine neue Folge mit dem deutsch-amerikanischen Historiker Volker Depkat<br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-06-04T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/krieg-waffentechnik-drohnen-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/4b/9a/57/2b/4b9a572b-13bb-4f4c-8fc4-8d04ed3a0f0c/drohnen-urkaine-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/06/04/waffentechnik_krieg_ist_auch_nicht_mehr_das_was_er_mal_war_dlf_20260604_1300_df90f6f0.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "44 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
     ],
     "language": "de"
   },
