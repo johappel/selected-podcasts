@@ -1,5 +1,107 @@
 [
   {
+    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-01-29-zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-dlf-20260129-1915-5f1a0c37-mp3-refid-zeitzeugen-im-gespraech-102",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ulrich Schneider - \"Wir waren nicht arm, aber wir waren deklassiert\"",
+    "summary": "Sein Ruf als \"bekanntester Soziallobbyist der Republik\" eilt Ulrich Schneider voraus. 25 Jahre war er beim Paritätischen Wohlfahrtsverband. Soziale Ungerechtigkeit und knauserige Sozialpolitik empören ihn bis heute. (Erstsendung am 29.1.2026) Becker, Birgid www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-07-25T09:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-gesamtverband-100.html",
+    "image": "https://bilder.deutschlandfunk.de/b9/7b/ea/b0/b97beab0-7fe9-45c9-88fb-a6de401f7e4b/ulrich-schneider-ehemaliger-hauptgeschaeftsfuhrer-paritaetischer-wohlfahrtsverband-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/01/29/zeitzeugen_im_gespraech_ulrich_schneider_ehem_paritaetischer_dlf_20260129_1915_5f1a0c37.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4a2c7d43-e3d2-5bfa-9c6d-557284fca7a5",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Brief an den berühmten Vater - Was Anne dem Comicautoren René Goscinny schreibt",
+    "summary": "Unger, Kolja; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:25:54.000Z",
+    "url": "https://www.deutschlandfunk.de/brief-an-den-beruehmten-vater-was-anne-dem-comicautoren-ren-goscinny-schreibt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/brief_an_den_beruehmten_vater_was_anne_dem_comicautoren_rene_dlf_20260724_1525_2a67ef7e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:89810cbb-5fcb-50a7-a053-ce377ac622aa",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Anne-Sophie Monrad über Daniel Siad und die Schattenseiten der Modelbranche",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/anne-sophie-monrad-ueber-daniel-siad-und-die-schattenseiten-der-modelbranche-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/anne_sophie_monrad_ueber_daniel_siad_und_die_schattenseiten_dlf_20260724_1515_fdfdf096.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:fd50042d-787b-529f-bb6e-036275c4b94f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Musikalische Kehrtwende? Das neue Album \"Music, Fashion, Film\" von Charli XCX",
+    "summary": "Raabe, Mathis; Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-24T13:10:13.000Z",
+    "url": "https://www.deutschlandfunk.de/musikalische-kehrtwende-das-neue-album-music-fashion-film-von-charli-xcx-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/24/musikalische_kehrtwende_das_neue_album_music_fashion_film_dlf_20260724_1510_d0661a2c.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:a6a96554-88b6-4b92-a5e6-767d2c8e6245",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -346,56 +448,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:1e4dd9ef-804a-5d57-b0ff-53c1b99592d7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die eigene Stadtplanung - Im Haus der Statistik wird gebaut",
-    "summary": "Schwarz, Marietta www.deutschlandfunk.de, Corso",
-    "date": "2026-07-21T13:10:52.000Z",
-    "url": "https://www.deutschlandfunk.de/die-eigene-stadtplanung-im-haus-der-statistik-wird-gebaut-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/die_eigene_stadtplanung_im_haus_der_statistik_wird_gebaut_dlf_20260721_1510_8efda481.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ea95ac9d-3ccb-5cb2-9e5b-117a67b76897",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Charlie Kirk Memes - Subversiver Bruch mit der Staatstrauer",
-    "summary": "Weingart, Christopher www.deutschlandfunk.de, Corso",
-    "date": "2026-07-21T13:10:49.000Z",
-    "url": "https://www.deutschlandfunk.de/charlie-kirk-memes-subversiver-bruch-mit-der-staatstrauer-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/21/charlie_kirk_memes_subversiver_bruch_mit_der_staatstrauer_dlf_20260721_1510_d1fbc720.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-24-wir-sind-piraten-ein-professor-und-seine-studierenden-dlf-20260724-2005-622902f7-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -469,31 +521,6 @@
     "category": [
       "Wissenschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:cc5ede64-037f-54d7-a6ab-7c61eb32c777",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fußball-WM-Halbzeitshow: lahm, überflüssig und gefährlich",
-    "summary": "Siniawski, Adalbert; Guethe, Mia www.deutschlandfunk.de, Corso",
-    "date": "2026-07-20T13:10:47.000Z",
-    "url": "https://www.deutschlandfunk.de/fussball-wm-halbzeitshow-lahm-ueberfluessig-und-gefaehrlich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/20/fussball_wm_halbzeitshow_lahm_ueberfluessig_und_gefaehrlich_dlf_20260720_1510_5a8a110b.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1218,60 +1245,6 @@
     "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-die-ehem-oesterr-aussenministerin-benita-ferrero-waldner-100.html",
     "image": "https://bilder.deutschlandfunk.de/f2/b2/8c/36/f2b28c36-4918-43f6-89dd-68a008348df2/benita-ferrero-waldner-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/02/26/zeitzeugen_im_gespraech_die_ehem_oesterr_aussenministerin_dlf_20260226_1915_9d97f9bf.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-01-29-zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-dlf-20260129-1915-5f1a0c37-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ulrich Schneider - \"Wir waren nicht arm, aber wir waren deklassiert\"",
-    "summary": "Sein Ruf als \"bekanntester Soziallobbyist der Republik\" eilt Ulrich Schneider voraus. 25 Jahre war er beim Paritätischen Wohlfahrtsverband. Aus einfachen Verhältnissen stammend empören ihn bis heute soziale Ungerechtigkeit und knausrige Sozialpolitik. Becker, Birgid www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-01-29T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-ulrich-schneider-ehem-paritaetischer-gesamtverband-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b9/7b/ea/b0/b97beab0-7fe9-45c9-88fb-a6de401f7e4b/ulrich-schneider-ehemaliger-hauptgeschaeftsfuhrer-paritaetischer-wohlfahrtsverband-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/01/29/zeitzeugen_im_gespraech_ulrich_schneider_ehem_paritaetischer_dlf_20260129_1915_5f1a0c37.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2025-01-25-zeitzeugen-im-gespraech-der-kuenstler-klaus-staeck-dlf-20250125-1105-dda5d45f-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Klaus Staeck - \"Die Satire lebt mit dem Zweifel\"",
-    "summary": "Die Kunst- und Meinungsfreiheit zu verteidigen, war immer das Anliegen des Künstlers Klaus Staeck. Mit satirischen Plakaten wettert er gegen Politik und Wirtschaft. Das hat ihm nicht nur viele Schlagzeilen, sondern auch einige Prozesse eingebracht. (Erstsendung 25.1.15) Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2025-12-25T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-kuenstler-klaus-staeck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/b7/c6/df/be/b7c6dfbe-4d8a-4d93-9c4d-0043f0d50626/klaus-staeck-104-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/01/25/zeitzeugen_im_gespraech_der_kuenstler_klaus_staeck_dlf_20250125_1105_dda5d45f.mp3?refId=zeitzeugen-im-gespraech-102",
     "duration": "55 Min",
     "tags": [
       "zeitzeugen",
