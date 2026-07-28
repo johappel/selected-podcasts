@@ -1,5 +1,185 @@
 [
   {
+    "id": "dlf-kultur-heute:3a1d7ddf-6297-5082-a832-ff01cbe2bbee",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 27.07.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-27T15:56:54.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-27-07-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/kulturmeldungen_27072026_dlf_20260727_1756_5168e413.mp3?refId=kultur-heute-104",
+    "duration": "2 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:42cfe7d2-fec2-59b6-8fc7-ec92068cc3b2",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Medizinhistorikerin Claudia Wiesemann zum Tod von G.v.Hagens",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-27T15:52:25.000Z",
+    "url": "https://www.deutschlandfunk.de/medizinhistorikerin-claudia-wiesemann-zum-tod-von-g-v-hagens-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/medizinhistorikerin_claudia_wiesemann_zum_tod_von_gvhagens_dlf_20260727_1752_4b67e9cb.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:fd807552-e1d7-57cf-a483-475bee488dad",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Brennende Kulturlandschaft. Die Wälder von Bordeaux",
+    "summary": "Detjen, Stephan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-27T15:48:25.000Z",
+    "url": "https://www.deutschlandfunk.de/brennende-kulturlandschaft-die-waelder-von-bordeaux-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/brennende_kulturlandschaft_die_waelder_von_bordeaux_dlf_20260727_1748_7666003d.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5a6efa1b-f2fc-5807-9aab-15606a8a8a5d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Carmen - Currentzis dirigiert Bizet in Salzburg, Gabriela Carrizo inszeniert",
+    "summary": "Stürz, Franziska www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-27T15:43:45.000Z",
+    "url": "https://www.deutschlandfunk.de/carmen-currentzis-dirigiert-bizet-in-salzburg-gabriela-carrizo-inszeniert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/carmen_currentzis_dirigiert_bizet_in_salzburg_gabriela_dlf_20260727_1743_3664a300.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:f4b89946-1336-51a9-92f3-19e9ac512259",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Richard Wagners \"Rienzi\" in Bayreuth",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-07-27T15:35:17.000Z",
+    "url": "https://www.deutschlandfunk.de/richard-wagners-rienzi-in-bayreuth-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/richard_wagners_rienzi_in_bayreuth_dlf_20260727_1735_dd636bd6.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:db5a04f5-eae5-54c7-b96e-ab71d9b0e8fc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kai Müller, Psychologe, über Scrollen, Spielen, Sucht",
+    "summary": "Herbstreuth. Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-27T13:15:07.000Z",
+    "url": "https://www.deutschlandfunk.de/kai-mueller-psychologe-ueber-scrollen-spielen-sucht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/kai_mueller_psychologe_ueber_scrollen_spielen_sucht_dlf_20260727_1515_3f93afc8.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:6e03c0eb-000d-5a8c-8e99-0805888457be",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Manuel Opitz von Hamburg Pride über den CSD und seine politische Kraft",
+    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
+    "date": "2026-07-27T13:07:00.000Z",
+    "url": "https://www.deutschlandfunk.de/manuel-opitz-von-hamburg-pride-ueber-den-csd-und-seine-politische-kraft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/27/manuel_opitz_von_hamburg_pride_ueber_den_csd_und_seine_dlf_20260727_1507_3687472a.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:564bae35-532a-5e4f-8f99-cb8c06c002be",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -115,136 +295,6 @@
     "image": "https://bilder.deutschlandfunk.de/b1/7c/88/4c/b17c884c-50fa-475d-8376-471fac32d90c/luna-moebius-csd-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/26/wir_sollten_keine_angst_haben_queer_aktivistin_luna_moebius_dlf_20260726_1730_923bafba.mp3?refId=kultur-heute-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4718676c-a4cd-52eb-81a0-eac90753cc13",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 25.07.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-25T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-25-07-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/kulturmeldungen_25072026_dlf_20260725_1757_d330d766.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:225c99f4-a4b2-5ac9-b201-6bfdc023e389",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Berliner Waldsiedlung - Bald Unesco-Welterbe?",
-    "summary": "Sammann, Luise www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-25T15:51:30.000Z",
-    "url": "https://www.deutschlandfunk.de/die-berliner-waldsiedlung-bald-unesco-welterbe-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/die_berliner_waldsiedlung_bald_unesco_welterbe_dlf_20260725_1751_132e5af9.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:64b569ca-09bf-5f49-9444-ed382aaed345",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Showdown im Merger-Deal - Darf Paramount Warner Bros. übernehmen?",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-25T15:46:18.000Z",
-    "url": "https://www.deutschlandfunk.de/showdown-im-merger-deal-darf-paramount-warner-bros-uebernehmen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/showdown_im_merger_deal_darf_paramount_warner_bros_dlf_20260725_1746_e32b5a5a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c11a5c0f-22c9-585c-9020-4c056f6f5351",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Transforming Energy\" - Marina Abramovic-Ausstellung in Venedig",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-25T15:41:20.000Z",
-    "url": "https://www.deutschlandfunk.de/transforming-energy-marina-abramovic-ausstellung-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/transforming_energy_marina_abramovic_ausstellung_in_venedig_dlf_20260725_1741_a52874cd.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:a2a8a4f4-9a78-5277-8f1e-1516fa35f0a8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gemeinsam singen - Claudia Jennings vom Windsbacher Mädchenchor",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-07-25T15:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/gemeinsam-singen-claudia-jennings-vom-windsbacher-maedchenchor-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/25/gemeinsam_singen_claudia_jennings_vom_windsbacher_dlf_20260725_1730_0c1cdafd.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
     "tags": [
       "kultur",
       "theater",
@@ -487,31 +537,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:73995585-8c8f-51e2-be03-adb869bd2e72",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Liebling des Pop - Carsten Friedrichs zum Tod von Schauspieler Werner Enke",
-    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
-    "date": "2026-07-23T13:05:07.000Z",
-    "url": "https://www.deutschlandfunk.de/der-liebling-des-pop-carsten-friedrichs-zum-tod-von-schauspieler-werner-enke-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/23/der_liebling_des_pop_carsten_friedrichs_zum_tod_von_dlf_20260723_1505_92436cc6.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-23-geburtenpolitik-der-staat-im-schlafzimmer-dlf-20260723-1300-dea0a391-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -535,31 +560,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:974a6c98-0d40-5085-8518-97446c3ac1fe",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme: \"Dreams: Gefährliches Verlangen\", \"H wie Habicht\", \"Toy Story 5\"",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-07-22T13:20:33.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-dreams-gefaehrliches-verlangen-h-wie-habicht-toy-story-5-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/22/neue_filme_dreams_gefaehrliches_verlangen_h_wie_habicht_toy_dlf_20260722_1520_f661117c.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -590,7 +590,7 @@
     "language": "de"
   },
   {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-07-18-ein-rennen-gegen-die-zeit-drk-20260718-1805-ac319130-mp3-refid-das-feature-104",
+    "id": "dlf-das-feature:f7c7b028-83be-529e-9de6-34000cbde554",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
     "type": "rss",
