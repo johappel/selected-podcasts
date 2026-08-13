@@ -1,11 +1,36 @@
 [
   {
+    "id": "dlf-corso:bf285234-2357-51d7-9b53-0254464181e9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zu viel, zu schlecht und im Abo zu teuer - Haben wir ausgebingt?",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-08-12T13:15:53.000Z",
+    "url": "https://www.deutschlandfunk.de/zu-viel-zu-schlecht-und-im-abo-zu-teuer-haben-wir-ausgebingt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/12/zu_viel_zu_schlecht_und_im_abo_zu_teuer_haben_wir_ausgebingt_dlf_20260812_1515_da05f878.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4020732",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
     "title": "Ada Lovelace und das erste Computerprogramm",
-    "summary": "Ada Lovelace: Poetische Wissenschaftlerin\n<p>Anfang 19. Jahrhundert: Wir reisen in eine Zeit vor der Erfindung der Glühbirne, es gibt kein Telefon, die Dampflokomotive nimmt gerade erst Fahrt auf — Wortwitz beabsichtigt.</p>\n<p>Zu dieser Zeit kommt in London Augusta Ada Byron zur Welt. Sie ist die Tochter des berühmten Dichters Lord Byron, einem Dandy und Träumer, und der eher strengen und rationalen Aristokratin Anne Noel. Wie sich später zeigen sollte, vereinte Ada Lovelace die Fantasie ihres Vaters und die Wissbegier ihrer Mutter in ihrer Arbeit.</p>\n<p>Schon als junges Mädchen wird ihr eine intensive Bildung zuteil, rasch zeigt sie ein besonderes Talent für die Mathematik. Begrenzen will sich die junge Frau aber nicht darauf, sie will viel mehr. Sie liest viel über Biologie, über Physik, Mathematik, Technik.</p>\n<p>Mit gerade einmal 17 Jahren lernt Ada Lovelace den damals schon etablierten Mathematiker und Wissenschaftler Charles Babbage kennen. Obwohl er mehr als doppelt so alt ist, verstehen sich die zwei auf Anhieb. Beide haben gemein, dass sie sich nicht von altbekannten Grenzen in ihren Gedanken einschränken lassen wollen — die Visionärin trifft auf einen Visionär.</p>\nFliegende Dampfmaschinen und Computer\n<p>Charles Babbage arbeitet zu der Zeit an der sogenannten Difference Engine, einer rein mechanischen Rechenmaschine. Mit der Zeit entwickelt Babbage die Idee weiter, schließlich hatte er die Idee zur Analytical Engine. Diese Maschine sollte weit mehr mathematische Formeln lösen können als die Differenzmaschine, die lediglich für eine Art Rechnung eingesetzt werden konnte.</p>\n<p>Heute ist Ada Lovelace eine der bekanntesten Mathematikerinnen: Sie gilt als die erste Programmiererin. Und das, obwohl es zu ihrer Lebzeit noch gar keine Computer gegeben hat. Wie das zusammenpasst und warum Ada Lovelace ihrer Zeit voraus war, bespricht <em>detektor.fm</em>-Redakteurin mit Manon Bischoff und Demian Nahuel Goos in einer neuen Folge von „Geschichten aus der Mathematik“.</p>",
+    "summary": "Ada Lovelace: Poetische Wissenschaftlerin\n<p>Anfang 19. Jahrhundert: Wir reisen in eine Zeit vor der Erfindung der Glühbirne, es gibt kein Telefon, die Dampflokomotive nimmt gerade erst Fahrt auf — Wortwitz beabsichtigt.</p>\n<p>Zu dieser Zeit kommt in London Augusta Ada Byron zur Welt. Sie ist die Tochter des berühmten Dichters Lord Byron, einem Dandy und Träumer, und der eher strengen und rationalen Aristokratin Anne Noel. Wie sich später zeigen sollte, vereinte Ada Lovelace die Fantasie ihres Vaters und die Wissbegier ihrer Mutter in ihrer Arbeit.</p>\n<p>Schon als junges Mädchen wird ihr eine intensive Bildung zuteil, rasch zeigt sie ein besonderes Talent für die Mathematik. Begrenzen will sich die junge Frau aber nicht darauf, sie will viel mehr. Sie liest viel über Biologie, über Physik, Mathematik, Technik.</p>\n<p>Mit gerade einmal 17 Jahren lernt Ada Lovelace den damals schon etablierten Mathematiker und Wissenschaftler Charles Babbage kennen. Obwohl er mehr als doppelt so alt ist, verstehen sich die zwei auf Anhieb. Beide haben gemein, dass sie sich nicht von altbekannten Grenzen in ihren Gedanken einschränken lassen wollen — die Visionärin trifft auf einen Visionär.</p>\nFliegende Dampfmaschinen und Computer\n<p>Charles Babbage arbeitet zu der Zeit an der sogenannten Difference Engine, einer rein mechanischen Rechenmaschine. Mit der Zeit entwickelt Babbage die Idee weiter, schließlich hatte er die Idee zur Analytical Engine. Diese Maschine sollte weit mehr mathematische Formeln lösen können als die Differenzmaschine, die lediglich für eine Art Rechnung eingesetzt werden konnte. Ada Lovelace unterstützt ihn bei seinen Ideen, die beiden stehen im ständigen Austausch miteinander. Lovelace scheint noch viel mehr als Babbage das Potential hinter der Rechenmaschine zu sehen.</p>\n<p>Heute ist Ada Lovelace eine der bekanntesten Mathematikerinnen: Sie gilt als die erste Programmiererin. Und das, obwohl es zu ihrer Lebzeit noch gar keine Computer gegeben hat. Wie das zusammenpasst und warum Ada Lovelace ihrer Zeit voraus war, bespricht <em>detektor.fm</em>-Redakteurin Rabea Schloz mit Manon Bischoff und Demian Nahuel Goos in einer neuen Folge von „Geschichten aus der Mathematik“.</p>",
     "date": "2026-08-12T03:17:48.000Z",
     "url": "https://feedpress.me/link/19604/17415781/geschichten-aus-der-mathematik-ada-lovelace",
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/08/20260812geschichten-aus-der-mathematikadalovelace.63.mp3",
@@ -79,8 +104,8 @@
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Leben in „Meck-Pomm“ - Sänger Monchi: In der Provinz ist die Brandmauer fernab der Realität",
-    "summary": "Nach Jahren in Rostock lebt der Sänger Monchi nun wieder in der Kleinstadt Jarmen. Die AfD hat dort viele Wähler. Wie soll man mit ihnen umgehen? Das fragt er sich auch in seinem neuen Buch. Bleiben will er - und positive Akzente setzen. Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "title": "Sänger Monchi - In der Provinz ist die Brandmauer fernab der Realität",
+    "summary": "Nach Jahren in Rostock lebt der Sänger Monchi wieder in der Kleinstadt Jarmen. Dort hat die AfD viele Wähler. Wie man mit ihnen umgehen soll, damit beschäftigt er sich in seinem neuen Buch. Luerweg, Susanne www.deutschlandfunk.de, Corso",
     "date": "2026-08-11T13:05:35.000Z",
     "url": "https://www.deutschlandfunk.de/jenseits-der-brandmauer-monchi-ueber-mv-vor-den-wahlen-100.html",
     "image": "https://bilder.deutschlandfunk.de/1d/d9/aa/b4/1dd9aab4-d856-44c1-8a8f-d6eb689d1274/monchi-jan-gorkow-100-1920x1920.jpg",
@@ -336,31 +361,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/muenchen_beats_zdf_serie_ueber_die_fruehe_rave_szene_dlf_20260807_1525_7e6d08ca.mp3?refId=corso-104",
     "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e306b1c4-f070-5661-a398-74ae0dda8dfc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "El Comandantes Fanal und Fluch: Blick auf Fidel Castro zum 100. Geburtstag",
-    "summary": "Kröger, Jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-08-07T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/el-comandantes-fanal-und-fluch-blick-auf-fidel-castro-zum-100-geburtstag-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/07/el_comandantes_fanal_und_fluch_blick_auf_fidel_castro_zum_dlf_20260807_1515_a884ee49.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",
