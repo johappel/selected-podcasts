@@ -1,15 +1,67 @@
 [
   {
-    "id": "zeitzeichen:1aba4dca942b3972e5ce02533ce1ba15",
+    "id": "dlf-das-feature:56c7e3be-0ee8-54ff-a4d8-f9e3b8a6c2f6",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Feldstudie: Landwirtschaft - Vier Leben zwischen Tradition und Agribusiness",
+    "summary": "Wer in der Landwirtschaft arbeitet, muss nicht nur den Acker vor der Haustür bestellen, sondern auch einen globalisierten Markt auf dem Schirm haben. Vier ganz unterschiedliche Geschichten zeigen neue Wege zwischen Strukturwandel, Familientraditionen und Wachstumsdruck. Von Swantje Reuter www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-29T16:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/feldstudie-landwirtschaft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/2f/0a/99/a9/2f0a99a9-34a0-45d0-9669-fcdd31fe3d53/feldstudie-landwirtschaft-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/feldstudie_landwirtschaft_drk_20260829_1805_8424e5a8.mp3?refId=das-feature-104",
+    "duration": "55 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-das-feature:564d85f3-0d8a-5b21-a3ed-e54b7c2d3f7e",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Doomscroll - Wie TikTok Jugendliche im Wahlkampf beeinflusst",
+    "summary": "Warum wählen so viele Erstwähler*innen AfD? In Mecklenburg-Vorpommern und Sachsen-Anhalt könnte die Partei bald erstmals ein Parlament anführen. Was hat TikTok damit zu tun? In einem Experiment begleiten wir zwei Jugendliche beim Scrollen. Von Diana Köhler und Johanna Tirnthal www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-08-25T17:15:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/doomscroll-wie-tiktok-jugendliche-im-wahlkampf-beeinflusst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/6b/fa/e2/dc/6bfae2dc-4806-4217-ab60-d30fc6f97096/bild-fuer-feature-doomscroll-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/doomscroll_wie_tiktok_jugendliche_im_wahlkampf_beeinflusst_dlf_20260825_1915_6206b9a8.mp3?refId=das-feature-104",
+    "duration": "52 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:106df1848950657bac4f32a350561964",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
     "type": "rss",
-    "title": "Pluto: Kosmischer Außenseiter und Planet der Herzen",
-    "summary": "<p>Am 24.8.2006 verliert Pluto seinen Status als Planet. Der Himmelskörper bewegt Fans und Forscher - und entfacht eine anhaltende Debatte, was einen Planeten ausmacht.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Ralph Erdenberger:</strong><br><ul><li>warum die Entdeckung des Himmelskörpers Eris die Planetendefinition ins Wanken bringt,</li><li>weshalb Astronomen in Prag 2006 erbittert über die Zahl der Planeten streiten, </li><li>wie der junge Farmersohn Clyde Tombaugh Pluto aufspürt, </li><li>warum ein elfjähriges Mädchen den Namen \"Pluto\" vorschlägt, </li><li>welche Überraschungen die Raumsonde \"New Horizons\" auf dem fernen Himmelskörper entdeckt.</li></ul><br>Pluto gilt lange als neunter Planet unseres Sonnensystems. Doch als immer mehr ähnliche Objekte im äußeren Sonnensystem entdeckt werden, gerät die alte Ordnung unter Druck. Auf der Generalversammlung der Internationalen Astronomischen Union in Prag wird deshalb über eine neue Definition des Begriffs \"Planet\" abgestimmt.<br><br>Plutos Geschichte beginnt schon vor seiner spektakulären Entdeckung durch Clyde Tombaugh im Jahr 1930 und führt zu einer Debatte, die bis heute nicht vollständig verstummt ist. Selbst aktuelle Stimmen aus der Raumfahrt stellen die Entscheidung von 2006 noch infrage.<br><br><strong>Das ist unsere wichtigste Interviewpartnerin:</strong><br><ul><li>Prof. Dr. Susanne Hüttemeister (Leiterin des Planetariums Bochum)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/technik/weltraumforschung/astronomie/planetensystem-neuordnung-pluto-100.html\" rel=\"noopener\" target=\"_blank\">Warum ist der Pluto kein Planet mehr?</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-tycho-brahes-uraniborg-100.html\" rel=\"noopener\" target=\"_blank\">Der Sternenforscher mit der falschen Nase: Tycho Brahe</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-venustransit-beobachtung-forschungsprojekt-100.html\" rel=\"noopener\" target=\"_blank\">Wendepunkt in der Wissenschaft: Der Venustransit am 3.6.1769</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Ralph Erdenberger<br>Redaktion: Carolin Rückl, Sefa Inci Suvak",
-    "date": "2026-08-24T04:00:29.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-pluto-kosmischer-aussenseiter-und-planet-der-herzen-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-pluto-zwergplanet-108~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/05/159da690-a4f7-402b-ad06-cc97e91eabdb/159da690-a4f7-402b-ad06-cc97e91eabdb_MP3-128.mp3",
+    "title": "Ordentlich Dampf auf dem Kessel bei Denis Papin",
+    "summary": "<p>Ein französischer Entwickler präsentiert am 25. August 1681 in London seinen Dampfkochtopf - der große Knall bleibt aus.</p><br><br><p><strong>In diesem Zeitzeichen erzählen Markus Harmann und Joachim Heinz:</strong><br><ul><li>wie ein Sicherheitsventil den Dampfkochtopf überhaupt erst alltagstauglich macht, </li><li>warum Papin als Hugenotte seine französische Heimat dauerhaft hinter sich lässt, </li><li>weshalb Knochen, Geweihe und sogar Schildkrötenpanzer in seinem Apparat landen, </li><li>wie aus Forschungen zu Druck und Dampf eine frühe Dampfmaschine entsteht, </li><li>weshalb Papin lange in Vergessenheit gerät, obwohl sein Erbe bis heute fortlebt.</li></ul><br> Denis Papin gilt als Arzt, Mathematiker, Physiker und Erfinder zugleich. Seine Laufbahn führt ihn durch die europäischen Wissenschaftszentren seiner Zeit. In London, Venedig, Marburg und Kassel arbeitet er an den großen Fragen von Druck, Vakuum und Technik.<br><br>Als Papin seinen Dampfdrucktopf vor Gelehrten präsentiert, sorgt die Erfindung für Aufsehen. Doch der Kochtopf bleibt nur ein Teil seines Wirkens. Der Forscher konstruiert Tauchboote, entwickelt Pumpen und schafft mit seiner Kolbendampfmaschine eine technische Grundlage, die weit über seine Lebenszeit hinauswirkt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Bérénice Tarcher (Stadtführerin im französischen Val de Loire)</li><li>Heinz Jänsch (Physikprofessor, Philipps-Universität Marburg)</li><li>Sophie Gerber (Kuratorin und Kustodin, Technisches Museum Wien)</li><li>Denis Papin: A new Digester or Engine for softening Bones . London 1681</li><li> William Bray : The Diary of John Evelyn . London 1901</li><li>Karsten Porezag, Mitglied der Hessischen Historischen Kommission Darmstadt, arbeitet seit neun Jahren an einer umfangreichen Biografie zu Denis Papin, die 2027 oder 2028 erscheinen soll.</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li><a href=\"https://professorenkatalog.online.uni-marburg.de/de/pkat/idrec?id=8834\" rel=\"noopener\" target=\"_blank\">Denis Papin im Professorenkatalog der Philipps-Universität Marburg</a></li><li><a href=\"https://anno.onb.ac.at/cgi-content/anno-plus?aid=ljs&datum=1681&page=344&size=45\" rel=\"noopener\" target=\"_blank\">Vorstellung von Papins Dampfkochtopf im Journal des Savants</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autoren: Markus Harmann, Joachim Heinz<br>Redaktion: Emily Jeuckens, Sefa Inci Suvak",
+    "date": "2026-08-25T04:34:02.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-ordentlich-dampf-auf-dem-kessel-bei-denis-papin-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-dampfkochtopf-denis-papin-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/08/21/b2b15be5-d88a-4129-b069-5e19868faa65/b2b15be5-d88a-4129-b069-5e19868faa65_MP3-128.mp3",
     "duration": "15 Min",
     "tags": [
       "geschichte",
@@ -23,95 +75,43 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:ae345db4-947e-5b31-a6b5-888eb7211c31",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "id": "10-minuten-wissen-kunst:6a8caf456d62278f83ac70c7",
+    "source": "10-minuten-wissen-kunst",
+    "sourceTitle": "10 Minuten Wissen – Kunst",
     "type": "rss",
-    "title": "Kulturmeldungen 23.08.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:55:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/kulturmeldungen_23082026_dlf_20260823_1755_f26c8e4b.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
+    "title": "Beliebteste Folge: Yayoi Kusama – Pumpkin: Das gelbe Herz im Meer der Unendlichkeit",
+    "summary": "<p>Wir machen eine kurze Sommerpause: Diese Woche gibt es eine weitere unserer bisher meistgehörten Folgen.</p><p>Die Vertonung dieser Folge erfolgte unter Einsatz künstlicher Intelligenz. Dieser Podcast wird produziert, recherchiert und geschrieben vom kunstliebenden Team von Storywise Studios.</p><br><p>Auf der japanischen Kunstinsel Naoshima ruht das Werk <strong>„Pumpkin“</strong>. Es ist ein Anblick von fast surrealer Stille, der Besucher empfängt – ein bauchiger, erdverbundener Wächter, der dem Rhythmus der Gezeiten trotzt. Doch hinter der scheinbaren Ruhe der Skulptur und ihrem hypnotischen Muster aus schwarzen Punkten verbirgt sich eine Geschichte von existenzieller Dringlichkeit. Für Yayoi Kusama war dieser Kürbis nie bloß ein dekoratives Objekt, sondern ein seelischer Rettungsanker – ein vertrauter Begleiter aus den Gärtnereien ihrer Kindheit, der ihr half, die stürmischen Halluzinationen ihrer eigenen Psyche zu bändigen und in eine universelle Sprache zu übersetzen.</p><p>In dieser Folge von <strong>10 Minuten Wissen: Kunst</strong> entschlüsseln wir das radikale Universum einer Frau, die ihre tiefsten Ängste in ein globales Phänomen verwandelte. Wir begleiten Kusama von den strengen Traditionen Japans in das rücksichtslose New York der 60er-Jahre, wo sie sich als Pionierin gegen die Giganten der Kunstwelt behauptete. Wir erfahren, wie aus der obsessiven Wiederholung eines Musters die Heilung durch <strong>„Self-Obliteration“</strong> – die Selbstauslöschung im Unendlichen – wurde. Es ist die Reise einer Künstlerin, die heute, mit weit über 90 Jahren, die Welt mit ihren Punkten überzieht, um uns daran zu erinnern, dass wir alle Teil eines größeren, unendlichen Ganzen sind.</p><br><p><strong>Weiterführende Links zur Folge:</strong></p><p>• <a href=\"https://benesse-artsite.jp/en/story/20220930-2466.html\" rel=\"noopener\" target=\"_blank\"><strong>Das Kunstwerk im Blick:</strong> Hochauflösendes Bild von „Pumpkin“ am Gotanji-Steg</a></p><p>• <a href=\"https://de.wikipedia.org/wiki/Yayoi_Kusama\" rel=\"noopener\" target=\"_blank\"><strong>Die Künstlerin verstehen:</strong> Yayoi Kusama auf Wikipedia (Deutsch)</a></p><p>• <a href=\"https://yayoikusamamuseum.jp/en/\" rel=\"noopener\" target=\"_blank\"><strong>Offizielle Webseite:</strong> Das Yayoi Kusama Museum in Tokio</a></p><br><p>Kontakt & Unterstützung:</p><p>Hat euch die Folge gefallen? Dann hinterlasst uns bitte eine 5-Sterne-Bewertung und abonniert \"10 Minuten Wissen: Kunst\", um keine weitere Geschichte zu verpassen.</p><p>Für Fragen, Feedback oder Themenwünsche erreicht ihr uns unter: kunst@10minutenwissen.de</p><p><br></p><ul><li>Business: podcasts@storywise.studio</li></ul> <p> Hosted on Acast. See <a href=\"https://acast.com/privacy\" rel=\"noopener\" target=\"_blank\">acast.com/privacy</a> for more information.",
+    "date": "2026-08-24T22:00:00.000Z",
+    "url": "https://shows.acast.com/10-minuten-wissen-kunst/episodes/yayoi-kusama-pumpkin-das-gelbe-herz-im-meer-der-unendlichkei",
+    "image": "https://assets.pippa.io/shows/cover/1759800233199-17f9f158-baea-414d-be22-ac88c96306e8.jpeg",
+    "audio": "https://sphinx.acast.com/p/open/s/68e4767f25822f0dae6eabf0/e/6a8caf456d62278f83ac70c7/media.mp3",
+    "duration": "14 Min",
     "tags": [
-      "kultur",
-      "theater",
       "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
+      "kunstgeschichte",
+      "bildung",
+      "wissen",
+      "kultur"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Kunst",
+      "Geschichte",
+      "Bildung"
     ],
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:0ec30b67-6ef9-5c27-97f8-fef7b4f9491d",
+    "id": "dlf-kultur-heute:c1e4d09b-fd7b-5eb4-8bdb-649a6f41826e",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Zwischen Dialog und politischem Druck - Ein Museum für arabische Kunst in Israel",
-    "summary": "Poppendieck, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zwischen-dialog-und-politischem-druck-ein-museum-fuer-arabische-kunst-in-israel-102.html",
+    "title": "Kulturmeldungen 24.08.2026",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-24T15:56:25.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-24-08-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/zwischen_dialog_und_politischem_druck_ein_museum_fuer_dlf_20260823_1750_546a5b7e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ea63464b-0703-5faa-ba72-c602a6d94a9c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geteilte Verantwortung - Rafael Sanchez über seine Co-Intendanz in Zürich",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/geteilte-verantwortung-rafael-sanchez-ueber-seine-co-intendanz-in-zuerich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/geteilte_verantwortung_rafael_sanchez_ueber_seine_co_dlf_20260823_1741_59689ed5.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:f7f8829d-cb14-5f0e-9ea2-67c5547b4a08",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Third Person\" - Lorna Simpson in der Punta della Dogana in Venedig",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/third-person-lorna-simpson-in-der-punta-della-dogana-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/third_person_lorna_simpson_in_der_punta_della_dogana_in_dlf_20260823_1736_8d66fd3f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/kulturmeldungen_24082026_dlf_20260824_1756_26a17711.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
     "tags": [
       "kultur",
       "theater",
