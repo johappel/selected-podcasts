@@ -26,6 +26,263 @@
     "language": "de"
   },
   {
+    "id": "ndr-being-the-beatles:rnd0-060878865409149996",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "\"Nord bei Nordwest\": Jana Klinge über skurrile Kriminalfälle an der Ostseeküste",
+    "summary": "Wenn im fiktiven Örtchen Schwanitz mal wieder ermittelt wird, dann lockt das regelmäßig ein Millionenpublikum vor den Fernseher. Dort, an der idyllischen Ostseeküste Schleswig Holsteins, löst seit 2021 die Schauspielerin Jana Klinge als Oberkommissarin Hannah Wagner in der ARD-Erfolgsreihe \"Nord bei Nordwest\" knifflige und auch skurrile Kriminalfälle. An ihrer Seite sind der verdeckt arbeitende Hamburger Polizist Hauke Jacobs - dargestellt von Hinnerk Schönemann - und die Tierärztin Jule Christiansen, gespielt von Marleen Lohse. Die neue Folge \"Das dritte Grab\" läuft diesen Donnerstag.",
+    "date": "2026-08-26T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/nord-bei-nordwest-jana-klinge-ueber-skurrile-kriminalfaelle-an-der-ostseekueste,audio-3440886.html",
+    "image": "https://images.ndr.de/image/5928aaab-b306-4205-80f8-3fa9467ca782/AAABoD9Dm2c/AAABnSStX0g/1x1-big/screenshot-217792.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0826/AU-20260826-2045-5600.mp3",
+    "duration": "26 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:31abcb83-24ba-5edc-b981-7f67621e8f02",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 26.08.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:56:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-08-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/kulturmeldungen_26082026_dlf_20260826_1756_b1f36e80.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:21475e6e-c79b-5927-bb3b-93236327d2f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Tod des Zeichners, Karikaturisten und Kinderbuchautors Hans Traxler",
+    "summary": "Wegmann, Ute www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:51:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zum-tod-des-zeichners-karikaturisten-und-kinderbuchautors-hans-traxler-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/zum_tod_des_zeichners_karikaturisten_und_kinderbuchautors_dlf_20260826_1751_9ef0d7de.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7942f272-51ca-55a7-8620-79cce27fb76c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Beziehungsweise\" - Ein Literaturfestival in Berlin",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:45:45.000Z",
+    "url": "https://www.deutschlandfunk.de/beziehungsweise-ein-literaturfestival-in-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/beziehungsweise_ein_literaturfestival_in_berlin_dlf_20260826_1745_1feeeb75.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e3da6f8e-100c-53d1-9623-7cc8e87777f9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kostbare Objekte aus Gips - Blick in die Restauratoren-Werkstatt der SKD Dresden",
+    "summary": "Gerlach, Alexandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:40:40.000Z",
+    "url": "https://www.deutschlandfunk.de/kostbare-objekte-aus-gips-blick-in-die-restauratoren-werkstatt-der-skd-dresden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/kostbare_objekte_aus_gips_blick_in_die_restauratoren_dlf_20260826_1740_c6e88d82.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:428ad656-443b-5172-bc2a-b2531bac3efe",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Chronist der Gewalt - Trauer um den ungarischen Schriftsteller Péter Nádas",
+    "summary": "Wenzel, Tobias www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-08-26T15:35:32.000Z",
+    "url": "https://www.deutschlandfunk.de/chronist-der-gewalt-trauer-um-den-ungarischen-schriftsteller-p-ter-n-das-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/chronist_der_gewalt_trauer_um_den_ungarischen_schriftsteller_dlf_20260826_1735_31e43c91.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:df32a682-f2ab-5fc0-897a-7e590689251e",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: Der Heimatlose, Strange River, Staatsschutz",
+    "summary": "Jörg Albrecht www.deutschlandfunk.de, Corso",
+    "date": "2026-08-26T13:20:47.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-der-heimatlose-strange-river-staatsschutz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/neue_filme_der_heimatlose_strange_river_staatsschutz_dlf_20260826_1520_8959691d.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:55f56133-6ff8-5623-ae99-06606d7914ae",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kreative Krise? Die Gamescom zwischen Indie und AAA-Games",
+    "summary": "Nowak, Tobias www.deutschlandfunk.de, Corso",
+    "date": "2026-08-26T13:10:49.000Z",
+    "url": "https://www.deutschlandfunk.de/kreative-krise-die-gamescom-zwischen-indie-und-aaa-games-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/kreative_krise_die_gamescom_zwischen_indie_und_aaa_games_dlf_20260826_1510_bb583e59.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:3890c7b3-9a0e-50b3-8a80-061b4ba00739",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Dolly Parton als queere Ikone - Ben Miller vom Schwulen Museum Berlin",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-26T13:10:18.000Z",
+    "url": "https://www.deutschlandfunk.de/dolly-parton-als-queere-ikone-ben-miller-vom-schwulen-museum-berlin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/dolly_parton_als_queere_ikone_ben_miller_vom_schwulen_museum_dlf_20260826_1510_8f5d91c3.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeit-alles-gesagt:484742f8-9200-4af0-bbd7-e43b85bb75a2",
+    "source": "zeit-alles-gesagt",
+    "sourceTitle": "Alles gesagt? – DIE ZEIT",
+    "type": "rss",
+    "title": "Caroline Wahl, wie schreibt man Bestseller?",
+    "summary": "<p>Caroline Wahl wurde mit ihrem Debütroman <i>22 Bahnen</i> schlagartig zu einem der bekanntesten Namen der deutschsprachigen Gegenwartsliteratur. Das Buch stand monatelang auf der Bestsellerliste und verkaufte sich über eine Million Mal. Jetzt ist der »Shootingstar der deutschen Literatur«, wie der <i>Spiegel</i> schrieb, zu Gast im unendlichen Podcast.<br><br>\nIm Gespräch erzählt Caroline Wahl, wie sie aus Frust über ihre Arbeit in einem Verlag in Zürich ihren ersten Roman schrieb – in nur drei Monaten, abends und am Wochenende. Sie berichtet von der Resonanz auf die ersten Seiten, von der Auktion um das Manuskript, von ihrem kometenhaften Erfolg und von Lesereisen durch kleine Städte, von einsamen Hotelzimmern und Stofftieren als Begleitern unterwegs. Es geht um das Schreiben als Sprung in andere Lebensrealitäten, um die jungen Frauen in ihren Romanen, die sich unter schwierigen Bedingungen behaupten müssen, und um die Frage, warum gerade sie solche Figuren erzählt, obwohl sie selbst aus einer behüteten Familie stammt.<br><br>\nCaroline Wahl spricht über Erfolg und die Angst, ihn wieder zu verlieren, über Öffentlichkeit und die Zuschreibungen, die mit ihr einhergehen, über ihre Liebe zur Mathematik und über ihren neuen Roman: die Geschichte einer jungen Hochstaplerin, die mit wechselnden Identitäten durch soziale Welten driftet.<br><br>\nCaroline Wahl wurde 1995 in Mainz geboren, wuchs in Schriesheim bei Heidelberg auf und lebt heute in Kiel. Ihre Mutter war Grundschullehrerin, ihr Vater Chirurg. Früh fand sie über das Lesen zur Literatur; später arbeitete sie in Verlagen. Ihr neuer Roman <i>1999 Meter über dem Meer</i> erscheint am 26. August 2026 bei Rowohlt.</p>\n<p>Nach 2 Stunden und 58 Minuten beendet Caroline Wahl das Gespräch, denn das darf bei <i>Alles gesagt?</i> nur die Gästin.<br><br><i>Produktion: Pool Artists</i><br><i>Redaktion: Svenja Heinrichs, Sophie Hübner, Vincent Mank, Hannah Schraven, </i><br><i>Gästemanagement: Paula Georgi, Anna Vahldick</i><br><i>Fragen, Kritik, Anregungen? Schreiben Sie eine Mail an: </i><i>allesgesagt@zeit.de</i></a></p>\n<p><p>Seit dem 15.01.2025 sind Teile des Archivs von <i>Alles gesagt?</i> nur noch exklusiv mit einem Digital- oder Podcastabo der ZEIT zu hören – auf <a href=\"https://www.zeit.de/alles-gesagt\" rel=\"noopener\" target=\"_blank\"><strong>zeit.de</strong></a><strong>, </strong>auf Apple Podcasts und auf Spotify. Ein kostenloses Probeabo können Sie <a href=\"https://www.zeit.de/mehr-hoeren\" rel=\"noopener\" target=\"_blank\">hier</a> abschließen. Wie Sie Ihr Abo mit Spotify oder Apple Podcasts verbinden, lesen Sie <a href=\"https://premium.zeit.de/faq/audio#Audio_Spotify\" rel=\"noopener\" target=\"_blank\">hie<strong>r</strong></a><strong>.</strong></p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcastabo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcastarchiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenl<strong>os testen</strong></a><strong>.</strong><br>Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Ange<strong>bot</strong></a><strong>. </strong></p>",
+    "date": "2026-08-26T05:25:34.000Z",
+    "url": "http://www.zeit.de/serie/alles-gesagt",
+    "image": "https://image.simplecastcdn.com/images/d51f2924-ec7a-47a6-bcfe-0645013e5925/2ba64ac6-36cb-4c7b-b41c-565848179b0b/property-201-wei-c3-9fes-20z-20-5.jpg",
+    "audio": "https://zeitonline.simplecastaudio.com/01b8f64d-b315-4918-bacd-dbcfa0b0069f/episodes/b248d7ac-13cb-499a-9f7e-a43def157f9f/audio/128/default.mp3?aid=rss_feed&awCollectionId=01b8f64d-b315-4918-bacd-dbcfa0b0069f&awEpisodeId=b248d7ac-13cb-499a-9f7e-a43def157f9f&feed=Y_bRXaw2",
+    "duration": "2 Std 58 Min",
+    "tags": [
+      "interview",
+      "gesellschaft",
+      "kultur",
+      "zeit",
+      "langform",
+      "bildung"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:564d85f3-0d8a-5b21-a3ed-e54b7c2d3f7e",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -48,6 +305,31 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-13805283135413726",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Psychiater und Neurowissenschaftler Volker Busch über erholsamen Schlaf",
+    "summary": "Sein aktuelles Werk \"Gute Nacht, Gehirn\" setzt sich mit der Frage auseinander, wie wir zu erholsamem Schlaf gelangen können.",
+    "date": "2026-08-25T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/psychiater-und-neurowissenschaftler-volker-busch-ueber-erholsamen-schlaf,audio-3439338.html",
+    "image": "https://images.ndr.de/image/144c871b-1487-481a-9acd-bb3c05c054c5/AAABoDpEA54/AAABnSStX0g/1x1-big/screenshot-217374.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0826/AU-20260826-0845-1100.mp3",
+    "duration": "39 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
     ],
     "language": "de"
   },
@@ -258,110 +540,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:f1729905-6930-5bef-803f-f952dcab25df",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Ein Theater zieht um - Das Schauspiel Köln kehrt ins Herz der Stadt zurück",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-24T15:51:40.000Z",
-    "url": "https://www.deutschlandfunk.de/ein-theater-zieht-um-das-schauspiel-koeln-kehrt-ins-herz-der-stadt-zurueck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/ein_theater_zieht_um_das_schauspiel_koeln_kehrt_ins_herz_der_dlf_20260824_1751_f09f11a1.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:18f321b7-0d7f-5ee1-8345-a9805deec925",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Strange Rules\" - Ausstellung zu Protocol Art KI im Palazzo Diedo in Venedig",
-    "summary": "Broecking, Maxi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-24T15:46:50.000Z",
-    "url": "https://www.deutschlandfunk.de/strange-rules-ausstellung-zu-protocol-art-ki-im-palazzo-diedo-in-venedig-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/strange_rules_ausstellung_zu_protocol_art_ki_im_palazzo_dlf_20260824_1746_919c61ff.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3d0cf14f-d20a-5463-9030-ea7cbcbb2956",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Unternehmer und Kulturmäzen - Zum Tod von Klaus-Michael Kühne",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-24T15:41:40.000Z",
-    "url": "https://www.deutschlandfunk.de/unternehmer-und-kulturmaezen-zum-tod-von-klaus-michael-kuehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/unternehmer_und_kulturmaezen_zum_tod_von_klaus_michael_dlf_20260824_1741_aa997c73.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:46d531d0-5401-5137-af6a-960dc59f2fe9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Germanist und Autor Jurko Prochasko zum Unabhängigkeitstag der Ukraine",
-    "summary": "Pizzato, Lucca www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-24T15:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/germanist-und-autor-jurko-prochasko-zum-unabhaengigkeitstag-der-ukraine-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/24/germanist_und_autor_jurko_prochasko_zum_unabhaengigkeitstag_dlf_20260824_1735_21964612.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:d316e20b-01a4-5a34-a893-7fd3ae16a9f0",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -458,32 +636,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ae345db4-947e-5b31-a6b5-888eb7211c31",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 23.08.2026",
-    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-08-23T15:55:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-08-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/23/kulturmeldungen_23082026_dlf_20260823_1755_f26c8e4b.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -609,81 +761,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d601b798-7ab1-5213-baeb-1a8d4de4534b",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Trend zu Thalassophobia-Shorts - Die Angst vor dem Abgrund jetzt auch viral",
-    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
-    "date": "2026-08-21T13:24:24.000Z",
-    "url": "https://www.deutschlandfunk.de/trend-zu-thalassophobia-shorts-die-angst-vor-dem-abgrund-jetzt-auch-viral-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/21/trend_zu_thalassophobia_shorts_die_angst_vor_dem_abgrund_dlf_20260821_1524_9a9ddc75.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7d344405-d97f-5d06-8999-5ada44d77928",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Von Loriot lernen - Autor Tilman Birr zum 15. Todestag von Vicco von Bülow",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-08-21T13:15:03.000Z",
-    "url": "https://www.deutschlandfunk.de/von-loriot-lernen-autor-tilman-birr-zum-15-todestag-von-vicco-von-buelow-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/21/von_loriot_lernen_autor_tilman_birr_zum_15_todestag_von_dlf_20260821_1515_3da97ae4.mp3?refId=corso-104",
-    "duration": "16 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:410b1ad2-2826-5e6c-831e-a7b1b8d8192e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nach Konzert - 4 Jahre Haft für die iranische Sängerin Hiwa Sefisadeh",
-    "summary": "Zare, Susan www.deutschlandfunk.de, Corso",
-    "date": "2026-08-21T13:06:08.000Z",
-    "url": "https://www.deutschlandfunk.de/nach-konzert-4-jahre-haft-fuer-die-iranische-saengerin-hiwa-sefisadeh-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/21/nach_konzert_4_jahre_haft_fuer_die_iranische_saengerin_hiwa_dlf_20260821_1506_c39bc1fb.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -940,56 +1017,6 @@
     "language": "de"
   },
   {
-    "id": "ndr-being-the-beatles:rnd0-4103172139810718",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Der Talk mit Schauspieler Oliver Masucci und Sohn Vito Wiesner",
-    "summary": "Oliver Masucci hat es in der Verkörperung komplexer zeitgeschichtlicher Persönlichkeiten zur Meisterschaft gebracht. Sein eigenes Leben als Kind italienischer Gastarbeiter war von einer schwierigen Beziehung zum Vater geprägt. Er selbst versucht es nun beim eigenen Nachwuchs besser zu machen - und steht sogar mit Sohn Vito vor der Kamera. Ihr Film \"Adams Acht\" erzählt die Geschichte des legendären deutschen Ruder-Achters aus dem schleswig-holsteinischen Ratzeburg, der bei den Olympischen Spielen 1960 in Rom Gold errang. Auf dem Roten Sofa erzählen die beiden über ihre Vater-Sohn-Beziehung.",
-    "date": "2026-08-20T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/der-talk-mit-schauspieler-oliver-masucci-und-sohn-vito-wiesner,audio-3429734.html",
-    "image": "https://images.ndr.de/image/136fb380-b3e7-44b8-82fc-a843b1a357df/AAABoCAipnM/AAABnSStX0g/1x1-big/screenshot-214732.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0820/AU-20260820-2119-3000.mp3",
-    "duration": "31 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7758984288573996",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Bernadette Heerwagen über den Erfolg von der ZDF-Krimireihe \"München Mord\"",
-    "summary": "Bernadette Heerwagen ist verdientermaßen ein Publikumsliebling im deutschen Fernsehen. Die etwas schräge ZDF-Krimireihe \"München Mord\", in der die Schauspielerin als Kriminaloberkommissarin Angelika Flierl ermittelt, räumt auch nach produzierten 20 Folgen immer noch ganz gut bei den Zuschauerinnen und Zuschauern ab. Über das Erfolgsrezept wollen wir mit Bernadette Heerwagen auf dem Roten Sofa sprechen - aber auch darüber, warum sie aus Berlin auf einen alten Bauernhof im Allgäu gezogen ist.",
-    "date": "2026-08-18T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/bernadette-heerwagen-ueber-erfolg-von-der-zdf-krimireihe-muenchen-mord,audio-3425924.html",
-    "image": "https://images.ndr.de/image/f7c1396b-361e-4231-9633-ab578021780b/AAABoBYkWFE/AAABnSStX0g/1x1-big/screenshot-214008.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0819/AU-20260819-0907-3100.mp3",
-    "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2026-08-15-der-klang-der-vielfalt-drk-20260815-1805-ea4c3b84-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -1037,33 +1064,6 @@
     "category": [
       "Kunst",
       "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-alles-gesagt:9b2440a8-463c-4eb6-b4f9-afdc277dffdb",
-    "source": "zeit-alles-gesagt",
-    "sourceTitle": "Alles gesagt? – DIE ZEIT",
-    "type": "rss",
-    "title": "Katja Hoyer, wie zerbricht eine Demokratie?",
-    "summary": "<p>Sie ist eine der bekanntesten deutschen Historikerinnen und gilt in ihrer Wahlheimat Großbritannien als Deutschlanderklärerin. Sie wird immer dann besonders aufmerksam gelesen, wenn es um die Frage geht, wie Demokratien ins Wanken geraten. 2026 hat sie ein Buch zur Weimarer Republik veröffentlicht, in dem sie von der jungen Demokratie und deren Fall in den Nationalsozialismus erzählt. Jetzt ist Katja Hoyer zu Gast im unendlichen Podcast.<br><br>\nIm Gespräch erklärt sie, welche Lehren wir heute aus der Weimarer Republik ziehen können – und welche nicht. Sie erzählt, wie politische Radikalisierung nicht im Abstrakten, sondern im Alltag beginnt, und fragt, warum Menschen, die vorher eher unpolitisch waren, sich autoritären Bewegungen zuwenden. Ihr Buch »Weimar: Glanz und Grauen der deutschen Geschichte« berichtet auch anhand der Tagebücher des Weimarer Bürgers Carl Weirich von diesen Prozessen.<br><br>\nKatja Hoyer spricht auch über das Thema, mit dem sie international bekannt wurde: ihre Forschung zur DDR. Sie selbst ist 1985 in der ehemaligen Wilhelm-Pieck-Stadt Guben in der DDR geboren. Ihr Vater war Offizier in den Luftstreitkräften der NVA und Elektroingenieur, ihre Mutter Lehrerin. Sie berichtet von ihrer Schulzeit in Brandenburg, von ihrem »Dickschädel«, der ihr schon als Schülerin Ärger einbrachte, und davon, wie sie sich mit Harry Potter und BBC-Hörspielen selbst Englisch beibrachte. Heute lebt und schreibt sie in Großbritannien. Und berät König Charles in britisch-deutschen Fragen.<br><br>\nKatja Hoyers Buch »Beyond the Wall«, in Deutschland 2023 unter dem Titel »Diesseits der Mauer« erschienen, wurde in ihrer Wahlheimat viel gelesen und in Deutschland kontrovers diskutiert. Im Podcast spricht sie über ihre Methode, Geschichte nicht als Abfolge politischer Ereignisse, sondern über die Lebenswirklichkeiten einzelner Menschen zu erzählen – und warum das mitunter Diskussionen auslöst.<br>\n </p>\n<p>Nach 5 Stunden und 31 Minuten beendet Katja Hoyer das Gespräch, denn das darf bei »Alles gesagt?« nur die Gästin.</p>\n<p><br><i>Produktion: Pool Artists</i><br><i>Redaktion: Sophie Hübner, Hannah Schraven, Vincent Mank</i><br><i>Gästemanagement: Paula Georgi, Anna Vahldick</i><br>\nFragen, Kritik, Anregungen? Schreiben Sie eine Mail an: allesgesagt@zeit.de</a>.</p>\n<p><p>Seit dem 15.01.2025 sind Teile des Archivs von <i>Alles gesagt?</i> nur noch exklusiv mit einem Digital- oder Podcastabo der ZEIT zu hören – auf <a href=\"https://www.zeit.de/alles-gesagt\" rel=\"noopener\" target=\"_blank\"><strong>zeit.de</strong></a><strong>, </strong>auf Apple Podcasts und auf Spotify. Ein kostenloses Probeabo können Sie <a href=\"https://www.zeit.de/mehr-hoeren\" rel=\"noopener\" target=\"_blank\">hier</a> abschließen. Wie Sie Ihr Abo mit Spotify oder Apple Podcasts verbinden, lesen Sie <a href=\"https://premium.zeit.de/faq/audio#Audio_Spotify\" rel=\"noopener\" target=\"_blank\">hie<strong>r</strong></a><strong>.</strong></p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcastabo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcastarchiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenl<strong>os testen</strong></a><strong>.</strong><br>Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Ange<strong>bot</strong></a><strong>. </strong></p>",
-    "date": "2026-08-18T04:00:00.000Z",
-    "url": "http://www.zeit.de/serie/alles-gesagt",
-    "image": "https://image.simplecastcdn.com/images/d51f2924-ec7a-47a6-bcfe-0645013e5925/2ba64ac6-36cb-4c7b-b41c-565848179b0b/property-201-wei-c3-9fes-20z-20-5.jpg",
-    "audio": "https://zeitonline.simplecastaudio.com/01b8f64d-b315-4918-bacd-dbcfa0b0069f/episodes/aa46eaf2-21ad-4ad0-a32d-4f2a820b74f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=01b8f64d-b315-4918-bacd-dbcfa0b0069f&awEpisodeId=aa46eaf2-21ad-4ad0-a32d-4f2a820b74f6&feed=Y_bRXaw2",
-    "duration": "5 Std 31 Min",
-    "tags": [
-      "interview",
-      "gesellschaft",
-      "kultur",
-      "zeit",
-      "langform",
-      "bildung"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
       "Bildung"
     ],
     "language": "de"
