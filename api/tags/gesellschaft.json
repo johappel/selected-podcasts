@@ -26,6 +26,83 @@
     "language": "de"
   },
   {
+    "id": "dlf-corso:7435a394-0b8f-56a2-8021-b8244f41ee15",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Paul Banks, Interpol: \"Ich liebe Amerika und ich hasse, was da gerade passiert\"",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-29T13:35:17.000Z",
+    "url": "https://www.deutschlandfunk.de/paul-banks-interpol-ich-liebe-amerika-und-ich-hasse-was-da-gerade-passiert-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/paul_banks_interpol_ich_liebe_amerika_und_ich_hasse_was_da_dlf_20260829_1535_a8c20db1.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f05bcad3-326c-583d-91ed-e5cbb00c06a6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neues Album von Mine - Was bleibt, wenn die Lichter ausgehen?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-08-29T13:10:22.000Z",
+    "url": "https://www.deutschlandfunk.de/neues-album-von-mine-was-bleibt-wenn-die-lichter-ausgehen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/neues_album_von_mine_was_bleibt_wenn_die_lichter_ausgehen_dlf_20260829_1510_4d81e2df.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-03-26-zeitzeugen-im-gespraech-der-fotograf-thomas-struth-dlf-20260326-1915-3ef53cbd-mp3-refid-zeitzeugen-im-gespraech-102",
+    "source": "dlf-zeitzeugen-im-gespraech",
+    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fotograf Thomas Struth - \"Ich empfinde mich nicht als Chronist\"",
+    "summary": "Seit mehr als 40 Jahren dokumentiert Fotograf Thomas Struth die Welt - von Straßenzügen, Architektur bis zu Familienporträts. Besonders interessiert ihn das Verhältnis zwischen Individuum, Gesellschaft und dem Unbewussten. (Erstsendung am 28.3.26) Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
+    "date": "2026-08-29T09:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-fotograf-thomas-struth-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_0/5a/FILE_05a0ba12a187a952b23a1f5a07672ef2/zeitzeugen-im-gespraech-108-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/03/26/zeitzeugen_im_gespraech_der_fotograf_thomas_struth_dlf_20260326_1915_3ef53cbd.mp3?refId=zeitzeugen-im-gespraech-102",
+    "duration": "55 Min",
+    "tags": [
+      "zeitzeugen",
+      "geschichte",
+      "biografie",
+      "interview",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:f7516f06-7275-53cf-8ac3-c051022bf683",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -373,31 +450,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:3890c7b3-9a0e-50b3-8a80-061b4ba00739",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Dolly Parton als queere Ikone - Ben Miller vom Schwulen Museum Berlin",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-26T13:10:18.000Z",
-    "url": "https://www.deutschlandfunk.de/dolly-parton-als-queere-ikone-ben-miller-vom-schwulen-museum-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/26/dolly_parton_als_queere_ikone_ben_miller_vom_schwulen_museum_dlf_20260826_1510_8f5d91c3.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeit-alles-gesagt:484742f8-9200-4af0-bbd7-e43b85bb75a2",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -471,31 +523,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:fa9819a6-fbdb-5fd3-9a10-c37edcd68b57",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Unterwegs im Omegaverse - Seifenoper mit schwangeren KI-Werwölfen",
-    "summary": "Raabe, Mathis www.deutschlandfunk.de, Corso",
-    "date": "2026-08-25T13:24:16.000Z",
-    "url": "https://www.deutschlandfunk.de/unterwegs-im-omegaverse-seifenoper-mit-schwangeren-ki-werwoelfen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/25/unterwegs_im_omegaverse_seifenoper_mit_schwangeren_ki_dlf_20260825_1524_5417ee8c.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1191,60 +1218,6 @@
     "url": "https://www.deutschlandfunk.de/dorothee-holz-im-gespraech-mit-dem-ehem-ministerpraes-des-saarlands-peter-mueller-100.html",
     "image": "https://bilder.deutschlandfunk.de/d2/3b/97/07/d23b9707-5f75-410f-b2cb-f4b5a1ec0d56/peter-mueller-cdu-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2025/11/27/dorothee_holz_im_gespraech_mit_dem_ehem_ministerpraes_des_dlf_20251127_1915_30755871.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-03-26-zeitzeugen-im-gespraech-der-fotograf-thomas-struth-dlf-20260326-1915-3ef53cbd-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fotograf Thomas Struth - \"Ich empfinde mich nicht als Chronist\"",
-    "summary": "Seit mehr als 40 Jahren dokumentiert der Fotograf Thomas Struth die Welt um sich - von Straßenzügen, Architektur bis zu Familienporträts. Bei seiner Motivwahl interessiert ihn das Verhältnis zwischen Individuum, Gesellschaft und dem Unbewussten. (Erstsendung am 28.3.26) Koldehoff, Stefan www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-03-26T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-der-fotograf-thomas-struth-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_0/5a/FILE_05a0ba12a187a952b23a1f5a07672ef2/zeitzeugen-im-gespraech-108-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/03/26/zeitzeugen_im_gespraech_der_fotograf_thomas_struth_dlf_20260326_1915_3ef53cbd.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
-    "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2026-02-26-zeitzeugen-im-gespraech-die-ehem-oesterr-aussenministerin-dlf-20260226-1915-9d97f9bf-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
-    "type": "rss",
-    "title": "Benita Ferrero-Waldner - \"Ich hatte Angst, dass die Österreicher das nicht hinnehmen\"",
-    "summary": "Benita Ferrero-Waldner war Außenministerin in schwierigen Zeiten: Als ihre ÖVP 2000 eine Koalition mit der rechtspopulistischen FPÖ einging, ging die EU auf Distanz zum Mitgliedstaat Österreich - harte Lehrjahre für die leidenschaftliche Diplomatin. Michaelsen, Katrin www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-02-26T18:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zeitzeugen-im-gespraech-die-ehem-oesterr-aussenministerin-benita-ferrero-waldner-100.html",
-    "image": "https://bilder.deutschlandfunk.de/f2/b2/8c/36/f2b28c36-4918-43f6-89dd-68a008348df2/benita-ferrero-waldner-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/02/26/zeitzeugen_im_gespraech_die_ehem_oesterr_aussenministerin_dlf_20260226_1915_9d97f9bf.mp3?refId=zeitzeugen-im-gespraech-102",
     "duration": "55 Min",
     "tags": [
       "zeitzeugen",
