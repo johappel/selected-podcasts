@@ -1,5 +1,211 @@
 [
   {
+    "id": "dlf-kultur-heute:dbe0735d-cb01-5a5d-8967-6f0ba4dd9799",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 03.09.2026",
+    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:56:15.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/kulturmeldungen_03092026_dlf_20260903_1756_a635efdc.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:10abdcab-6542-5a31-9470-d9a81c2be32d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vaterland - Der neue Thomas Mann-Film von Pawel Pawlikowski kommt ins Kino",
+    "summary": "Wellinski, Patrick www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:50:30.000Z",
+    "url": "https://www.deutschlandfunk.de/vaterland-der-neue-thomas-mann-film-von-pawel-pawlikowski-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/vaterland_der_neue_thomas_mann_film_von_pawel_pawlikowski_dlf_20260903_1750_2a34d3b4.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c9e4298e-09f8-5152-907a-f70367836cf8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ende einer Ära - Das Goethe-Institut in Russland muss schließen",
+    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:43:22.000Z",
+    "url": "https://www.deutschlandfunk.de/ende-einer-aera-das-goethe-institut-in-russland-muss-schliessen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/ende_einer_aera_das_goethe_institut_in_russland_muss_dlf_20260903_1743_bc334e71.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ae057ba5-2f50-5a40-913c-33ff0f67f4b4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Clooney, Boyle und Herzog - Die Filmfestspiele in Venedig haben begonnen",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-03T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/clooney-boyle-und-herzog-die-filmfestspiele-in-venedig-haben-begonnen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/clooney_boyle_und_herzog_die_filmfestspiele_in_venedig_haben_dlf_20260903_1735_27313515.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:03b129c3-d6f3-5ca9-85eb-ab129332077c",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Deutschland, ich küss' dein Herz\" - Satirische Reisereportagen durch unser Land",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-09-03T13:15:00.000Z",
+    "url": "https://www.deutschlandfunk.de/deutschland-ich-kuess-dein-herz-satirische-reisereportagen-durch-unser-land-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/deutschland_ich_kuess_dein_herz_satirische_reisereportagen_dlf_20260903_1515_ae9c3da2.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1a391f19-2253-5e7a-8d4f-ee5543a4628d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gamerezension - \"The Blood of Dawnwalker\"",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-09-03T13:10:22.000Z",
+    "url": "https://www.deutschlandfunk.de/gamerezension-the-blood-of-dawnwalker-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/gamerezension_the_blood_of_dawnwalker_dlf_20260903_1510_718ae59e.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:985addd6-e9f6-52cd-b44c-53e3b698a6ea",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Glücksgefühle Festival - jetzt doch mit Alphaville?",
+    "summary": "Beger, Lars Hendrik www.deutschlandfunk.de, Corso",
+    "date": "2026-09-03T13:05:15.000Z",
+    "url": "https://www.deutschlandfunk.de/gluecksgefuehle-festival-jetzt-doch-mit-alphaville-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/gluecksgefuehle_festival_jetzt_doch_mit_alphaville_dlf_20260903_1505_b6894a46.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:97d1bf8e-41f1-5621-bcfd-645f4190634d",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Streit um den Wolf - Rotkäppchens Räuber",
+    "summary": "Wölfe dürfen in Deutschland jetzt wieder gejagt werden. Das freut Schäfer und Bauern, die das Raubtier fürchten - doch Naturschützer sind entsetzt. Das Verhältnis von Mensch und Wolf ist von Angst und Verehrung geprägt, nicht nur im Märchen.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(01:54) 1904: Der „Tiger von Sabrodt“ ist der vorerst letzte Wolf in Deutschland<br>(08:05) Systematische Ausrottung des Wolfs seit Jahrhunderten<br>(10:30) Von Rotkäppchen bis Werwölfe: Mythen und Märchen<br>(23:50) Die Wolfsjagd seit dem Mittelalter<br>(34:50) Gefundenes Fressen für Wölfe: Tote auf Schlachtfeldern<br>(39:30) Und heute? Der Wolf darf wieder gejagt werden<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li>Der Rechtshistoriker <strong>Andreas Deutsch</strong> ist Honorarprofessor an der Juristischen Fakultät der Universität Heidelberg, er forscht unter anderem zum Umgang mit dem Wolf in der Geschichte.</li></ul><br><ul><li><strong>Martin Rheinheimer</strong> ist Historiker und war Professor an der Syddansk Universitet in Esbjerg (Dänemark), er forscht zu Wölfen, Werwolfsglaube und der Ausrotten von Wölfen.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Christian Röther und Thomas Ibrahim<br>Faktencheck: Johanna Ploog und Florian Twente <br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/geschichte-der-tierethik-die-einen-gehen-gassi-die-anderen-zur-schlachtbank-dlf-90715214-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Tierethik</li><li><a href=\"https://www.deutschlandfunk.de/vegetarier-fleisch-essen-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Vegetarismus</li><li><a href=\"https://www.deutschlandfunk.de/artensterben-geschichte-mensch-katastrophe-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Artensterben</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-bundesjagdgesetz-1150486\" rel=\"noopener\" target=\"_blank\">Bundestag</a> stimmt Bejagung von Wölfen zu</li><li>Informationen beim Naturschutzbund <a href=\"https://www.nabu.de/tiere-und-pflanzen/saeugetiere/wolf/index.html\" rel=\"noopener\" target=\"_blank\">NABU e.V.</a> zu Wölfen in Deutschland</li></ul><br><strong>\"Der Rest ist Geschichte\" geht auf Tour: </strong><br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-09-03T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wolf-jagen-raubtier-geschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/db/de/b5/95/dbdeb595-5972-4f9a-a4db-a3c0801bdc8e/woelfe-jagd-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/03/streit_um_den_wolf_rotkaeppchens_raeuber_dlf_20260903_1300_77b0859f.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "46 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:4661f757-e874-5bb6-a94e-953519a01cc2",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -82,10 +288,10 @@
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Der Pianist und Komponist Hayato Sumino beim Luzern-Festival",
+    "title": "Der Pianist und Komponist Hayato Sumino beim Lucerne Festival",
     "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
     "date": "2026-09-02T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-pianist-und-komponist-hayato-sumino-beim-luzern-festival-100.html",
+    "url": "https://www.deutschlandfunk.de/der-pianist-und-komponist-hayato-sumino-beim-lucerne-festival-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/02/der_pianist_und_komponist_hayato_sumino_beim_luzern_festival_dlf_20260902_1741_c3eb9d32.mp3?refId=kultur-heute-104",
     "duration": "5 Min",
@@ -231,110 +437,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:e048db58-c3e6-5cce-9f1f-f7a101d82e1a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutsch-russisches Kulturabkommen auf der Kippe?",
-    "summary": "Balzer, Vladimir www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:52:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutsch-russisches-kulturabkommen-auf-der-kippe-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/deutsch_russisches_kulturabkommen_auf_der_kippe_dlf_20260901_1752_7fc7f324.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:beaeb766-3eff-5dbc-951e-7f0cc2462377",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die ungleichen Brüder Grimm - Publizist Tilman Spreckelsen",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-ungleichen-brueder-grimm-publizist-tilman-spreckelsen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/die_ungleichen_brueder_grimm_publizist_tilman_spreckelsen_dlf_20260901_1746_4dc5e0b1.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0c8b7b3b-1bed-5070-b600-5e63deb14803",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Spitzenkandidaten in Berlin - Kulturdebatte in der Deutschen Oper",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/spitzenkandidaten-in-berlin-kulturdebatte-in-der-deutschen-oper-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/spitzenkandidaten_in_berlin_kulturdebatte_in_der_deutschen_dlf_20260901_1741_29c3fe35.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0627a442-dc42-5fb6-aa97-afbe471f7f50",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wem gehört das kulturelle Erbe? Zur Wiederbeisetzung von Otto im Magdeburger Dom",
-    "summary": "Lindner, Nadine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-01T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wem-gehoert-das-kulturelle-erbe-zur-wiederbeisetzung-von-otto-im-magdeburger-dom-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/01/wem_gehoert_das_kulturelle_erbe_zur_wiederbeisetzung_von_dlf_20260901_1736_6bc25da0.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:360e037b-60ce-52d9-aec8-7654c0caa3fb",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -461,56 +563,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:4f18c156-7fb6-5f9d-a02d-5f6f10101056",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "75 Jahre LP in Deutschland - Peter Runge über Bio-Schallplatten aus Speiseöl",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-31T13:08:47.000Z",
-    "url": "https://www.deutschlandfunk.de/75-jahre-lp-in-deutschland-peter-runge-ueber-bio-schallplatten-aus-speiseoel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/75_jahre_lp_in_deutschland_peter_runge_ueber_bio_dlf_20260831_1508_3a225c71.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e1dc6798-1496-590c-8dc2-0aaafc732659",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Buch \"Poppkultur\" - Warum Sexfantasien wichtig sind",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-31T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/buch-poppkultur-warum-sexfantasien-wichtig-sind-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/31/buch_poppkultur_warum_sexfantasien_wichtig_sind_dlf_20260831_1506_999246e3.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-das-feature:56c7e3be-0ee8-54ff-a4d8-f9e3b8a6c2f6",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -533,31 +585,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7435a394-0b8f-56a2-8021-b8244f41ee15",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Paul Banks, Interpol: \"Ich liebe Amerika und ich hasse, was da gerade passiert\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-08-29T13:35:17.000Z",
-    "url": "https://www.deutschlandfunk.de/paul-banks-interpol-ich-liebe-amerika-und-ich-hasse-was-da-gerade-passiert-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/29/paul_banks_interpol_ich_liebe_amerika_und_ich_hasse_was_da_dlf_20260829_1535_a8c20db1.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1343,33 +1370,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:https-podcast-mp3-dradio-de-podcast-2026-07-02-us-praesidenten-33-franklin-d-roosevelt-der-erneuerer-dlf-20260702-1300-78fdbd42-mp3-refid-deutschlandfunk-der-rest-ist-geschichte-100",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Präsidenten (3/3) - Franklin D. Roosevelt: Der Erneuerer",
-    "summary": "Er bekämpfte die Weltwirtschaftskrise, die Nazis und die Kinderlähmung: Franklin D. Roosevelt war der einzige US-Präsident, der sich vier Mal wählen ließ. Die Weltordnung, die er erfunden hat, sollte er nicht mehr erleben. Er starb im Amt. Dritter Teil unserer Mini-Staffel über bedeutende US-Präsidenten.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:57) Franklin D. Roosevelt: Präsident im Rollstuhl<br>(07:00) Ungleiche Männer in gleicher Zeit: Roosevelt und Hitler<br>(13:30) Der einzige US-Präsident mit mehr als zwei Amtszeiten<br>(15:10) Roosevelts Rolle im Zweiten Weltkrieg<br>(22:05) Ideen für eine Weltordnung nach dem Weltkrieg<br>(25:40) Was von Roosevelt bleibt <br><br><strong>Unser Experte: </strong><br>Ronald D. Gerste beschäftigt sich als Historiker seit vielen Jahren mit der Geschichte der USA und vor allem mit US-Präsidenten. Er lebt und arbeitet in Washington D.C.. Autor unter anderem von: „Trinker, Cowboys, Sonderlinge. Die 12 seltsamsten Präsidenten der USA“ (Klett-Cotta, 2019).<br><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Produktion und Regie: Robert Hauspurg<br>Redaktion: Monika Dittrich <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-trump-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über US-Präsidenten</li><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-geschichte-washington-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über George Washington </li><li><a href=\"https://www.deutschlandfunk.de/usa-praesidenten-geschichte-lincoln-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Abraham Lincoln</li><li><a href=\"https://www.deutschlandfunk.de/kennedy-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über John F. Kennedy</li><li><a href=\"https://www.deutschlandfunk.de/nixon-usa-praesident-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Richard Nixon</li><li><a href=\"https://www.deutschlandfunk.de/obama-praesident-usa-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Barack Obama</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li><a href=\"https://avalon.law.yale.edu/\" rel=\"noopener\" target=\"_blank\">The Avalon Project </a>mit historischen Dokumenten zur US-Geschichte</li><li><a href=\"https://www.fdrlibrary.org/fdr-biography\" rel=\"noopener\" target=\"_blank\">FDR Presidential Library</a> - Präsidentenbibliothek mit Materialien über Franklin Delano Roosevelt</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/zeitkapsel-2\" rel=\"noopener\" target=\"_blank\">Zeitkapsel:</a> \"Achim, wie hast Du Menschen aus der DDR geschmuggelt?\" <br><br>+++++<br><br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-07-02T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/us-praesidenten-geschichte-roosevelt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/4c/1f/19/89/4c1f1989-ee1e-4b96-a028-3dfeee0b4c96/franklin-d-roosevelt-102-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/07/02/us_praesidenten_33_franklin_d_roosevelt_der_erneuerer_dlf_20260702_1300_78fdbd42.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "31 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
     ],
     "language": "de"
   },
