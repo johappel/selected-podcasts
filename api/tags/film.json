@@ -1,5 +1,109 @@
 [
   {
+    "id": "dlf-kultur-heute:528dec09-d2ff-5929-b18d-3519bd078f1c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 07.09.2026",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-07T15:56:15.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-07-09-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/kulturmeldungen_07092026_dlf_20260907_1756_5cbed219.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:712e6d96-b71c-5978-b955-e5400c3cd0be",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Filmfestspiele Venedig - Erste Favoriten im Wettbewerb",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-07T15:50:23.000Z",
+    "url": "https://www.deutschlandfunk.de/filmfestspiele-venedig-erste-favoriten-im-wettbewerb-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/filmfestspiele_venedig_erste_favoriten_im_wettbewerb_dlf_20260907_1750_3cbd4bd0.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:720bddc0-cb3c-5a77-8701-968457c7a542",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Worst case für Stiftung Gedenkstätten in Sachsen-Anhalt? Dir. Kai Langer im Ges.",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-07T15:44:50.000Z",
+    "url": "https://www.deutschlandfunk.de/worst-case-fuer-stiftung-gedenkstaetten-in-sachsen-anhalt-dir-kai-langer-im-ges-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/worst_case_fuer_stiftung_gedenkstaetten_in_sachsen_anhalt_dlf_20260907_1744_f3bc51a2.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:03d9f930-205f-5d8a-bfa7-2926becb11f4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zur Wahl in Sachsen-Anhalt - Soziologin und Podcasterin Katharina Warda im Gespr",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-09-07T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/zur-wahl-in-sachsen-anhalt-soziologin-und-podcasterin-katharina-warda-im-gespr-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/07/zur_wahl_in_sachsen_anhalt_soziologin_und_podcasterin_dlf_20260907_1735_debb3160.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:32e9dc33-c00c-5b76-8fad-8493d452f0c7",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -140,110 +244,6 @@
     "url": "https://www.deutschlandfunk.de/krieg-und-konfituere-george-grosz-x-daniel-richter-im-museum-in-hamm-100.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/krieg_und_konfituere_george_grosz_x_daniel_richter_im_museum_dlf_20260905_1743_da5da94b.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:88056e5c-2c69-5dfe-8470-602e7f7efc54",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Installation zur Eröffnung - Das Berliner Gorki-Theater unter neuer Leitung",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-05T15:38:12.000Z",
-    "url": "https://www.deutschlandfunk.de/installation-zur-eroeffnung-das-berliner-gorki-theater-unter-neuer-leitung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/installation_zur_eroeffnung_das_berliner_gorki_theater_unter_dlf_20260905_1738_2b5c10d3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:44d170fd-3deb-50f8-9d54-90ffd1874040",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Filmfestspiele Venedig - Die ersten Tage",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-05T15:31:18.000Z",
-    "url": "https://www.deutschlandfunk.de/filmfestspiele-venedig-die-ersten-tage-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/05/filmfestspiele_venedig_die_ersten_tage_dlf_20260905_1731_e259818c.mp3?refId=kultur-heute-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1863b684-f22d-5785-b7b1-a0f11114a53d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 04.09.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-04T15:56:53.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-114.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/das_ki_festival_im_staedel_museum_in_frankfurt_dlf_20260904_1756_434b7c63.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:70a690e1-212f-50a9-89a8-b0657d2cd88b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Das KI Festival im Städel Museum in Frankfurt - Projektleiterin Alexandra Reißer im Gespräch",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-04T15:52:06.000Z",
-    "url": "https://www.deutschlandfunk.de/das-ki-festival-im-staedel-museum-in-frankfurt-projektleiterin-a-reisser-im-ges-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/04/das_ki_festival_im_staedel_museum_in_frankfurt_dlf_20260904_1752_b448b96c.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
     "tags": [
       "kultur",

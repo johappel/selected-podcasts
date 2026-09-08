@@ -1,5 +1,30 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-6638541126898437",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Entertainer und Magier Marc Weide verzaubert nicht nur Bettina auf dem Roten Sofa",
+    "summary": "Kaninchen aus dem Hut hervorzuholen ist nicht so das Ding des Zauberkünstlers Marc Weide. Anstelle von angestaubten Zylindertricks gibt es bei ihm eine unterhaltsame Mischung aus verblüffender Mentalmagie und spontaner Comedy zu sehen. Darin ist Weide so gut, dass er sogar \"Weltmeister der Zauberkunst\" wurde. Seine Shows leben von der Nähe zum Publikum, das er mit viel Selbstironie in seine Illusionen einbindet. Weides aktuelles Programm heißt \"Magier des Monats\" und steht für gleichermaßen humorvolles wie magisches Entertainment, das sich an alle Generationen richtet - natürlich gibt es auf dem Roten Sofa eine Kostprobe. Außerdem wird uns Marc Weide von seinem nicht ganz leichten Weg erzählen, es vom kindlichen Traum zum Zauberkünstlerleben zu schaffen.",
+    "date": "2026-09-06T16:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/entertainer-und-magier-marc-weide-verzaubert-nicht-nur-bettina-auf-dem-roten-sofa,audio-3461820.html",
+    "image": "https://images.ndr.de/image/527fae5d-45a8-47e1-82ac-3012d8ef7bb0/AAABoHe9TiI/AAABnSStX0g/1x1-big/screenshot-223398.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0907/AU-20260907-0647-2300.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-806608886059533",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -111,31 +136,6 @@
     "image": "https://images.ndr.de/image/55feff6e-e0ca-4b3c-aa23-b1c62080059e/AAABoF3q8U8/AAABnSStX0g/1x1-big/screenshot-221222.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
     "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0901/AU-20260901-2151-1100.mp3",
     "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-34287601628272035",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Stoffwechselforscher Dr. Tim Hollstein: \"Übergewicht ist kein Charakterfehler\"",
-    "summary": "Als Oberarzt im Bereich Endokrinologie und Leiter der Ernährungsmedizin am Universitätsklinikum in Kiel behandelt Dr. Tim Hollstein Menschen mit chronischer krankhafter Fettleibigkeit. Für seine wissenschaftliche Arbeit wurde er vor zwei Jahren mit dem Forschungspreis der Deutschen Adipositas-Gesellschaft ausgezeichnet. Als Science-Slammer vermittelt er bei Kurzvortragswettbewerben seine Erkenntnisse auf unterhaltsame Art und Weise. Sein Credo: Übergewicht ist kein Charakterfehler, sondern schlicht und einfach Biologie. Darüber wollen wir auf dem Roten Sofa mehr erfahren.",
-    "date": "2026-08-31T16:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/stoffwechselforscher-dr-tim-hollstein-uebergewicht-ist-kein-charakterfehler,audio-3450452.html",
-    "image": "https://images.ndr.de/image/daf11765-b635-4493-879f-e0eba504860e/AAABoFklHe4/AAABnSStX0g/1x1-big/screenshot-220666.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/0901/AU-20260901-0752-4900.mp3",
-    "duration": "41 Min",
     "tags": [
       "beatles",
       "popgeschichte",
