@@ -26,6 +26,32 @@
     "language": "de"
   },
   {
+    "id": "dlf-das-feature:2c700129-b696-58af-b60a-45f9c5fa9884",
+    "source": "dlf-das-feature",
+    "sourceTitle": "Das Feature – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zwischen den Sirenen – Die vielen Gesichter des ukrainischen Widerstands",
+    "summary": "Viele Ukrainer verteidigen ihr Land nicht nur mit Cyberattacken und Waffen. Sie schreiben, malen, musizieren und beraten auch. Denn die Kultur des Landes muss sichtbar und hörbar bleiben, auch um den Menschen Mut und Hoffnung zu schenken. Von Philipp Landauer und Luca Faccio www.deutschlandfunkkultur.de, Feature",
+    "date": "2026-09-22T05:05:00.000Z",
+    "url": "https://www.hoerspielundfeature.de/zwischen-den-sirenen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/48/96/72/01/48967201-613f-4bab-93b8-4591c9803685/zwischen-den-sirenen-feature-bild-spielplatz-ukraine-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/zwischen_den_sirenen_die_vielen_gesichter_des_ukrainischen_dlf_20260926_1805_c8d1f1cb.mp3?refId=das-feature-104",
+    "duration": "54 Min",
+    "tags": [
+      "feature",
+      "dokumentation",
+      "gesellschaft",
+      "kultur",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Gesellschaft",
+      "Kultur",
+      "Feature"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2020-07-07-wie-wir-lernten-die-atomkraft-zu-lieben-dlf-20200707-1915-3342d45f-mp3-refid-das-feature-104",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -219,32 +245,6 @@
     "image": "https://bilder.deutschlandfunk.de/5d/c3/1f/38/5dc31f38-6f9c-4428-ae53-1da19f2ca8c2/doku-drops-15-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/04/doku_drops_15_innenansichten_drk_20260804_1805_cd4b90c6.mp3?refId=das-feature-104",
     "duration": "28 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-das-feature:https-podcast-mp3-dradio-de-podcast-2025-09-16-sesamstrasse-im-krieg-donald-trump-hat-angst-vor-elmo-mit-dlf-20250916-1915-ee8945d5-mp3-refid-das-feature-104",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "Sesamstraße im Krieg - Donald Trump hat Angst vor Elmo",
-    "summary": "Von den Taliban über Putin bis zu Trump: Die Sesamstraße steht plötzlich im Mittelpunkt der Weltgeschichte. Warum eine Kindershow, die Kindern elementare Bildung vermittelt, Erwachsene wie den amerikanischen Präsidenten ärgert. Von Alexander Bühler www.deutschlandfunkkultur.de, Feature",
-    "date": "2026-07-28T08:55:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/sesamstrasse-im-krieg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/72/9d/d5/ce/729dd5ce-2068-48c0-b4e2-f6e6fa695f9a/bild-collage-fuer-feature-donald-trump-hat-angst-vor-elmo-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/09/16/sesamstrasse_im_krieg_donald_trump_hat_angst_vor_elmo_mit_dlf_20250916_1915_ee8945d5.mp3?refId=das-feature-104",
-    "duration": "44 Min",
     "tags": [
       "feature",
       "dokumentation",
