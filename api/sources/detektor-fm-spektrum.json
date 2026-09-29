@@ -1,5 +1,29 @@
 [
   {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4064931",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Ersan Mondtag — Nackt im Museum",
+    "summary": "Nackte Körper\n<p>In Pferdekutschen, zu Fuß, gestützt oder auf dem Rücken werden die Alten und Gebrechlichen zum Wasser getragen. Im Gemälde „Der Jungbrunnen“ von Lucas Cranach dem Älteren steht eben jener im Zentrum. Er zeigt die Verwandlung alter und gebrechlicher Frauen in ihre jüngeren Ebenbilder. Manche steigen zögerlich ins Wasser, andere mit mehr Selbstbewusstsein, um dann erfrischt und verjüngt aus dem Wasser wieder hervorzugehen. Von einem — natürlich bekleideten — Kavalier werden sie daraufhin in ein Zelt geleitet, das sie prunkvoll gekleidet wieder verlassen, um den meist älteren Herren zu Tisch oder beim Tanz Gesellschaft zu leisten. Das Gemälde von 1546 spiegelt die Sehnsucht nach ewiger Jugend und Unsterblichkeit wider. Für Ersan Mondtag und Nadim Samman wurde es zum Ausgangspunkt für die Performance „Alternde Meister“ in der Gemäldegalerie, die im Rahmen der Berlin Art Week Anfang des Monats gezeigt wurde.</p>\n<p>Insgesamt 25 Performerinnen und Performer traten in dem Werk „Alternde Meister“ in einen Dialog mit den sie umgebenden Werken.</p>\nStaubige Körper\n<p>Der Körper mit all seinen gelebten Facetten, seiner Geschichte, seinem Werden und Vergehen spielte auch in Mondtags Werk „Monument eines unbekannten Menschen“ (2024) für den Deutschen Pavillon auf der 60. Venedig-Biennale vor zwei Jahren eine zentrale Rolle. Gemeinsam mit Yael Bartana vertrat Ersan Mondtag dort Deutschland und tauchte dafür tief in seine eigene Familiengeschichte ein. Mit „Monument eines unbekannten Menschen“ zeigte er ein sehr intimes und zugleich entlarvendes Werk über die deutsche Nachkriegszeit. Ersan Mondtag arbeitet als Regisseur, Bühnen- und Kostümbildner derzeit am Berliner Ensemble. Zuletzt inszenierte Mondtag im Rahmen der Salzburger Festspiele die Oper „Ariadne auf Naxos“ von Richard Strauss.</p>\n<p>In dieser Folge von „Kunst und Leben“, dem Podcast in Kooperation mit dem <em>Monopol-</em>Magazin, spricht <strong>Elke Buhr</strong>, Chefredakteurin des <em>Monopol</em>-Magazins mit <strong>Ersan Mondtag</strong> über seine Performance „Alternde Meister“, seinen Weg in die Kunst und seine Arbeit für den Deutschen Pavillon bei der 60. Venedig-Biennale.</p>",
+    "date": "2026-09-29T02:45:57.000Z",
+    "url": "https://feedpress.me/link/19604/17477028/monopol-podcast-ersan-mondtag",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/29092026monopol-podcastersan-mondtag.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/29092026monopol-podcastersan-mondtag.63.mp3",
+    "duration": "32 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4064802",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -203,30 +227,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1789/49/261809antrittbespoked.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1789/49/261809antrittbespoked.63.mp3",
     "duration": "1 Std 17 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4058337",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Mathematik in Aufruhr: Löste KI ein Millennium-Problem?",
-    "summary": "<p>Die Millennium-Probleme sind sieben besonders schwierige ungelöste mathematische Fragen, die das Clay Mathematics Institute im Jahr 2000 veröffentlichte und deren Lösung jeweils mit einer Million US-Dollar belohnt wird.</p>\n<p>Zu ihnen gehört auch das sogenannte Navier-Stokes-Problem. Die Navier-Stokes-Gleichungen beschreiben, wie sich Flüssigkeiten und Gase bewegen. Das mathematische Problem besteht vereinfacht darin, zu klären, ob diese Gleichungen unter bestimmten Bedingungen zu unendlichen Größen führen können — etwa zu einer unendlich hohen Geschwindigkeit an einem einzelnen Punkt. Bisher war das nur bei vereinfachten Varianten der Gleichungen nachweisbar.</p>\n<p>Am 8. September 2026 veröffentlichte der KI-Konzern OpenAI einen offenbar vollständigen Beweis für das Problem. Nach Angaben des Unternehmens wurde der Beweis mit einem KI-Modell entwickelt und anschließend mit einem Beweisprüfer verifiziert. Sollte sich der Beweis bestätigen, wäre nach der Poincaré-Vermutung erst das zweite Millennium-Problem gelöst.</p>\nStreit ums Millennium-Problem\n<p>Die Veröffentlichung wird allerdings von einem Streit überschattet. Dabei geht es um die Frage, ob OpenAI bei seiner Lösung die Arbeit zweier Mathematiker genutzt hat. Tristan Buckmaster und Levent Alpöge hatten fast ein Jahr an einem ungewöhnlichen Lösungsweg gearbeitet – und kurz nachdem OpenAI davon erfahren hatte, präsentierte auch OpenAI einen Beweis mit einem sehr ähnlichen Ansatz.</p>\n<p>Buckmaster vermutet deshalb, dass OpenAI irgendwie auf ihre Arbeit gestoßen sein könnte. OpenAI bestreitet das und weist den Vorwurf des Kopierens zurück. Gleichzeitig räumt das Unternehmen ein, dass anonymisierte Daten aus der Nutzung seiner Produkte möglicherweise zum Training der KI beigetragen haben könnten.</p>\n<p>Der Fall zeigt die großen Veränderungen, vor denen die Mathematik in Zeiten von KI steht. Einige sehen das ganze Fach durch künstliche Intelligenz als bedroht an.</p>\n<p><strong>Manon Bischoff</strong> schreibt bei <em>Spektrum der Wissenschaft</em> über Mathematik und KI und eine der Hosts im Podcast „Geschichten aus der Mathematik“. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt sie, warum die mutmaßliche Lösung des Millennium-Problems für so viel Streit sorgt und warum die Mathematik in Zeiten von künstlicher Intelligenz so massiv unter Druck gerät.</p>",
-    "date": "2026-09-18T03:00:43.000Z",
-    "url": "https://feedpress.me/link/19604/17465144/spektrum-podcast-ki-millennium-problem",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260918sdwki-knackt-millenialproblem.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260918sdwki-knackt-millenialproblem.63.mp3",
-    "duration": "27 Min",
     "tags": [
       "wissenschaft",
       "forschung",
