@@ -1,5 +1,105 @@
 [
   {
+    "id": "dlf-corso:14579ee2-50b0-5ee4-9056-7b9ec7b753a9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: DIGGER, CORPUS DELICTI und FRAU WINKLER VERLÄSST DAS HAUS",
+    "summary": "Jörg Albrecht www.deutschlandfunk.de, Corso",
+    "date": "2026-09-30T13:20:39.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-digger-corpus-delicti-und-frau-winkler-verlaesst-das-haus-102.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/neue_filme_digger_corpus_delicti_und_frau_winkler_verlaesst_dlf_20260930_1520_c6933b78.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:e7852677-dac5-58e3-95f1-b3c359c65dde",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme: DIGGER, CORPUS DELICTI und FRAU WINKLER VERLÄSST DAS HAUS",
+    "summary": "Jörg Albrecht www.deutschlandfunk.de, Corso",
+    "date": "2026-09-30T13:20:20.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-digger-corpus-delicti-und-frau-winkler-verlaesst-das-haus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/neue_filme_digger_corpus_delicti_und_frau_winkler_verlaesst_dlf_20260930_1520_38922c1d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:343f8fa1-2652-50c3-8032-d047f5b90dc0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gamesförderung - Bundesregierung antwortet auf AfD-Anfrage",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-09-30T13:10:28.000Z",
+    "url": "https://www.deutschlandfunk.de/gamesfoerderung-bundesregierung-antwortet-auf-afd-anfrage-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/gamesfoerderung_bundesregierung_antwortet_auf_afd_anfrage_dlf_20260930_1510_85940fa6.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0b7f3f3b-4bf7-55d6-acf0-e3edc795b59d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Satire und politische Debatten: Jens-Christian Rabe über sein Buch \"Komisch\"",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-09-30T13:05:00.000Z",
+    "url": "https://www.deutschlandfunk.de/satire-und-politische-debatten-jens-christian-rabe-ueber-sein-buch-komisch-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/satire_und_politische_debatten_jens_christian_rabe_ueber_dlf_20260930_1405_f5349fd5.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4016152",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -105,7 +205,7 @@
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
     "type": "rss",
     "title": "Energiewende in Afrika",
-    "summary": "Solar boomt in Afrika\n\n<p> Auf dem afrikanischen Kontinent boomt die Energiewende: Für dieses Jahr wird ein Wachstum der Kapazität um 17 Gigawatt prognostiziert. Rund 100.000 Solarpanele werden auf dem Kontinent jeden Tag auf Dächern und Freiflächen installiert. Die Voraussetzungen für die Energiewende sind in jedem Land unterschiedlich, genauso wie die Herausforderungen, die damit verbunden sind. In Madagaskar haben laut Weltbank 42,5 Prozent der Bevölkerung Zugang zu Elektrizität, in ländlichen Gegenden sind es 26,5 Prozent. Die staatliche Stromversorgung steht dabei vor einer besonderen Herausforderung: In den dünn besiedelten ländlichen Regionen ist es sehr aufwändig, überall ein klassisches, zentrales Stromnetz auszubauen. Deshalb vergibt die Regierung Konzessionen an Unternehmen wie Kintana, die den Zugang zu Elektrizität dezentral aufbauen sollen.</p>\n\nStromversorgung in ländlichen Gebieten aufbauen\n\n<p>Kintana hat eine Konzession dafür, ländliche Gemeinden dezentral durch Solaranlagen in sogenannten Mini- oder Nano-Grids mit Strom zu versorgen. Das bedeutet ganz konkret: Sie ziehen die ganze Infrastruktur hoch und sind anschließend auch der Stromanbieter. Das Konzessionsgebiet von Kintana umfasst nach Angaben des Unternehmens 340.000 Menschen. Außerdem soll ein Wasserkraftwerk gebaut werden. Kintana-CEO Moritz Brauchle sagt, dass das auch bei einer Konzession über 25 Jahre ein ambitioniertes Ziel sei.</p>\n\nWie die Energiewende in Madagaskar finanziert wird und wie es in Südafrika und Kenia läuft, darüber hat <em>detektor.fm</em>-Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“ mit ihrer Kollegin Marisa Becker gesprochen.",
+    "summary": "Solar boomt in Afrika\n\n<p>Auf dem afrikanischen Kontinent boomt die Energiewende: Für dieses Jahr wird ein Wachstum der Kapazität um 17 Gigawatt prognostiziert. Rund 100.000 Solarpaneele werden auf dem Kontinent jeden Tag auf Dächern und Freiflächen installiert. Die Voraussetzungen für die Energiewende sind in jedem Land unterschiedlich, genauso wie die Herausforderungen, die damit verbunden sind. In Madagaskar haben laut Weltbank 42,5 Prozent der Bevölkerung Zugang zu Elektrizität, in ländlichen Gegenden sind es 26,5 Prozent. Die staatliche Stromversorgung steht dabei vor einer besonderen Herausforderung: In den dünn besiedelten ländlichen Regionen ist es sehr aufwendig, überall ein klassisches, zentrales Stromnetz auszubauen. Deshalb vergibt die Regierung Konzessionen an Unternehmen wie Kintana, die den Zugang zu Elektrizität dezentral aufbauen sollen.</p>\n\nStromversorgung in ländlichen Gebieten aufbauen\n\n<p>Kintana hat eine Konzession dafür, ländliche Gemeinden dezentral durch Solaranlagen in sogenannten Mini- oder Nano-Grids mit Strom zu versorgen. Das bedeutet ganz konkret: Sie ziehen die ganze Infrastruktur hoch und sind anschließend auch der Stromanbieter. Das Konzessionsgebiet von Kintana umfasst nach Angaben des Unternehmens 340.000 Menschen. Außerdem soll ein Wasserkraftwerk gebaut werden. Kintana-CEO Moritz Brauchle sagt, dass das auch bei einer Konzession über 25 Jahre ein ambitioniertes Ziel sei.</p>\n\nWie die Energiewende in Madagaskar finanziert wird und wie es in Südafrika und Kenia läuft, darüber hat <em>detektor.fm</em>-Moderatorin Ina Lebedjew in dieser Folge von „Mission Energiewende“ mit ihrer Kollegin Marisa Becker gesprochen.",
     "date": "2026-09-29T04:00:32.000Z",
     "url": "https://feedpress.me/link/19604/17477120/mission-energiewende-energiewende-in-afrika",
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260929-02missionenergiewendeenergiewendeinafrika.63.mp3",
@@ -275,56 +375,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:b72bbc95-1b7d-50eb-8728-53173d2aeed2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Out into\" von Son Lux: Soundtrack für die unruhige Gegenwart",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-26T13:20:35.000Z",
-    "url": "https://www.deutschlandfunk.de/out-into-von-son-lux-soundtrack-fuer-die-unruhige-gegenwart-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/out_into_von_son_lux_soundtrack_fuer_die_unruhige_gegenwart_dlf_20260926_1520_d110bfc4.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a1300ebb-9656-539a-9fe5-19e7fa0673e5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Songwriterin Julia Jacklin: \"Ich mag mich heute viel mehr\"",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-09-26T13:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/songwriterin-julia-jacklin-ich-mag-mich-heute-viel-mehr-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/26/songwriterin_julia_jacklin_ich_mag_mich_heute_viel_mehr_dlf_20260926_1510_ba0ec813.mp3?refId=corso-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeit-wie-war-das-noch-mal:08f29eb2-d579-476d-acbd-f03b1cb68999",
     "source": "zeit-wie-war-das-noch-mal",
     "sourceTitle": "Wie war das noch mal? – DIE ZEIT",
@@ -347,56 +397,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:4601f082-657c-5743-9db7-c372018bfaed",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Was spielt man als Zugabe? Die Pulp-Doku \"What Do You Do For An Encore?\"",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-25T13:24:34.000Z",
-    "url": "https://www.deutschlandfunk.de/was-spielt-man-als-zugabe-die-pulp-doku-what-do-you-do-for-an-encore-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/was_spielt_man_als_zugabe_die_pulp_doku_what_do_you_do_for_dlf_20260925_1524_35c35259.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b22c66b8-97cf-57d7-a05e-f6073f29bff8",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Edith Löhle über ihre Satire \"Kurzer Prozess\" und Pumuckl, Alf Co. vor Gericht",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-09-25T13:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/edith-loehle-ueber-ihre-satire-kurzer-prozess-und-pumuckl-alf-co-vor-gericht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/25/edith_loehle_ueber_ihre_satire_kurzer_prozess_und_pumuckl_dlf_20260925_1515_bd210954.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
