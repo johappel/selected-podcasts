@@ -1,5 +1,233 @@
 [
   {
+    "id": "zeitzeichen:c42f07225e37f013a444d1522aa505e2",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "SOS: Ein Morsecode, der Leben rettet",
+    "summary": "<p>Lange funken Schiffe im Notfall unterschiedlich. Am 3.10.1906 trifft man sich, um ein einheitliches Signal zu vereinbaren. So rettet SOS noch heute Menschenleben - trotz technischen Fortschritts.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Stephan Beuting:</strong><br><ul><li>wie ein Schiffsunglück vor den Azoren zum ersten dokumentierten Einsatz des neuen Notsignals wird, </li><li>weshalb konkurrierende Funkgesellschaften die Seenotkommunikation erschweren, </li><li>warum SOS streng genommen keine Buchstabenfolge ist, </li><li>wie die Titanic-Katastrophe die Bedeutung von Notrufen auf See sichtbar macht.</li></ul><br>Zu Beginn des 20. Jahrhunderts verändert die Funktechnik die Schifffahrt grundlegend. Schiffe können erstmals über große Entfernungen miteinander kommunizieren. Damit wächst die Chance, im Notfall Hilfe zu rufen und Menschenleben zu retten.<br><br>Auf einer internationalen Funkkonferenz in Berlin einigen sich Vertreter von 27 Staaten auf ein einheitliches Notsignal. Aus dem markanten Morsezeichen entwickelt sich mit der Zeit weit mehr als ein technischer Standard: SOS wird zu einem weltweiten Symbol für Hilfe in höchster Not.<br><br><strong>Das sind unsere wichtigsten Interviewpartner:</strong><br><ul><li>Michael Straub (Amateurfunker und Morsespezialist) </li><li>Alexandre Monteiro (Instituto de Arqueologia e Paleociências, NOVA FCSH, Lissabon) </li><li>Christian Stipeldey (Deutsche Gesellschaft zur Rettung Schiffbrüchiger)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 07.01.1904: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/seenotruf106.html\" rel=\"noopener\" target=\"_blank\">Einführung des Seenotrufs CQD</a></li><li>Zeitzeichen 02.04.1872: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-samuel-morse-100.html\" rel=\"noopener\" target=\"_blank\">Der Erfinder und Maler Samuel Morse stirbt in New York</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Stephan Beuting<br>Redaktion: Carolin Rückl und Frank Zirpins",
+    "date": "2026-10-03T04:00:25.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-sos-ein-morsecode-der-leben-rettet-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-sos-notsignal-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/26/3ea15a0a-8b75-4ecc-9b7b-18af47ecf0e5/3ea15a0a-8b75-4ecc-9b7b-18af47ecf0e5_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:af14824d-8200-5437-9337-570464faea26",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 02.10.2026",
+    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:56:08.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/kulturmeldungen_02102026_dlf_20261002_1756_da72116f.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7ce5a822-20f3-534d-aaee-cfc3f7f5953c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Es gab keinen Aufschrei: Film über den Holocaustüberlebenden Leon Weintraub",
+    "summary": "Weinreich, Charlotte www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:51:43.000Z",
+    "url": "https://www.deutschlandfunk.de/es-gab-keinen-aufschrei-film-ueber-den-holocaustueberlebenden-leon-weintraub-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/es_gab_keinen_aufschrei_film_ueber_den_dlf_20261002_1751_7070692b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4a7a587f-6d19-5b3d-8ac9-b492ba397894",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bedrohliche Leere: Installationen von Mona Hatoum in Winterthur",
+    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:46:48.000Z",
+    "url": "https://www.deutschlandfunk.de/bedrohliche-leere-installationen-von-mona-hatoum-in-winterthur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/bedrohliche_leere_installationen_von_mona_hatoum_in_dlf_20261002_1746_566e88c9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5e3e3d12-ef4f-5cb7-a6b1-ddd9e7dd4383",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"House of Hopes\" - Rimini-Protokoll eröffnet die Berliner Volksbühne",
+    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:41:18.000Z",
+    "url": "https://www.deutschlandfunk.de/house-of-hopes-rimini-protokoll-eroeffnet-die-berliner-volksbuehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/house_of_hopes_rimini_protokoll_eroeffnet_die_berliner_dlf_20261002_1741_346bfb57.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:94de09ca-bcb8-5da6-864c-d429e8fa61d0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Stadtschloss Weimar - Die große Wiedereröffnung und die neue Dauerausstellung",
+    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-02T15:36:22.000Z",
+    "url": "https://www.deutschlandfunk.de/stadtschloss-weimar-die-grosse-wiedereroeffnung-und-die-neue-dauerausstellung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/stadtschloss_weimar_die_grosse_wiedereroeffnung_und_die_neue_dlf_20261002_1736_b569b551.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7ec0e533-6886-54c8-b72b-be4d40044489",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Berliner Ausstellung beleuchtet \"Tanzflächen der Wiedervereinigung\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:20:00.000Z",
+    "url": "https://www.deutschlandfunk.de/berliner-ausstellung-beleuchtet-tanzflaechen-der-wiedervereinigung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/berliner_ausstellung_beleuchtet_tanzflaechen_der_dlf_20261002_1520_d3a1738d.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7489608b-011c-55b8-ab07-41e663aae0cc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Corso-Podcast-Hendrik Bolz über ostdeutsche Literatur und sein Buch \"Aus Ruinen\"",
+    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:12:00.000Z",
+    "url": "https://www.deutschlandfunk.de/corso-podcast-hendrik-bolz-ueber-ostdeutsche-literatur-und-sein-buch-aus-ruinen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/corso_podcast_hendrik_bolz_ueber_ostdeutsche_literatur_und_dlf_20261002_1512_09e80ea6.mp3?refId=corso-104",
+    "duration": "13 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:10b3c6b5-92a3-58ad-a187-563125da84ef",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nach dem Skandal - Danger Dan veröffentlicht Album \"Keine Angst\"",
+    "summary": "Unger, Kolja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-02T13:07:00.000Z",
+    "url": "https://www.deutschlandfunk.de/nach-dem-skandal-danger-dan-veroeffentlicht-album-keine-angst-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/nach_dem_skandal_danger_dan_veroeffentlicht_album_keine_dlf_20261002_1507_86c1c644.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeitzeichen:1d3254e2020fd5f5acf8ba74bec0bbe1",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -18,6 +246,102 @@
     ],
     "category": [
       "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4070896",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Mutter, Vater, Unternehmerin, Unternehmer: Das ist nicht scharf zu trennen.",
+    "summary": "Erst raus, dann zurück im Familienunternehmen\n<p>Eine Unternehmensnachfolge verläuft selten nach Plan: Bei <strong>Gerda Söhngen</strong> nimmt sie zunächst einen deutlichen Umweg. Sie übernimmt das Familienunternehmen Keil Befestigungstechnik GmbH in dritter Generation. Eigentlich scheint der Weg vorgezeichnet: Der Großvater hat gegründet, später führen ihre Eltern die Firma gemeinsam, dann soll sie übernehmen. Doch zwei Jahre nach ihrem Einstieg zieht Söhngen die Reißleine.</p>\n<p>Sie versucht zunächst, sich in ein bestehendes System einzufügen, orientiert sich stark an ihren Eltern, an Mitarbeitenden und an Erwartungen von außen. Im Rückblick sagt sie: Genau darin lag das Problem. Je besser sie nach außen hineinpasste, desto weiter entfernte sie sich von der Frage, wie sie selbst eigentlich arbeiten und führen wollte.</p>\nEin Umweg, der keiner ist\n<p>Der Ausstieg fühlt sich für Söhngen zunächst wie ein Scheitern an.</p>\n<p>Sie macht sich mit einem Fitnessstudio selbstständig — und erlebt dort zum ersten Mal, wie es ist, wirklich nach den eigenen Vorstellungen zu entscheiden und zu führen. Zwei Jahre später kommt unerwartet die Frage ihrer Eltern: Willst du nicht doch zurück? Diesmal stellt Söhngen Bedingungen. Ihre Eltern ziehen sich komplett zurück, ein Co-Geschäftsführer kommt dazu, und sie beginnt 2019 noch einmal neu.</p>\n<p>In dieser neuen Folge des „brand eins Podcasts“ spricht Gerda Söhngen mit <em>detektor.fm</em>-Moderator <strong>Christian Bollert</strong> sehr offen über ihre besondere Nachfolgegeschichte, wie sich ihr Unternehmen seitdem verändert hat und warum in der Keil Befestigungstechnik GmbH die Maschinen Trudi, Bernd und Tadeus heißen.</p>",
+    "date": "2026-10-02T03:16:06.000Z",
+    "url": "https://feedpress.me/link/19604/17483804/brand-eins-podcast-gerda-soehngen",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/202609brandeinsgerdasoehngen.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/202609brandeinsgerdasoehngen.63.mp3",
+    "duration": "30 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4068686",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Mikrobiom: Die verborgene Welt, die uns alle verbindet",
+    "summary": "<p>Milliarden von Organismen bilden unser sogenanntes Mikrobiom: Sie leben auf und in unserem Körper. Dieses Mikrobiom besteht unter anderem aus Bakterien, Viren, Pilzen und Archaeen. Es unterstützt uns unter anderem bei der Verdauung und der Immunabwehr.</p>\n<p>Doch dabei handelt es sich nicht um ein abgeschlossenes System: Mikroorganismen werden ständig zwischen Menschen, Tieren, Pflanzen, Nahrungsmitteln und der Umwelt ausgetauscht. Neue Forschungsansätze betrachten deshalb die Gesundheit von Menschen auch im Kontext ihrer Umwelt und beispielsweise der Menschen und Tiere, mit denen sie leben.</p>\n<p>Bereits bei der Geburt wird das menschliche Mikrobiom durch die Mutter geprägt. Später spielen Familie, Haustiere und soziale Kontakte eine wichtige Rolle. Untersuchungen zeigen, dass Menschen, die zusammenleben, zahlreiche identische Bakterienstämme teilen. Je länger sie zusammenleben, desto größer wird die Übereinstimmung. Auch außerhalb von Haushalten können Mikroben übertragen werden.</p>\n<p>Besonders deutlich wird die Vernetzung bei Antibiotikaresistenzen. Der intensive Einsatz von Antibiotika — insbesondere in der Landwirtschaft — begünstigt resistente Bakterien. Diese können sich zwischen Tieren, Menschen und der Umwelt verbreiten: über Tierhaltung, Gülle, Böden, Gewässer und Lebensmittel. Resistente Gene können zudem zwischen Mikroorganismen ausgetauscht werden.</p>\nMikrobiom-Vielfalt in Gefahr\n<p>Gleichzeitig geht weltweit mikrobielle Vielfalt verloren. Ein industrialisierter Lebensstil, stark verarbeitete Ernährung, Desinfektionsmittel und die zunehmende Urbanisierung können dazu beitragen, dass nützliche Mikroorganismen verschwinden. Eine geringere Vielfalt des Darmmikrobioms wird mit verschiedenen chronischen Erkrankungen in Verbindung gebracht.</p>\n<p>Auch Böden und Pflanzen sind von dieser Entwicklung betroffen. Eine geringere mikrobielle Vielfalt kann Pflanzen anfälliger für Krankheitserreger machen und den Einsatz von Pestiziden fördern.</p>\n<p>Schließlich spielt auch die natürliche Umgebung eine Rolle. Studien zeigen, dass Kontakt mit vielfältigen natürlichen Lebensräumen das Mikrobiom beeinflussen kann. Künftig könnte deshalb auch die Gestaltung von Städten und Gebäuden stärker darauf ausgerichtet werden, mikrobielle Vielfalt zu ermöglichen.</p>\n<p>„Unser Mikrobiom hat eine sehr große Bedeutung für uns und unsere Gesundheit“, sagt <strong>Frank Schubert</strong>. Er ist Biologe und Redakteur bei <em>Spektrum der Wissenschaft</em>. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt Schubert, wie unser Mikrobiom funktioniert und warum es von weitaus größerer Bedeutung für unsere Gesundheit ist, als lange angenommen.</p>",
+    "date": "2026-10-02T03:00:53.000Z",
+    "url": "https://feedpress.me/link/19604/17483805/spektrum-podcast-mikrobiom",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/20261002spektrumpodcastmikrobiom.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/20261002spektrumpodcastmikrobiom.63.mp3",
+    "duration": "19 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4070716",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Oktober 2026: Live-Podcasts in Düsseldorf - Auf geht's nach Düsseldorf!",
+    "summary": "Zoon Podcast Week\n<p>Vom 09. bis 16. Oktober findet in Düsseldorf zum ersten Mal die Zoon Podcast Week statt. Das Festival veranstaltet eine Woche lang Live-Podcasts in der ganzen Stadt. Auch <em>detektor.fm</em>-Podcasts könnt ihr dort im entspannten Setting live miterleben: Los geht’s am 09.10.26 um 17 Uhr im TechHub.K67 mit dem brand eins Podcast. Host Christian Bollert begrüßt <strong>Greenlyte-CEO Florian Hildebrand</strong> auf der Bühne, um über das Fliegen der Zukunft zu sprechen. Um das klimaschädliche Kerosin im Flugverkehr bald ablösen zu können, arbeitet das Essener Unternehmen an langfristigen Alternativen und E-Fuels für Flugzeuge.</p>\n<p>Alle Fahrrad-Freundinnen und -Freunde erwartet ein besonderes Highlight des Antritt-Podcasts: Gerolf Meyer und Christian Bollert sind am 09.10.26 ab 20 Uhr im kultigen Fahrradladen „Schicke Mütze“ zu Gast und sprechen mit<strong> Kerstin und Carsten</strong> darüber, wie sie aus der „Mütze“ weit mehr als nur einen Ort gemacht haben, an dem man Fahrräder kauft. Denn der Laden ist Treffpunkt für Fahrradmenschen, Vorreiterinnen des vielfältigen Radsports, Ausgangspunkt für Touren, Teil der Düsseldorfer Radkultur und ein vitales Beispiel dafür, wie sich Fahrrad und Community zeitgemäß verbinden lassen.</p>\n<p>Auch unser Klimapodcast Mission Energiewende hat am 10.10.26 um 19 Uhr im Forum der Stadtsparkasse Düsseldorf einen besonderen Gast: Hostin Ina Lebedjew begrüßt Deutschlands bekanntesten Wissenschaftsjournalisten <strong>Ranga Yogeshwar</strong>. Gemeinsam sprechen sie über die Frage, wie Innovation unsere Gesellschaft verändert.</p>\n<p>Wer es nicht nach Düsseldorf zur Zoon Podcast Week schaffen sollte, der findet die Aufzeichnungen der Live-Podcasts natürlich bald im jeweiligen Podcast-Feed.</p>\nOktober-Tipps\n<p>In dieser Ausgabe von <em>detektor.fm destilliert </em>erzählt Ina Lebedjew außerdem von ihrem Besuch beim Extremwetterkongress in Hamburg, über den ihr bald mehr im Podcast Mission Energiewende erfahrt. Sie empfiehlt für die ersten gemütlichen Herbsttage den Film „Labor Day“ mit Kate Winslet. Christian hingegen schätzt den besonderen Einblick in den Alltag der CDU-Politiker, den die neue ZDF-Serie „Inside CDU“ liefert.</p>",
+    "date": "2026-10-02T03:00:23.000Z",
+    "url": "https://feedpress.me/link/19604/17483806/destilliert-oktober-2026-live-podcasts-in-duesseldorf",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/202610destilliert.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/202610destilliert.63.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:dfbd3e7d-3ac9-4142-9d01-bde0c3ac955a",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Interview: Warum muss es nicht das perfekte Rad sein, Maria?",
+    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Maria</strong> um eine Fahrradreise durch Slowenien.</p>\nFreiheit ohne perfektes Setup\n<p>Ein Fahrrad für 50 Euro, gekauft bei Kleinanzeigen eine Woche vor der Abreise. Dazu eine Handpumpe, ein Ersatzschlauch und ein bisschen Flickzeug. Viel mehr hat Maria nicht dabei, als sie im Juli 2026 mit dem Zug nach Ljubljana fährt. Von dort will sie mit dem Rad weiter nach Italien.</p>\n<p>Was folgt, ist alles andere als ein besonders gemütlicher Fahrradurlaub. Eine Route, die ihre Navi-App mit Fitnesslevel 3 bewertet, führt Maria über steinige Wege und durch abgelegene Wald- und Bergstrecken. Statt der angekündigten drei Stunden ist sie acht Stunden unterwegs. 800 Höhenmeter und Steigungen von bis zu 20 Prozent später, ist nicht nur Maria erschöpft, sondern auch das Fahrrad: Der Sattel rutscht herunter, das Schutzblech geht kaputt und irgendwann verliert auch der Hinterreifen Luft. Für Maria wird die Strecke trotzdem zu einem unvergesslichen Erlebnis.</p>\nEine Überraschung hinter jeder Kurve\n<p>Nach der anstrengenden Bergfahrt landet Maria viel zu spät bei ihrer Unterkunft und bei einem Ehepaar, das zufällig auch ziemlich fahrradbegeistert ist. Zuerst reparieren die Gastgeber ihr Rad, dann bekommt Maria noch ein selbstgekochtes Essen.</p>\n<p>Später geht es für Maria weiter zu Höhlen und nach Triest. Dort endet schließlich auch die gemeinsame Reise von Maria und ihrem Fahrrad. Warum es sich manchmal lohnt, nicht perfekt auf eine Fahrradreise vorbereitet zu sein, was <strong>Maria</strong> alles erlebt hat und warum ihr Rad heute vielleicht jemand ganz anderen durchs Gebirge transportiert, das verrät sie Gerolf in dieser Ausgabe des „Antritt“.</p>\nLive-Podcasts in Düsseldorf und Dresden\n<p>Hier gibt’s Tickets für unseren Live-Podcast am 9.10. in der Schicken Mütze in Düsseldorf: https://www.zoon-podcast-week.de/podcast/antritt</p>\n<p>Hier gibt’s Tickets für unseren Live-Podcast am 7.11. in der Scheune in Dresden: https://scheune.org/show/5668/antritt-der-fahrradpodcast.html</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>\nPassend zu unseren Folgen könnt ihr hier unsere Spotify-Playlist hören:\n<p> </p>",
+    "date": "2026-10-02T03:00:04.000Z",
+    "url": "https://feedpress.me/link/19604/17483807/antritt-maria-faehrt-mit-dem-50-euro-rad-durch-slowenien",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/antrittokt1maria.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/antrittokt1maria.63.mp3",
+    "duration": "36 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
       "Bildung"
     ],
     "language": "de"
@@ -400,136 +724,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:59d817a7-4beb-5ef4-b039-359ee49d4e15",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 30.09.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:57:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-09-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/kulturmeldungen_30092026_dlf_20260930_1757_d21ef2f1.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:788812a0-c9d8-5594-98c5-197d1c2cec24",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Zwischenraum / Hindurchzuschaun\" - Zilla Leutenegger im Museum Tinguely Basel",
-    "summary": "Gampert, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zwischenraum-hindurchzuschaun-zilla-leutenegger-im-museum-tinguely-basel-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/zwischenraum_hindurchzuschaun_zilla_leutenegger_im_museum_dlf_20260930_1751_a81cb976.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3bcdfc0f-82c6-5580-a6a5-a11373f1f555",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bruegels \"Schlaraffenland\" - Dank jüdischer Mäzene in Münchens Alter Pinakothek",
-    "summary": "Krone, Tobi www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/bruegels-schlaraffenland-dank-juedischer-maezene-in-muenchens-alter-pinakothek-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/bruegels_schlaraffenland_dank_juedischer_maezene_in_dlf_20260930_1746_4e1ae721.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:eb5792ed-74f5-5e9b-b28b-a69009e20b35",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nachwuchs in Bewegung - Das Tanztreffen der Jugend in Berlin",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/nachwuchs-in-bewegung-das-tanztreffen-der-jugend-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/nachwuchs_in_bewegung_das_tanztreffen_der_jugend_in_berlin_dlf_20260930_1741_f518d258.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:caaec9f3-3399-5bd1-b55a-6775f4cfcc85",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Diskurs Liebe Pop - Max Czollek lädt ins Haus der Kulturen der Welt",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-09-30T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/diskurs-liebe-pop-max-czollek-laedt-ins-haus-der-kulturen-der-welt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/30/diskurs_liebe_pop_max_czollek_laedt_ins_haus_der_kulturen_dlf_20260930_1736_5616f880.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:14579ee2-50b0-5ee4-9056-7b9ec7b753a9",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -688,31 +882,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/sehnsuchtsort_des_popkulturellen_lebens_unser_bild_von_new_dlf_20260929_1520_211baedf.mp3?refId=corso-104",
     "duration": "11 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:eba9de1d-bcb4-56e8-adae-6d7770020fcd",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aufwachsen in der digitalen Welt - die \"Social Studies\" von Lauren Greenfield",
-    "summary": "kröger,jasmin www.deutschlandfunk.de, Corso",
-    "date": "2026-09-29T13:10:35.000Z",
-    "url": "https://www.deutschlandfunk.de/aufwachsen-in-der-digitalen-welt-die-social-studies-von-lauren-greenfield-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/29/aufwachsen_in_der_digitalen_welt_die_social_studies_von_dlf_20260929_1510_bb6c1908.mp3?refId=corso-104",
-    "duration": "6 Min",
     "tags": [
       "kultur",
       "pop",
@@ -902,56 +1071,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:612e36d5-c556-5517-bd8c-97f6779a6560",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Angst zieht Camouflage an - Outfits für den 3. Weltkrieg auf TikTok",
-    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
-    "date": "2026-09-28T13:25:48.000Z",
-    "url": "https://www.deutschlandfunk.de/angst-zieht-camouflage-an-outfits-fuer-den-3-weltkrieg-auf-tiktok-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/angst_zieht_camouflage_an_outfits_fuer_den_3_weltkrieg_auf_dlf_20260928_1525_fa4fd4f6.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:ed382519-4f51-522d-acc0-b466258d2aef",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "MTV-Awards - Welche Bedeutung spielen Videos und virale Momente?",
-    "summary": "Müller, Paulus www.deutschlandfunk.de, Corso",
-    "date": "2026-09-28T13:10:33.000Z",
-    "url": "https://www.deutschlandfunk.de/mtv-awards-welche-bedeutung-spielen-videos-und-virale-momente-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/09/28/mtv_awards_welche_bedeutung_spielen_videos_und_virale_dlf_20260928_1510_8e4e2111.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "zeitzeichen:0da475ac385fb5bc221e3fb2002a12fc",
     "source": "zeitzeichen",
     "sourceTitle": "WDR Zeitzeichen",
@@ -1120,78 +1239,6 @@
     "language": "de"
   },
   {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4064802",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Der Moment, in dem man merkt: Jetzt bin ich Chefin.",
-    "summary": "<b>Übernehmen ohne Plan</b>\n<p>Ein Unternehmen vom eigenen Vater zu übernehmen, klingt erst einmal nach einem ziemlich klaren Weg. Bei<b> Dina Reit</b> war es das nicht. 2019 steigt sie mit 27 Jahren bei SK LASER ein, dem Maschinenbauunternehmen ihres Vaters. Der Plan für die Einarbeitung ist denkbar einfach: Sie sitzt mit im Büro und schaut zu. „Wir haben einen Tisch ins Büro gestellt und ich sollte nur zuhören und so quasi Erfahrung aufbauen. Das hat natürlich nicht funktioniert“, erzählt sie.</p>\n<p>Schon nach zwei Monaten ist Dina Reit, wie sie selbst sagt, „emotional komplett runtergerockt“. Der Jobeinstieg, der Maschinenbau und vor allem ihr eigener Anspruch, schnell alles verstehen und können zu müssen, bringen sie an den Punkt, an dem sie ihrem Vater sagt: Entweder sie verändern radikal etwas — oder sie steigt wieder aus.</p>\n<p>Der Tisch verschwindet, Dina Reit arbeitet stattdessen in Buchhaltung, Vertrieb, Produktion und Konstruktion mit. Vater und Tochter holen sich außerdem eine externe Beraterin, strukturieren die Übergabe und legen fest, wann Verantwortung, Anteile und schließlich auch das Chefbüro wechseln. Ihre Erfahrungen aus dieser Zeit bringt Dina Reit heute auch als Botschafterin der neu gegründeten brand eins Community ÜBERNEHMERTUM ein, in der sich Nachfolgerinnen, Nachfolger und eine neue Generation von Mittelstandsführungskräften vertraulich austauschen.</p>\n<b>Vom Zutrauen zum Selbstvertrauen</b>\n<p>Die Übergabe bei SK LASER dauert fast sechs Jahre. Erst Ende 2025 zieht sich Dina Reits Vater vollständig aus dem Unternehmen zurück. Dazwischen liegen viele kleine Momente, in denen aus der Tochter immer mehr die Unternehmerin wird: eigene Personalentscheidungen, schwierige Projekte, Kunden, die irgendwann gezielt zu ihr kommen — und die Erfahrung, dass Krisen nicht mehr sofort riesig wirken.</p>\n<p>In dieser neuen Folge des „brand eins Podcasts“ spricht Dina Reit mit <i>detektor.fm</i>-Moderator <strong>Christian Bollert</strong> darüber, was sie an der Selbstständigkeit gereizt hat und wie sich Führung verändert, wenn aus Verantwortung irgendwann echtes Ownership wird. Und sie erzählt, was sie heute anders macht als ihr Vater — und wie sie durch LinkedIn schon früh zum Gesicht von SK Laser geworden ist.</p>",
-    "date": "2026-09-25T03:30:47.000Z",
-    "url": "https://feedpress.me/link/19604/17473013/brand-eins-podcast-dina-reit-unternehmensnachfolge",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260925brandeinspodcastdinareit.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260925brandeinspodcastdinareit.63.mp3",
-    "duration": "30 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:b4f9efae-e1f5-4eaf-99e6-2c1ae3f27847",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Interview: Warum fährst du so gern Tandem, Wolfgang Haas?",
-    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Wolfgang Haas</strong> von „Santana Europe“ um den Reiz des Tandemfahrens und die Entwicklung der Tandemtechnik.</p>\nEine Tandemtour in Jugoslawien …\n<p>… und schon war es um ihn geschehen: Wolfgang Haas aus Rosenheim ist 1983 mit seiner damaligen Freundin auf seine erste Tandemreise aufgebrochen — und wenn man es poetisch formulieren will, dauert sie bis heute an. Denn am gemeinsamen Fahren auf einem Rad hat Haas seitdem einen Narren gefressen, obwohl es mit Kompromissen einhergeht. Oder vielleicht gerade deswegen?</p>\n<p>Wer Tandem fährt, muss kommunizieren. Stoker und Captain, also die hinten und die vorn sitzende Person, haben nicht nur für sich selbst Verantwortung, sondern immer auch für den anderen oder die andere. Das bedeutet, dass man gemeinsam einen Rhythmus finden muss. Ganz nach dem Motto „It makes or breaks relationships“ gelingt das oder eben nicht. Wenn es mit der Fahrt auf einem Rad klappt, lassen sich tolle Dinge erleben, weil man direkt kommunizieren kann und die Erfahrung auf dem Rad sofort teilt. Man muss sich nicht von schönen Ausfahrten erzählen — man erlebt sie einfach miteinander.</p>\nSpezielle Technik für doppelten Fahrspaß\n<p>Nur wenige Jahre nach der Jugoslawienreise hat Wolfgang Haas damit begonnen, Tandems des US-amerikanischen Herstellers „Santana“ zu importieren. Das kalifornische Unternehmen hat sich früh als Tandemspezialist einen Namen gemacht. Anders als viele Hersteller, die auch einen oder zwei Doppelsitzer im Programm haben, hat „Santana“ bis heute fast ausschließlich Tandems im Angebot — und Räder mit noch mehr Sätteln. Dementsprechend groß ist die Expertise in Sachen Tandemrahmen und -technik, die sich in einigen Aspekten von denen klassischer Fahrräder unterscheidet. Denn auf dem Tandem wirken viele Kräfte doppelt, zum Beispiel die Gewichts-, die Antriebs- und die Bremskraft. Das verlangt nach speziellen Lösungen im Rahmenbau und auch bei anderen Komponenten. Vor allem in den Neunzigerjahren haben sich viele Fahrradhersteller darum bemüht und entsprechende Räder angeboten. Diese Zeit könnte man auch als Hochzeit des Tandems bezeichnen.</p>\nTandemzukunft in Gefahr?\n<p>Seit einigen Jahren geht das Angebot an Tandems allerdings deutlich zurück. Viele Hersteller haben sie aus dem Programm genommen, weil das E-Bike einen klassischen Anwendungsfall in weiten Teilen ersetzt hat: Wo einstmals ein Tandem zum Ausgleich von Leistungsunterschieden angeschafft wurde, entscheidet man sich heute eher für ein E-Bike. Das ermöglicht zwar das gemeinsame Fahren auf zwei Rädern, das gemeinsame Fahrerlebnis auf einem Rad bleibt dabei natürlich auf der Strecke. Was diese Entwicklung für das Tandem bedeutet, wie er die Zukunft des Tandems einschätzt und was er in über 40 Jahren über das Tandem gelernt hat, darüber spricht <strong>Wolfgang Haas</strong> in dieser Ausgabe von „Antritt“ mit Gerolf.</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>In unserer eigenen „Antritt“-Community bei Steady könnt ihr die Folge immer schon früher hören. Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt. Schon 2,50 Euro pro Monat geben uns ordentlich Rückenwind! Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>\nPassend zu unseren Folgen könnt ihr hier unsere Spotify-Playlist hören:\n<p> </p>",
-    "date": "2026-09-25T03:00:53.000Z",
-    "url": "https://feedpress.me/link/19604/17473014/antritt-wolfang-haas-von-santana-europa-ueber-40-jahre-tandemerfahrung",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1790/85/20262507interviewhaas.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1790/85/20262507interviewhaas.63.mp3",
-    "duration": "1 Std 10 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4060668",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Warum Aale wie Drogen geschmuggelt werden",
-    "summary": "<p>Aalschmuggel ist ein extrem lukratives Geschäft. Der Europäische Aal (<em>Anguilla anguilla</em>) ist in seinem Bestand in den vergangenen Jahrzehnten um rund 90 Prozent zurückgegangen. Die Art gilt als vom Aussterben bedroht: Wanderhindernisse wie Staudämme, Wasserkraftwerke, verschlechterte Lebensräume, Umweltbelastungen und der Fischfang setzen ihm zu. In vielen Regionen gelten inzwischen strenge Fangverbote.</p>\n<p>Doch weil der Aal vielerorts als Delikatesse gilt, floriert weltweit ein Schwarzmarkt mit Profiten in Millionenhöhe. Besonders lukrativ ist der Aalschmuggel der Jungtiere, sogenannter Glasaale. Der Grund: Europäische Aale können bislang nicht wirtschaftlich in Gefangenschaft gezüchtet werden, deswegen sind Aquakulturen auf Wildfänge angewiesen.</p>\n<p>Ein Kilogramm Glasaale erzielt Preise zwischen 7.000 und 9.000 Euro. Organisierte kriminelle Netzwerke haben den Handel längst professionalisiert. Europol bezeichnet den Handel mit Glasaalen inzwischen als eines der größten Wildtierverbrechen Europas.</p>\nAalschmuggel als Bedrohung einer Art\n<p>Die Ermittler und Ermittlerinnen reagieren mit internationalen Polizeioperationen, doch der Aalschmuggel passt seine Methoden ständig an. In den vergangenen Jahren entstanden immer komplexere Schmuggelrouten über den Balkan, Nordafrika und inzwischen auch Osteuropa bis nach Asien. Die Tiere werden in Koffern oder zwischen anderen Lebendtiertransporten außer Landes gebracht. Dank ihrer Robustheit überstehen sie Transporte von bis zu 48 Stunden.</p>\n<p>Gleichzeitig warnen Forschende vor den ökologischen Folgen eines möglichen Aussterbens des Aals, der als Spitzenprädator eine wichtige Rolle in aquatischen Ökosystemen spielt. Sie fordern deshalb strengere internationale Schutzmaßnahmen, eine konsequentere Bekämpfung der organisierten Kriminalität und eine bessere Zusammenarbeit zwischen Naturschutz und Strafverfolgung.</p>\n<p><strong>Andreas Jahn</strong> ist Biologe und Redakteur bei <em>Spektrum der Wissenschaft</em>. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer geht er auf die Besonderheiten des Aals ein und erklärt, wie der internationale Aalschmuggel funktioniert.</p>",
-    "date": "2026-09-25T03:00:47.000Z",
-    "url": "https://feedpress.me/link/19604/17473015/spektrum-podcast-aalschmuggel-aale",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260925-01spektrumpodcastaalschmuggel.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260925-01spektrumpodcastaalschmuggel.63.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-zeitzeugen-im-gespraech:dcf03ae4-9234-5bc4-a7bd-7597b74aeb3c",
     "source": "dlf-zeitzeugen-im-gespraech",
     "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
@@ -1214,30 +1261,6 @@
     "category": [
       "Geschichte",
       "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4063936",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Die Hansestadt Werben (Elbe) in der Altmark als Vorbild",
-    "summary": "Werben (Elbe) — gallisches Dorf für Engagement?\n<p>Der ländliche Raum in Sachsen-Anhalt, beispielsweise in der Altmark, steht vor immensen Herausforderungen: Es fehlt oft an Infrastruktur, an Jobs, viele Schulen schließen, viele junge Leute ziehen in größere Städte. Es gibt jedoch positive Ausnahmen. Werben an der Elbe gilt seit einigen Jahren als besonders. Denn hier leisten die Leute ehrenamtlich Widerstand gegen den Verfall und haben damit die wohl kleinste Hansestadt der Welt überregional bekannt gemacht.</p>\n<p>Momentan leben noch etwa 600 Bürgerinnen und Bürger direkt im Kern der kleinen Stadt in der Altmark. Werben ist nur wenige Kilometer von Havelberg entfernt, hier treffen Havel und Elbe aufeinander. Die Region wird als Wische bezeichnet und ist von einem besonderen Mix der Natur geprägt, der Boden ist fruchtbar und bietet zahlreichen Tieren und Pflanzen einen beeindruckenden Lebensraum.</p>\n<p>Viele Menschen genießen die Natur und die Ruhe. Gleichzeitig sorgt es viele, wenn nach und nach kein Bus mehr fährt oder man schon ein Auto braucht, um sich frisches Brot zu holen.</p>\n<p>In Werben gibt es all diese Herausforderungen auch und gleichzeitig ist da Zuversicht, Begeisterung und Tatendrang. Auf die rund 600 Menschen kommen in Werben etwa 20 Vereine: Sie halten die alten Fachwerkhäuser instand, organisieren das Schützenfest, ein monatliches Kino, einen Chorabend oder zweimal im Jahr ein Biedermeier-Spektakel.</p>\nStörche und Anpack-Mentalität\n<p>Was macht hier den Unterschied? Warum ist die Region so lebenswert und lässt sich von diesem Enthusiasmus vielleicht sogar etwas für die Zukunft ländlicher Räume in Sachsen-Anhalt lernen? Mit diesen Fragen auf dem Gepäckträger haben sich die <em>detektor.fm</em>-Redakteure Leonard Schubert und Gerolf Meyer vom Fahrradpodcast „Antritt“ mit einem Tandem auf den Weg in die Wische gemacht.</p>\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm oder schickt uns eine Sprachnachricht über WhatsApp an die Nummer 0175 6807345. In unserem WhatsApp-Kanal bekommt ihr zusätzliche Infos. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</p>",
-    "date": "2026-09-24T12:17:51.000Z",
-    "url": "https://feedpress.me/link/19604/17472513/dazwischen-die-hansestadt-werben-elbe-in-der-altmark-als-vorbild",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260924-03dazwischenfolge28radtourwerben.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/09/260924-03dazwischenfolge28radtourwerben.63.mp3",
-    "duration": "41 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
       "Bildung"
     ],
     "language": "de"
@@ -1281,29 +1304,6 @@
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-paracelsus-102~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/07/3ac71e05-e708-42fb-8fca-82bb13d80cfe/3ac71e05-e708-42fb-8fca-82bb13d80cfe_MP3-128.mp3",
     "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:67a675d97c92b340d8e5a8f6f832523e",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Wie eine Expedition die USA erweitern sollte",
-    "summary": "<p>Durchschlagen bis zum Pazifik: Das war das Ziel der Lewis-und-Clark-Expedition, die am 23.9.1806 zu Ende ging. Die Crew sollte den Westen der USA erkunden und stieß dabei auf einige Probleme.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Nik Berger:</strong><br><ul><li>wie eine schwangere Shoshone-Frau eine wichtige und gleichzeitig bedauernswerte Teilnehmerin der Expedition ist,</li><li>warum die Expedition sich einen Monat lang an einer Strecke abarbeitet, für die Google Maps heute acht Stunden zu Fuß veranschlagt,</li><li>unter welch widrigen Umständen die Expedition im November 1805 den Pazifik erreicht,</li><li>warum die Lewis- und Clark-Expedition noch heute für viele indigene Stämme als große Katastrophe gilt.</li></ul><br>US-Präsident Thomas Jefferson möchte Anfang des 19. Jahrhunderts expandieren. Im April 1803 bekommt er die Gelegenheit dazu. Frankreich braucht Geld für den Krieg in Europa und möchte das sogenannte Louisiana-Territorium verkaufen. Ein riesiges Gebiet, mit dem sich die Fläche der jungen USA verdoppelt. Jefferson schlägt zu und will den Kontinent erkunden lassen.<br><br>Er beauftragt seinen Privatsekretär Meriwether Lewis und den ehemaligen Artillerie-Offizier William Clark mit einer Expedition, die den gesamten Lauf des Missouri erkunden soll. Ziel ist herauszufinden, ob es einen Wasserweg quer durch den Kontinent zum Pazifischen Ozean gibt, auf dem sich Handel treiben lässt.<br><br>Die Expedition ist mehr als zwei Jahre unterwegs und kehrt am 23. September 1806 zum Ausgangspunkt St. Louis zurück. Man findet zwar keine durchgehende Wasserroute zum Pazifik - die existiert halt auch nicht - knüpft aber viele Kontakte zu Indigenen, fertigt eine detaillierte Karte und sammelt unzählige wissenschaftliche Notizen über Tier- und Pflanzenwelt. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Craig Fehrman, US-Historiker</li><li>Craig Fehrman: This Vast Enterprise: A New History of Lewis & Clark. New York 2026.</li><li>William Clark/Meriwether Lewis: Journals of 1804-1806. In: Reuben Gold Thwaites (Hrsg.): Original Journals of the Lewis & Clark Expedition. Scituate, Massachusetts 2001 (Band 1-5)</li><li>Richard Stinshoff (Hrsg\": Mit dem Boot über die Rocky Mountains - Unter Wölfen, Büffeln, Bären und Indianern. Die Reise von Lewis und Clark. (Landesmuseum für Natur und Mensch: Schriftenreihe des Landesmuseums Natur und Mensch 40). Oldenburg 2005 </li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/thomasjefferson100.html\" rel=\"noopener\" target=\"_blank\">13.04.1743 - Geburtstag von Thomas Jefferson</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/natur/gebirge/rocky_mountains/rocky-mountains-besiedlung-102.html\" rel=\"noopener\" target=\"_blank\">Die Besiedlungsgeschichte der Rocky Mountains</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/voelker/indigene_voelker_nordamerikas/pwwbindigenevoelkernordamerikas100.html\" rel=\"noopener\" target=\"_blank\">Indianer / Indigene Völker Nordamerikas</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Nik Berger <br>Redaktion: Jakob Schiffer und David Rother",
-    "date": "2026-09-23T04:00:26.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-wie-eine-expedition-die-usa-erweitern-sollte-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-lewis-clark-expedition-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/09/18/1f14546d-a44f-40b2-bb54-0cba8b7d6246/1f14546d-a44f-40b2-bb54-0cba8b7d6246_MP3-128.mp3",
-    "duration": "14 Min",
     "tags": [
       "geschichte",
       "bildung",
