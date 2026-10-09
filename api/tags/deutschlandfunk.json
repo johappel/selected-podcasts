@@ -1,5 +1,186 @@
 [
   {
+    "id": "dlf-kultur-heute:92ab98a0-5533-5a7a-b6f9-c82580b84483",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 08.10.2026",
+    "summary": "Seidel, Änne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:56:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/kulturmeldungen_08102026_dlf_20261008_1756_2d51a0cc.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8dd12d19-f9c9-5365-8774-4ca680cf6966",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Kunst auf Kommando?\" - Ausstellung im militärhistorischen Museum in Dresden",
+    "summary": "Moritz, Alexander www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kunst-auf-kommando-ausstellung-im-militaerhistorischen-museum-in-dresden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/kunst_auf_kommando_ausstellung_im_militaerhistorischen_dlf_20261008_1750_4150b286.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e1fb3a38-18a6-511c-ad06-d026996c9e5d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Der Fälscher will seine Fälschung zurück - Wolfgang Beltracchi zieht vor den BGH",
+    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:44:15.000Z",
+    "url": "https://www.deutschlandfunk.de/der-faelscher-will-seine-faelschung-zurueck-wolfgang-beltracchi-zieht-vor-den-bgh-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/der_faelscher_will_seine_faelschung_zurueck_wolfgang_dlf_20261008_1744_b94f854f.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:588248c1-a744-5adc-b722-c721229dd316",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Stay between the lines\": Die kanadische Literaturnobelpreisträgerin Anne Carson",
+    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-08T15:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/stay-between-the-lines-die-kanadische-literaturnobelpreistraegerin-anne-carson-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/stay_between_the_lines_die_kanadische_dlf_20261008_1735_ff4d9b06.mp3?refId=kultur-heute-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:3f57c801-afc1-5c4a-a998-092be17e5a17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Festival of Animation Berlin: Wenn Stoppmotion-Filme die KI ausbremsen",
+    "summary": "Djukic, Pia; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-08T13:21:06.000Z",
+    "url": "https://www.deutschlandfunk.de/festival-of-animation-berlin-wenn-stoppmotion-filme-die-ki-ausbremsen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/festival_of_animation_berlin_wenn_stoppmotion_filme_die_ki_dlf_20261008_1521_14ce9846.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4655fb23-9cd0-59b8-a7c4-d44c3462d619",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Ein Kebab, der verbindet: Tarik Karas Gemüse-Döner kommt ins Wachsfigurenmuseum",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-10-08T13:05:30.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-kebab-der-verbindet-tarik-karas-gemuese-doener-kommt-ins-wachsfigurenmuseum-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/ein_kebab_der_verbindet_tarik_karas_gemuese_doener_kommt_ins_dlf_20261008_1505_cfc6b0e0.mp3?refId=corso-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:7acd6d43-2607-579a-9052-746029cb83e1",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Diplomatiegeschichte - Reden statt Schießen",
+    "summary": "„Lieber tausend Stunden verhandeln als eine Minute Krieg führen“: So oder so ähnlich soll das einmal Bundeskanzler Helmut Schmidt gesagt haben. Krisen und Kriege gab es damals auch. Trotzdem scheint es die Diplomatie heute schwerer zu haben.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(02:00) Die Regelwelt der Botschafter<br>(08:30) Das Wiener Übereinkommen von 1961<br>(15:02) Wurzeln der Diplomatie in der Antike<br>(22:30) Der Wiener Kongress (1814-1815)<br>(29:50) Diplomatie im Kalten Krieg<br>(39:30) Berufsdiplomaten und andere Unterhändler<br><br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li><strong>Volker Stanzel</strong> war Botschafter in Japan und China, er arbeitet heute zu politikwissenschaftlichen Themen.</li></ul><br><ul><li><strong>Susanne Schattenberg</strong> ist Professorin für Zeitgeschichte an der Universität Bremen, sie hat sich intensiv mit Diplomatiegeschichte beschäftigt.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Katharina Peetz und Robert Hauspurg<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/was-vom-friedensversprechen-uebrig-blieb-geschichte-der-vereinten-nationen-dlf-3cf09424-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die Vereinten Nationen</li><li><a href=\"https://www.deutschlandfunk.de/schenken-geschichte-des-gebens-und-nehmens-dlf-1d26a175-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Schenken und Geschenkediplomatie</li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li><a href=\"https://www.bpb.de/kurz-knapp/hintergrund-aktuell/507328/das-wiener-uebereinkommen-ueber-diplomatische-beziehungen/\" rel=\"noopener\" target=\"_blank\">Wiener Übereinkommen von 1961</a> - Informationen bei der Bundeszentrale für politische Bildung</li><li>Informationen beim Auswärtigen Amt über <a href=\"https://www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/voelkerrecht-internationales-recht/diplomaten-und-konsularrecht-2162952\" rel=\"noopener\" target=\"_blank\">Diplomaten- und Konsularrecht</a></li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://1.ard.de/punkteu?cross-promo\" rel=\"noopener\" target=\"_blank\">punktEU</a> - der Europa-Podcast<br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-10-08T11:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/diplomatie-geschichte-krieg-verhandeln-100.html",
+    "image": "https://bilder.deutschlandfunk.de/b0/23/e9/2d/b023e92d-12bd-4e45-818b-d33cb7b4c0a2/auswaertiges-amt-102-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/08/diplomatiegeschichte_reden_statt_schiessen_dlf_20261008_1300_8e355e25.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "49 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:6e92b425-4b4a-5c76-8ea8-0c2095f46fdf",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -231,110 +412,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:396a8683-4822-5727-9be6-5aab10352b8d",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Es war einmal in Amerika\" - Der deutsche Blick auf die Kunstfreiheit in den USA",
-    "summary": "Keim, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/es-war-einmal-in-amerika-der-deutsche-blick-auf-die-kunstfreiheit-in-den-usa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/es_war_einmal_in_amerika_der_deutsche_blick_auf_die_dlf_20261006_1751_1907e55d.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:227f0352-4ce5-553f-b690-3455536f5d99",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schillernd wie seine Romanhelden - Britischer Bestsellerautor Jeffrey Archer tot",
-    "summary": "Röhling, Lisa-Maria www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schillernd-wie-seine-romanhelden-britischer-bestsellerautor-jeffrey-archer-tot-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/schillernd_wie_seine_romanhelden_britischer_bestsellerautor_dlf_20261006_1746_740635f4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c588a8b5-74f4-5e08-b881-f58e3d1880ab",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutscher Buchpreis für Shida Bazyars Roman \"Die Lücken\"",
-    "summary": "Drees, Jan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutscher-buchpreis-fuer-shida-bazyars-roman-die-luecken-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/deutscher_buchpreis_fuer_shida_bazyars_roman_die_luecken_dlf_20261006_1741_3905067f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e08750a8-adee-56c7-af37-3a7defae552e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Literarischer Ausblick auf die Frankfurter Buchmesse",
-    "summary": "Bonhage, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-06T15:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/literarischer-ausblick-auf-die-frankfurter-buchmesse-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/06/literarischer_ausblick_auf_die_frankfurter_buchmesse_dlf_20261006_1736_b503742d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:d68b1695-3fa1-5e05-9c70-79d198af2634",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -472,56 +549,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/05/ein_meister_seines_fachs_ausstellung_ueber_den_anime_dlf_20261005_1510_995c7c97.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:5b79e144-6d6d-517e-a4d3-27835ff07c6e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Popkultur - Archäologische Funde aus der Zukunft",
-    "summary": "Es ist das Jahr 2626. Ein Team aus Historikern macht einen besonderen Fund. Mithilfe einer Zeitmaschine nähern sie sich einer interessanten Kunstepoche des 20. und 21. Jahrhunderts. Der sogenannten Popkultur. Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-10-03T13:05:26.000Z",
-    "url": "https://www.deutschlandfunk.de/corso-spezial-popkultur-archaeologische-funde-aus-der-zukunft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/40/91/39/28/40913928-73c4-45e5-923b-9e00a4900070/blick-zurueck-auf-die-popkultur-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/03/corso_spezial_popkultur_archaeologische_funde_aus_der_dlf_20261003_1505_7fc33b77.mp3?refId=corso-104",
-    "duration": "50 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7ec0e533-6886-54c8-b72b-be4d40044489",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Berliner Ausstellung beleuchtet \"Tanzflächen der Wiedervereinigung\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-10-02T13:20:00.000Z",
-    "url": "https://www.deutschlandfunk.de/berliner-ausstellung-beleuchtet-tanzflaechen-der-wiedervereinigung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/02/berliner_ausstellung_beleuchtet_tanzflaechen_der_dlf_20261002_1520_d3a1738d.mp3?refId=corso-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "pop",
@@ -1357,33 +1384,6 @@
     "image": "https://bilder.deutschlandfunk.de/d1/d1/c0/cf/d1d1c0cf-e254-4ac5-9352-2b9e38f7eebb/papst-rueckansicht-pforte-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/13/macht_der_kirche_wie_paepste_politik_machen_dlf_20260813_1300_e1a9b75e.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
     "duration": "50 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:6a6c3e82-c24b-545f-b2fa-30776010fc80",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Afghanistan - Das Regime der Taliban",
-    "summary": "Vor fünf Jahren übernahmen die islamistischen Taliban die Macht in Afghanistan - schon zum zweiten Mal. Sie herrschen mit brutaler Gewalt und berufen sich auf die Geschichte. Darunter leiden Millionen Menschen, vor allem Frauen und Mädchen.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br> <br>(01:58) Eindrücke aus Afghanistan unter den Taliban <br>(06:03) Die Wissenschaft der \"Talibanologie\" <br>(10:30) 1919: Afghanistan wird unabhängig <br>(13:15) 1979: Einmarsch der Sowjetunion und Widerstand der Mudschahedin<br>(20:53) Im afghanischen Bürgerkrieg gewinnen die Taliban an Stärke<br>(26:46) 1996: Die Taliban übernehmen erstmals die Macht <br>(32:22) Nach den 9/11-Anschlägen: USA und Verbündete greifen Taliban und al-Qaida an <br>(36:47) Entmachtung der Taliban und Neuordnung Afghanistans durch den Westen <br>(41:01) USA ziehen aus Afghanistan ab - Taliban übernehmen 2021 erneut die Macht<br> <br><strong>Unsere Gäste in dieser Folge: </strong><br> <br><ul><li><strong>Katrin Eigendorf</strong> ist Internationale Sonderkorrespondentin des ZDF. Die Kriegsberichterstatterin war schon mehrfach in Afghanistan. </li></ul><br><ul><li>Der Friedens- und Konfliktforscher <strong>Conrad Schetter</strong> ist Direktor des Bonn International Centre for Conflict Studies (bicc). </li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Jörg Biesler <br>Skript, Regie und Produktion: Sonja Ernst und Thomas Ibrahim <br>Faktencheck: Paulina Lange und Florian Twente<br>Redaktion: Monika Dittrich und Christian Röther<br> <br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/islam-kalifat-religion-herrschaft-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über das islamische Kalifat </li><li><a href=\"https://www.deutschlandfunk.de/iran-diktatur-proteste-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die islamistische Diktatur im Iran</li><li><a href=\"https://www.deutschlandfunk.de/kaschmir-geschichte-indien-pakistan-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Pakistan, Indien und den Kaschmir-Konflikt</li></ul> <br><strong>Weiterführende Links:</strong><br> <br><ul><li>Ausführlicher <a href=\"https://www.bpb.de/themen/islamismus/dossier-islamismus/520566/die-taliban/\" rel=\"noopener\" target=\"_blank\">Artikel</a> unseres Gesprächspartners Conrad Schetter über die Taliban</li><li><a href=\"https://www.bpb.de/themen/kriege-konflikte/dossier-kriege-konflikte/155323/afghanistan/\" rel=\"noopener\" target=\"_blank\">Hintergrundtext</a> der Bundeszentrale für politische Bildung über den Konflikt um Afghanistan</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/1001-nacht-100.html\" rel=\"noopener\" target=\"_blank\">1001 Nacht</a> - die zweite Staffel. Schahrasad erzählt um ihr Leben – und wir hören zu.<br> <br>„<strong>Der Rest ist Geschichte“ live!</strong><br> <br>Am 12. September 2026 sind wir live in Bamberg, wir sprechen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>. <br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-06T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/afghanistan-taliban-islamisten-dschihad-100.html",
-    "image": "https://bilder.deutschlandfunk.de/bd/d6/fa/06/bdd6fa06-0f00-4faa-9747-34b0ac8b1d8c/taliban-kaempfer-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/06/maechtige_islamisten_afghanistan_unter_den_taliban_dlf_20260806_1300_faa9b217.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "46 Min",
     "tags": [
       "geschichte",
       "zeitgeschichte",
