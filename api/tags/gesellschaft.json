@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:545aedb6-8ebc-543e-986b-8099b8f34154",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Disco und Dandiya - Wie Religion für Indiens GenZ zum Rave wird",
+    "summary": "Bodewein, Lena www.deutschlandfunk.de, Corso",
+    "date": "2026-10-19T13:20:34.000Z",
+    "url": "https://www.deutschlandfunk.de/disco-und-dandiya-wie-religion-fuer-indiens-genz-zum-rave-wird-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/disco_und_dandiya_wie_religion_fuer_indiens_genz_zum_rave_dlf_20261019_1520_02752998.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:6113e9a7-d6b7-5556-92d7-da84cd2c417f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gut geklaut ist halb viral - Warum Creator*innen ständig dieselben Witze machen",
+    "summary": "Plodroch, Ina www.deutschlandfunk.de, Corso",
+    "date": "2026-10-19T13:15:19.000Z",
+    "url": "https://www.deutschlandfunk.de/gut-geklaut-ist-halb-viral-warum-creator-innen-staendig-dieselben-witze-machen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/gut_geklaut_ist_halb_viral_warum_creatorinnen_staendig_dlf_20261019_1515_8e742a5e.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:f663cc94-6fc9-5ade-966b-cf3d8aaa5605",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Deep-Fakes und digitale Gewalt - Was bringt das geplante Gesetz?",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-19T13:06:00.000Z",
+    "url": "https://www.deutschlandfunk.de/deep-fakes-und-digitale-gewalt-was-bringt-das-geplante-gesetz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/19/deep_fakes_und_digitale_gewalt_was_bringt_das_geplante_dlf_20261019_1506_f12932e8.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:4779c0df-8439-5da3-bc4e-95644568b8ca",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -158,8 +233,8 @@
     "summary": "Grünes Kerosin, schwarze Zahlen?\n<p>E-Fuels gelten für viele als Hoffnungsträger für eine klimafreundlichere Luftfahrt. Doch bislang sind die synthetischen Kraftstoffe teuer, ihre Herstellung verschlingt viel Energie, und produziert werden nur geringe Mengen. Greenlyte, ein Start-up aus Essen, will das ändern. Es will synthetisches Kerosin herstellen, das irgendwann sogar günstiger ist als fossiler Flugzeugtreibstoff. Wie kann das gehen? Für <strong>Florian Hildebrand,</strong> Mitgründer und Geschäftsführer von Greenlyte, entscheidet sich genau daran die Zukunft der Technologie: „ Am Ende funktioniert ein E-Fuel nur, wenn es wirtschaftlich ist.“</p>\n<p>Greenlyte hat ein Verfahren entwickelt, das CO₂ aus der Umgebungsluft gewinnt und mit Wasserstoff zu synthetischen Kraftstoffen verarbeitet. Der entscheidende Vorteil soll darin liegen, dass die energieintensiven Produktionsschritte dann stattfinden, wenn Strom aus Sonne und Wind besonders günstig ist. 2027 soll im nordrhein-westfälischen Marl eine Anlage in industriellem Maßstab in Betrieb gehen.</p>\nGreenlyte: Vom Start-up zur E-Fuel-Industrie\n<p>Der Krieg im Nahen Osten und die zeitweise Blockade der Straße von Hormus haben gezeigt, wie abhängig die Luftfahrt von fossilen Energieträgern und geopolitischen Krisen ist. Für Florian Hildebrand ein weiteres Argument, auf alternative Kraftstoffe zu setzen. Doch um diese in großen Mengen und zu konkurrenzfähigen Preisen herzustellen, braucht es vor allem eines: Kapital. „Damit das Thema langfristig am Markt wirklich funktionieren kann, muss ich aus dieser Innovation am Ende ein Infrastrukturprojekt machen“, erläutert Florian Hildebrand.</p>\n<p>Er spricht in dieser neuen Folge des brand eins Podcasts mit <i>detektor.fm</i>-Moderator Christian Bollert darüber, wie das gelingen kann und welche Lehren sich aus weniger erfolgreichen E-Fuel-Projekten ziehen lassen. Und warum die Technologie aus Deutschland kommen soll, die großen Produktionsanlagen aber vermutlich anderswo stehen werden.</p>",
     "date": "2026-10-16T03:30:33.000Z",
     "url": "https://feedpress.me/link/19604/17498710/brand-eins-florian-hildebrand-greenlyte-zoon-podcast-week",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261016brandeinspodcastflorianhildebrand.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261016brandeinspodcastflorianhildebrand.63.mp3",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261016brandeinspodcastflorianhildebrand-2.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261016brandeinspodcastflorianhildebrand-2.63.mp3",
     "duration": "31 Min",
     "tags": [
       "wissenschaft",
@@ -247,56 +322,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-corso:fd1c5e45-21b4-51bf-9d14-7e987972840e",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "100 Jahre Foucault - Wie der Philosoph den Pop geprägt hat",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-15T13:15:12.000Z",
-    "url": "https://www.deutschlandfunk.de/100-jahre-foucault-wie-der-philosoph-den-pop-gepraegt-hat-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/100_jahre_foucault_wie_der_philosoph_den_pop_gepraegt_hat_dlf_20261015_1515_0af5e77d.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:996051a4-177a-51de-b795-d80ee5751be4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Schulproteste in Frankreich - Neue Ästhetiken des Widerstandes?",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-15T13:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/schulproteste-in-frankreich-neue-aesthetiken-des-widerstandes-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/15/schulproteste_in_frankreich_neue_aesthetiken_des_dlf_20261015_1506_0d9f5c04.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "detektor-fm-spektrum:https-detektor-fm-p-4080048",
     "source": "detektor-fm-spektrum",
     "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
@@ -368,31 +393,6 @@
     "category": [
       "Wissenschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0eee5224-d2cb-512b-9e1e-24e38d5fe1dc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Machen Schönheitseingriffe die Schauspielerei kaputt?",
-    "summary": "von Hirsch, Mia www.deutschlandfunk.de, Corso",
-    "date": "2026-10-14T13:25:00.000Z",
-    "url": "https://www.deutschlandfunk.de/machen-schoenheitseingriffe-die-schauspielerei-kaputt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/14/machen_schoenheitseingriffe_die_schauspielerei_kaputt_dlf_20261014_1525_e6afd60c.mp3?refId=corso-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
