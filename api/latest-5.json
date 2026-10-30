@@ -1,126 +1,125 @@
 [
   {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2025-10-25-wolfgang-labuhn-im-gesproech-mit-dem-ehemaligen-raf-mitglied-dlf-20251025-1105-b69641f6-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "id": "dlf-kultur-heute:38f17693-0c08-50ac-be75-c36e27000c40",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "RAF - Silke Maier-Witt: \"Die Brutalität hat mich nicht kalt gelassen\"",
-    "summary": "Silke Maier-Witt tritt als Studentin der Roten Armee Fraktion bei. Nach ihrer Loslösung taucht sie mit Hilfe der Stasi in der DDR unter. Mit dem Fall der Mauer wird sie enttarnt und verhaftet. Im Gespräch redet Sie über ihre Rolle in der RAF. (Erstsendung 25.10.25) Labuhn, Wolfgang www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-10-29T10:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wolfgang-labuhn-im-gesproech-mit-dem-ehemaligen-raf-mitglied-silke-maier-witt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/f1/41/82/5f/f141825f-a0fb-4d58-801c-a6ddbbb8e4e3/silke-maier-witt-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/10/25/wolfgang_labuhn_im_gesproech_mit_dem_ehemaligen_raf_mitglied_dlf_20251025_1105_b69641f6.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
+    "title": "Kulturmeldungen 29.10.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-29T16:56:02.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/kulturmeldungen_29102026_dlf_20261029_1756_7ebdef1e.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
     "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5a9750ab-675b-5102-8634-76a94ccc5167",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Alle betroffen - Nichts gewusst?\" Viktoria Kamuf über Erinnerung an den NSU",
+    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-29T16:45:59.000Z",
+    "url": "https://www.deutschlandfunk.de/alle-betroffen-nichts-gewusst-viktoria-kamuf-ueber-erinnerung-an-den-nsu-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/alle_betroffen_nichts_gewusst_viktoria_kamuf_ueber_dlf_20261029_1745_f5bcdcf8.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:d13d8dbb-8af4-558d-a9b5-c5d7ad269fae",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mehr als Miss Marple - Eine Londoner Ausstellung über Agatha Christie",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-29T16:41:19.000Z",
+    "url": "https://www.deutschlandfunk.de/mehr-als-miss-marple-eine-londoner-ausstellung-ueber-agatha-christie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/mehr_als_miss_marple_eine_londoner_ausstellung_ueber_agatha_dlf_20261029_1741_30b99b4f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:479bbfa6-7ae9-5caa-b0ff-210caf3d8ce5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Die Blutgräfin\" - Isabelle Huppert als Vampirin in Ulrike Ottingers neuem Film",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-29T16:35:33.000Z",
+    "url": "https://www.deutschlandfunk.de/die-blutgraefin-isabelle-huppert-als-vampirin-in-ulrike-ottingers-neuem-film-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/die_blutgraefin_isabelle_huppert_als_vampirin_in_ulrike_dlf_20261029_1735_f7b7e0fb.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0cdbc02b-63e9-546c-8072-8d2a4cfca5b6",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gebäuderetterin Barbara Buser - Was die Schweizer Architektin zum Vorbild macht",
+    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-10-29T14:25:15.000Z",
+    "url": "https://www.deutschlandfunk.de/gebaeuderetterin-barbara-buser-was-die-schweizer-architektin-zum-vorbild-macht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/gebaeuderetterin_barbara_buser_was_die_schweizer_architektin_dlf_20261029_1525_5da92e31.mp3?refId=corso-104",
+    "duration": "12 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
       "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-286832770992266",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Filmproduzentin, Journalistin und Antisemitismus-Forscherin Alice Brauner",
-    "summary": "Sie stellt ihren neuen Film vor, für den sie das Drehbuch geschrieben hat: \"Block 10\" erzählt von Zwangssterilisationen im KZ Auschwitz.",
-    "date": "2026-10-28T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/filmproduzentin-journalistin-und-antisemitismus-forscherin-alice-brauner,audio-3563714.html",
-    "image": "https://images.ndr.de/image/f57b3976-4862-4465-b71a-fa7b3a9a2626/AAABoYPEYlg/AAABnSStX0g/1x1-big/screenshot-251892.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1028/AU-20261028-1953-0900.mp3",
-    "duration": "30 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4dd83917-0a27-5769-96f2-feed06612c99",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 28.10.2026",
-    "summary": "Rau, Hannah www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-28T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-28-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/kulturmeldungen_28102026_dlf_20261028_1756_b48b5c97.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:961016f5-99f3-5ebe-9909-014acf761525",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Geteilte Vergangenheit\" - Archäologie und Nazizeit in Griechenland 1941-1944",
-    "summary": "Seralidou, Rodothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-28T16:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/geteilte-vergangenheit-archaeologie-und-nazizeit-in-griechenland-1941-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/geteilte_vergangenheit_archaeologie_und_nazizeit_in_dlf_20261028_1751_9487d03b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:b3774347-3efb-53b1-8013-bbb1f4235317",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Proteste für eine bessere Zukunft - Auch in Albanien demonstriert die Gen Z",
-    "summary": "Weinreich, Charlotte www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-28T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/proteste-fuer-eine-bessere-zukunft-auch-in-albanien-demonstriert-die-gen-z-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/28/proteste_fuer_eine_bessere_zukunft_auch_in_albanien_dlf_20261028_1746_4784cee6.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
       "deutschlandfunk"
     ],
     "category": [
