@@ -1,202 +1,22 @@
 [
   {
-    "id": "dlf-kultur-heute:38f17693-0c08-50ac-be75-c36e27000c40",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "id": "zeit-wie-war-das-noch-mal:bbcc3e96-1e04-4e62-b20b-0249d38486bd",
+    "source": "zeit-wie-war-das-noch-mal",
+    "sourceTitle": "Wie war das noch mal? – DIE ZEIT",
     "type": "rss",
-    "title": "Kulturmeldungen 29.10.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-29T16:56:02.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-29-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/kulturmeldungen_29102026_dlf_20261029_1756_7ebdef1e.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:5a9750ab-675b-5102-8634-76a94ccc5167",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Alle betroffen - Nichts gewusst?\" Viktoria Kamuf über Erinnerung an den NSU",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-29T16:45:59.000Z",
-    "url": "https://www.deutschlandfunk.de/alle-betroffen-nichts-gewusst-viktoria-kamuf-ueber-erinnerung-an-den-nsu-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/alle_betroffen_nichts_gewusst_viktoria_kamuf_ueber_dlf_20261029_1745_f5bcdcf8.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:d13d8dbb-8af4-558d-a9b5-c5d7ad269fae",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Mehr als Miss Marple - Eine Londoner Ausstellung über Agatha Christie",
-    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-29T16:41:19.000Z",
-    "url": "https://www.deutschlandfunk.de/mehr-als-miss-marple-eine-londoner-ausstellung-ueber-agatha-christie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/mehr_als_miss_marple_eine_londoner_ausstellung_ueber_agatha_dlf_20261029_1741_30b99b4f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:479bbfa6-7ae9-5caa-b0ff-210caf3d8ce5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Blutgräfin\" - Isabelle Huppert als Vampirin in Ulrike Ottingers neuem Film",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-29T16:35:33.000Z",
-    "url": "https://www.deutschlandfunk.de/die-blutgraefin-isabelle-huppert-als-vampirin-in-ulrike-ottingers-neuem-film-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/die_blutgraefin_isabelle_huppert_als_vampirin_in_ulrike_dlf_20261029_1735_f7b7e0fb.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0cdbc02b-63e9-546c-8072-8d2a4cfca5b6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gebäuderetterin Barbara Buser - Was die Schweizer Architektin zum Vorbild macht",
-    "summary": "Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-10-29T14:25:15.000Z",
-    "url": "https://www.deutschlandfunk.de/gebaeuderetterin-barbara-buser-was-die-schweizer-architektin-zum-vorbild-macht-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/gebaeuderetterin_barbara_buser_was_die_schweizer_architektin_dlf_20261029_1525_5da92e31.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:2b266fd3-2eff-55e2-8775-8187b5ba17a4",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutschlandfunk-Kulturrecherche - Leitungswechsel beim Film Festival Cologne",
-    "summary": "Schlosser, Simone www.deutschlandfunk.de, Corso",
-    "date": "2026-10-29T14:12:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutschlandfunk-kulturrecherche-leitungswechsel-beim-film-festival-cologne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/deutschlandfunk_kulturrecherche_leitungswechsel_beim_film_dlf_20261029_1512_09242fc5.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7861d74a-09aa-5012-859e-22fdb90462bd",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Iran:Filmkunst und Repression - Jafar Panahi erneut zu 5 Jahren Haft verurteilt",
-    "summary": "Farzanefar, Amin www.deutschlandfunk.de, Corso",
-    "date": "2026-10-29T14:06:00.000Z",
-    "url": "https://www.deutschlandfunk.de/iran-filmkunst-und-repression-jafar-panahi-erneut-zu-5-jahren-haft-verurteilt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/iran_filmkunst_und_repression_jafar_panahi_erneut_zu_5_dlf_20261029_1506_4e223428.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:818350c4-3870-5c5a-95a7-9490f44e4f26",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kanada - Selbstbewusster Nachbar der Supermacht USA",
-    "summary": "US-Präsident Trump fantasiert von Kanada als 51. Bundesstaat der USA. Schon zweimal haben die USA versucht, ihren Nachbarn im Norden militärisch zu unterwerfen. Das hat zur kanadischen Identität beigetragen.<br><br><strong>Hinweis: </strong>Die Entwicklungen rund um den EU-Kanada-Gipfel am 29. und 30. Oktober 2026 in Montreal konnten wir in dieser Folge nicht berücksichtigten, weil der Gipfel erst nach unserem Redaktionsschluss begonnen hat.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(01:41) 1867: Kanada wird selbstverwaltet <br>(04:38) Französisch-britischer Konflikt um Nordamerika<br>(08:59) Das frankophone Québec wird britisch <br>(12:53) Die kanadische Identität entwickelt sich – auch in Verteidigung gegen die USA <br>(17:56) 1812: Die USA erklären den Krieg – und Washington brennt <br>(27:04) 1931 und 1982: Kanada wird schrittweise unabhängig <br>(30:55) USA und Kanada: Kooperation und Konflikte <br>(40:11) Kanadisch-US-amerikanische Spannungen unter Donald Trump<br><br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li><strong>Ursula Lehmkuhl </strong>ist Historikerin und Professorin für Internationale Geschichte an der Universität Trier.</li></ul><br><ul><li>Die Energiehistorikerin <strong>Petra Dolata </strong>ist Professorin an der University of Calgary in der kanadischen Provinz Alberta.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge: </strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Josephine Kuban und Tim Baumann<br>Faktencheck: Alice Englert und Jule Dieterle<br>Redaktion: Monika Dittrich und Christian Röther <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/usa-trump-geschichte-erinnerungskultur-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> zur Frage, ob die US-Geschichte unter Trump umgeschrieben wird.</li><li><a href=\"https://www.deutschlandfunk.de/usa-geschichte-weltmacht-westen-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über die USA als Weltmacht.</li><li><a href=\"https://www.deutschlandfunk.de/groenland-geschichte-unabhaengigkeit-daenemark-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Grönland.</li></ul><br><strong>Weiterführende Links:</strong><br><br><ul><li>Der Deutschlandfunk-Podcast <a href=\"https://www.deutschlandfunk.de/usa-kanada-beziehungen-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a> über das Verhältnis der USA und Kanadas.</li><li>Der <a href=\"https://www.bpb.de/system/files/dokument_pdf/10200_LB_Kanada_Leseprobe.pdf\" rel=\"noopener\" target=\"_blank\">Länderbericht Kanada</a> der Bundeszentrale für politische Bildung, herausgegeben von unserem Gast Ursula Lehmkuhl. </li></ul><br><strong>Unser Podcast-Tipp in dieser Woche:</strong><br><br><ul><li><a href=\"https://1.ard.de/DRIG_sed\" rel=\"noopener\" target=\"_blank\">Stimmt es, dass ...?</a></li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-10-29T12:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kanada-nordamerika-supermacht-usa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/6c/bb/49/13/6cbb4913-4ff6-45ec-94fc-ded5cd43cf3b/kanada-geschichte-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/29/kanada_selbstbewusster_nachbar_der_supermacht_usa_dlf_20261029_1300_aa4a79ad.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "50 Min",
+    "title": "Kann der Mensch eine Maschine bauen, die er nicht mehr beherrscht?",
+    "summary": "<p>Am 26. September 1983 geht in der Luftüberwachungsstation Serpuchow nahe Moskau der Alarm los. Ein Computersystem meldet einen US-amerikanischen Angriff mit Atomraketen. Innerhalb von Sekunden muss der diensthabende Offizier und Ingenieur Stanislaw Petrow entscheiden, was zu tun ist: den Angriff melden? Dann würde der Gegenschlag starten. Oder kann es sein, dass die Technik irrt? Ein Fehlalarm? Petrow entscheidet sich für Letzteres – und bewahrt die Welt vor einem Atomkrieg. Das Abwehrsystem hatte, gestützt auf einen Satelliten und einen Computer, nicht richtig funktioniert und eine Sonnenreflexion auf einem Silo in den USA als Raketenstart gedeutet.</p><p>Was erzählt dieser Vorfall über das Verhältnis von Mensch und Maschine in der Geschichte? Darüber haben wir für unsere neue Folge mit der Technikhistorikerin Martina Heßler gesprochen. Sie ordnet für uns ein, welche Hoffnungen und Ängste Menschen stets mit der Technik verbunden haben – noch nie in der Geschichte gab es eine Maschine, die ohne Fehler funktioniert hat. Wir sprechen auch darüber, was die Atomkraft mit der künstlichen Intelligenz (KI) gemeinsam hat. Die Befürchtung wächst, dass es angesichts der KI-Systeme, die sich selbstständig machen, bald zu einem Tschernobyl-Moment kommen könnte.</p><p>Aber ist die KI überhaupt mit herkömmlichen Technologien zu vergleichen? Kann der Mensch tatsächlich eine Maschine bauen, die er selbst nicht mehr beherrscht? Markiert die KI eine technische Revolution, größer als die der Dampfmaschine? Und wann ist es zu spät, aus einer Technik wieder auszusteigen?</p><p>Darüber sprechen wir in der neuen Folge – und dies sind auch die Themen unseres aktuellen ZEIT-Geschichte-Hefts »Wie Technik die Welt verändert. Mensch oder Maschine: Wer hat die Macht?«. Sie bekommen es online im <a href=\"https://shop.zeit.de/sortiment/zeit-kiosk/zeit-magazine/zeit-geschichte\" rel=\"noopener\" target=\"_blank\"> ZEIT-Shop </a> oder im Handel. <a href=\"https://abo.zeit.de/zg-testen/?icode=01w0169k0575angaudall2110&utm_medium=audio&utm_source=zgpodcast&utm_campaign=zg_zon_podcast&utm_content=&wt_zmc=audall.int.zabo.zgpodcast.zg_zon_podcast....x\" rel=\"noopener\" target=\"_blank\"> Unter diesem Link </a> können Sie ein Abo abschließen und eine Gratisausgabe von ZEIT Geschichte zum Testen bestellen.</p><p><strong>Bücher, die wir empfehlen möchten:</strong></p><ul><li>Martina Heßler: »Sisyphos im Maschinenraum. Eine Geschichte der Fehlbarkeit von Mensch und Technologie«, C. H. Beck, München 2025</li><li>Charles Perrow: »Normale Katastrophen. Die unvermeidbaren Risiken der Großtechnik«, Campus Verlag, Frankfurt 1989</li><li>Paul Virilio: »Geschwindigkeit und Politik. Ein Essay zur Dromologie«, Merve Verlag, Berlin 1989</li></ul><p>Alle Folgen des Podcasts hören Sie <a href=\"https://eur06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.zeit.de%2Fserie%2Fwie-war-das-noch-mal&data=05%7C02%7Cmarkus.flohr%40zeit.de%7C4b211f919a4f4404b27808dde67f216c%7Cf6fef55b9aba48ae9c6d7ee8872bd9ed%7C0%7C0%7C638920155894085285%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=UQxp5ZiyIwq2h66PFE7Bn%2F7RqLjfkwFIqpKJdIxcN0k%3D&reserved=0\" rel=\"noopener\" target=\"_blank\"> hier </a>. Die Redaktion erreichen Sie per Mail unter zeitgeschichte@zeit.de </a>.</p>\n<p><p><a href=\"https://abo.zeit.de/zg-testen/?icode=01w0557k1001angaudall2403&utm_medium=audio&utm_source=shownotes&utm_campaign=standard&utm_content=01w0557k1001angaudall2403&wt_zmc=audall.Int.zabo.shownotes.standard.x\" rel=\"noopener\" target=\"_blank\"><i><strong>Hier</strong></i></a><i> können Sie eine aktuelle Gratisausgabe von ZEIT Geschichte zum Testen bestellen. Sie bekommen das Heft zum Bauernkrieg, aber auch viele andere, im Handel oder online im ZEIT Shop.</i></p><p>Vergünstigtes Podcast-Abo für ZEIT GESCHICHTE-Leser <a href=\"https://abo.zeit.de/podcast_8w_gratis_plusrabatt_zgpodcast/?icode=01w0813k1001angaudint2601&utm_medium=audio&utm_source=geschichtspodcast_redaktion&utm_campaign=Standard&utm_content=01w0813k1001angaudint2601&wt_zmc=audint.Int.zabo.geschichtspodcast_redaktion.Standard.x\" rel=\"noopener\" target=\"_blank\">zeit.de/abo-geschichte.</a><br> </p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcast-Abo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcast-Archiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenlos testen</a>. Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT</strong>. <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Angebot</a>. </p>",
+    "date": "2026-10-31T04:55:00.000Z",
+    "url": "https://www.zeit.de/serie/wie-war-das-nochmal",
+    "image": "https://image.simplecastcdn.com/images/a285da86-7be8-4859-bbb0-60bbf28425fb/f57c3e5e-6f9d-47aa-90bc-0dec153dc682/3000x3000/wie-war-das-noch-mal.jpg?aid=rss_feed",
+    "audio": "https://zeitonline.simplecastaudio.com/4d384d00-4f76-41fc-ac1c-8ff9276a7999/episodes/b9c15c3a-5126-4d08-95c7-090dd01ecb6b/audio/128/default.mp3?aid=rss_feed&awCollectionId=4d384d00-4f76-41fc-ac1c-8ff9276a7999&awEpisodeId=b9c15c3a-5126-4d08-95c7-090dd01ecb6b&feed=DV4gq1zP",
+    "duration": "1 Std 13 Min",
     "tags": [
       "geschichte",
       "zeitgeschichte",
       "gesellschaft",
-      "politik",
       "bildung",
-      "deutschlandfunk"
+      "zeit"
     ],
     "category": [
       "Geschichte",
@@ -206,52 +26,232 @@
     "language": "de"
   },
   {
-    "id": "dlf-zeitzeugen-im-gespraech:https-podcast-mp3-dradio-de-podcast-2025-10-25-wolfgang-labuhn-im-gesproech-mit-dem-ehemaligen-raf-mitglied-dlf-20251025-1105-b69641f6-mp3-refid-zeitzeugen-im-gespraech-102",
-    "source": "dlf-zeitzeugen-im-gespraech",
-    "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
+    "id": "ndr-being-the-beatles:rnd0-5744747071798879",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
     "type": "rss",
-    "title": "RAF - Silke Maier-Witt: \"Die Brutalität hat mich nicht kalt gelassen\"",
-    "summary": "Silke Maier-Witt tritt als Studentin der Roten Armee Fraktion bei. Nach ihrer Loslösung taucht sie mit Hilfe der Stasi in der DDR unter. Mit dem Fall der Mauer wird sie enttarnt und verhaftet. Im Gespräch redet Sie über ihre Rolle in der RAF. (Erstsendung 25.10.25) Labuhn, Wolfgang www.deutschlandfunk.de, Zeitzeugen im Gespräch",
-    "date": "2026-10-29T10:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wolfgang-labuhn-im-gesproech-mit-dem-ehemaligen-raf-mitglied-silke-maier-witt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/f1/41/82/5f/f141825f-a0fb-4d58-801c-a6ddbbb8e4e3/silke-maier-witt-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2025/10/25/wolfgang_labuhn_im_gesproech_mit_dem_ehemaligen_raf_mitglied_dlf_20251025_1105_b69641f6.mp3?refId=zeitzeugen-im-gespraech-102",
-    "duration": "55 Min",
+    "title": "Spielt in der ARD-Thrillerserie \"Breitscheidplatz 19/12\": Schauspielerin Bayan Layla",
+    "summary": "Am 19. Dezember 2016 fährt ein islamistischer Attentäter in den Weihnachtsmarkt am Berliner Breitscheidplatz. Er tötet 13 Menschen, verletzt Dutzende teils schwer. Die junge Schauspielerin Bayan Layla sitzt an diesem Abend nur wenige Kilometer entfernt bei einem Empfang mit Angela Merkel im Kanzleramt und erlebt, wie der Politikbetrieb in den Krisenmodus schaltet. Zehn Jahre später ist sie nun in der ARD-Thrillerserie \"Breitscheidplatz 19/12\" als mutige Polizeianwärterin zu sehen.",
+    "date": "2026-10-30T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/spielt-in-der-ard-thrillerserie-breitscheidplatz-19-12-schauspielerin-bayan-layla,audio-3568316.html",
+    "image": "https://images.ndr.de/image/8557226b-15f9-4800-8655-82b4d0e696b5/AAABoY4jB9Y/AAABnSStX0g/1x1-big/screenshot-253200.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1030/AU-20261030-2016-2300.mp3",
+    "duration": "38 Min",
     "tags": [
-      "zeitzeugen",
-      "geschichte",
-      "biografie",
-      "interview",
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:693a77bf-324d-5678-aa3e-5edc54ca47d5",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 30.10.2026",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:56:12.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-10-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/kulturmeldungen_30102026_dlf_20261030_1756_a4e860d0.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8bd3c3ce-7634-5863-be6b-af16456c69ec",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Maßstäbe für die Kulturentwicklung? Zum Spatenstich auf Kampnagel in HH",
+    "summary": "Neubig, Magdalena www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:51:30.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-massstaebe-fuer-die-kulturentwicklung-zum-spatenstich-auf-kampnagel-in-hh-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/neue_massstaebe_fuer_die_kulturentwicklung_zum_spatenstich_dlf_20261030_1751_d6e5f65a.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:360229a0-af0f-580d-82c6-494a80f21df7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gedenken an russische Opfer - Anna Kaminsky, Stiftung Aufarbeitung SED-Diktatur",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/gedenken-an-russische-opfer-anna-kaminsky-stiftung-aufarbeitung-sed-diktatur-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/gedenken_an_russische_opfer_anna_kaminsky_stiftung_dlf_20261030_1746_b6dfeb8a.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:067742c4-9e11-5fcc-bf0a-8ca4b59f92ac",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Das Leben der Anderen\" am Westend - Robert Ickes Adaption des Films in London",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:40:40.000Z",
+    "url": "https://www.deutschlandfunk.de/das-leben-der-anderen-am-westend-robert-ickes-adaption-des-films-in-london-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/das_leben_der_anderen_am_westend_robert_ickes_adaption_des_dlf_20261030_1740_39d825bf.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:b5bf5c6c-5da8-5636-861b-a0658d94309b",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Siegfried\" - Tobias Kratzer setzt in München Wagners Ring fort",
+    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-10-30T16:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/siegfried-tobias-kratzer-setzt-in-muenchen-wagners-ring-fort-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/siegfried_tobias_kratzer_setzt_in_muenchen_wagners_ring_fort_dlf_20261030_1735_c8d53846.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:61afa746-e57f-533b-ad81-53e15e307f06",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Rekonstruktion eines Anschlags - Die ARD-Serie Breitscheidplatz 19/12",
+    "summary": "Julian Ignatowitsch www.deutschlandfunk.de, Corso",
+    "date": "2026-10-30T14:24:00.000Z",
+    "url": "https://www.deutschlandfunk.de/rekonstruktion-eines-anschlags-die-ard-serie-breitscheidplatz-19-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/rekonstruktion_eines_anschlags_die_ard_serie_dlf_20261030_1524_814f6a64.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
       "gesellschaft",
       "deutschlandfunk"
     ],
     "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
+      "Kultur",
+      "Gesellschaft"
     ],
     "language": "de"
   },
   {
-    "id": "zeitzeichen:b71243eb35014ca6f710ddf7f78a7011",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
+    "id": "dlf-corso:ab64881a-7ce8-50b9-9498-2323c41cbe1b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Joseph Pulitzer: Vom mittellosen Einwanderer zum Medienmogul",
-    "summary": "<p>Pulitzer revolutioniert die Medienlandschaft der USA, prägt die Yellow Press und legt sich mit dem Präsidenten an. Am 29.10.1911 stirbt er als Pionier der Pressefreiheit.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Almut Finck:</strong><br><ul><li>warum Pulitzer für die Überfahrt nach Amerika sein Alter fälscht,</li><li>warum Schmatzen und Schlürfen seine Angestellten den Job kostet,</li><li>wie der Erfinder der Sensationspresse gleichzeitig Korruption aufdeckt,</li><li>warum US-Präsident Theodore Roosevelt Pulitzer verklagt - und am Ende verliert.</li></ul><br>Mit 17 Jahren wandert der gebürtige Ungar Joseph Pulitzer in die USA aus. Dort steigt er in den folgenden Jahrzehnten vom Hilfsarbeiter ohne Englischkenntnisse zu einem der reichsten und einflussreichsten Zeitungsverleger des Landes auf. Pulitzer verwandelt die US-amerikanische Presse in ein Massenmedium und prägt sie wie kaum ein Zweiter. Er erfindet die Sensationspresse und ist zugleich Pionier des investigativen Journalismus.<br><br>Seine letzten Jahre verbringt der blinde und kränkliche Medienzar größtenteils auf seiner Yacht. Kurz vor seinem Tod am 29. Oktober 1911 stiftet er den nach ihm benannten Pulitzer-Preis, der bis heute als wichtigste Auszeichnung für Journalisten und Schriftsteller in den USA gilt.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Barry Kritzberg, Historiker und Ex-Zeitungsreporter</li><li>Nassim Balestrini, Amerikanistin und Medienwissenschaftlerin, Universität Graz</li><li>James McGrath Morris: Pulitzer - A Life in Politics, Print and Power. New York 2011</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/theodore-roosevelt-100.html\" rel=\"noopener\" target=\"_blank\">06.01.1919 - Todestag von Theodore Roosevelt</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-geburtstag-william-randolph-hurst-100.html\" rel=\"noopener\" target=\"_blank\">29. April 1863 - Geburtstag des US-Verlegers William Randolph Hearst</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-the-new-yorker-104.html\" rel=\"noopener\" target=\"_blank\">21.02.1925 - Urban, anspruchsvoll, hip: Das Magazin \"The New Yorker\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt</strong></a><strong>.</strong><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Almut Finck<br>Redaktion: Carolin Rückl und Frank Zirpins<br>Technik: Annette Skrzydlo",
-    "date": "2026-10-29T05:00:31.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-joseph-pulitzer-vom-mittellosen-einwanderer-zum-medienzar-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/joseph-pulitzer-104~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/09/7be2f26a-6c53-4814-8ed5-01c9c8bb73ab/7be2f26a-6c53-4814-8ed5-01c9c8bb73ab_MP3-128.mp3",
-    "duration": "15 Min",
+    "title": "\"Anarchisch, verspielt und zugänglich\"? Neue Satire-Show mit Florian Schroeder",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-10-30T14:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/anarchisch-verspielt-und-zugaenglich-neue-satire-show-mit-florian-schroeder-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/anarchisch_verspielt_und_zugaenglich_neue_satire_show_mit_dlf_20261030_1508_d34e3929.mp3?refId=corso-104",
+    "duration": "4 Min",
     "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
     ],
     "category": [
-      "Geschichte",
-      "Bildung"
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:0036a033-a4ba-5fe9-ac9c-c0180c8f5a17",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Benjamin Stöwe zum Tod der \"Star Trek\"- und \"X-Men\"-Legende Patrick Stewart",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-10-30T14:06:23.000Z",
+    "url": "https://www.deutschlandfunk.de/benjamin-stoewe-zum-tod-der-star-trek-und-x-men-legende-patrick-stewart-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/benjamin_stoewe_zum_tod_der_star_trek_und_x_men_legende_dlf_20261030_1506_50f0c7cd.mp3?refId=corso-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
     ],
     "language": "de"
   }
