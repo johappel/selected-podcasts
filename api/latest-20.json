@@ -1,5 +1,209 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-4585495811797542",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Bricht das Schweigen über tabuisierte Körperfunktionen: Urologin Maria Sprinz",
+    "summary": "Die Medizinerin Dr. Maria Sprinz hat das Schweigen über allzu lange tabuisierte Körperfunktionen gebrochen: Als Assistenzärztin in der Urologie klärt sie auf ihrem Social-Media-Kanal etwa über Harninkontinenz, Vorsorge oder Toilettenhygiene auf. In ihrem nun erscheinenden Ratgeberbuch \"Blase und Ekstase\" widmet sie sich vor allem der weiblichen Gesundheit – denn ihr Fachgebiet ist längst nicht mehr nur Männersache.",
+    "date": "2026-11-01T19:40:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/bricht-schweigen-ueber-tabuisierte-koerperfunktionen-urologin-maria-sprinz,audio-3570554.html",
+    "image": "https://images.ndr.de/image/83eada08-d8f3-4ca0-8823-3813525d5076/AAABoZhiWYo/AAABnSStX0g/1x1-big/screenshot-253930.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1101/AU-20261101-2040-2600.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1b42f841-4c48-528f-ab8f-255f8ebc7a3a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 01.11.2026",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:56:30.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/kulturmeldungen_01112026_dlf_20261101_1756_92392882.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ad86df86-afc6-5c76-b04d-c8b43a3fc605",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Lieferantin von Schmuckstücken - zum Tod der Filmproduzentin Regina Ziegler",
+    "summary": "Claus, Peter www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:51:45.000Z",
+    "url": "https://www.deutschlandfunk.de/lieferantin-von-schmuckstuecken-zum-tod-der-filmproduzentin-regina-ziegler-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/lieferantin_von_schmuckstuecken_zum_tod_der_filmproduzentin_dlf_20261101_1751_5537bf35.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0b0f0cdc-e76b-5ba0-917e-cb4b09f303e9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Partitur des Körpers\" - Ein Tanzabend in Hellerau",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:46:44.000Z",
+    "url": "https://www.deutschlandfunk.de/partitur-des-koerpers-ein-tanzabend-in-hellerau-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/partitur_des_koerpers_ein_tanzabend_in_hellerau_dlf_20261101_1746_ef3668f2.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:4059bbc8-61ca-5fe3-be9d-d88577b4b801",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Das große Drama\" - Auguste Rodin und der Streit um die Moderne in Dresden",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:41:32.000Z",
+    "url": "https://www.deutschlandfunk.de/das-grosse-drama-auguste-rodin-und-der-streit-um-die-moderne-in-dresden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/das_grosse_drama_auguste_rodin_und_der_streit_um_die_moderne_dlf_20261101_1741_8c34fdc7.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:8f6ab9a5-e516-50cf-bfa2-6c20a34281ae",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Erziehung und Verständigung - Claudia Bauer insz. Handkes \"Kaspar\" in Köln",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:36:17.000Z",
+    "url": "https://www.deutschlandfunk.de/erziehung-und-verstaendigung-claudia-bauer-insz-handkes-kaspar-in-koeln-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/erziehung_und_verstaendigung_claudia_bauer_insz_handkes_dlf_20261101_1736_7b31f339.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:57d77f35-6a6a-5aba-9aa4-968d43246e7c",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Eine PEN Berlin-Veranstaltung reflektiert über das gemeinsame Reden",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-01T16:30:30.000Z",
+    "url": "https://www.deutschlandfunk.de/eine-pen-berlin-veranstaltung-reflektiert-ueber-das-gemeinsame-reden-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/eine_pen_berlin_veranstaltung_reflektiert_ueber_das_dlf_20261101_1730_79309d0c.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:b04a0c82e7dbd2b41c9a30f4503ec850",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Österreich: Von Habsburg, Sisi und der Suche nach Identität",
+    "summary": "<p>Am 1.11.996 wird Österreich erstmals urkundlich erwähnt. Einst Großmacht, später kleine Republik: Wie prägen Habsburg, Sisi und die Sehnsucht nach alter Größe das Land?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Herwig Katzer:</strong><br><ul><li>was in der Urkunde steht, die Kaiser Otto III. im November 996 dem Bischof von Freising übergibt,</li><li>wie die Habsburger fast 650 Jahre lang das Schicksal Österreichs bestimmen,</li><li>warum die \"Habsburger Vermählungsstrategie\" zum geflügelten Wort wird,</li><li>vom jahrhundertelangen Konflikt zwischen Frankreich und dem Haus Habsburg um die Vorherrschaft in Europa,</li><li>welcher Fund nach der Belagerung Wiens durch die Türken 1683 unschätzbare Bedeutung für die Geschichte und Kultur Österreichs erlangt.</li></ul><br>Die älteste urkundliche Nennung des Namens \"Ostarrichi\", aus dem der spätere Name für Österreich entsteht, stammt vom 1. November 996. Es handelt sich um eine Schenkungsurkunde des römisch-deutschen Kaisers Otto III. an den Bischof von Freising, Gottschalk von Hagenau - die \"Ostarrichi-Urkunde\". Ostar heißt \"östlich gelegen\", \"richi\" bezeichnet ein begrenztes Herrschaftsgebiet, ein \"Reich\" also.<br><br>Ende des 10. Jahrhunderts haben im heutigen Niederösterreich die Babenberger das Sagen. 1246 sterben sie aber sang- und klanglos aus und machen den Weg frei für eine neue Dynastie. Fast 650 Jahre lang bestimmen fortan die Habsburger das Schicksal des Landes, im Guten wie im Schlechten. Den Aufschlag macht Rudolf I. von Habsburg, der 1273 zum römisch-deutschen König gekrönt wird.<br><br>Mit dem Tod Karls VI. stirbt 1740 die männliche Linie der Habsburger aus - aufgrund der sogenannten Pragmatischen Sanktion, die auch Frauen die Thronfolge erlaubt, wird Maria Theresia Erzherzogin von Österreich. Ihr Gemahl Franz I. wird Kaiser, hat aber neben der resoluten Regentin wenig zu melden.<br><br><strong>Das sind unsere wichtigsten Interviewpartner:</strong><br><ul><li>Florian Gasser, Historiker und Host im transalpinen ZEIT-Podcast \"Servus. Grüezi. Hallo\"</li><li>Thomas Macho, Kulturhistoriker</li><li>Rolf Bauer: Österreich. Ein Jahrtausend Geschichte im Herzen Europas. Berlin 1970</li><li>Heinrich August Winkler: Geschichte des Westens. München 2015</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/adel/geschichte_des_adels/pwiediehabsburger100.html\" rel=\"noopener\" target=\"_blank\">Die Habsburger</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/metropolen/wien/pwiewienerkaffeehauskultur100.html\" rel=\"noopener\" target=\"_blank\">Wiener Kaffeehauskultur</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/deutsche_geschichte/der_erste_weltkrieg/folgen-des-ersten-weltkriegs-100.html\" rel=\"noopener\" target=\"_blank\">Wie der Erste Weltkrieg die Weltkarte veränderte</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/rudolf-von-habsburg-100.html\" rel=\"noopener\" target=\"_blank\">15. Juli 1291 - Der römisch-deutsche König Rudolf von Habsburg stirbt</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/kaiser-franz-112.html\" rel=\"noopener\" target=\"_blank\">18.08.1765 - Todestag des Kaisers Franz I.</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Herwig Katzer<br>Redaktion: Matti Hesse",
+    "date": "2026-11-01T05:00:56.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-oesterreich-von-habsburg-sisi-und-der-suche-nach-identitaet-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-oesterreich-urkunde-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/29/232d4ed4-ecc4-4a67-85f4-13db81625d20/232d4ed4-ecc4-4a67-85f4-13db81625d20_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:0fda5594-5a75-544e-8566-89c7f5507d88",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -89,58 +293,6 @@
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/kleiner_mann_was_nun_luise_voigt_inszeniert_fallada_am_dlf_20261031_1741_6d0ecc2e.mp3?refId=kultur-heute-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:09b7081e-df4a-509e-abd2-8bd66d15db87",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Klimaschutzaktivistin Luisa Neubauer zu den Jugendprotesten von \"GenZ regelt\"",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:35:50.000Z",
-    "url": "https://www.deutschlandfunk.de/klimaschutzaktivistin-luisa-neubauer-zu-den-jugendprotesten-von-genz-regelt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/klimaschutzaktivistin_luisa_neubauer_zu_den_jugendprotesten_dlf_20261031_1735_ca05fb69.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:eea65eea-5bcc-5430-80dc-766238c369b5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Proteste gegen kaputte Schulen, zu viel Stress - Marie Hacker, Vorstand LSV NRW",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/proteste-gegen-kaputte-schulen-zu-viel-stress-marie-hacker-vorstand-lsv-nrw-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/proteste_gegen_kaputte_schulen_zu_viel_stress_marie_hacker_dlf_20261031_1730_2b019ebc.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
     "tags": [
       "kultur",
       "theater",
@@ -305,110 +457,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:693a77bf-324d-5678-aa3e-5edc54ca47d5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 30.10.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-30T16:56:12.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-30-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/kulturmeldungen_30102026_dlf_20261030_1756_a4e860d0.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8bd3c3ce-7634-5863-be6b-af16456c69ec",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Maßstäbe für die Kulturentwicklung? Zum Spatenstich auf Kampnagel in HH",
-    "summary": "Neubig, Magdalena www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-30T16:51:30.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-massstaebe-fuer-die-kulturentwicklung-zum-spatenstich-auf-kampnagel-in-hh-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/neue_massstaebe_fuer_die_kulturentwicklung_zum_spatenstich_dlf_20261030_1751_d6e5f65a.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:360229a0-af0f-580d-82c6-494a80f21df7",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Gedenken an russische Opfer - Anna Kaminsky, Stiftung Aufarbeitung SED-Diktatur",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-30T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/gedenken-an-russische-opfer-anna-kaminsky-stiftung-aufarbeitung-sed-diktatur-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/gedenken_an_russische_opfer_anna_kaminsky_stiftung_dlf_20261030_1746_b6dfeb8a.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:067742c4-9e11-5fcc-bf0a-8ca4b59f92ac",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Das Leben der Anderen\" am Westend - Robert Ickes Adaption des Films in London",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-30T16:40:40.000Z",
-    "url": "https://www.deutschlandfunk.de/das-leben-der-anderen-am-westend-robert-ickes-adaption-des-films-in-london-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/das_leben_der_anderen_am_westend_robert_ickes_adaption_des_dlf_20261030_1740_39d825bf.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:61afa746-e57f-533b-ad81-53e15e307f06",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -455,54 +503,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0036a033-a4ba-5fe9-ac9c-c0180c8f5a17",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Benjamin Stöwe zum Tod der \"Star Trek\"- und \"X-Men\"-Legende Patrick Stewart",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-10-30T14:06:23.000Z",
-    "url": "https://www.deutschlandfunk.de/benjamin-stoewe-zum-tod-der-star-trek-und-x-men-legende-patrick-stewart-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/30/benjamin_stoewe_zum_tod_der_star_trek_und_x_men_legende_dlf_20261030_1506_50f0c7cd.mp3?refId=corso-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:6039bcc0366eac2c3dcf4895e2c96a28",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Anwerbeabkommen mit der Türkei: Aus Arbeit wird Heimat",
-    "summary": "<p>Am 30.10.1961 wird der Vertrag unterschrieben, denn Deutschland braucht Arbeitskräfte. Es kommen Menschen mit Hoffnungen und Träumen - und verändern Deutschland.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Melahat Simsek:</strong><br><ul><li>welche Prozedur türkische Bewerber vor der Ausreise über sich ergehen lassen müssen,</li><li>wie aus einem Koffer eine neue Heimat wird,</li><li>was es mit den Bezeichnungen \"Fremd-\" und \"Gastarbeiter\" auf sich hat,</li><li>wie Kinder für ihre Eltern zu Dolmetschern werden.</li></ul><br>Es ist das Jahr 1961, die Wirtschaft boomt. Deutschland braucht dringend Arbeitskräfte. Deshalb schließt Bonn am 30. Oktober mit Ankara ein Abkommen, das türkischen Staatsangehörigen erlaubt, für begrenzte Zeit in \"Almanya\" Geld zu verdienen. Es ist ein unscheinbares, zweiseitiges Dokument - doch es wird Deutschland dauerhaft verändern.<br><br>Tausende Männer und Frauen kommen mit der Hoffnung auf ein besseres Leben. Sie arbeiten in Bergwerken und Fabriken - oft unter harten Bedingungen und in dem Glauben, bald zurückzukehren. Doch aus einem vorübergehenden Aufenthalt wird für viele eine Dauerlösung. Trotz zahlreicher enttäuschter Erwartungen leben heute rund drei Millionen türkischstämmige Menschen in Deutschland.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Jochen Oltmer, Leiter des Instituts für Migrationsforschung und interkulturelle Studien an der Universität Osnabrück</li><li>Karin Hunn, Historikerin</li><li>Klaus J. Bade, Universität Osnabrück</li><li>Kiswar und Caner Yanar, kamen als \"Gastarbeiter\" nach Deutschland</li><li>Klaus J. Bade: Migration - Flucht - Integration. Kritische Politikbegleitung von der \"Gastarbeiterfrage\" bis zur \"Flüchtlingskrise\". Erinnerungen und Beiträge. Karlsruhe 2017</li><li>Karin Hunn: Nächstes Jahr kehren wir zurück. Die Geschichte der türkischen \"Gastarbeiter\" in der Bundesrepublik. Göttingen 2005</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>WDR 3: <a href=\"https://www1.wdr.de/radio/wdr3/programm/sendungen/wdr3-kulturfeature/60-jahre-migration-tuerkei-gastarbeiter-anwerbeabkommen-100.html\" rel=\"noopener\" target=\"_blank\">\"Gastarbeiter“-Kultur - 60 Jahre Migration aus der Türkei</a></li><li><a href=\"https://www1.wdr.de/nachrichten/70-jahre-anwerbeabkommen-gastarbeiter-italien-100.html\" rel=\"noopener\" target=\"_blank\">70 Jahre Anwerbeabkommen mit Italien: Heimweh in der neuen Heimat</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Melahat Simsek<br>Redaktion: Sefa Inci Suvak<br>Technik: Jürgen Beiner",
-    "date": "2026-10-30T05:00:23.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-anwerbeabkommen-mit-der-tuerkei-aus-arbeit-wird-heimat-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/gastarbeiterabkommen-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/22/71ff83fb-48e2-4c06-845f-a9ffc1173b98/71ff83fb-48e2-4c06-845f-a9ffc1173b98_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
     ],
     "language": "de"
   }
