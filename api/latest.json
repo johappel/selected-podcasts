@@ -1,5 +1,232 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-3639984527783545",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Im Talk über das Leben seiner Schwester Diana: Autor Charles Spencer",
+    "summary": "Mit der Veröffentlichung seines Buches \"Swan Song: Diana, meine Schwester\", blickt Charles Spencer in die eigene Familiengeschichte zurück. Das Werk zeichnet ein intimes, unbeschönigtes Porträt seiner Schwester und spart die steife Welt der Royals nicht aus. Besonders die darin erhobenen Vorwürfe gegen König Charles III. bezüglich der Tage nach Dianas Tod haben eine heftige Debatte mit dem Buckingham-Palast entfacht. Charles Spencer spricht auf dem Roten Sofa über seine Schwester, ihr Verhältnis zum Königshaus und zur britischen Yellow Press.",
+    "date": "2026-11-02T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/im-talk-ueber-leben-seiner-schwester-diana-autor-charles-spencer,audio-3572854.html",
+    "image": "https://images.ndr.de/image/2d4255a2-051e-4b97-9981-62637e01db79/AAABoZ1u5YE/AAABnSStX0g/1x1-big/screenshot-254316.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1102/AU-20261102-2221-4900.mp3",
+    "duration": "34 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a2e2c214-28c6-5aa0-8257-2845c73220c9",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 02.11.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-02T16:56:34.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kulturmeldungen_02112026_dlf_20261102_1756_9157e57a.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:5efa7c49-00b9-525d-98f0-bb348577df2f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kein Geld für Renovierung? Warum das Rastatter Revolutionsmuseum geschlossen ist",
+    "summary": "Fehrle, Moritz www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-02T16:52:15.000Z",
+    "url": "https://www.deutschlandfunk.de/kein-geld-fuer-renovierung-warum-das-rastatter-revolutionsmuseum-geschlossen-ist-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kein_geld_fuer_renovierung_warum_das_rastatter_dlf_20261102_1752_7056e334.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:abf1985f-0e0f-5785-8353-6200142d48ab",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Gegen verbannte Bücher: Eine kalifornische Bibliothekarin geht in die Politik",
+    "summary": "Zilm, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-02T16:47:18.000Z",
+    "url": "https://www.deutschlandfunk.de/gegen-verbannte-buecher-eine-kalifornische-bibliothekarin-geht-in-die-politik-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/gegen_verbannte_buecher_eine_kalifornische_bibliothekarin_dlf_20261102_1747_1a5590df.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a09b3da5-01e7-5776-8c62-8a9ca476d9c0",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Mehr Sichtbarkeit: die Arabisch-stämmige Kulturszene in Israel nach der Wahl",
+    "summary": "Kitzler, Jan Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-02T16:42:13.000Z",
+    "url": "https://www.deutschlandfunk.de/mehr-sichtbarkeit-die-arabisch-staemmige-kulturszene-in-israel-nach-der-wahl-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/mehr_sichtbarkeit_die_arabisch_staemmige_kulturszene_in_dlf_20261102_1742_7b548299.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:08afb508-76b6-5dee-8e56-2a7cb1a2d562",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Fatih Akins \"Geister\" als Graphic Novel: Vom Drehbuch zum Comic",
+    "summary": "Davies, Bea; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-11-02T14:20:55.000Z",
+    "url": "https://www.deutschlandfunk.de/fatih-akins-geister-als-graphic-novel-vom-drehbuch-zum-comic-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/fatih_akins_geister_als_graphic_novel_vom_drehbuch_zum_comic_dlf_20261102_1520_a9d3cf93.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d9096495-6872-5a8c-8940-cf2c09ac6ae0",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Aktionskünstler Dennis Meseg - 15 Tonnen Patronenhülsen",
+    "summary": "Backof, Peter www.deutschlandfunk.de, Corso",
+    "date": "2026-11-02T14:15:19.000Z",
+    "url": "https://www.deutschlandfunk.de/aktionskuenstler-dennis-meseg-15-tonnen-patronenhuelsen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/aktionskuenstler_dennis_meseg_15_tonnen_patronenhuelsen_dlf_20261102_1515_99cc3ac6.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:1ef94fd4-3d8d-5b5f-a1a7-b88379b513dc",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Zum Tod des Techno-Pioniers Juan Atkins der Tresor-Gründer Dimitri Hegemann",
+    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
+    "date": "2026-11-02T14:06:18.000Z",
+    "url": "https://www.deutschlandfunk.de/zum-tod-des-techno-pioniers-juan-atkins-der-tresor-gruender-dimitri-hegemann-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/zum_tod_des_techno_pioniers_juan_atkins_der_tresor_gruender_dlf_20261102_1506_d9ca707e.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:65ec290bec9e68a9f1f79339709ccdc5",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Eine Pastorsfrau rettet Tausende vor den Nazis: Magda Trocmé",
+    "summary": "<p>Als eine geflüchtete Jüdin vor Magda Trocmés (geb. 2.11.1901) Haustür steht, wird aus der ängstlichen Frau eine Widerstandskämpferin: Mit ihren Nachbarn rettet sie bis zu 5000 Juden das Leben.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Maren Gottschalk:</strong><br><ul><li>wie eine italienische Adlige auf die Idee kommt, in einem französischen Bergdorf ein Widerstandsnetzwerk aufzubauen,</li><li>warum Magda Trocmé in ihrer Kindheit davon träumt, ein ganz \"normales italienisches Kind\" zu sein, </li><li>mit welcher ungewöhnlichen Brautwerbung André Trocmé Magdas Herz gewinnt,</li><li>wie auch die Kinder der Trocmés später im Widerstand eingebunden sind.</li></ul><br>An einem Abend im Winter 1940/41 ist Magda Trocmé allein zu Haus, als es klopft. Vor der Tür des Pfarrhauses steht eine junge Frau, viel zu dünn angezogen für das Wetter, mit Sandalen an den Füßen, durchnässt und frierend. Sie spricht mit deutschem Akzent und ist Jüdin.<br><br>Magda Trocmé zögert keine Sekunde. Sie bittet die junge Frau ins Haus, bereitet ihr etwas zu essen und bezieht ihr ein Bett. Dass die Frau aus Nazi-Deutschland geflohen ist, steht außer Frage.<br><br>Dies ist der Anfang einer beispiellosen Rettungsaktion, die das kleine Nest Le Chambon-sur-Lignon im französischen Zentralmassiv in einen Hort des Widerstands verwandelt. Bis zu 5.000 Juden, darunter sehr viele Kinder, werden zwischen 1940 und 1945 hier versteckt und damit vor der sicheren Ermordung gerettet. Im Zentrum dieser Aktion stehen Magda und ihr Mann André Trocmé, doch sie haben viele Helferinnen und Helfer.<br><br>Die Bewohner des ganzen Hochplateaus stoßen dazu. Zwei Menschen können schließlich nicht 5.000 Leute retten. Es entsteht ein riesiges Netzwerk. <br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hanna Schott, Biographin der Trocmés </li><li>Annelie Buntenbach, Historikerin </li><li>Hanna Schott: Von Liebe und Widerstand. Magda und André Trocmé. Luhe-Wildenau 2021</li><li>Annelie Buntenbach: Leben und Kämpfen in den Cevennen 1940-1944. Eine deutsch-französische Widerstandsgeschichte, Göttingen 2026</li><li>United States Holocaust Memorial Museum: <a href=\"https://collections.ushmm.org/search/catalog/irn510802\" rel=\"noopener\" target=\"_blank\">Interview mit Magda Trocmé</a></li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/nationalsozialismus/der_zweite_weltkrieg/index.html\" rel=\"noopener\" target=\"_blank\">Der Zweite Weltkrieg</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/deutsche_geschichte/flucht_und_vertreibung/fluechtlingsstroeme-106.html\" rel=\"noopener\" target=\"_blank\">Flüchtlingsströme des Zweiten Weltkriegs</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Maren Gottschalk<br>Redaktion: Carolin Rückl und Sefa Inci Suvak<br>Technik: Sarah Fitzek",
+    "date": "2026-11-02T05:00:26.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-magda-trocme-wie-die-pfarrersfrau-tausende-vor-den-nazis-rettet-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-magda-trocme-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/19/89175b76-718f-41b6-ba0f-b91b2963c081/89175b76-718f-41b6-ba0f-b91b2963c081_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-4585495811797542",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -21,237 +248,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1b42f841-4c48-528f-ab8f-255f8ebc7a3a",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 01.11.2026",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:56:30.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-01-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/kulturmeldungen_01112026_dlf_20261101_1756_92392882.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ad86df86-afc6-5c76-b04d-c8b43a3fc605",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Lieferantin von Schmuckstücken - zum Tod der Filmproduzentin Regina Ziegler",
-    "summary": "Claus, Peter www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:51:45.000Z",
-    "url": "https://www.deutschlandfunk.de/lieferantin-von-schmuckstuecken-zum-tod-der-filmproduzentin-regina-ziegler-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/lieferantin_von_schmuckstuecken_zum_tod_der_filmproduzentin_dlf_20261101_1751_5537bf35.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0b0f0cdc-e76b-5ba0-917e-cb4b09f303e9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Partitur des Körpers\" - Ein Tanzabend in Hellerau",
-    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:46:44.000Z",
-    "url": "https://www.deutschlandfunk.de/partitur-des-koerpers-ein-tanzabend-in-hellerau-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/partitur_des_koerpers_ein_tanzabend_in_hellerau_dlf_20261101_1746_ef3668f2.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4059bbc8-61ca-5fe3-be9d-d88577b4b801",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Das große Drama\" - Auguste Rodin und der Streit um die Moderne in Dresden",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:41:32.000Z",
-    "url": "https://www.deutschlandfunk.de/das-grosse-drama-auguste-rodin-und-der-streit-um-die-moderne-in-dresden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/das_grosse_drama_auguste_rodin_und_der_streit_um_die_moderne_dlf_20261101_1741_8c34fdc7.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:8f6ab9a5-e516-50cf-bfa2-6c20a34281ae",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Erziehung und Verständigung - Claudia Bauer insz. Handkes \"Kaspar\" in Köln",
-    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:36:17.000Z",
-    "url": "https://www.deutschlandfunk.de/erziehung-und-verstaendigung-claudia-bauer-insz-handkes-kaspar-in-koeln-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/erziehung_und_verstaendigung_claudia_bauer_insz_handkes_dlf_20261101_1736_7b31f339.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:57d77f35-6a6a-5aba-9aa4-968d43246e7c",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Eine PEN Berlin-Veranstaltung reflektiert über das gemeinsame Reden",
-    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-01T16:30:30.000Z",
-    "url": "https://www.deutschlandfunk.de/eine-pen-berlin-veranstaltung-reflektiert-ueber-das-gemeinsame-reden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/01/eine_pen_berlin_veranstaltung_reflektiert_ueber_das_dlf_20261101_1730_79309d0c.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:b04a0c82e7dbd2b41c9a30f4503ec850",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Österreich: Von Habsburg, Sisi und der Suche nach Identität",
-    "summary": "<p>Am 1.11.996 wird Österreich erstmals urkundlich erwähnt. Einst Großmacht, später kleine Republik: Wie prägen Habsburg, Sisi und die Sehnsucht nach alter Größe das Land?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Herwig Katzer:</strong><br><ul><li>was in der Urkunde steht, die Kaiser Otto III. im November 996 dem Bischof von Freising übergibt,</li><li>wie die Habsburger fast 650 Jahre lang das Schicksal Österreichs bestimmen,</li><li>warum die \"Habsburger Vermählungsstrategie\" zum geflügelten Wort wird,</li><li>vom jahrhundertelangen Konflikt zwischen Frankreich und dem Haus Habsburg um die Vorherrschaft in Europa,</li><li>welcher Fund nach der Belagerung Wiens durch die Türken 1683 unschätzbare Bedeutung für die Geschichte und Kultur Österreichs erlangt.</li></ul><br>Die älteste urkundliche Nennung des Namens \"Ostarrichi\", aus dem der spätere Name für Österreich entsteht, stammt vom 1. November 996. Es handelt sich um eine Schenkungsurkunde des römisch-deutschen Kaisers Otto III. an den Bischof von Freising, Gottschalk von Hagenau - die \"Ostarrichi-Urkunde\". Ostar heißt \"östlich gelegen\", \"richi\" bezeichnet ein begrenztes Herrschaftsgebiet, ein \"Reich\" also.<br><br>Ende des 10. Jahrhunderts haben im heutigen Niederösterreich die Babenberger das Sagen. 1246 sterben sie aber sang- und klanglos aus und machen den Weg frei für eine neue Dynastie. Fast 650 Jahre lang bestimmen fortan die Habsburger das Schicksal des Landes, im Guten wie im Schlechten. Den Aufschlag macht Rudolf I. von Habsburg, der 1273 zum römisch-deutschen König gekrönt wird.<br><br>Mit dem Tod Karls VI. stirbt 1740 die männliche Linie der Habsburger aus - aufgrund der sogenannten Pragmatischen Sanktion, die auch Frauen die Thronfolge erlaubt, wird Maria Theresia Erzherzogin von Österreich. Ihr Gemahl Franz I. wird Kaiser, hat aber neben der resoluten Regentin wenig zu melden.<br><br><strong>Das sind unsere wichtigsten Interviewpartner:</strong><br><ul><li>Florian Gasser, Historiker und Host im transalpinen ZEIT-Podcast \"Servus. Grüezi. Hallo\"</li><li>Thomas Macho, Kulturhistoriker</li><li>Rolf Bauer: Österreich. Ein Jahrtausend Geschichte im Herzen Europas. Berlin 1970</li><li>Heinrich August Winkler: Geschichte des Westens. München 2015</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/adel/geschichte_des_adels/pwiediehabsburger100.html\" rel=\"noopener\" target=\"_blank\">Die Habsburger</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/metropolen/wien/pwiewienerkaffeehauskultur100.html\" rel=\"noopener\" target=\"_blank\">Wiener Kaffeehauskultur</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/deutsche_geschichte/der_erste_weltkrieg/folgen-des-ersten-weltkriegs-100.html\" rel=\"noopener\" target=\"_blank\">Wie der Erste Weltkrieg die Weltkarte veränderte</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/rudolf-von-habsburg-100.html\" rel=\"noopener\" target=\"_blank\">15. Juli 1291 - Der römisch-deutsche König Rudolf von Habsburg stirbt</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/kaiser-franz-112.html\" rel=\"noopener\" target=\"_blank\">18.08.1765 - Todestag des Kaisers Franz I.</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Herwig Katzer<br>Redaktion: Matti Hesse",
-    "date": "2026-11-01T05:00:56.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-oesterreich-von-habsburg-sisi-und-der-suche-nach-identitaet-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-oesterreich-urkunde-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/29/232d4ed4-ecc4-4a67-85f4-13db81625d20/232d4ed4-ecc4-4a67-85f4-13db81625d20_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0fda5594-5a75-544e-8566-89c7f5507d88",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 31.10.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:56:45.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-31-10-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/kulturmeldungen_31102026_dlf_20261031_1756_4416265e.mp3?refId=kultur-heute-104",
-    "duration": "2 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6b55ea4b-eafc-5d44-8a5e-61b0a0df6747",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Universum aus Zeichnungen - \"Andreas Oehlert. Paper Moon\" in Nürnberg",
-    "summary": "Krone, Tobias www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-10-31T16:51:45.000Z",
-    "url": "https://www.deutschlandfunk.de/universum-aus-zeichnungen-andreas-oehlert-paper-moon-in-nuernberg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/universum_aus_zeichnungen_andreas_oehlert_paper_moon_in_dlf_20261031_1751_c11391d8.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   }
