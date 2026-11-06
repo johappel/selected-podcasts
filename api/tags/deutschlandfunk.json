@@ -1,5 +1,211 @@
 [
   {
+    "id": "dlf-kultur-heute:0673180a-5ee0-5bdb-8b1f-7a055335781f",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 05.11.2026",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-05T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/kulturmeldungen_05112026_dlf_20261105_1756_94ca1d42.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ced3e036-1f09-50b5-8a6a-08ac057fdfd4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Diener der Kunst - Zum Tod des schwedischen Dirigenten Herbert Blomstedt",
+    "summary": "Drost, Mascha www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-05T16:50:00.000Z",
+    "url": "https://www.deutschlandfunk.de/diener-der-kunst-zum-tod-des-schwedischen-dirigenten-herbert-blomstedt-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/diener_der_kunst_zum_tod_des_schwedischen_dirigenten_herbert_dlf_20261105_1750_86c8f1f8.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3851dc6c-4df0-5cbb-bf12-00de03fc4418",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kinder an die Macht - S. Peters über Kinderpartizipation in Kunst und Politik",
+    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-05T16:42:21.000Z",
+    "url": "https://www.deutschlandfunk.de/kinder-an-die-macht-s-peters-ueber-kinderpartizipation-in-kunst-und-politik-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/kinder_an_die_macht_s_peters_ueber_kinderpartizipation_in_dlf_20261105_1742_87c7adcd.mp3?refId=kultur-heute-104",
+    "duration": "8 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:0eb14001-d007-5469-8a41-abd633b7657e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Minotaurus\" - Andrey Zvyagintsevs neuer Film kommt ins Kino",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-05T16:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/minotaurus-andrey-zvyagintsevs-neuer-film-kommt-ins-kino-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/minotaurus_andrey_zvyagintsevs_neuer_film_kommt_ins_kino_dlf_20261105_1735_22c6a5a4.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:40d44d89-368e-5d77-855f-399d253d9557",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Neue Filme - \"Geister\", \"Drei Kameradinnen\", \"Minotaurus\"",
+    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
+    "date": "2026-11-05T14:15:31.000Z",
+    "url": "https://www.deutschlandfunk.de/neue-filme-geister-drei-kameradinnen-minotaurus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/neue_filme_geister_drei_kameradinnen_minotaurus_dlf_20261105_1515_bf3d9adc.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:bdfcb733-58d2-5eee-9554-bb2070a3396f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Liebeslieder im Pop - Gefühlsformate für die Konkurrenzgesellschaft",
+    "summary": "Wulf, Philipp; Buchmann, Anja www.deutschlandfunk.de, Corso",
+    "date": "2026-11-05T14:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/liebeslieder-im-pop-gefuehlsformate-fuer-die-konkurrenzgesellschaft-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/liebeslieder_im_pop_gefuehlsformate_fuer_die_dlf_20261105_1510_473ca681.mp3?refId=corso-104",
+    "duration": "14 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b9641866-4b9b-55fc-a22e-007a81b6e2ac",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Remake des Erfolgs-Games \"Ocarina of Time\" - Spiel mir die Hymne der Zeit",
+    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
+    "date": "2026-11-05T14:08:31.000Z",
+    "url": "https://www.deutschlandfunk.de/remake-des-erfolgs-games-ocarina-of-time-spiel-mir-die-hymne-der-zeit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/remake_des_erfolgs_games_ocarina_of_time_spiel_mir_die_hymne_dlf_20261105_1508_273b5744.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-der-rest-ist-geschichte:a961b79a-4db1-5141-b747-6026692f2c3a",
+    "source": "dlf-der-rest-ist-geschichte",
+    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
+    "type": "rss",
+    "title": "Falklandinseln - Warum Argentinien sie haben will",
+    "summary": "Die Falklandinseln liegen vor dem südlichsten Zipfel von Südamerika. Sie gehören zu Großbritannien, doch schon lange erhebt Argentinien Ansprüche - 1982 kam es deshalb zum Krieg. Jetzt hat Argentiniens Präsident Milei den Konflikt neu angefacht.<br><br><strong>Das erwartet Euch in dieser Folge:</strong><br><br>(01:55) Die europäische Besiedlung der Falklandinseln ab dem 17. Jahrhundert<br>(11:20) Krieg um die Falklandinseln 1982<br>(19:20) Der Krieg aus der Perspektive Argentiniens<br>(29:27) Die Folgen der Niederlage für Argentinien<br>(31:20) Wie die britische Premierministerin Margaret Thatcher vom Falkland-Krieg profitierte<br>(35:20) Warum über die Falklandinseln heute wieder gestritten wird<br><br><strong>Unsere Gäste in dieser Folge:</strong><br><br><ul><li>Die gebürtige Argentinierin <strong>Claudia Zilla</strong> ist Politikwissenschaftlerin und arbeitet in der Forschungsgruppe „Amerika“ bei der Stiftung Wissenschaft und Politik (SWP) in Berlin.  </li></ul><br><ul><li><strong>Karina Urbach</strong> ist Historikerin und lehrt an der Universität London. Zu ihren Forschungsgebieten gehören die britischen und internationalen Beziehungen im 19. und 20. Jahrhundert. </li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Jörg Biesler<br>Recherche, Skript und Produktion: Matthieu Praun und Thomas Ibrahim<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich und Christian Röther <br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/chile-praesident-geschichte-diktatur-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über den Rechtsruck in Chile</li><li><a href=\"https://www.deutschlandfunk.de/venezuela-usa-geschichte-regime-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Venezuela</li><li><a href=\"https://www.deutschlandfunk.de/kuba-kommunismus-geschichte-usa-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte</a> über Kuba</li></ul><br><strong>Weiterführende Links: </strong><br><br><ul><li>Hintergrund-Artikel über den Falklandkrieg bei der <a href=\"https://www.bpb.de/kurz-knapp/hintergrund-aktuell/509051/vor-40-jahren-ende-des-falklandkriegs/\" rel=\"noopener\" target=\"_blank\">Bundeszentrale für politische Bildung</a></li><li>Informationen bei der <a href=\"https://www.margaretthatcher.org/archive/1982_falklands\" rel=\"noopener\" target=\"_blank\">Margaret Thatcher Foundation</a> über den Falklandkrieg (auf Englisch)</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche:</strong><br><br><ul><li><a href=\"https://1.ard.de/alles-in-butter\" rel=\"noopener\" target=\"_blank\">Alles in Butter - der Genuss-Podcast</a></li></ul><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "date": "2026-11-05T12:00:00.000Z",
+    "url": "https://www.deutschlandfunk.de/falklandinseln-argentinien-grossbritannien-geschichte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/7f/32/ce/a3/7f32cea3-0b65-41c4-85d9-be53b15b3c07/falkland-inseln-milei-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/falklandinseln_warum_argentinien_sie_haben_will_dlf_20261105_1300_2276063f.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
+    "duration": "45 Min",
+    "tags": [
+      "geschichte",
+      "zeitgeschichte",
+      "gesellschaft",
+      "politik",
+      "bildung",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Geschichte",
+      "Gesellschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:796d9fea-88b7-5c76-a2aa-047097ab65cf",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -231,84 +437,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:a0687dc1-aa68-533a-902c-84c5d05b0c21",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Philosophin Judith Simon über KI und digitale Souveränität",
-    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/philosophin-judith-simon-ueber-ki-und-digitale-souveraenitaet-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/philosophin_judith_simon_ueber_ki_und_digitale_dlf_20261103_1746_0471837d.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c61c71f1-891a-5a2d-8154-bdbb17085f76",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Mater\" - Der spanische Künstler Gonzalo Borondo in der Villa Stuck in München",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/mater-der-spanische-kuenstler-gonzalo-borondo-in-der-villa-stuck-in-muenchen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/mater_der_spanische_kuenstler_gonzalo_borondo_in_der_villa_dlf_20261103_1741_b66fe203.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:e0b7a745-724b-5021-97ff-c6966b7e44ed",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der unbekannte Bekannte - Prix Goncourt 2026 an Philippe Jaenada vergeben",
-    "summary": "Ritte, Jürgen www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-unbekannte-bekannte-prix-goncourt-2026-an-philippe-jaenada-vergeben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/der_unbekannte_bekannte_prix_goncourt_2026_an_philippe_dlf_20261103_1736_ad6dfe60.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:f0e26776-ce08-51e1-87ad-fd0a15cb0185",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -410,32 +538,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:a2e2c214-28c6-5aa0-8257-2845c73220c9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 02.11.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-02T16:56:34.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-02-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/kulturmeldungen_02112026_dlf_20261102_1756_9157e57a.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:08afb508-76b6-5dee-8e56-2a7cb1a2d562",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -447,81 +549,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/fatih_akins_geister_als_graphic_novel_vom_drehbuch_zum_comic_dlf_20261102_1520_a9d3cf93.mp3?refId=corso-104",
     "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:d9096495-6872-5a8c-8940-cf2c09ac6ae0",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aktionskünstler Dennis Meseg - 15 Tonnen Patronenhülsen",
-    "summary": "Backof, Peter www.deutschlandfunk.de, Corso",
-    "date": "2026-11-02T14:15:19.000Z",
-    "url": "https://www.deutschlandfunk.de/aktionskuenstler-dennis-meseg-15-tonnen-patronenhuelsen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/aktionskuenstler_dennis_meseg_15_tonnen_patronenhuelsen_dlf_20261102_1515_99cc3ac6.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1ef94fd4-3d8d-5b5f-a1a7-b88379b513dc",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Zum Tod des Techno-Pioniers Juan Atkins der Tresor-Gründer Dimitri Hegemann",
-    "summary": "Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-11-02T14:06:18.000Z",
-    "url": "https://www.deutschlandfunk.de/zum-tod-des-techno-pioniers-juan-atkins-der-tresor-gruender-dimitri-hegemann-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/zum_tod_des_techno_pioniers_juan_atkins_der_tresor_gruender_dlf_20261102_1506_d9ca707e.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:3f610ed5-9679-53b6-a057-34386299e1a5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Editors-Sänger Tom Smith: \"Nichts tut so weh wie das Leben.\"",
-    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
-    "date": "2026-10-31T14:37:00.000Z",
-    "url": "https://www.deutschlandfunk.de/editors-saenger-tom-smith-nichts-tut-so-weh-wie-das-leben-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/10/31/editors_saenger_tom_smith_nichts_tut_so_weh_wie_das_leben_dlf_20261031_1537_43810d86.mp3?refId=corso-104",
-    "duration": "11 Min",
     "tags": [
       "kultur",
       "pop",
@@ -1415,33 +1442,6 @@
       "biografie",
       "interview",
       "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Geschichte",
-      "Gesellschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-der-rest-ist-geschichte:9cd5ca1b-9e3b-5a35-9131-c454f4e2e0f6",
-    "source": "dlf-der-rest-ist-geschichte",
-    "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
-    "type": "rss",
-    "title": "Geografie - Die Macht der Meerengen",
-    "summary": "Im Abwehrkampf gegen die USA und Israel hat der Iran ein Faustpfand: die Straße von Hormus, eine Meerenge vor der eigenen Haustür. Das hätte man wissen können. Und ein Blick in die Geschichte zeigt, dass Geografie kriegsentscheidend sein kann.<br><br><strong>Das erwartet Euch in dieser Folge: </strong><br><br>(02:02) Geografie als Machtfaktor<br>(03:15) Antike Kämpfe am „Hellespont“<br>(10:30) Parallelen zwischen historischen und aktuellen Konflikten<br>(12:10) Der persische König Xerxes scheiterte am Hellespont<br>(18:20) Alexander der Große und Lord Byron am Hellespont<br>(22:30) Die Straße von Malakka - früher und heute bedeutend<br>(28:50) Die Rolle der Handelskompanien<br>(38:00) Die Freiheit der Meere und das Völkerrecht<br><br><strong>Unsere Gäste in dieser Folge: </strong><br><br><ul><li><strong>Pascal Warnking </strong>ist Professor für maritime Antike an der Universität Trier, er forscht unter anderem zu antiken Ökonomien und Seehandel. </li></ul><br><ul><li><strong>Jürgen Nagel </strong>ist Professor für die Geschichte Europas in der Welt an der Fernuniversität Hagen, die maritime Geschichte Südostasiens gehört zu seinen Spezialgebieten.</li></ul><br><strong>Die Macherinnen und Macher dieser Folge:</strong><br><br>Host: Anh Tran<br>Recherche, Skript und Produktion: Matthieu Praun und Robert Hauspurg<br>Faktencheck: Lino Krukenberg<br>Redaktion: Monika Dittrich<br><br><strong>Mehr zum Thema in der Deutschlandfunk App: </strong><br><br><ul><li><a href=\"https://www.deutschlandfunk.de/iran-diktatur-proteste-geschichte-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über den Iran</li><li><a href=\"https://www.deutschlandfunk.de/irankrieg-regimechange-geschichte-scheitern-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über Regimewechsel</li><li><a href=\"https://www.deutschlandfunk.de/geschichte-der-hisbollah-irans-faust-an-israels-grenze-dlf-035a71b6-100.html\" rel=\"noopener\" target=\"_blank\">Der Rest ist Geschichte </a>über die Hisbollah</li></ul><br><strong>Weiterführende Links und Literatur: </strong><br><br><ul><li><a href=\"https://schiffsradar24.de/strasse-von-hormus/\" rel=\"noopener\" target=\"_blank\">Aktuelle Informationen </a>zur Straße von Hormus</li><li>Tim Marshall: Die Macht der Geografie. Wie sich Weltpolitik anhand von 10 Karten erklären lässt. (dtv, Neuausgabe 2025)</li></ul><br><strong>\"Der Rest ist Geschichte\" geht auf Tour: </strong><br><br><ul><li>Am 8. September 2026 sind wir live in Brüssel, Host Anh Tran spricht mit ihren Gästen über das deutsch-belgische Verhältnis. Infos und Anmeldung <a href=\"https://u.brf.be/25-jahre-brf-dlf/\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><ul><li>Am 12. September 2026 sind wir live in Bamberg, Host Jörg Biesler spricht mit seinen Gästen über die Geschichte des Handwerks. Infos und Anmeldung <a href=\"https://www.deutschlandfunk.de/der-rest-ist-geschichte-12-9-2026-bamberg-100.html\" rel=\"noopener\" target=\"_blank\">hier</a>.</li></ul><br><strong>Unser Podcast-Tipp in dieser Woche: </strong><br><br><a href=\"https://www.deutschlandfunk.de/amerika-verstehen-mit-volker-depkat-100.html\" rel=\"noopener\" target=\"_blank\">Amerika verstehen</a>. Mit Volker Depkat, jeden Samstag eine neue Folge<br><br>+++++<br> <br>Wenn Euch \"Der Rest ist Geschichte\" gefällt, abonniert uns und empfehlt uns weiter. Für Kritik, Fragen und Anregungen schickt uns eine E-Mail an derrestistgeschichte@deutschlandfunk.de</a>.<br><br>+++++<br><br>Noch mehr spannende Podcasts gibt’s in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.  <br>Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-08-27T11:00:00.000Z",
-    "url": "https://www.deutschlandfunk.de/irankrieg-geografie-meerengen-geschichte-100.html",
-    "image": "https://bilder.deutschlandfunk.de/21/34/37/e2/213437e2-5bf0-4213-bf63-7b9f6b46f115/strasse-hormus-104-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/08/27/geografie_die_macht_der_meerengen_dlf_20260827_1300_9689a856.mp3?refId=deutschlandfunk-der-rest-ist-geschichte-100",
-    "duration": "45 Min",
-    "tags": [
-      "geschichte",
-      "zeitgeschichte",
-      "gesellschaft",
-      "politik",
-      "bildung",
       "deutschlandfunk"
     ],
     "category": [
