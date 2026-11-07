@@ -1,5 +1,233 @@
 [
   {
+    "id": "dlf-kultur-heute:882582a1-b5f8-5200-9f9a-f562471a22bb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 06.11.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/kulturmeldungen_06112026_dlf_20261106_1756_21e55495.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e3700754-6861-5683-9f7d-48cfe369f760",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bremer Kunsthalle widmet sich dem Dackel",
+    "summary": "Budde, Vanja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/bremer-kunsthalle-widmet-sich-dem-dackel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/bremer_kunsthalle_widmet_sich_dem_dackel_dlf_20261106_1752_82eaaab9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9538fbd8-f495-5dc4-a7a4-f2122c8f887a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "50 Jahre Gegenwart - Die Duisburger Filmwoche im Jubiläumsjahr",
+    "summary": "Dell, Matthias www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/50-jahre-gegenwart-die-duisburger-filmwoche-im-jubilaeumsjahr-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/50_jahre_gegenwart_die_duisburger_filmwoche_im_dlf_20261106_1746_77ea0592.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6e180328-f8de-50f8-b735-10cf890cff28",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Hamlet\" - Ersan Mondtag inszeniert Shakespeares Klassiker am Berliner Ensemble",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/hamlet-ersan-mondtag-inszeniert-shakespeares-klassiker-am-berliner-ensemble-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/hamlet_ersan_mondtag_inszeniert_shakespeares_klassiker_am_dlf_20261106_1741_a6e78403.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:33d71094-55ee-5366-89d8-fef6abd58c8a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Down the Road\" - Doppelabend Forsythe - Baldy der Frankfurt Dance Company",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/down-the-road-doppelabend-forsythe-baldy-der-frankfurt-dance-company-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/down_the_road_doppelabend_forsythe_baldy_der_frankfurt_dance_dlf_20261106_1736_46e6d4db.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b2e01f08-c7d9-5903-a682-e51d85b038b9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "ARD-Comedy-Serie \"Die Friesenjunkies\" - Sucht, Sylt und die Belton-Brüder",
+    "summary": "Brinkmann, Sören; Belton, Emin und Oskar www.deutschlandfunk.de, Corso",
+    "date": "2026-11-06T14:20:09.000Z",
+    "url": "https://www.deutschlandfunk.de/ard-comedy-serie-die-friesenjunkies-sucht-sylt-und-die-belton-brueder-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/ard_comedy_serie_die_friesenjunkies_sucht_sylt_und_die_dlf_20261106_1520_3a6948a2.mp3?refId=corso-104",
+    "duration": "15 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7a2519e2-57c7-50af-a193-0e43d20e0961",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Reif für die Therapie!\" - Deutscher Karikaturenpreis wird am Sonntag verliehen",
+    "summary": "Ufer, Peter; Brinkmann, Sören www.deutschlandfunk.de, Corso",
+    "date": "2026-11-06T14:15:04.000Z",
+    "url": "https://www.deutschlandfunk.de/reif-fuer-die-therapie-deutscher-karikaturenpreis-wird-am-sonntag-verliehen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/reif_fuer_die_therapie_deutscher_karikaturenpreis_wird_am_dlf_20261106_1515_2d61b827.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:93ab0d2b-17f9-55a9-bef3-693aae056f1a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Truman Show\" in echt - Wirbel um dänisches TV-Format \"Alle lieben Rasmus\"",
+    "summary": "Bartram, Arne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-06T14:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/truman-show-in-echt-wirbel-um-daenisches-tv-format-alle-lieben-rasmus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/truman_show_in_echt_wirbel_um_daenisches_tv_format_alle_dlf_20261106_1510_4c5fd62c.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:31299a42d9d3f9311adadd70cf42029c",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Der vergessene Pionier hinter der Kolping-Bewegung",
+    "summary": "<p>Armut, fehlende Bildung und entwurzelte junge Menschen: Am 6.11.1846 gründet Johann Gregor Breuer einen Gesellenverein. Adolph Kolping macht diese Idee zu seiner eigenen.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Irene Geuer:</strong><br><ul><li>wie junge Auszubildende heutzutage zusammen im Jugendwohnen leben,</li><li>warum der gebürtige Neusser Johann Gregor Breuer durch seinen Bruder in eine Lehrerausbildung kommt,</li><li>weshalb Breuer in Elberfeld zunächst jungen katholischen Mädchen Bildung, Gemeinschaft und Schutz bietet,</li><li>wie Adolph Kolping auf den Gesellenverein und Johann Gregor Breuer aufmerksam wird.</li></ul><br>Mitte des 19. Jahrhunderts nimmt die Industrialisierung auch in Elberfeld, das heute zu Wuppertal gehört, vielen Männern die Lebensgrundlage. Johann Gregor Breuer will nicht weiter zusehen, wie der Alkohol viele zugrunde richtet. Der Lehrer organisiert in einer Schreinerwerkstatt gesellige Treffen für die Männer. Daraus entsteht am 6. November 1846 der erste Gesellenverein, der nun für Unterkünfte, Weiterbildung und Gemeinschaft sorgt.<br><br>Die Idee nimmt der Elberfelder Kaplan Adolph Kolping mit nach Köln. Unter seinem Namen entstehen bald im ganzen Land Gesellenvereine. Der eigentliche Gründer Breuer hingegen bleibt weitgehend unbekannt, verehrt wird er lediglich in Elberfeld, wo er noch weitere Hilfsinitiativen ins Leben ruft.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Martin Rose, Ehrenamtler im Bundesvorstand Kolping Deutschland</li><li>Jugendliche im Kölner Jugendwohnen, Kolping</li><li>Franz Lüttgen: Johann Gregor Breuer und Adolph Kolping. Studien zur Frühgeschichte des Katholischen Gesellenvereins. Paderborn 1997</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/kolping106.html\" rel=\"noopener\" target=\"_blank\">08.12.1813 - Geburtstag des Priesters Adolph Kolping</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/arbeit/handwerk/altes-handwerk-124.html\" rel=\"noopener\" target=\"_blank\">Geschichte des Handwerks</a></li></ul><br><strong>Hörtipp:</strong> <br><ul><li><a href=\"https://www.ardsounds.de/sendung/der-bruch-frauen-zwischen-ost-und-jetzt/urn:ard:show:2163b81eec95bcfe/\" rel=\"noopener\" target=\"_blank\">Podcast \"DER BRUCH - Ein Dorf zwischen Ost und Jetzt\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Irene Geuer<br>Redaktion: Sefa Inci Suvak",
+    "date": "2026-11-06T05:00:23.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-vergessene-pionier-hinter-der-kolping-bewegung-102.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-johnn-gregor-breuer-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/29/0e1ecce5-c94d-4217-8054-d92ff3c3c08b/0e1ecce5-c94d-4217-8054-d92ff3c3c08b_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-alles-gesagt:4150edd0-9999-413a-ba75-cd755d7ec4b5",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -23,234 +251,6 @@
       "Gesellschaft",
       "Kultur",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-6167480371033676",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Wunderbar wandelbar: Schauspielerin Patricia Aulitzky",
-    "summary": "Im ARD-Dokudrama \"Benko - Size Does Matter\" spielt Patricia Aulitzky die nicht weniger luxusliebende Ehefrau des schillernden Immobilieninvestors René Benko, dessen Unternehmen bekanntlich in einer krachenden Pleite endete. Privat mag es die 47-Jährige weitaus bodenständiger. Zur Schauspielerei kam sie fast nebenbei am Endpunkt einer Reise um die halbe Welt, ging nach der Ausbildung erst ans Theater, zog dann weiter und hatte rasch den Durchbruch im Kinodrama \"Falco - Verdammt, wir leben noch!\". Beeindruckend ist die heterogene Vielzahl an Rollen, die Patricia Aulitzky annimmt.",
-    "date": "2026-11-05T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/wunderbar-wandelbar-schauspielerin-patricia-aulitzky,audio-3579598.html",
-    "image": "https://images.ndr.de/image/ffce8842-d3e7-4edb-b4ab-904dc2267289/AAABoazUc6Y/AAABnSStX0g/1x1-big/screenshot-256252.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1105/AU-20261105-2048-4400.mp3",
-    "duration": "39 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0673180a-5ee0-5bdb-8b1f-7a055335781f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 05.11.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-05T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-05-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/kulturmeldungen_05112026_dlf_20261105_1756_94ca1d42.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ced3e036-1f09-50b5-8a6a-08ac057fdfd4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Diener der Kunst - Zum Tod des schwedischen Dirigenten Herbert Blomstedt",
-    "summary": "Drost, Mascha www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-05T16:50:00.000Z",
-    "url": "https://www.deutschlandfunk.de/diener-der-kunst-zum-tod-des-schwedischen-dirigenten-herbert-blomstedt-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/diener_der_kunst_zum_tod_des_schwedischen_dirigenten_herbert_dlf_20261105_1750_86c8f1f8.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3851dc6c-4df0-5cbb-bf12-00de03fc4418",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kinder an die Macht - S. Peters über Kinderpartizipation in Kunst und Politik",
-    "summary": "Ellmenreich, Maja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-05T16:42:21.000Z",
-    "url": "https://www.deutschlandfunk.de/kinder-an-die-macht-s-peters-ueber-kinderpartizipation-in-kunst-und-politik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/kinder_an_die_macht_s_peters_ueber_kinderpartizipation_in_dlf_20261105_1742_87c7adcd.mp3?refId=kultur-heute-104",
-    "duration": "8 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:0eb14001-d007-5469-8a41-abd633b7657e",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Minotaurus\" - Andrey Zvyagintsevs neuer Film kommt ins Kino",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-05T16:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/minotaurus-andrey-zvyagintsevs-neuer-film-kommt-ins-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/minotaurus_andrey_zvyagintsevs_neuer_film_kommt_ins_kino_dlf_20261105_1735_22c6a5a4.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4097302",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Wie rettet sich Sachsen-Anhalts Zivilgesellschaft?",
-    "summary": "Sachsen-Anhalts Zivilgesellschaft in Gefahr\n<p>Beratungsstellen, Jugendclubs, Vereine: Große Teile der demokratischen Zivilgesellschaft bereiten sich auf eine mögliche AfD-Regierung in Sachsen-Anhalt vor. Die AfD hat in ihrem Wahlprogramm eine „neue, patriotische Kulturpolitik“ angekündigt und will Förderungen für bestimmte Projekte streichen. Fördermittel, von denen viele Vereine und Projekte bislang zumindest teilweise abhängig sind. Nun bangen einige um ihre Zukunft. „Für viele Vereine, Verbände wird sich in Sachsen-Anhalt ganz konkret die Frage stellen: Können wir unsere Miete noch bezahlen und den Kollegen oder die Kollegin?“, sagt Timo Reinfrank von der Amadeu Antonio Stiftung.</p>\nAlternative Finanzierung, neue Strukturen\n<p>Der Verein „Miteinander“ berät unter anderem viele Akteure der demokratischen Zivilgesellschaft dazu, wie sie ihre Zukunft in den kommenden Jahren sichern können. Dazu zählen alternative Finanzierungsmöglichkeiten, die Überprüfung, wie standhaft die eigenen Strukturen gegen Angriffe sind, und auch die Vernetzung und die Suche nach neuen Verbündeten. So hat das Bündnis „Kultur ist Vielfalt und Heimat“ beispielsweise einen Verein gegründet, um strukturell besser aufgestellt zu sein.</p>\n<p>Auch einige Stiftungen und Fonds bereiten sich darauf vor, übergangsweise entfallende Mittel zu übernehmen. Dazu gehören etwa der Sachsen-Anhalt-Fund, die Amadeu Antonio Stiftung, das Netzwerk „Zukunftswege Ost“ oder der „Deutsche Fonds für Demokratie“, der sich extra zu diesem Zweck neu gegründet hat. Co-Geschäftsführerin <strong>Maja Sojref</strong> erklärt, warum es so entscheidend ist, kritische Infrastruktur in der Zivilgesellschaft zu erhalten. „Wenn die kritische Infrastruktur einmal wegbricht, dann können sich auch viele andere Menschen nicht engagieren. Sei es die Lehrkraft, sei es der Pfarrer, die Pfarrerin, sei es die Fußballtrainerin, weil die im Zweifelsfall keine Stelle haben, an die sie sich wenden können.“</p>\n<p>Ein Wegfall großer Teile der demokratischen Zivilgesellschaft hätte weitreichende Folgen für das Zusammenleben in Sachsen-Anhalt. Nicht zuletzt, weil viele dieser Projekte auch als Kitt funktionieren, der die derzeit gespaltene Gesellschaft zusammenhält und Austausch ermöglicht.</p>\nDie Suche nach langfristigen Lösungen\n<p>Kurzfristig wollen die Stiftungen und Fonds Angriffe auf die Zivilgesellschaft zumindest teilweise abfedern. Es brauche aber auch langfristige Lösungen, fordern viele Akteure. <strong>Olaf Ebert</strong>, Geschäftsführer der Stiftung Bürger für Bürger, betont, wie wichtig dazu die Zusammenarbeit zwischen Zivilgesellschaft, Unternehmen und Politik sei. <strong>Elisabeth Kaiser</strong> (SPD), die Ostbeauftragte der Bundesregierung, hat angekündigt, sich auch auf Bundesebene für einen „Schutzschild für die Demokratie“ starkzumachen. Dieser solle auch finanziell ausgestattet werden. „Die Demokratie ist unser höchstes Gut und Grundlage unseres Wohlstands. Deshalb müssen wir alle Mittel des Rechtsstaats zum Schutz der Grundrechte und der Demokratie aufstocken.“</p>\n<p>In dieser Folge von DAZWISCHEN diskutieren Katja und Marie über die verschiedenen Möglichkeiten der demokratischen Zivilgesellschaft. Wie realistisch sind Vorstöße wie die der Ostbeauftragten? Müssen Privatpersonen und kleine Unternehmen sich stärker für die Demokratie einsetzen? Und was steht auf dem Spiel, wenn das nicht gelingt. All das jetzt in der neuen Folge DAZWISCHEN.</p>\n\nMitmachen beim DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl und darüber hinaus ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm oder schickt uns eine Sprachnachricht über WhatsApp an die Nummer 0175 6807345. In unserem WhatsApp-Kanal bekommt ihr zusätzliche Infos. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p><em>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</em></p>",
-    "date": "2026-11-05T14:52:01.000Z",
-    "url": "https://feedpress.me/link/19604/17516303/dazwischen-demokratie-unter-druck-zivilgesellschaft-wappnet-sich",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261103-02dazwischenzivilgesellschaft.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261103-02dazwischenzivilgesellschaft.63.mp3",
-    "duration": "34 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:40d44d89-368e-5d77-855f-399d253d9557",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Neue Filme - \"Geister\", \"Drei Kameradinnen\", \"Minotaurus\"",
-    "summary": "Albrecht, Jörg www.deutschlandfunk.de, Corso",
-    "date": "2026-11-05T14:15:31.000Z",
-    "url": "https://www.deutschlandfunk.de/neue-filme-geister-drei-kameradinnen-minotaurus-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/neue_filme_geister_drei_kameradinnen_minotaurus_dlf_20261105_1515_bf3d9adc.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:bdfcb733-58d2-5eee-9554-bb2070a3396f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Liebeslieder im Pop - Gefühlsformate für die Konkurrenzgesellschaft",
-    "summary": "Wulf, Philipp; Buchmann, Anja www.deutschlandfunk.de, Corso",
-    "date": "2026-11-05T14:10:00.000Z",
-    "url": "https://www.deutschlandfunk.de/liebeslieder-im-pop-gefuehlsformate-fuer-die-konkurrenzgesellschaft-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/liebeslieder_im_pop_gefuehlsformate_fuer_die_dlf_20261105_1510_473ca681.mp3?refId=corso-104",
-    "duration": "14 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:b9641866-4b9b-55fc-a22e-007a81b6e2ac",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Remake des Erfolgs-Games \"Ocarina of Time\" - Spiel mir die Hymne der Zeit",
-    "summary": "Eichler, Christian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-05T14:08:31.000Z",
-    "url": "https://www.deutschlandfunk.de/remake-des-erfolgs-games-ocarina-of-time-spiel-mir-die-hymne-der-zeit-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/05/remake_des_erfolgs_games_ocarina_of_time_spiel_mir_die_hymne_dlf_20261105_1508_273b5744.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   }

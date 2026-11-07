@@ -1,5 +1,233 @@
 [
   {
+    "id": "dlf-kultur-heute:882582a1-b5f8-5200-9f9a-f562471a22bb",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 06.11.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-06-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/kulturmeldungen_06112026_dlf_20261106_1756_21e55495.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e3700754-6861-5683-9f7d-48cfe369f760",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Bremer Kunsthalle widmet sich dem Dackel",
+    "summary": "Budde, Vanja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/bremer-kunsthalle-widmet-sich-dem-dackel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/bremer_kunsthalle_widmet_sich_dem_dackel_dlf_20261106_1752_82eaaab9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9538fbd8-f495-5dc4-a7a4-f2122c8f887a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "50 Jahre Gegenwart - Die Duisburger Filmwoche im Jubiläumsjahr",
+    "summary": "Dell, Matthias www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/50-jahre-gegenwart-die-duisburger-filmwoche-im-jubilaeumsjahr-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/50_jahre_gegenwart_die_duisburger_filmwoche_im_dlf_20261106_1746_77ea0592.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:6e180328-f8de-50f8-b735-10cf890cff28",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Hamlet\" - Ersan Mondtag inszeniert Shakespeares Klassiker am Berliner Ensemble",
+    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:41:30.000Z",
+    "url": "https://www.deutschlandfunk.de/hamlet-ersan-mondtag-inszeniert-shakespeares-klassiker-am-berliner-ensemble-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/hamlet_ersan_mondtag_inszeniert_shakespeares_klassiker_am_dlf_20261106_1741_a6e78403.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:33d71094-55ee-5366-89d8-fef6abd58c8a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Down the Road\" - Doppelabend Forsythe - Baldy der Frankfurt Dance Company",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-06T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/down-the-road-doppelabend-forsythe-baldy-der-frankfurt-dance-company-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/down_the_road_doppelabend_forsythe_baldy_der_frankfurt_dance_dlf_20261106_1736_46e6d4db.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:b2e01f08-c7d9-5903-a682-e51d85b038b9",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "ARD-Comedy-Serie \"Die Friesenjunkies\" - Sucht, Sylt und die Belton-Brüder",
+    "summary": "Brinkmann, Sören; Belton, Emin und Oskar www.deutschlandfunk.de, Corso",
+    "date": "2026-11-06T14:20:09.000Z",
+    "url": "https://www.deutschlandfunk.de/ard-comedy-serie-die-friesenjunkies-sucht-sylt-und-die-belton-brueder-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/ard_comedy_serie_die_friesenjunkies_sucht_sylt_und_die_dlf_20261106_1520_3a6948a2.mp3?refId=corso-104",
+    "duration": "15 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:7a2519e2-57c7-50af-a193-0e43d20e0961",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Reif für die Therapie!\" - Deutscher Karikaturenpreis wird am Sonntag verliehen",
+    "summary": "Ufer, Peter; Brinkmann, Sören www.deutschlandfunk.de, Corso",
+    "date": "2026-11-06T14:15:04.000Z",
+    "url": "https://www.deutschlandfunk.de/reif-fuer-die-therapie-deutscher-karikaturenpreis-wird-am-sonntag-verliehen-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/reif_fuer_die_therapie_deutscher_karikaturenpreis_wird_am_dlf_20261106_1515_2d61b827.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:93ab0d2b-17f9-55a9-bef3-693aae056f1a",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Truman Show\" in echt - Wirbel um dänisches TV-Format \"Alle lieben Rasmus\"",
+    "summary": "Bartram, Arne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-06T14:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/truman-show-in-echt-wirbel-um-daenisches-tv-format-alle-lieben-rasmus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/06/truman_show_in_echt_wirbel_um_daenisches_tv_format_alle_dlf_20261106_1510_4c5fd62c.mp3?refId=corso-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:31299a42d9d3f9311adadd70cf42029c",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Der vergessene Pionier hinter der Kolping-Bewegung",
+    "summary": "<p>Armut, fehlende Bildung und entwurzelte junge Menschen: Am 6.11.1846 gründet Johann Gregor Breuer einen Gesellenverein. Adolph Kolping macht diese Idee zu seiner eigenen.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Irene Geuer:</strong><br><ul><li>wie junge Auszubildende heutzutage zusammen im Jugendwohnen leben,</li><li>warum der gebürtige Neusser Johann Gregor Breuer durch seinen Bruder in eine Lehrerausbildung kommt,</li><li>weshalb Breuer in Elberfeld zunächst jungen katholischen Mädchen Bildung, Gemeinschaft und Schutz bietet,</li><li>wie Adolph Kolping auf den Gesellenverein und Johann Gregor Breuer aufmerksam wird.</li></ul><br>Mitte des 19. Jahrhunderts nimmt die Industrialisierung auch in Elberfeld, das heute zu Wuppertal gehört, vielen Männern die Lebensgrundlage. Johann Gregor Breuer will nicht weiter zusehen, wie der Alkohol viele zugrunde richtet. Der Lehrer organisiert in einer Schreinerwerkstatt gesellige Treffen für die Männer. Daraus entsteht am 6. November 1846 der erste Gesellenverein, der nun für Unterkünfte, Weiterbildung und Gemeinschaft sorgt.<br><br>Die Idee nimmt der Elberfelder Kaplan Adolph Kolping mit nach Köln. Unter seinem Namen entstehen bald im ganzen Land Gesellenvereine. Der eigentliche Gründer Breuer hingegen bleibt weitgehend unbekannt, verehrt wird er lediglich in Elberfeld, wo er noch weitere Hilfsinitiativen ins Leben ruft.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Martin Rose, Ehrenamtler im Bundesvorstand Kolping Deutschland</li><li>Jugendliche im Kölner Jugendwohnen, Kolping</li><li>Franz Lüttgen: Johann Gregor Breuer und Adolph Kolping. Studien zur Frühgeschichte des Katholischen Gesellenvereins. Paderborn 1997</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/kolping106.html\" rel=\"noopener\" target=\"_blank\">08.12.1813 - Geburtstag des Priesters Adolph Kolping</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/gesellschaft/arbeit/handwerk/altes-handwerk-124.html\" rel=\"noopener\" target=\"_blank\">Geschichte des Handwerks</a></li></ul><br><strong>Hörtipp:</strong> <br><ul><li><a href=\"https://www.ardsounds.de/sendung/der-bruch-frauen-zwischen-ost-und-jetzt/urn:ard:show:2163b81eec95bcfe/\" rel=\"noopener\" target=\"_blank\">Podcast \"DER BRUCH - Ein Dorf zwischen Ost und Jetzt\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Irene Geuer<br>Redaktion: Sefa Inci Suvak",
+    "date": "2026-11-06T05:00:23.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-der-vergessene-pionier-hinter-der-kolping-bewegung-102.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-johnn-gregor-breuer-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/29/0e1ecce5-c94d-4217-8054-d92ff3c3c08b/0e1ecce5-c94d-4217-8054-d92ff3c3c08b_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "zeit-alles-gesagt:4150edd0-9999-413a-ba75-cd755d7ec4b5",
     "source": "zeit-alles-gesagt",
     "sourceTitle": "Alles gesagt? – DIE ZEIT",
@@ -22,6 +250,102 @@
     "category": [
       "Gesellschaft",
       "Kultur",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:833ac5f4-1c94-475c-815f-c8306da666fa",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Interview: Wie fahrt ihr weiter für die Ukraine, Sebastian Herrmann?",
+    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Sebastian Herrmann</strong> um den Chainreaction Bikeconvoy und neue Aktionen im kommenden Jahr.</p>\nKrieg in der Ukraine und Hilfe mit Rettungswagen\n<p>Was tun, wenn in Europa Krieg ist? Das haben sich 2024 Sebastian Herrmann und ein paar Rennradfreunde gefragt und den Chainreaction Bikeconvoy gegründet. Das Ziel: gebrauchte Rettungswagen aufarbeiten und in die Ukraine bringen, am besten mit Radbegleitung. In Kooperation mit dem Verein Bamberg:UA haben sie dieses Ziel 2025 umgesetzt und 14 Rettungswagen überführt. Nach der bewegenden Tour, von der Sebastian im August 2025 im Antritt berichtet hat, gab es noch eine weitere Lieferung im vergangenen Winter. Für Sebastian und seine Freunde hat sich danach die Frage gestellt, wie es mit dem Projekt weitergehen soll.</p>\nRoad Captains, neue Trikots und eine neue Überführung\n<p>Nach ein paar Treffen im Wirtshaus ist klar gewesen: Der Chainreaction Bikeconvoy fährt unter dem Motto „The Peloton strikes back“ weiter und wächst. Inzwischen gibt es über ein Dutzend Road Captains, die in verschiedenen deutschen und europäischen Städten eigene Ausfahrten und Aktionen durchführen. Am 27.2.2027, also fünf Jahre nach der russischen Vollinvasion, wird es an allen Standorten Ausfahrten geben, eine neue Trikotserie wird noch vor Weihnachten aufgelegt und im Juni 2027 gibt es die nächste Überführungsfahrt von Rettungswagen in die Ukraine, als Etappenfahrt und als Brevet.</p>\n<p>In dieser Ausgabe des „Antritts“ geht es mit <strong>Sebastian Herrmann </strong>vom Chainreaction Bikeconvoy um die bisherigen Aktivitäten, geplante Aktionen und Sebastians Eindrücke aus der Zusammenarbeit mit den Partnern vor Ort in der Ukraine.</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>Der „Antritt“ ist für alle hörbar, weil uns ein wunderbares Antritt-Peloton auf Steady unterstützt. Wer uns dort Rückenwind gibt, kann unsere Folgen früher hören, sich an speziellen Peloton-Episoden beteiligen und die eigenen Themen im „Antritt“ platzieren. Diese und noch mehr Vorteile gibt es schon ab 3 Euro im Monat. Für Ende 2026 haben wir ein Ziel: Wir wollen 400 Menschen im Peloton werden! Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt.</p>\n<p>Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>\nPassend zu unseren Folgen könnt ihr hier unsere Spotify-Playlist hören:\n<p> </p>",
+    "date": "2026-11-06T04:24:04.000Z",
+    "url": "https://feedpress.me/link/19604/17516385/antritt-sebastian-herrmann-ueber-den-chainreaction-bikeconvoy-for-ukraine",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261104antrittsebastianherrmann.mp3.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261104antrittsebastianherrmann.mp3.63.mp3",
+    "duration": "48 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4097423",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Wie retten wir unseren Arsch?",
+    "summary": "Kreislaufwirtschaft in der Elektronikbranche\n<p>Die Elektronikbranche ist bisher nicht für Kreislaufwirtschaft bekannt. Der Markt für elektronische Produkte ist in den letzten Jahrzehnten deutlich gewachsen, ihre Verflechtung in unseren Alltag hat dabei deutlich zugenommen. Smartphone, Airfryer, Drohne und Smartwatch sind zu fast selbstverständlichen Gadgets geworden. Haushalt, Kommunikation und Mobilität sind ohne elektronische Helfer für viele Menschen kaum noch denkbar. Deren technische Entwicklung schreitet mit beeindruckender Geschwindigkeit voran. Bisher liegt dabei noch kein deutlicher Schwerpunkt auf der Wiederverwendbarkeit der enthaltenen Rohstoffe. Die Cradle to Cradle Electronics Initiative will das ändern. Dahinter stehen die Bertelsmann Stiftung, die Röchling-Stiftung und Cradle to Cradle NGO. „Es geht bei diesem Projekt und dieser drei Jahre laufenden Initiative darum, Erkenntnisse zu sammeln, die viel weitergehen als all das, was wir sonst so gewohnt sind“, sagt <strong>Tim Janßen</strong>.</p>\nTim Janßen ist zuversichtlich, weil die Antworten zeitlos sind\n<p>Er ist Mitgründer und Geschäftsführer der Cradle to Cradle NGO und seit 14 Jahren in Sachen zirkulärem Wirtschaften unterwegs. Kurz gesagt geht es dabei um die Wiederverwendung aller in einem Produkt verwendeten Rohstoffe, im Idealfall entsteht dabei kein Müll. Ein Produkt wird nach seiner Lebenszeit in seine Einzelteile zerlegt, die dann als Grundstoffe für neue Produkte zur Verfügung stehen. Als Lobbyist für diesen Ansatz spricht Janßen von brennender Geduld, die er sich als Kernkompetenz antrainiert hat. Denn das Ziel der Kreislaufwirtschaft ist noch längst nicht erreicht.</p>\n<p>Mit der Cradle to Cradle Electronics Initiative sieht er das Thema aber auf einem guten Weg, auch wenn Nachhaltigkeitsthemen in den letzten Jahren in der öffentlichen Diskussion etwas in den Hintergrund getreten sind. Entwicklungen wie der europäische Critical Raw Materials Act weisen in seinen Augen in eine klare Richtung, zumal das Thema angesichts deutlich gestiegener Rohstoffpreise und zunehmenden Konflikten um Rohstoffe und ihre Gewinnung im grundlegenden Interesse vieler Unternehmen liegt. Auch die Politik habe verstanden, dass sorgsamer Umgang mit Rohstoffen der Sicherung unseres Wohlstands dient.</p>\n<p>Wie Cradle to Cradle implementiert werden kann und warum immer mehr Unternehmen aus Eigeninteresse darauf setzen, an wen er sich mit seiner Arbeit wendet und warum sie in seinen Augen quasi überparteilich ist, darüber hat <i>detektor.fm</i>-Moderator<strong> Christian Bollert </strong>in dieser Ausgabe des „brand eins Podcasts“ mit <strong>Tim Janßen</strong> auf der IFA Berlin 2026 gesprochen.</p>",
+    "date": "2026-11-06T04:15:42.000Z",
+    "url": "https://feedpress.me/link/19604/17516386/brand-eins-podcast-tim-janssen-kreislaufwirtschaft-cradle-to-cradle-ngo",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/brandeinspodcasttimjanssen.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/brandeinspodcasttimjanssen.63.mp3",
+    "duration": "30 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4097911",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "November 2026: Wie wächst das Antritt-Peloton?",
+    "summary": "<p>Der „Antritt“ ist der zweitälteste Podcast bei <em>detektor.fm</em>, nur das „Forschungsquartett“ läuft noch länger. Seit mehr als einer Dekade tritt <strong>Gerolf Meyer</strong> schon mit seinen Gästen, der Community und seinem Co-Host Christian Bollert in die Pedale. Der Podcast hat sich seitdem eine beträchtliche Fangemeinde aufgebaut, die regelmäßig zuhört und zu Live-Podcasts erscheint.</p>\n„Antritt-Peloton“ wächst\n<p>Derzeit läuft eine Kampagne, um das „Peloton“, wie Gerolf die Community nennt, noch zu vergrößern. Das Peloton ist das wie ein einziger Organismus elegant dahingleitende Hauptfeld der Radprofis, in dem die Fahrer im dichten Windschatten fahren und dadurch Kraft sparen — oder, wie Gerolf es für die Podcast-Community formuliert: sich gegenseitig Kraft geben.</p>\n<p>Nun ist Gerolf bei „destilliert“ zu Gast und spricht nicht nur über die Kampagne und wie man den „Antritt“ unterstützen kann, sondern auch über seine Arbeit bei <em>detektor.fm</em>. Was macht er eigentlich, wenn er nicht gerade am neuen „Antritt“ arbeitet oder auf dem Sattel sitzt? Gerolf ist auch Teil der „brand eins Podcast“-Redaktion. Da haben ihn in letzter Zeit die beiden erschienenen Folgen über Künstliche Intelligenz mit Philipp Klöckner und Alke Martens besonders begeistert.</p>\nNovember-Tipps\n<p>Gerolf empfiehlt außerdem den DAZWISCHEN-Podcast und spricht darüber, warum ihn Sachsen-Anhalt als Ganzes aktuell so interessiert. Und Christian hat für die Podcast-Fans noch zwei besondere Tipps: Demnächst stehen nämlich gleich zwei wichtige Festivals an.</p>\n\n<p>Ihr wollt mehr über’s Radfahren wissen, keine Folge vom Antritt mehr verpassen und den Podcast unterstützen? Alle Infos dazu findet ihr bei Steady.</p>",
+    "date": "2026-11-06T04:11:28.000Z",
+    "url": "https://feedpress.me/link/19604/17516387/destilliert-november-2026-wachsende-community-fuer-den-antritt",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/202611destilliertnov26.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/202611destilliertnov26.63.mp3",
+    "duration": "32 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "detektor-fm-spektrum:https-detektor-fm-p-4094784",
+    "source": "detektor-fm-spektrum",
+    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
+    "type": "rss",
+    "title": "Altermagnete: Eine neue Form des Magnetismus",
+    "summary": "<p>Altermagnete verändern den Blick auf Magnetismus. Lange unterschied die Physik nämlich vor allem zwischen Ferromagneten und Antiferromagneten. Ferromagneten sind die, die wir alle auch aus dem Alltag kennen. Bei ihnen steht ein messbares Magnetfeld, in dem der sogenannte „Spin“ vieler Elektronen gleich ausgerichtet ist. Bei Antiferromagneten zeigen die Spins in entgegengesetzte Richtungen, sodass sich die Magnetfelder aufheben.</p>\n<p>Altermagnete verbinden nun Eigenschaften beider Klassen: Die magnetischen Spins der Atome sind nicht gleich ausgerichtet wie bei einem Ferromagneten, sondern abwechselnd, wie bei einem Antiferromagneten. Dennoch wirkt auf die Elektronen in diesem Material ein starkes Magnetfeld. Das stellt die Forschung vor einige Rätsel, macht solche Materialien aber auch extrem interessant. Denn das Interesse an der Erforschung neuer Materialien mit spezifischen Eigenschaften ist groß.</p>\n<p>Ausgangspunkt waren Fragen rund um Rutheniumdioxid. Der eigentlich antiferromagnetische Stoff weist einen ungewöhnlichen Hall-Effekt auf — eine Eigenschaft, die man normalerweise mit Ferromagneten verbindet. Die Erklärung fand man schließlich in der Symmetrie des Materials: Die räumliche Anordnung der Atome und ihrer Elektronenwolken sorgt offenbar dafür, dass sich Spinrichtung und Struktur auf besondere Weise miteinander verbinden.</p>\n<p>Damit war klar: Nicht allein die Magnetisierung bestimmt die Eigenschaften eines Magneten, sondern seine Symmetrien. Inzwischen fanden Forschende mehr als 200 potenzielle Altermagnete unter bereits bekannten Materialien. 2024 wurde Altermagnetismus erstmals experimentell bestätigt.</p>\nWarum Altermagnete so interessant sind\n<p>Besonders interessant sind die möglichen Anwendungen. Altermagnete könnten die Vorteile klassischer Magnete verbinden. So hoffen Expertinnen und Experten etwa auf deutlich schnellere und energieeffizientere Speichertechnologien für Computer.</p>\n<p>Von einem praktischen Einsatz ist die Forschung allerdings noch weit entfernt. Manche Materialien funktionieren nur bei extrem niedrigen Temperaturen oder sind chemisch instabil.</p>\n<p><strong>Manon Bischoff</strong> ist bei <em>Spektrum der Wissenschaft</em> Redakteurin für Mathe und Physik. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt sie, was Altermagnete ausmacht und wieso diese neue Form des Magnetismus so spannend ist.</p>",
+    "date": "2026-11-06T04:00:02.000Z",
+    "url": "https://feedpress.me/link/19604/17516388/spektrum-podcast-altermagnete",
+    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261106spektrum-podcastaltermagnete.63.mp3",
+    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261106spektrum-podcastaltermagnete.63.mp3",
+    "duration": "22 Min",
+    "tags": [
+      "wissenschaft",
+      "forschung",
+      "bildung",
+      "gesellschaft"
+    ],
+    "category": [
+      "Wissenschaft",
       "Bildung"
     ],
     "language": "de"
@@ -404,84 +728,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:7ccbc8da-4660-5d51-94cd-f2bef0074acd",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"We'll see\" - Richard Nelson's Apple Family begleitet die Midterm-Wahlen",
-    "summary": "Robertz, Andreas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-04T16:51:10.000Z",
-    "url": "https://www.deutschlandfunk.de/we-ll-see-richard-nelson-s-apple-family-begleitet-die-midterm-wahlen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/well_see_richard_nelsons_apple_family_begleitet_die_midterm_dlf_20261104_1751_d7abd073.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:3217eaa6-2964-557a-9a79-7450b76e100b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "MAGA-Niederlage – „Rückschlag für die Rechtspopulisten in Europa“",
-    "summary": "„Make America Great Again“: Mit diesem Slogan gewann Donald Trump Wahlen. Doch die Lage in den USA löst dieses Versprechen nicht ein, sagt Politikwissenschaftler Herfried Münkler. Trumps Niederlage könnte auch in Europa Hoffnung machen, meint er. Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-04T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-kunst-zu-verlieren-herfried-muenkler-ueber-trump-und-den-sieg-der-demokraten-100.html",
-    "image": "https://bilder.deutschlandfunk.de/4d/ec/d1/35/4decd135-4193-4028-8e81-18a32deb3072/trump-maga-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/die_kunst_zu_verlieren_herfried_muenkler_ueber_trump_und_den_dlf_20261104_1741_a4aad650.mp3?refId=kultur-heute-104",
-    "duration": "10 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ed4797dd-d190-5adf-ad65-749f02a141e9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die Tigerente bleibt - Zum Tod des Schriftstellers und Zeichners Janosch",
-    "summary": "Burkhardt, Susanne www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-04T16:35:41.000Z",
-    "url": "https://www.deutschlandfunk.de/die-tigerente-bleibt-zum-tod-des-schriftstellers-und-zeichners-janosch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/04/die_tigerente_bleibt_zum_tod_des_schriftstellers_und_dlf_20261104_1735_b9a8f603.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:5ea20ef0-11c1-5759-8472-0489fb52aaae",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -681,58 +927,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:49fb8324-a038-5506-bce9-2247a33ddc32",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 03.11.2026",
-    "summary": "Fischer, Karin www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-03-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/kulturmeldungen_03112026_dlf_20261103_1756_9f76761b.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4711cf65-d379-57af-b207-4d2a9f96c17f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Quo vadis Kennedy Center? Trumps Kulturpolitik und die Musikszene",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-03T16:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/quo-vadis-kennedy-center-trumps-kulturpolitik-und-die-musikszene-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/quo_vadis_kennedy_center_trumps_kulturpolitik_und_die_dlf_20261103_1751_c173d3b9.mp3?refId=kultur-heute-104",
-    "duration": "4 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:f0e26776-ce08-51e1-87ad-fd0a15cb0185",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -744,56 +938,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/neues_game_penguin_colony_hp_lovecraft_auf_antifaschistisch_dlf_20261103_1525_cde6c3f9.mp3?refId=corso-104",
     "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:81f72102-d8eb-577b-a541-99b4be325507",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bildgewaltiges Epos per Handarbeit - der Stop-Motion-Film \"Wildwood\"",
-    "summary": "Wollner, Anna www.deutschlandfunk.de, Corso",
-    "date": "2026-11-03T14:15:43.000Z",
-    "url": "https://www.deutschlandfunk.de/bildgewaltiges-epos-per-handarbeit-der-stop-motion-film-wildwood-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/bildgewaltiges_epos_per_handarbeit_der_stop_motion_film_dlf_20261103_1515_b4e54cca.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:41047e7d-d41d-5489-84db-02c5527176ca",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "US-Wahl: Wie die Demokraten Influencer umgarnen",
-    "summary": "Wiedlack, Katharina; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-11-03T14:09:22.000Z",
-    "url": "https://www.deutschlandfunk.de/us-wahl-wie-die-demokraten-influencer-umgarnen-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/03/us_wahl_wie_die_demokraten_influencer_umgarnen_dlf_20261103_1509_a6f2ef98.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",
@@ -865,7 +1009,7 @@
     "title": "Deutschlands rebellischster Autor: Thomas Brasch",
     "summary": "<p>Sohn überzeugter Kommunisten, jüdisch, unbequem in Ost und West: Thomas Brasch sprengt Erwartungen - und erzählt wie kaum ein anderer vom Leben im Konflikt.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Thomas Klug:</strong><br><ul><li>wie Thomas Braschs Konflikt mit seinem Vater, einem hohen DDR-Kulturfunktionär, sein Werk prägt,</li><li>was der Liedermacher Wolf Biermann mit seiner Ausreise in die Bundesrepublik zu tun hat,</li><li>warum Brasch selbst bei der Verleihung des Bayerischen Filmpreises einen Eklat riskiert,</li><li>welche Schätze sein literarischer Nachlass bis heute bereithält,</li><li>warum Brasch als einer der eigenwilligsten deutschsprachigen Autoren seiner Generation gilt.</li></ul><br>Thomas Brasch wächst als Sohn überzeugter Kommunisten in der DDR auf. Früh gerät er mit Staat und Partei aneinander, wird nach Protesten gegen den Einmarsch der Warschauer-Pakt-Staaten in Prag verhaftet. Seine Texte handeln von Freiheit, Gewalt, Verrat, deutscher Geschichte und dem schwierigen Verhältnis zwischen Vätern und Söhnen.<br><br>Auch im Westen bleibt Brasch ein Außenseiter. Er veröffentlicht Bücher, dreht Filme und wird ausgezeichnet, verweigert sich aber jeder politischen Vereinnahmung. Sein Leben bewegt sich zwischen Erfolg, Zweifeln und Selbstzerstörung. Bis zu seinem Tod mit nur 56 Jahren bleibt das \"Aber\" sein treuester Begleiter.<br><br><strong>Das sind unsere wichtigsten Interviewpartnerinnen:</strong><br><ul><li>Dr. Kristin Schulz (Thomas-Brasch-Herausgeberin und Autorin)</li><li>Maren Horn (wissenschaftliche Mitarbeiterin im Literaturarchiv der Akademie der Künste)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>BR24 Kultur: <a href=\"https://www.br.de/nachrichten/kultur/kraftvoll-du-musst-gegen-den-wind-laufen-von-thomas-brasch,UZembEG\" rel=\"noopener\" target=\"_blank\">\"Du mußt gegen den Wind laufen\" von Thomas Brasch</a></li><li>ZDF: <a href=\"https://www.zdf.de/video/interviews/masterclass-100/masterclass-andreaskleinert-100\" rel=\"noopener\" target=\"_blank\">Regisseur Andreas Kleinert über seinen Film \"Lieber Thomas\"</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Thomas Klug<br>Redaktion: David Rother<br>Technik: Annette Skrzydlo",
     "date": "2026-11-03T05:00:23.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-deutschlands-rebellischster-autor-thomas-brasch-100.html",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/deutschlands-rebellischster-autor-thomas-brasch-100.html",
     "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-thomas-brasch-100~_v-Podcast.jpg",
     "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/15/d80b304f-e238-4abe-826b-56a8a8299cc6/d80b304f-e238-4abe-826b-56a8a8299cc6_MP3-128.mp3",
     "duration": "15 Min",
@@ -926,31 +1070,6 @@
     "category": [
       "Musik",
       "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:08afb508-76b6-5dee-8e56-2a7cb1a2d562",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Fatih Akins \"Geister\" als Graphic Novel: Vom Drehbuch zum Comic",
-    "summary": "Davies, Bea; Siniawski, Adalbert www.deutschlandfunk.de, Corso",
-    "date": "2026-11-02T14:20:55.000Z",
-    "url": "https://www.deutschlandfunk.de/fatih-akins-geister-als-graphic-novel-vom-drehbuch-zum-comic-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/02/fatih_akins_geister_als_graphic_novel_vom_drehbuch_zum_comic_dlf_20261102_1520_a9d3cf93.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   },
@@ -1123,102 +1242,6 @@
     "language": "de"
   },
   {
-    "id": "detektor-fm-spektrum:88636cfa-6f71-4dbf-9d09-0f2320abe57b",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Tandem: Brauchen wir wirklich zwei neue Laufradgrößen, Jens Klötzer?",
-    "summary": "<p>In dieser Ausgabe von „Antritt“ geht es mit <strong>Jens Klötzer</strong> um die neue Laufradgröße 32 Zoll, das Gerücht um 30,5 Zoll und die Hintergründe der Entwicklung.</p>\nGrößer rollt besser — mit Kompromissen\n<p>Die Physik hinter der Idee ist einfach: Große Räder rollen besser über Hindernisse als kleine, denn sie treffen in flacherem Winkel darauf. Der Untergrund bei Gravelrennen wird immer ruppiger, das Gravelbike immer beliebter. Da erscheint es fast folgerichtig, dass sich die schnellen Geländerennräder einen Trend bei den Mountainbikes ausleihen und damit experimentieren: Auf den Rennstrecken tauchen immer mehr Gravelbike-Prototypen in 32 Zoll auf, erste Serienräder werden vorgestellt. Inzwischen sind auch mehrere Siege bei wichtigen Rennen darauf eingefahren worden, zum Beispiel beim Unbound XL oder dem Sea Otter Europe in Girona.</p>\n<p>Doch die neue Größe kommt nicht ohne Kompromisse: Die gegenüber den gewohnten 28 Zoll im Durchmesser um 64 mm gewachsenen Laufräder nehmen deutlich mehr Platz am Rad in Anspruch. Der Schwungradeffekt ist größer, sie rollen somit sturer geradeaus. Das bedeutet: Die Fahrradgeometrie muss neu entworfen werden und stößt dabei vor allem für kleinere Menschen an deutliche Grenzen. So hat zum Beispiel Suvi Loponen vom Escape Collective als 1,64 Meter große Fahrerin einen 32-Zöller probiert, mit durchwachsenen Ergebnissen.</p>\nNeue Zwischengröße mit 30,5 Zoll?\n<p>Vor diesem Hintergrund scheint ein relativ gut belegtes Gerücht konsequent: Mit 30,5 Zoll steht eine weitere Laufradgröße in den Startlöchern. Mehrere Quellen melden, ein großer deutscher Hersteller würde damit für seine Race-Gravelbikes planen — allerdings nur für die kleinste Rahmengröße XS. Für Fahrrad- und Komponentenhersteller, den Handel sowie Kundinnen und Kunden würde damit die Komplexität steigen: Eine zusätzliche Zwischengröße verlangt nach eigenen Felgen, Reifen, eventuell auch Schläuchen. Viel Aufwand für eine Größe, die sich in Sachen Ergonomie erst beweisen müsste.</p>\nVerliert das Gravelbike seinen Multifunktionscharakter?\n<p>Die neuen Laufradfakten und -gerüchte bieten jedenfalls Anlass zur Diskussion und Spekulation. In dieser Ausgabe des „Antritts“ geht es mit <strong>Jens Klötzer</strong> vom Tour-Magazin um die Argumente für 32 Zoll und 30,5 Zoll, die Nachteile und die Dynamik dahinter, die Auswirkungen auf das Gravelbike und die Frage nach dem Praxisnutzen für Menschen unterschiedlicher Körpergrößen.</p>\nAntritt bei Steady und Apple Rückenwind geben\n<p>Der „Antritt“ ist für alle hörbar, weil uns ein wunderbares Antritt-Peloton auf Steady unterstützt. Wer uns dort Rückenwind gibt, kann unsere Folgen früher hören, sich an speziellen Peloton-Episoden beteiligen und die eigenen Themen im „Antritt“ platzieren. Diese und noch mehr Vorteile gibt es schon ab 3 Euro im Monat. Für Ende 2026 haben wir ein Ziel: Wir wollen 400 Menschen im Peloton werden! Schaut doch mal bei Steady vorbei, wenn ihr uns unterstützen wollt.</p>\n<p>Übrigens: Auch bei Apple Podcasts Abonnements könnt ihr unseren Fahrradpodcast regelmäßig unterstützen und Episoden früher hören.</p>\nPassend zu unseren Folgen könnt ihr hier unsere Spotify-Playlist hören:\n<p> </p>",
-    "date": "2026-10-30T04:29:58.000Z",
-    "url": "https://feedpress.me/link/19604/17511430/antritt-jens-kloetzer-ueber-32-zoll-und-eine-neue-zwischengroesse",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/26103000antrittklingelnbeikloetzer.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/26103000antrittklingelnbeikloetzer.63.mp3",
-    "duration": "56 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4092577",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Die KI-Blase platzt leise",
-    "summary": "Übermächtige KI oder doch nur verkürzende Modelle?\n<p>Immer schneller, immer mächtiger, immer durchdringender: Wenn über Künstliche Intelligenz (KI) gesprochen wird, werden Geschwindigkeit und Disruption wie selbstverständlich vorausgesetzt. Die einen sehen die Technologie als Heilsbringer, andere warnen vor tiefer Krise und Weltuntergang — die meisten positionieren sich wohl irgendwo dazwischen. Dabei gibt es für beide Seiten oft überzeugende Argumente. Gemein ist vielen Prognosen, dass sie KI als sehr mächtiges Werkzeug beschreiben, das aufgrund seiner scheinbar überwältigenden Möglichkeiten schwer zu greifen ist. Alke Martens, Professorin für Praktische Informatik und Didaktik der Informatik an der Universität Rostock, sieht das etwas anders: „Für mich ist die Investitionshöhe für diese Art von Software deutlich überzogen. Das ist sinnlos“, sagt sie.</p>\nAlke Martens sieht den Slop in der KI\n<p>Martens weist darauf hin, dass sich aktuelle Large Language Models (LLM) inzwischen zu einem guten Teil aus KI-generierten Texten bedienen und auf deren Auswertung trainiert wären. Das maschinelle Wiederkäuen dieser mehrmals durch die Maschine gejagten Inhalte führe statt zu einer Qualitätsverbesserung zum Gegenteil. Damit stießen diese Modelle an ihre Grenzen, und zwar so lang, bis ihre grundlegende Funktionsweise und Programmierung hinterfragt werden würde — was laut Martens aktuell nicht passiert. Vielmehr sei es so, dass Software aktuell nach Anwendung suche, die Modelle also gar nicht aufgrund konkreter Bedarfe entstehen würden. Martens glaubt, dass wir es mit einer KI-Blase zu tun haben, die aber vermutlich nicht von einem Tag auf den anderen platzen wird. Denn die KI-Giganten wüssten ihre Interessen und Investitionen durch politischen Einfluss zu schützen.</p>\n<p>Was aber auch in Zukunft nicht durch KI zu ersetzen sei, ist: menschliche Kreativität.</p>\n<p>Wo aktuelle KI-Technologie an ihre Grenzen stößt, warum wir uns den Einsatz von KI bei kreativen Prozessen gut überlegen sollten und warum sie den Vergleich mit der Atomkraft nicht teilt, den Philipp Klöckner in der vergangenen Ausgabe dieses Podcasts gezogen hat, darüber (und noch mehr) hat <i>detektor.fm</i>-Moderator<strong> Christian Bollert </strong>in dieser Ausgabe des „brand eins Podcasts“ mit <strong>Alke Martens</strong> gesprochen.</p>",
-    "date": "2026-10-30T04:10:21.000Z",
-    "url": "https://feedpress.me/link/19604/17511431/brand-eins-podcast-alke-martens-ki-informatik",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/20261029brandeinspodcastalkemartens.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/20261029brandeinspodcastalkemartens.63.mp3",
-    "duration": "29 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4089300",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Hören mit Licht: Optische Cochlea-Implantate",
-    "summary": "<p>Das Cochlea-Implantat gehört zu den erfolgreichsten Neuroprothesen überhaupt. Mehr als eine Million Menschen profitieren weltweit bereits von der Technik. Sie kann auch Personen mit hochgradiger Schwerhörigkeit oder Taubheit ermöglichen, nach entsprechendem Hörtraining wieder Sprache zu verstehen.</p>\n<p>Doch in komplexen Hörsituationen stößt das klassische Implantat an seine Grenzen — etwa wenn in einem vollen Restaurant mehrere Stimmen, Geschirrklappern und andere Geräusche gleichzeitig auftreten.</p>\n<p>Der Grund liegt unter anderem in der Art, wie das Implantat den Hörnerv stimuliert. Herkömmliche Cochlea-Implantate senden elektrische Impulse an Nervenzellen in der Hörschnecke, der sogenannten Cochlea. Elektrischer Strom breitet sich dabei relativ weit in der Flüssigkeit der Cochlea aus. Unter anderem deshalb werden neben den eigentlich gewünschten Nervenzellen auch benachbarte Bereiche aktiviert, wodurch die Trennschärfe des Hörens sinkt.</p>\nEin optisches Cochlea-Implantat\n<p>Eine mögliche Lösung für besseres Hören soll nun Licht liefern. Was zunächst paradox klingt, hat einen einfachen Hintergrund: Licht lässt sich räumlich präziser begrenzen als elektrischer Strom. Dadurch könnten kleinere Gruppen von Nervenzellen gezielt aktiviert werden. Das soll ein natürlicheres und differenzierteres Hören ermöglichen.</p>\n<p>Möglich wird das durch Optogenetik: Mithilfe einer Gentherapie werden lichtempfindliche Proteine in die Nervenzellen des Hörnervs eingebracht. Diese Proteine funktionieren sozusagen wie molekulare Lichtschalter. Wird die Zelle mit Licht einer bestimmten Wellenlänge angeregt, öffnen sich Ionenkanäle und lösen einen elektrischen Nervenimpuls aus.</p>\n<p>Eine zentrale Herausforderung ist dabei, die Gentherapie gezielt zu den schwer zugänglichen Ganglienzellen zu bringen. Experimente mit Tieren zeigen, dass dies grundsätzlich möglich ist. Noch sind jedoch wichtige Fragen offen.</p>\n<p><strong>Anna Lorenzen</strong> ist Redakteurin bei <em>Spektrum der Wissenschaft</em>. Im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer erklärt sie, wie die optischen Cochlea-Implantate funktionieren und wie weit die Technologie heute schon ist.</p>",
-    "date": "2026-10-30T04:00:28.000Z",
-    "url": "https://feedpress.me/link/19604/17511432/spektrum-podcast-cochlea-implantat",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261030spektrum-podcastcochleaimplantate.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261030spektrum-podcastcochleaimplantate.63.mp3",
-    "duration": "11 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4091638",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Wie fährt Sachsen-Anhalt in Zukunft?",
-    "summary": "Mobilität auf dem Prüfstand\n<p>Sachsen-Anhalt ist extrem dünn besiedelt. Vor allem im Norden des Bundeslandes wohnen besonders wenige Menschen, sie verteilen sich auf weite Landschaften. Nur in Mecklenburg-Vorpommern und Brandenburg teilen sich noch weniger Menschen einen Quadratkilometer. Das bringt zwar viel Ruhe, aber auch einige Probleme mit sich. Vielerorts ist das ÖPNV-Netz nicht ausgebaut, es fährt schlicht kein Bus mehr, keine Bahn.</p>\n<p>An der Otto-von Guericke-Universität Magdeburg forschen Wissenschaftler und Wissenschaftlerinnen an passender Mobilität für morgen. Dabei denken die Forschenden nicht nur über den ländlichen Raum nach, sondern auch über die Mobilität in der Stadt. </p>\n<p> Zum einen setzt man in Zukunft auf autonome Systeme, zum Beispiel einen selbstständig fahrenden Shuttlebus, der von A nach B pendelt. Zum anderen könnten sogenannte Mobilitätszentren das Reisen erleichtern. An festen Orten finden die Bewohner und Bewohnerinnen unterschiedliche Fortbewegungsmittel wie Leihräder oder Roller, die vor allem für die „letzte Meile“ genutzt werden können. Immer im Fokus der Forschung stehen die Bedürfnisse der Menschen vor Ort: Was brauchen sie im Alltag, wo sind sie skeptisch, was ist schlicht unpraktisch? </p>\nNeue Bedürfnisse berücksichtigen\n<p>DAZWISCHEN-Hosts Katja Schmidt und Marie Landes sprechen in der neuen Folge über die Frage, wie Sachsen-Anhalt in Zukunft mobil bleiben kann.</p>\n\n<p><em>Wie geht es nach den nächsten Landtagsentscheidungen politisch in Sachsen-Anhalt weiter und wie stellen sich die demokratischen Parteien für die Zukunft auf? Darüber diskutieren detektor.fm und der Tagesspiegel am <strong>17. November</strong> bei „DAZWISCHEN live“ in der <strong>Studibar + Eventspace JoGo (ehemals CampusTheater), J.-G.-Nathusius-Ring 5 in Magdeburg</strong> — mit Stimmen aus Politik und Zivilgesellschaft sowie dem Moderator Robert Ide und der Moderatorin Marie Landes. Der Eintritt ist frei, wir bitten aufgrund begrenzter Platzzahl jedoch um eine Anmeldung bis zum 15. November.</em></p>\n\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl und darüber hinaus ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm oder schickt uns eine Sprachnachricht über WhatsApp an die Nummer 0175 6807345. In unserem WhatsApp-Kanal bekommt ihr zusätzliche Infos. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p><em>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</em></p>",
-    "date": "2026-10-29T13:30:31.000Z",
-    "url": "https://feedpress.me/link/19604/17510791/dazwischen-mobilitaet-in-sachsen-anhalt",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261027dazwischenfolge33mobilitaet.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/10/261027dazwischenfolge33mobilitaet.63.mp3",
-    "duration": "34 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-der-rest-ist-geschichte:818350c4-3870-5c5a-95a7-9490f44e4f26",
     "source": "dlf-der-rest-ist-geschichte",
     "sourceTitle": "Der Rest ist Geschichte – Deutschlandfunk",
@@ -1341,29 +1364,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:61fd90d0a3d17981ff39cd8280ef2445",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Eine indische Prinzessin rettet in Kassel Juden vor den Nazis",
-    "summary": "<p>Catherine Duleep Singh, geboren am 27.10.1871, ist Tochter des letzten Königs von Punjab. In Kassel lebt sie mit ihrer Geliebten. Später rettet sie Juden vor den Nazis.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Claudia Friedrich:</strong><br><ul><li>wie die Tochter des letzten Königs von Punjab ausgerechnet in Nordhessen sesshaft wird,</li><li>welche Rolle die Kasseler Lehrerin Lina Schäfer in ihrem Leben spielt,</li><li>weshalb Catherine Duleep Singh in der NS-Zeit zur Helferin jüdischer Flüchtlinge wird,</li><li>warum sie zusammen mit ihren Schwestern in Großbritannien für das Frauenwahlrecht kämpft,</li><li>auf welche überraschende Weise ihr Wirken Jahrzehnte nach ihrem Tod neu entdeckt wird.</li></ul><br>Geboren wird Catherine Hilda Duleep Singh in eine Familie, deren Schicksal eng mit der britischen Kolonialgeschichte verbunden ist. Ihr Vater verliert als Kind den Thron des Punjab, wächst später jedoch im Umfeld des britischen Königshauses auf. Catherine erlebt eine privilegierte Kindheit auf einem englischen Landsitz.<br><br>Sie sucht aber früh ihren eigenen Weg. Ihr Glück findet sie schließlich in Kassel. Ihr Leben verbindet auf außergewöhnliche Weise die Geschichte des Kolonialismus, der Frauenbewegung und des Widerstands gegen den Nationalsozialismus.<br><br><strong>Das ist unser wichtigster Interviewpartner:</strong><br><ul><li>Peter Bance (Historiker und Forscher zur Familie Duleep Singh)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 09.02.1907: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-suffragetten-frauen-wahlrecht-100.html\" rel=\"noopener\" target=\"_blank\">Suffragetten demonstrieren in London für Frauenwahlrecht</a></li><li>Deutsche Welle: <a href=\"https://www.dw.com/de/indische-prinzessin-catherine-duleep-singh-frauenrechte-v-1/a-72760332\" rel=\"noopener\" target=\"_blank\">Die mutige Prinzessin, die den Nazis trotzte</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/neuzeit/viktorianisches_zeitalter/index.html\" rel=\"noopener\" target=\"_blank\">Viktorianisches Zeitalter</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/geschichte/neuzeit/kolonialismus/index.html\" rel=\"noopener\" target=\"_blank\">Kolonialismus - Europas Kolonien</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen hinter diesem Zeitzeichen: </strong><br>Autorin: Claudia Friedrich<br>Redaktion: Sefa Inci Suvak",
-    "date": "2026-10-27T05:00:46.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-eine-indische-prinzessin-rettet-in-kassel-juden-vor-den-nazis-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/catherine-duleep-singh-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/22/33c409ca-8c44-4c15-8773-f4c553e510fe/33c409ca-8c44-4c15-8773-f4c553e510fe_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
     ],
     "language": "de"
   },
