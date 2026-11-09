@@ -1,5 +1,184 @@
 [
   {
+    "id": "dlf-kultur-heute:120cadcf-a195-5a99-a3fa-c340a3734bef",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 08.11.2026",
+    "summary": "Strecker, Nicole www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:56:07.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-08-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/kulturmeldungen_08112026_dlf_20261108_1756_252e0185.mp3?refId=kultur-heute-104",
+    "duration": "4 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:75233a00-73c8-578a-ad7e-e90f12b1e499",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "DHI in London wird 50 - Historische Perspektiven von der Insel",
+    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:51:12.000Z",
+    "url": "https://www.deutschlandfunk.de/dhi-in-london-wird-50-historische-perspektiven-von-der-insel-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/dhi_in_london_wird_50_historische_perspektiven_von_der_insel_dlf_20261108_1751_fe2d0e3f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:88500663-0d10-55ce-8786-e88e174c7aaa",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Weil der Frieden Zucker ist\" - Uraufführung im Schauspielhaus Hamburg",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:46:00.000Z",
+    "url": "https://www.deutschlandfunk.de/weil-der-frieden-zucker-ist-urauffuehrung-im-schauspielhaus-hamburg-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/weil_der_frieden_zucker_ist_urauffuehrung_im_schauspielhaus_dlf_20261108_1746_a82c130d.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:70a771c1-29a6-500b-ae5d-6adb249f121e",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Getanzte Ohnmacht. Davina Wölfle-Obitz über Tanz und Macht",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:40:50.000Z",
+    "url": "https://www.deutschlandfunk.de/getanzte-ohnmacht-davina-woelfle-obitz-ueber-tanz-und-macht-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/getanzte_ohnmacht_davina_woelfle_obitz_ueber_tanz_und_macht_dlf_20261108_1740_722b2ae5.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:a9f5e1f2-3a1a-5fa2-ad61-442ae3065eb7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Fadenkreuze für das Leben\" - Herlinde Koelbls fotografischer Umgang mit Krebs",
+    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:35:40.000Z",
+    "url": "https://www.deutschlandfunk.de/fadenkreuze-fuer-das-leben-herlinde-koelbls-fotografischer-umgang-mit-krebs-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/fadenkreuze_fuer_das_leben_herlinde_koelbls_fotografischer_dlf_20261108_1735_d82a2186.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:872f0808-fa53-5807-9243-01d6a0d44eb7",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Schillerrede - Helga Schubert spricht in Marbach",
+    "summary": "Wüllenkemper, Cornelius www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-08T16:30:15.000Z",
+    "url": "https://www.deutschlandfunk.de/schillerrede-helga-schubert-spricht-in-marbach-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/08/schillerrede_helga_schubert_spricht_in_marbach_dlf_20261108_1730_1528da45.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:b2caeb6066dece6eed7c780bb27756c8",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Hingerichtet, weil sie Sex mit einer Frau hatte: Catharina Linck",
+    "summary": "<p>Verkleidet als Mann geht Catharina Linck durchs Leben, dient viele Jahre als Soldat(in). Doch ihre Liebe zu einer Frau wird ihr zum Verhängnis: Am 8.11.1721 wird sie dafür hingerichtet.\n\n</p><br><br><p><strong>In diesem Zeitzeichen erzählt Christoph Vormweg:</strong><br><ul><li>dass Catharina Linck mit 15 Jahren zum ersten Mal in Männerkleidung schlüpft, </li><li>wie sie ihr Umfeld mit einem ledernen Phallus täuscht, </li><li>was hinter dem Pseudonym Anastasius Lagrantinus Rosenstengel steckt, </li><li>dass ihre Ehefrau vermutlich von ihrem Geschlecht gewusst hat.</li></ul><br>Anfang des 18. Jahrhunderts werden Frauen wegen \"Unzucht mit einem Weibe\" von der Inquisition verfolgt. Auch für die Protestantin Catharina Linck ist die Liebe zu Frauen lebensgefährlich. Da sie mit schauspielerischem Talent gesegnet ist, verkleidet sie sich kurzerhand als Mann. Fortan nennt sie sich Anastasius Lagrantinus Rosenstengel und heuert als Musketier im Spanischen Erbfolgekrieg an.<br><br>Mehrfach wird ihre Tarnung aufgedeckt. Doch sie ist gerissen und intelligent und entgeht so drohenden Strafen. Als sie 1717 eine Frau heiratet, schöpft die Schwiegermutter jedoch Verdacht und verrät ihr \"von Leder gemachtes, ausgestopftes männliches Glied\". Nun wird die Justiz aktiv. König Friedrich Wilhelm I. fällt selbst das Todesurteil: Catharina Linck wird am 8. November 1721 enthauptet.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Angela Steidele, Biografin von Catharina Linck</li><li>Angela Steidele: In Männerkleidern. Das verwegene Leben der Catharina Margaretha Linck alias Anastasius Lagrantinus Rosenstengel, hingerichtet 1721. Überarbeitete Neuausgabe. Berlin 2021.</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 01.10.1974: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-lesben-mord-prozess-urteil-100.html\" rel=\"noopener\" target=\"_blank\">Urteil im \"Lesben-Mord-Prozess\" fällt</a></li><li>Zeitzeichen 03.07.1971:<a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-urauffuehrung-praunheim-nicht-der-homesexuelle-ist-pervers-100.html\" rel=\"noopener\" target=\"_blank\"> Filmpremiere \"Nicht der Homosexuelle ist pervers ...\"</a></li><li>Zeitzeichen 28.06.1969: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-stonewall-unruhen-christopher-street-100.html\" rel=\"noopener\" target=\"_blank\">Unruhen in der Christopher Street in New York </a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br><br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Christoph Vormweg<br>Redaktion: Gesa Rünker und Frank Zirpins<br>Technik: Christoph Schneider",
+    "date": "2026-11-08T05:00:54.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-hingerichtet-weil-sie-sex-mit-einer-frau-hatte-catharina-linck-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-catharina-linck-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/19/9bdacb97-a652-4efc-84b1-9a84a2d78da9/9bdacb97-a652-4efc-84b1-9a84a2d78da9_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-kultur-heute:cea3409a-876c-57be-a2c6-d8ae0cd245da",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
@@ -74,182 +253,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:701d3086-6277-5a3e-9d93-dabe775ae7b9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wolf Biermann trifft Angela Merkel: Das \"Festival des kritischen Geistes\" Berlin",
-    "summary": "van Laak, Claudia www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-07T16:42:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wolf-biermann-trifft-angela-merkel-das-festival-des-kritischen-geistes-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/wolf_biermann_trifft_angela_merkel_das_festival_des_dlf_20261107_1742_2f0f470b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:9b49409b-acd5-53e9-a8db-91ec8732538f",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Wer war \"Rosa L.\"? - Uraufführung am Deutschen Theater Berlin",
-    "summary": "Behrendt, Barbara www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-07T16:37:00.000Z",
-    "url": "https://www.deutschlandfunk.de/wer-war-rosa-l-urauffuehrung-am-deutschen-theater-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/wer_war_rosa_l_urauffuehrung_am_deutschen_theater_berlin_dlf_20261107_1737_840dd5e1.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:144b55d4-b039-5dd2-92e2-61a34be0aa77",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Die \"Gegen-Buchmesse\" rechter Verlage - \"Seitenwechsel\" in Halle",
-    "summary": "Ottersbach, Niklas www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-07T16:31:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-gegen-buchmesse-rechter-verlage-seitenwechsel-in-halle-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/die_gegen_buchmesse_rechter_verlage_seitenwechsel_in_halle_dlf_20261107_1731_750d11c2.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:9b79d77b-4286-53d2-a55e-1b85dfe73758",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kühl, kein Gefühl - Lars Schneider im Corsogespräch über die Eiszeit des Pop",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-07T14:38:48.000Z",
-    "url": "https://www.deutschlandfunk.de/kuehl-kein-gefuehl-lars-schneider-im-corsogespraech-ueber-die-eiszeit-des-pop-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/kuehl_kein_gefuehl_lars_schneider_im_corsogespraech_ueber_dlf_20261107_1538_e3a10afc.mp3?refId=corso-104",
-    "duration": "13 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:7beb6600-b970-5839-91b3-91ab695f40f6",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Vereint im Taubenland - Django Django mit neuem Album \"Doveland\"",
-    "summary": "Elsäßer, Fabian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-07T14:27:16.000Z",
-    "url": "https://www.deutschlandfunk.de/vereint-im-taubenland-django-django-mit-neuem-album-doveland-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/vereint_im_taubenland_django_django_mit_neuem_album_doveland_dlf_20261107_1527_13a4c7a6.mp3?refId=corso-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:e39fd2b7-1d36-5e55-a608-9dfd321c6220",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Bärige Balladen aus Belfast - Ciarán und sein Album \"Róisín\"",
-    "summary": "Reil, Juliane www.deutschlandfunk.de, Corso",
-    "date": "2026-11-07T14:10:14.000Z",
-    "url": "https://www.deutschlandfunk.de/baerige-balladen-aus-belfast-ciar-n-und-sein-album-r-is-n-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/07/ein_eigener_emanzipierter_sound_ciaran_und_sein_album_roisin_dlf_20261107_1510_b8a3c77e.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:e2362ef1a9224b8a8dfa14f937e572f2",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Rudolf von Gerlach: War er das Vorbild für James Bond?",
-    "summary": "<p>Am 7. 11.1886 wird Rudolf von Gerlach getauft. Später steigt er zum Vertrauten des Papstes auf, heiratet als Priester und gerät in die Welt der Spionage.</p><br><br><p><strong>In diesem Zeitzeichen erzählen Markus Harmann und Joachim Heinz:</strong><br><ul><li>weshalb Papst Benedikt XV. ausgerechnet einem unbekannten Deutschen sein Vertrauen schenkt,</li><li>wie Gerlach während des Ersten Weltkriegs zwischen Rom, Berlin, Wien und Konstantinopel vermittelt,</li><li>warum sein Name in Italien mit Hochverrat und Spionage in Verbindung gebracht wird,</li><li>welche geheimen Briefe aus dem Vatikan ihm später als Druckmittel dienen,</li><li>weshalb einige Historiker in ihm ein mögliches Vorbild für James Bond sehen.</li></ul><br>Rudolf von Gerlach wächst in München auf, verlässt die Schule ohne Abschluss und verfolgt ein Ziel: die päpstliche Diplomatie. Im Vatikan gelingt ihm ein erstaunlicher Aufstieg. Papst Benedikt XV. schickt ihn auf heikle Missionen quer durch Europa. Und Gerlachs Leben verläuft alles andere als geradlinig.<br><br>Zwischen politischen Intrigen, Spionagevorwürfen, Exil und gesellschaftlichen Netzwerken bewegt er sich durch die Umbrüche zweier Weltkriege. Wer ihm begegnet, beschreibt einen charmanten, kontaktfreudigen Mann. Zugleich bleiben zahlreiche Fragen offen. Gerade diese Mischung macht sein Leben bis heute so faszinierend.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Hartmut Benz (Historiker)</li><li>Ulrich L. Lehner (Theologieprofessor an der University of Notre Dame)</li><li>Hartmut Benz: Prälat Rudolf von Gerlach. Gewogen – und für zu leicht befunden. In: Römische Quartalschrift für Christliche Altertumskunde und Kirchengeschichte. 2021–2023</li><li>Ulrich L. Lehner: Spion für Papst, Kaiser und British Empire. Das geheimnisvolle Leben des Rudolf von Gerlach. Freiburg 2025</li><li>Benjamin Dürr: Erzberger – Der gehasste Versöhner. Biografie eines Weimarer Politikers. Berlin 2021</li></ul><br><strong>Weiterführender Link:</strong><br><ul><li>Zeitzeichen 22.01.1922: <a href=\"https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-papst-benedikt-xv-todestag--100.html\" rel=\"noopener\" target=\"_blank\">Todestag von Papst Benedikt XV.</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und die Macher hinter diesem Zeitzeichen: </strong><br>Autoren: Markus Harmann und Joachim Heinz<br>Redaktion: Sefa Inci Suvak",
-    "date": "2026-11-07T05:00:15.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-war-er-das-vorbild-fuer-james-bond-rudolf-von-gerlach-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-rudolf-von-gerlach-102~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/29/3f627439-510e-41f3-8b55-cfb48af886a6/3f627439-510e-41f3-8b55-cfb48af886a6_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
     ],
     "language": "de"
   }
