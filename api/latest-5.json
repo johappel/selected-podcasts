@@ -1,66 +1,93 @@
 [
   {
-    "id": "dlf-das-feature:c1fa2e93-2e2f-515c-a6a5-a7194c5c5d8c",
-    "source": "dlf-das-feature",
-    "sourceTitle": "Das Feature – Deutschlandfunk",
-    "type": "rss",
-    "title": "WarGame - Apollon zieht in den Krieg",
-    "summary": "Eine Gamerfreundschaft: Zusammen sind sie jahrelang im Survivor-Spiel DayZ und anderen Kriegsspielen unterwegs. Dann eröffnet Apollon seinem Freund, dass er sich freiwillig für eine Drohneneinheit in der Ukraine gemeldet hat. Im Krieg des 21. Jahrhunderts sind seine Gamer-Skills gefragt. <br><br>Sein Entschluss lässt den Autor nicht los. Bundeswehr stand für ihn nie zur Debatte. Doch die Zeiten ändern sich. Könnte er das auch, auf echte Menschen schießen? Und warum entscheidet sich sein Freund für den Krieg, obwohl er in Deutschland in Sicherheit lebt?<br><br>+++++<br><br><strong>Mehr zum Thema in der Deutschlandfunk-App:</strong><br> <br><ul><li><a href=\"https://www.hoerspielundfeature.de/kill-cloud-von-9-11-zum-digitalen-krieg-102.html\" rel=\"noopener\" target=\"_blank\">Kill Cloud – Von 9/11 zum Digitalen Krieg </a> </li></ul><br>+++++ <br><br>Henrik Schütz ist freier Journalist und arbeitet unter anderem für Deutschlandfunk, WDR und DIE ZEIT. Seit 2020 berichtet er vor allem über Osteuropa und beschäftigt sich mit gesellschaftlichen und politischen Entwicklungen mit Bezügen zur Popkultur.  <br> <br>Regie: Claudia Kattanek<br>Ton und Technik: Wolfgang Rixius und Thomas Widdig<br>Redaktion/Dramaturgie: Christiane Habermalz <br>Deutschlandfunk 2026 <br> <br>+++++ <br><br><strong>Unser Podcast-Tipp:</strong><br><a href=\"https://www.deutschlandfunk.de/doku-serie-100.html#abonnieren\" rel=\"noopener\" target=\"_blank\">Dlf Doku Serien</a>  <br> <br>+++++ <br><br>Wenn Euch \"Dlf Doku\" gefällt, abonniert uns und empfehlt uns weiter. Feedback gerne an hoererservice@deutschlandfunk.de</a><br><br>Noch mehr spannende Podcasts gibt‘s in der <a href=\"https://www.deutschlandfunk.de/apps-100.html\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>. Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
-    "date": "2026-11-10T18:15:00.000Z",
-    "url": "https://www.hoerspielundfeature.de/level-zero-100.html",
-    "image": "https://bilder.deutschlandfunk.de/9b/54/01/52/9b540152-6f0f-462e-b1d4-7da0ef4739d3/bild-fuer-feature-wargame-neu-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/wargame_apollon_zieht_in_den_krieg_dlf_20261110_1915_01d430a4.mp3?refId=das-feature-104",
-    "duration": "54 Min",
-    "tags": [
-      "feature",
-      "dokumentation",
-      "gesellschaft",
-      "kultur",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-7053447337414365",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "ARD-Auslandskorrespondentin Kerstin Klein über den Ausgang der Midterms",
-    "summary": "Die ARD-Korrespondentin Kerstin Klein war gerade frisch in Washington angekommen, als dort zwei Tage später das Kapitol gestürmt wurde. Ein wilder Einstand, auf den fünf Jahre Arbeit für die Nachrichtensendungen im Ersten folgten, in denen sie nicht nur das politische Geschehen in den USA beleuchtete und einordnete. Nun ist sie zurück in Deutschland. Auf dem Roten Sofa wollen wir von Kerstin Klein wissen, was der Ausgang der Midterms für die Vereinigten Staaten bedeutet. Und sie wird uns schildern, warum sie dieses einzigartige Land so sehr liebt - egal von wem es regiert wird.",
-    "date": "2026-11-10T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/ard-auslandskorrespondentin-kerstin-klein-ueber-ausgang-der-midterms,audio-3588654.html",
-    "image": "https://images.ndr.de/image/ae7f7ee0-99ed-46db-8e8e-9bff8ad5a3e4/AAABocaXyRg/AAABnSStX0g/1x1-big/screenshot-258674.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1110/AU-20261110-2200-1300.mp3",
-    "duration": "37 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:50ea2d4b-3196-5fbf-91c8-655cde22c6f3",
+    "id": "dlf-kultur-heute:a3404d4e-6328-56f8-80c8-8e9fd22a96e1",
     "source": "dlf-kultur-heute",
     "sourceTitle": "Kultur heute – Deutschlandfunk",
     "type": "rss",
-    "title": "Kulturmeldungen 10.11.2026",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-10T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-10-11-102.html",
+    "title": "Kulturmeldungen 11.11.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:56:03.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-11-11-102.html",
     "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/kulturmeldungen_10112026_dlf_20261110_1756_cf7e3206.mp3?refId=kultur-heute-104",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/kulturmeldungen_11112026_dlf_20261111_1756_61cdc3d3.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:7470b475-ba98-5a40-986d-e581a57b12f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Karnevalswagenbauer Jacques Tilly über Satire und Kunstfreiheit",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:46:25.000Z",
+    "url": "https://www.deutschlandfunk.de/karnevalswagenbauer-jacques-tilly-ueber-satire-und-kunstfreiheit-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/karnevalswagenbauer_jacques_tilly_ueber_satire_und_dlf_20261111_1746_e9cc9ea5.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:95bfbc37-a53b-54b5-8051-6819aa892e78",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Heimweh nach gestern\" - Historiker T. Becker zur Nostalgie als Zukunftsbegriff",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:39:34.000Z",
+    "url": "https://www.deutschlandfunk.de/heimweh-nach-gestern-historiker-t-becker-zur-nostalgie-als-zukunftsbegriff-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/heimweh_nach_gestern_historiker_t_becker_zur_nostalgie_als_dlf_20261111_1739_4eca8b4a.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e9500481-6b50-5b96-9f78-124a683c5647",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nostalgie oder gefährliche Symbolik? Die Simson und der Rechtsextremismus",
+    "summary": "Seibel, Patric www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-11T16:35:15.000Z",
+    "url": "https://www.deutschlandfunk.de/nostalgie-oder-gefaehrliche-symbolik-die-simson-und-der-rechtsextremismus-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/nostalgie_oder_gefaehrliche_symbolik_die_simson_und_der_dlf_20261111_1735_88c9870c.mp3?refId=kultur-heute-104",
     "duration": "4 Min",
     "tags": [
       "kultur",
@@ -77,49 +104,22 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:63a3c7d4-8bdb-5f08-9c85-20a5a4e23619",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "id": "dlf-corso:af059889-bfbb-5242-bc25-2eef46df374f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
     "type": "rss",
-    "title": "Zukunft der Erinnerung - Podiumsdiskussion am Deutschen Nationaltheater Weimar",
-    "summary": "Bernhard, Henry www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-10T16:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/zukunft-der-erinnerung-podiumsdiskussion-am-deutschen-nationaltheater-weimar-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/zukunft_der_erinnerung_podiumsdiskussion_am_deutschen_dlf_20261110_1751_037bc19e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
+    "title": "Kritik: Autobiographie \"Look At Me\" von Dustin Hoffman",
+    "summary": "Tegeler, Hartwig www.deutschlandfunk.de, Corso",
+    "date": "2026-11-11T14:15:54.000Z",
+    "url": "https://www.deutschlandfunk.de/kritik-autobiographie-look-at-me-von-dustin-hoffman-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/11/kritik_autobiographie_look_at_me_von_dustin_hoffman_dlf_20261111_1515_2b048ac3.mp3?refId=corso-104",
+    "duration": "6 Min",
     "tags": [
       "kultur",
-      "theater",
+      "pop",
       "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:26316e8a-169b-56bd-a7aa-6d543581d5a9",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Revolution der Skulptur\" - Wien feiert den verstorbenen Künstler Franz West",
-    "summary": "Scheucher, Christine www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-10T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/die-revolution-der-skulptur-wien-feiert-den-verstorbenen-kuenstler-franz-west-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/10/die_revolution_der_skulptur_wien_feiert_den_verstorbenen_dlf_20261110_1746_7e7a1e3e.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
+      "gesellschaft",
       "deutschlandfunk"
     ],
     "category": [
