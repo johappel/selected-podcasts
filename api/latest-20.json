@@ -1,5 +1,233 @@
 [
   {
+    "id": "dlf-kultur-heute:e1ed4e9b-5199-5d92-b09f-aba8e8eaaace",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 14.11.2026",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:56:25.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-14-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/kulturmeldungen_14112026_dlf_20261114_1756_07281d28.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:c4d44929-fa17-58af-a240-cdeddb227578",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Nachnutzung im Opel-Altwerk - Der neue Bundesverband Industriekultur tagte",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:51:30.000Z",
+    "url": "https://www.deutschlandfunk.de/nachnutzung-im-opel-altwerk-der-neue-bundesverband-industriekultur-tagte-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/nachnutzung_im_opel_altwerk_der_neue_bundesverband_dlf_20261114_1751_c92658d2.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:69d6706e-b910-5a04-9c7a-85a90d3c337d",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "COP31 und Klimarettung vor gefährdeten Kulturstätten? Felix Pirson, DAI Istanbul",
+    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:42:30.000Z",
+    "url": "https://www.deutschlandfunk.de/cop31-und-klimarettung-vor-gefaehrdeten-kulturstaetten-felix-pirson-dai-istanbul-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/cop31_und_klimarettung_vor_gefaehrdeten_kulturstaetten_felix_dlf_20261114_1742_3b225c37.mp3?refId=kultur-heute-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ef02ad47-d25c-58bb-9735-b57cc5ead786",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Zeit für Zirkus\" - Internationales Festival für zeitgenössischen Zirkus in Bonn",
+    "summary": "Luft, Elisabeth www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:37:01.000Z",
+    "url": "https://www.deutschlandfunk.de/zeit-fuer-zirkus-internationales-festival-fuer-zeitgenoessischen-zirkus-in-bonn-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/zeit_fuer_zirkus_internationales_festival_fuer_dlf_20261114_1737_d32032c9.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:fdea7fcd-2f19-5034-9b1c-ddeff66b4488",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Arnulf Rainer\" - Große postume Retrospektive in der Albertina in Wien",
+    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-14T16:30:28.000Z",
+    "url": "https://www.deutschlandfunk.de/arnulf-rainer-grosse-postume-retrospektive-in-der-albertina-in-wien-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/arnulf_rainer_grosse_postume_retrospektive_in_der_albertina_dlf_20261114_1730_3c1ce07c.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:14269004-7774-568e-8b86-721b06212ff8",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Vintage-Klamotten und neue Volkslieder - die gewitzte Weltmusik von Ladaniva",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-11-14T14:40:00.000Z",
+    "url": "https://www.deutschlandfunk.de/vintage-klamotten-und-neue-volkslieder-die-gewitzte-weltmusik-von-ladaniva-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/vintage_klamotten_und_neue_volkslieder_die_gewitzte_dlf_20261114_1540_1e9994cd.mp3?refId=corso-104",
+    "duration": "9 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:4ceb7d0c-8d8c-5c8d-b92a-147721207356",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Das Chaos schwingt immer mit\" - Düstere neue Songs von Girlwoman",
+    "summary": "Lechler, Bernd www.deutschlandfunk.de, Corso",
+    "date": "2026-11-14T14:22:00.000Z",
+    "url": "https://www.deutschlandfunk.de/das-chaos-schwingt-immer-mit-duestere-neue-songs-von-girlwoman-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/das_chaos_schwingt_immer_mit_duestere_neue_songs_von_dlf_20261114_1522_29979989.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d398f41a-809b-5d94-9b2d-70d263d7ec8f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Carneval De Luz\" von U2 - Vier Männer, 50 Jahre und ein neues Album",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-14T14:08:00.000Z",
+    "url": "https://www.deutschlandfunk.de/carneval-de-luz-von-u2-vier-maenner-50-jahre-und-ein-neues-album-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/14/carneval_de_luz_von_u2_vier_maenner_50_jahre_und_ein_neues_dlf_20261114_1508_4d951836.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:b17dada90de589f0c5ff1f024a71099b",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Eine Stummfilmlegende findet ihre Stimme: Louise Brooks",
+    "summary": "<p>Ihr Bubikopf wird berühmt, doch Louise Brooks’ Name ist lange vergessen. Nach einem Erfolg stürzt der Stummfilmstar (geb. 14.11.1906) ab - und wird erst später zur Ikone.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Stephan Beuting:</strong><br><ul><li>die Geschichte einer fast vergessenen Film-Ikone, deren Silhouette bekannter ist als sie selbst,</li><li>wie Louise Brooks komplett von der Bildfläche verschwindet und dann in einer ganz neuen Rolle wieder zurückkehrt,</li><li>wie Selbstbewusstsein und Selbstbestimmtheit kurzfristig schaden und langfristig nützen können.</li></ul>Ursprünglich ist Louise Brooks in den 1920er-Jahren eine ausgebildete Tänzerin, die sich später in einigen unbedeutenden US -Produktionen als Schauspielerin versucht. Als der österreichische Regisseur Georg Wilhelm Pabst sie entdeckt und für die Rolle der Femme Fatale \"Lulu\" in seinem Film \"Die Büchse der Pandora\" verpflichtet und nach Deutschland holt, erlebt sie kurzen Ruhm.<br><br>Doch jenseits des Filmsets ärgert sich der über 50-jährige Regisseur über seine 22-jährige Hauptdarstellerin. Zu viele Partys, viel zu viele Männer, viel zu viele Drinks. In den folgenden Jahren versandet ihre Karriere wieder. Louise Brooks kann und will sich dem damaligen Hollywood-Starsytem nicht unterordnen. Ihr Lebensweg beschreibt die Form einer Achterbahn; mit einigen Höhen und vielen Tiefpunkten.<br><br>In den 1950er-Jahren wird sie zunächst von der europäischen Filmkritik und dann auch in den USA wiederentdeckt und gefeiert. Sie schreibt diverse Essays, die später als \"Lulu in Hollywood\" gesammelt erscheinen.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Thomas Gladysz, Journalist, Autor</li><li>Karin Moser, Historikerin, Filmwissenschaftlerin</li><li>Louise Brooks: Lulu in Hollywood. Alfred A. Knopf. New York 1982</li><li>Barry Paris: Louise Brooks. A biography. Minneapolis 2000</li><li>Kenneth Tynan: The Girl who was Lulu, in: Observer Magazine 1979</li><li>James Card: The Intense Isolation of Louise Brooks, in: Sight and Sound 1958</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-the-birth-of-a-nation-100.html\" rel=\"noopener\" target=\"_blank\">Im Januar 1915 - Uraufführung des Stummfilms \"The Birth of a Nation\"</a></li><li>Planet Wissen: <a href=\"https://www.planet-wissen.de/kultur/medien/anfaenge_des_films/pwiedersiegeszugdestonfilms100.html\" rel=\"noopener\" target=\"_blank\">Anfänge des Films - Der Siegeszug des Tonfilms</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Stephan Beuting<br>Redaktion: Carolin Rückl und David Rother",
+    "date": "2026-11-14T05:00:01.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-eine-stummfilmlegende-findet-ihre-stimme-louise-brooks-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-louise-brooks-102~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/05/4e28cb5e-3e8b-461f-a6fe-db110e6a757c/4e28cb5e-3e8b-461f-a6fe-db110e6a757c_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "ndr-being-the-beatles:rnd0-7258361686597836",
     "source": "ndr-being-the-beatles",
     "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
@@ -264,233 +492,6 @@
     "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1794/88/261113antrittuwebuchholz.63.mp3",
     "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/1794/88/261113antrittuwebuchholz.63.mp3",
     "duration": "1 Std 23 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4101448",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Überreiche werden ihre Machtposition verlieren",
-    "summary": "<strong>Millionen geerbt? Besteuert mich!</strong>\n<p>25 Millionen Euro. Einfach so. Weil sie den richtigen Nachnamen trägt. Für viele wäre das der Jackpot, für <strong>Marlene Engelhorn</strong> vor allem ein Gerechtigkeitsproblem. Die Österreicherin und Nachfahrin eines BASF-Gründers hat Millionen geerbt – und will nicht akzeptieren, dass die Geburt darüber entscheidet, wer reich ist und wer nicht. „Ich habe gesagt: Besteuert mich. Die waren so: Nö. Ich dachte mir: Was?!“</p>\n<p>Weil die Politik ihrer Forderung nicht nachkam, nahm Engelhorn die Umverteilung selbst in die Hand: Sie stellte 25 Millionen Euro einem Bürgerrat zur Verfügung. 50 zufällig ausgewählte Menschen entschieden, wohin das Geld fließen sollte. Für Engelhorn ist das auch eine Frage der Demokratie. Denn unter anderem zeige der Bürgerrat, dass demokratische Mitbestimmung funktionieren kann, wenn sie ernst genommen und ausreichend finanziert wird.</p>\nErben begünstigt Machtdynamiken\n<p>Für Marlene Engelhorn ist klar: Ungleichheit ist kein Naturgesetz, sondern das Ergebnis politischer Entscheidungen. Sie fordert eine gerechte Besteuerung von Erbschaften und großen Vermögen. Damit Geld zurück in die Gesellschaft fließt, statt sich bei einigen wenigen anzuhäufen.</p>\n<p>Außerdem sieht sie Anzeichen für einen gesellschaftlichen Wandel beim Thema Reichtum. Aus ihrer Perspektive wehren sich immer mehr Menschen gegen bestehende Ungleichheiten und fordern politische Veränderungen ein. „Die Überreichen müssen sich darauf gefasst machen, dass es über kurz oder lang dazu kommen wird, dass sie ihre Machtposition verlieren.“</p>\n<p>Warum ihr der Wahlerfolg der Linken in Berlin Hoffnung macht und welche<br>\nRolle soziale Ungleichheit aus ihrer Sicht für den Erfolg der AfD spielt,<br>\ndarüber spricht <strong>Marlene Engelhorn</strong> mit<em> detektor.fm</em>-Moderator Christian Bollert in der aktuellen Folge des brand eins Podcasts.</p>",
-    "date": "2026-11-13T04:00:56.000Z",
-    "url": "https://feedpress.me/link/19604/17523895/brand-eins-podcast-marlene-engelhorn",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261113brandeinspodcastmarleneengelhorn.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/20261113brandeinspodcastmarleneengelhorn.63.mp3",
-    "duration": "30 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4102154",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Ebola im Kongo: Wie gefährlich ist der Ausbruch?",
-    "summary": "<p>Im Osten der Demokratischen Republik Kongo ist Ebola ausgebrochen. Die Lage ist angespannt – allerdings nicht, weil sich das Virus plötzlich besonders aggressiv oder leicht überträgt. Entscheidend sind vielmehr die schwierigen politischen, sozialen und wirtschaftlichen Bedingungen in der Region.</p>\n<p>Ebola breitet sich dort schneller aus als frühere Epidemien. Bereits wenige Monate nach Beginn hatte der Ausbruch mehr Todesopfer gefordert als die zweijährige Ebola-Epidemie im Kongo von 2018 bis 2020. Viele Fälle bleiben zudem unentdeckt.</p>\n<p>Ein Hauptproblem ist Expertinnen und Experten zufolge die instabile Sicherheitslage. Bewaffnete Gruppen kontrollieren Teile der Region, medizinische Helfer können manche Gebiete nur schwer erreichen. Gleichzeitig leben Millionen Menschen als Geflüchtete in dicht besiedelten Camps.</p>\n<p>Dazu kommen Goldminen und die damit verbundene Migration: Viele Menschen ziehen auf der Suche nach Arbeit in die Region und später wieder zurück in ihre Heimatorte. Dadurch kann sich das Virus über größere Entfernungen ausbreiten.</p>\nSicherheit und Vertrauen gegen Ebola\n<p>Erschwert wird die Bekämpfung außerdem durch großes Misstrauen gegenüber Behörden und Hilfsorganisationen. Manche Erkrankte bleiben deshalb zu Hause, Isolationsmaßnahmen werden abgelehnt oder medizinische Einrichtungen angegriffen.</p>\n<p>Hinzu kommt eine Besonderheit des Erregers: Das aktuelle Ebola-Virus gehört zum Bundibugyo-Typ und unterscheidet sich vom Zaire-Ebolavirus, gegen das die vorhandenen Impfstoffe und Medikamente entwickelt wurden. Deshalb ist unklar, wie gut diese Mittel schützen. Ein Impfstoff wird getestet, während gleichzeitig zehntausende Dosen in die Region gebracht werden.</p>\n<p>Trotzdem gibt es Grund zur Hoffnung: Ebola lässt sich grundsätzlich durch frühe Erkennung, Isolation, Kontaktverfolgung, sichere Bestattungen und Impfungen eindämmen. Entscheidend ist dabei das Vertrauen der Bevölkerung. Wo Menschen den Helfern vertrauen und Erkrankte früh behandelt werden, sinkt die Sterblichkeit.</p>\n<p>„Ohne Sicherheit können sich keine stabilen Strukturen und medizinische Versorgung funktionieren“, sagt <strong>Lars Fischer</strong>. Er ist Redakteur bei <em>Spektrum der Wissenschaft</em>. Er erklärt im Gespräch mit <em>detektor.fm</em>-Moderator Marc Zimmer, wie der Ebola-Ausbruch im Kongo einzuordnen ist und welche Herausforderungen er für die Region mit sich bringt.</p>",
-    "date": "2026-11-13T04:00:09.000Z",
-    "url": "https://feedpress.me/link/19604/17523896/spektrum-podcast-ebola-kongo",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261113spektrum-podcastebola.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261113spektrum-podcastebola.63.mp3",
-    "duration": "33 Min",
-    "tags": [
-      "wissenschaft",
-      "forschung",
-      "bildung",
-      "gesellschaft"
-    ],
-    "category": [
-      "Wissenschaft",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-9298178907986424",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Frontfrau der Berliner Elektropop-Band \"MiA\": Sängerin Mieze Katz im Sofa-Talk",
-    "summary": "Die Frontfrau der Berliner Elektropop-Band \"MiA\" erzählt auf dem Roten Sofa über die Arbeit an neuen Liedern und ihre Leidenschaft für Yoga.",
-    "date": "2026-11-12T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/frontfrau-der-berliner-elektropop-band-mia-saengerin-mieze-katz-im-sofa-talk,audio-3593356.html",
-    "image": "https://images.ndr.de/image/f8864f9f-599b-4979-baae-e13d0b754ae1/AAABodD-kSg/AAABnSStX0g/1x1-big/screenshot-259916.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1112/AU-20261112-2023-4600.mp3",
-    "duration": "38 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:79fc4765-112c-5139-a8ea-31a52f392143",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 12.11.2026",
-    "summary": "Schäfer-Noske, Doris www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:56:00.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-12-11-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/kulturmeldungen_12112026_dlf_20261112_1756_a6cbb612.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:09671c47-74c0-5656-b362-55f1a5d2f514",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Sophie Calle: Is It Better?\" - Erste Berliner Einzelausstellung seit 20 Jahren",
-    "summary": "Hennig, Silke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:51:00.000Z",
-    "url": "https://www.deutschlandfunk.de/sophie-calle-is-it-better-erste-berliner-einzelausstellung-seit-20-jahren-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/sophie_calle_is_it_better_erste_berliner_einzelausstellung_dlf_20261112_1751_7fc9cfaa.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1f8b4fc9-a64b-5e6a-acb3-a0fcf16b026b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Deutsches Fotoinstitut - Bundestag entscheidet über Forschungsfinanzierung",
-    "summary": "Koldehoff, Stefan www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:46:00.000Z",
-    "url": "https://www.deutschlandfunk.de/deutsches-fotoinstitut-bundestag-entscheidet-ueber-forschungsfinanzierung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/deutsches_fotoinstitut_bundestag_entscheidet_ueber_dlf_20261112_1746_38c7df51.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:868bbf1f-5199-57ab-a80f-67022630404b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Historische Perspektiven - Oliver Lubrich über Humboldt in Russland und den USA",
-    "summary": "Reinhardt, Anja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:41:00.000Z",
-    "url": "https://www.deutschlandfunk.de/historische-perspektiven-oliver-lubrich-ueber-humboldt-in-russland-und-den-usa-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/historische_perspektiven_oliver_lubrich_ueber_humboldt_in_dlf_20261112_1741_99c64406.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:25f57b0b-b758-5350-9757-12af8f8d7eba",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "CIA im Einsatz - John Malkovich in \"Wild Horse Nine\" von Martin McDonagh",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-12T16:36:00.000Z",
-    "url": "https://www.deutschlandfunk.de/cia-im-einsatz-john-malkovich-in-wild-horse-nine-von-martin-mcdonagh-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/12/cia_im_einsatz_john_malkovich_in_wild_horse_nine_von_martin_dlf_20261112_1736_ebc4a2d4.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "detektor-fm-spektrum:https-detektor-fm-p-4102933",
-    "source": "detektor-fm-spektrum",
-    "sourceTitle": "detektor.fm – Spektrum der Wissenschaft",
-    "type": "rss",
-    "title": "Wie steht es um deinen Nahverkehr, Sachsen-Anhalt?",
-    "summary": "Auf der Strecke geblieben?\n<p>Steigende Preise, volle Busse und Züge, Ausfälle, Verspätungen oder gleich gar keine Anbindung: Beschwerden über den Nahverkehr in Sachsen-Anhalt gibt es viele. Aber wie steht es wirklich um den ÖPNV im Land?<br>\nMarie und Katja haben für diese Podcastfolge den Selbstversuch gewagt und sind mit Bussen und Bahnen nach Droyßig gefahren. Unterwegs haben sie mit Reisenden über ihre Erfahrungen gesprochen. Dabei wurde schnell deutlich: Es gibt einige Probleme.</p>\nNASA-Chef Panitz: ÖPNV ist eine politische Entscheidung\n<p>Das weiß auch Peter Panitz, Geschäftsführer der Nahverkehrsservice Sachsen-Anhalt GmbH (NASA). Im Interview spricht er offen über die Schwierigkeiten und nennt vor allem Probleme bei der Verlässlichkeit, der Gleisinfrastruktur und der Finanzierung. Im Gespräch mit Katja und Marie erklärt er, wie der Nahverkehr organisiert wird, warum momentan fast doppelt so viele Fahrgäste mit den Zügen fahren wie 2019 und warum sich die Planung nicht so schnell an den Bedarf anpassen lässt: „Wenn Sie einen Verkehrsvertrag ausschreiben, machen Sie das für 15 Jahre. Da geben Sie entsprechende Bedarfe vor. Züge kosten pro Stück immer etliche Millionen. Das heißt also, das kann man nicht einfach mal so von einem Tag auf den anderen alles ändern.“</p>\n<p>Außerdem verdeutlicht Panitz, wie sich die NASA um Lösungen bemüht und was schon gut funktioniert. Denn Sachsen-Anhalt ist auch laut Umfragen der „Allianz pro Schiene“ gar nicht so schlecht aufgestellt. Zudem hebt Paitz die große Bedeutung des Nahverkehrs hervor. Er sagt: Investitionen in den Nahverkehr sind zugleich Investitionen in die Attraktivität der Region. „Das S-Bahn-System im Raum Halle-Leipzig hat eine völlig neue Qualität der Erreichbarkeit für die gesamte Region gebracht. Das ist ein ganz wichtiger Wert auch für die Attraktivität dieser Region, den man jetzt nicht einfach nur in Euros messen kann“, sagt Panitz.</p>\n<p>Laut einer Studie der TU München lohnt sich der Nahverkehr auch wirtschaftlich: Demnach generiert jeder in den öffentlichen Nahverkehr investierte Euro indirekt drei Euro Mehrwert, während die versteckten Kosten des Autoverkehrs für die Allgemeinheit oft übersehen werden.</p>\nFinanzierung als Gemeinschaftsaufgabe\n<p>Bedarf für den ÖPNV scheint es jedenfalls zu geben: 2025 wurden in Sachsen-Anhalt etwa 177 Millionen Fahrgäste mit Bus, Bahn oder Tram transportiert. Trotzdem ist eine ausreichende Finanzierung des Nahverkehrs immer wieder eine Streitfrage. Doch ein unzureichend finanzierter Nahverkehr sorgt schnell für Ärger bei allen, die darauf angewiesen sind. Ob das auch Marie und Katja auf ihrer Reise zu spüren bekommen haben? Wie sieht die Vision für den Nahverkehr in den nächsten Jahren aus? Und woran liegt es, dass es gerade so viele Verspätungen gibt? Über all das sprechen <strong>Katja</strong> und <strong>Marie</strong> in der neuen Folge „DAZWISCHEN“.</p>\nDAZWISCHEN live in Magdeburg!\n<p>Nach unserer Auftaktveranstaltung in Halle bringen wir „DAZWISCHEN live“ jetzt nach Magdeburg – und widmen uns am<strong> 17. November</strong> gemeinsam mit dem <strong>Tagesspiegel</strong> den nächsten Schritten im Landtag. Wie geht es politisch in Sachsen-Anhalt weiter und wie stellen sich die demokratischen Parteien für die Zukunft auf? Einordnung, Kontroverse und Perspektiven – gemeinsam mit Akteurinnen und Akteuren aus Politik und Zivilgesellschaft.</p>\n<p><strong>Teilnahme nach Anmeldung</strong>: Die Teilnahme ist kostenlos, die Plätze sind jedoch begrenzt. Bitte sichert euch hier euren Platz. Alle Infos zur Veranstaltung.</p>\n\nDer DAZWISCHEN-Podcast\n<p>Wir liefern mit „DAZWISCHEN“ im Jahr der Landtagswahl und darüber hinaus ein ausgewogenes, kritisches und differenziertes Bild von Sachsen-Anhalt. Habt ihr Fragen, Anregungen oder Themenwünsche? Engagiert ihr euch und möchtet uns davon erzählen? Schreibt uns eine Mail an dazwischen@detektor.fm oder schickt uns eine Sprachnachricht über WhatsApp an die Nummer 0175 6807345. In unserem WhatsApp-Kanal bekommt ihr zusätzliche Infos. Außerdem empfehlen wir euch den DAZWISCHEN-Newsletter. Hier bekommt ihr jede Woche Hintergrundinformationen, Fotos und Veranstaltungstipps direkt zum Thema.</p>\n<p><em>Der Podcast „DAZWISCHEN“ entsteht im Rahmen eines Kooperationsprojekts mit der Media Forward Fund gGmbH. Die redaktionelle Verantwortung liegt bei der BEBE Medien GmbH.</em></p>",
-    "date": "2026-11-12T14:30:37.000Z",
-    "url": "https://feedpress.me/link/19604/17522940/dazwischen-nahverkehr-sachsen-anhalt",
-    "image": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261110-2dazwischennahverkehr-az.63.mp3",
-    "audio": "https://flex2.acast.com/s/podcasts-detektorfm/u/detektor.fm/wp-content/uploads/2026/11/261110-2dazwischennahverkehr-az.63.mp3",
-    "duration": "42 Min",
     "tags": [
       "wissenschaft",
       "forschung",
