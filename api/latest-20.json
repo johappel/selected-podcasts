@@ -1,5 +1,208 @@
 [
   {
+    "id": "ndr-being-the-beatles:rnd0-9463748497572055",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Großstadtrevier-Schauspieler Enrique Fiß",
+    "summary": "Vor sechs Jahren verließ der Schauspieler Enrique Fiß die Bühne, um fortan im ARD \"Großstadtrevier\" seinen Dienst als Zivilermittler des Polizeikommissariats 14 zu versehen. Wir sprechen mit ihm über den 40. Geburtstag der Krimi-Kultserie, die im Januar mit einem neuen Spielfilm gekrönt wird. Außerdem wollen wir wissen, was es mit der ZDF-Sendung \"KRANK Berlin\" auf sich hat, in der er gegenwärtig zu sehen ist.",
+    "date": "2026-11-22T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/grossstadtrevier-schauspieler-enrique-fiss,audio-3611794.html",
+    "image": "https://images.ndr.de/image/449f81a3-f343-4e16-a62d-baa60a50d23a/AAABogRy2uM/AAABnSStX0g/1x1-big/screenshot-265692.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2137-5600.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:13f11a7e-9a22-5322-9962-d1b41ba1db58",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturelle Sudan-Hilfe: Roman Luckscheiter, Dt. UNESCO, zur Berliner Konferenz",
+    "summary": "Köhler, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturelle-sudan-hilfe-roman-luckscheiter-dt-unesco-zur-berliner-konferenz-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/kulturelle_sudan_hilfe_roman_luckscheiter_dt_unesco_zur_dlf_20261122_1752_a94645a8.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:66b25fc2-f5f8-54f5-a4ad-d36c32475848",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Global Antiquity\": Mailänder Ausstellung zu kulturellem Austausch in der Antike",
+    "summary": "Spreng, Eberhard www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/global-antiquity-mailaender-ausstellung-zu-kulturellem-austausch-in-der-antike-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/global_antiquity_mailaender_ausstellung_zu_kulturellem_dlf_20261122_1747_8c449043.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:9d158ba8-10a2-5d56-9d78-3eba6d51eedc",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Star-Architekten bauen Asylbewerber-Unterkünfte in Osterwijk, Niederlande",
+    "summary": "Schweighöfer, Kerstin www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:42:00.000Z",
+    "url": "https://www.deutschlandfunk.de/star-architekten-bauen-asylbewerber-unterkuenfte-in-osterwijk-niederlande-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/star_architekten_bauen_asylbewerber_unterkuenfte_in_dlf_20261122_1742_d8434610.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:157caab2-29ea-5c09-819d-ed07ebb3286a",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Publikumspreise statt Jury-Entscheidung - Zum Abschluss der Venedig Biennale",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:36:00.000Z",
+    "url": "https://www.deutschlandfunk.de/publikumspreise-statt-jury-entscheidung-zum-abschluss-der-venedig-biennale-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/publikumspreise_statt_jury_entscheidung_zum_abschluss_der_dlf_20261122_1736_a541917c.mp3?refId=kultur-heute-104",
+    "duration": "7 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:20168958-8edb-5fdf-a0f3-db02dcf344f1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Freie Szene ohne Zukunft? Zur Eröffnung des Theaters im Depot im Carlswerk Köln",
+    "summary": "Marcus, Dorothea www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-22T16:31:00.000Z",
+    "url": "https://www.deutschlandfunk.de/freie-szene-ohne-zukunft-zur-eroeffnung-des-theaters-im-depot-im-carlswerk-koeln-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/22/freie_szene_ohne_zukunft_zur_eroeffnung_des_theaters_im_dlf_20261122_1731_223f88ae.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:43a86138d973521843ad4781281dc12f",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Lebenslang gefangen im Namen des gefürchteten Vaters",
+    "summary": "<p>Am 22.11.2011 stirbt Swetlana Allilujewa im US-Exil. Nach einem Leben geprägt von Flucht, Rückkehr, Heimatlosigkeit und dem schrecklichen Ruf ihres Vaters: Josef Stalin.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Kolja Sand:</strong><br><ul><li>warum die kleine Swetlana im Kreml als \"Hausherrin\" auftritt und selbst Josef Stalin Befehle erteilt, </li><li>wie sie nach und nach die Wahrheit über die Verbrechen ihres Vaters erfährt, </li><li>weshalb sie ihre Kinder zurücklässt und spektakulär in die USA flieht, </li><li>wie ihre Memoiren sie berühmt und reich machen, </li><li>warum sie trotz zahlreicher Neuanfänge niemals ein dauerhaftes Zuhause findet.</li></ul><br>Als Kind erlebt Swetlana Allilujewa eine Welt voller Privilegien. Im Kreml spielt sie mit den mächtigsten Männern der Sowjetunion, ihr Vater zeigt ihr eine Seite, die kaum jemand zu Gesicht bekommt. Doch hinter den Mauern ihrer behüteten Kindheit entfaltet sich zugleich eine der dunkelsten Terrorherrschaften des 20. Jahrhunderts.<br><br>Je älter Swetlana wird, desto stärker gerät sie in Konflikt mit ihrem Vater und mit der Rolle, die ihr aufgezwungen wird. Nach Stalins Tod versucht sie, sich von seinem Erbe zu lösen. Doch weder die Flucht in den Westen noch neue Namen, neue Länder oder neue Beziehungen befreien sie von der Last ihrer Herkunft. Bis zuletzt bleibt sie eine Frau auf der Suche nach einem eigenen Leben.<br><br><strong>Das ist unsere wichtigste Interviewpartnerin:</strong><br><ul><li>Magali Delaloye (Historikerin)</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen 05.03.1953: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/josefstalin100.html\" rel=\"noopener\" target=\"_blank\">Todestag von Josef Stalin</a></li><li>Zeitzeichen 14.02.1956: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/entstalinisierung-100.html\" rel=\"noopener\" target=\"_blank\">Beginn der Entstalinisierung in der Sowjetunion</a></li><li>Zeitzeichen 13.11.1961: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-stalin-statue-abbau-ostberlin-102.html\" rel=\"noopener\" target=\"_blank\">In Berlin wird das Stalin-Denkmal abgebaut</a></li><li>Planet Wissen: <a href=\"https://www1.wdr.de/www.planet-wissen.de/geschichte/diktatoren/stalin_der_rote_diktator/pwiedasprinzipdergewalt100.html\" rel=\"noopener\" target=\"_blank\">Stalin - Das Prinzip der Gewalt</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens!<br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autor: Kolja Sand<br>Redaktion: Christoph Tiegel, Sefa Inci Suvak",
+    "date": "2026-11-22T05:00:31.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-lebenslang-gefangen-im-namen-des-gefuerchteten-vaters-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-swetlana-allilujewa-stalin-tochter100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/19/6791fa61-adf8-4a4e-a5a5-506fe0506e14/6791fa61-adf8-4a4e-a5a5-506fe0506e14_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "ndr-being-the-beatles:rnd0-11691540664985856",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Schauspielerin Katharina Thalbach im Talk über \"Lieblingsmenschen\"",
+    "summary": "Mit markanter Stimme und ausdruckstarker Mimik besticht Katharina Thalbach seit Jahrzehnten auf der Bühne, im Film und auch im Fernsehen. Das Publikum verehrt die mittlerweile 72-jährige Schauspielerin und Regisseurin. Wie gut Katharina Thalbach das Wechselspiel zwischen Tragischem und Komödiantischem beherrscht, wird in ihrem neuen Kinofilm \"Lieblingsmenschen\" offenbar - der erzählt nach einer wahren Begebenheit die rührende Verbindung zwischen einer 101-Jährigen und einem jungen Geflüchteten.",
+    "date": "2026-11-21T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/schauspielerin-katharina-thalbach-im-talk-ueber-lieblingsmenschen,audio-3611792.html",
+    "image": "https://images.ndr.de/image/46f7ac0e-e8a2-4d43-9382-5441959acaf3/AAABof9VamE/AAABnSStX0g/1x1-big/screenshot-265210.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2137-1600.mp3",
+    "duration": "42 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-das-feature:5f89f8e5-3be2-5e8f-8892-abb35ae6beb7",
     "source": "dlf-das-feature",
     "sourceTitle": "Das Feature – Deutschlandfunk",
@@ -156,32 +359,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:2b36f47b-707b-59aa-bc9f-8d020a7b479b",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Die Landstreicher\" - Operette am Münchner Gärtnerplatztheater",
-    "summary": "Fuchs, Jörn Florian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-21T16:31:35.000Z",
-    "url": "https://www.deutschlandfunk.de/die-landstreicher-operette-am-muenchner-gaertnerplatztheater-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/die_landstreicher_operette_am_muenchner_gaertnerplatztheater_dlf_20261121_1731_69273be3.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:49bb33c6-a638-5fe5-80d3-82cd94b0b3a5",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -280,106 +457,27 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:81913bd5-cf94-563d-b7f6-ff26694bed37",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "id": "ndr-being-the-beatles:rnd0-3881460395386608",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
     "type": "rss",
-    "title": "Kulturmeldungen 20.11.2026",
-    "summary": "Allroggen, Antje www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-20T16:56:14.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-20-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/kulturmeldungen_20112026_dlf_20261120_1756_6c10e8c7.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
+    "title": "Motivationsforscherin Michaela Brohm-Badry über Zuversicht und Sinnhaftigkeit",
+    "summary": "Seit vielen Jahren schon beschäftigt sich Prof. Michaela Brohm-Badry mit der Frage, was Menschen stärkt, motiviert und widerstandsfähig macht. An der Universität Trier unterrichtete sie Lernforschung, war dort auch Dekanin. Inzwischen leitet sie das \"Europäische Forum für Positive Neurowissenschaften\". In ihren Büchern, Vorträgen und wissenschaftlichen Arbeiten zeigt die 64-Jährige, wie Zuversicht und Sinnhaftigkeit unser Leben positiv beeinflussen können.",
+    "date": "2026-11-20T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/motivationsforscherin-michaela-brohm-badry-ueber-zuversicht-und-sinnhaftigkeit,audio-3611790.html",
+    "image": "https://images.ndr.de/image/bf2a265f-77be-414f-9203-6e217f9e88db/AAABofo3WWU/AAABnSStX0g/1x1-big/screenshot-264686.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2136-3400.mp3",
+    "duration": "40 Min",
     "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
       "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
+      "60er"
     ],
     "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2a3f575b-109e-5459-ab3b-fb760294f5ed",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Unstable Media\" - Positionen der Medienkunst in Hamburg",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-20T16:51:49.000Z",
-    "url": "https://www.deutschlandfunk.de/unstable-media-positionen-der-medienkunst-in-hamburg-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/unstable_media_positionen_der_medienkunst_in_hamburg_dlf_20261120_1751_3c0e8d65.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:6434980a-36e7-522f-8dd4-90d117207642",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"GLA55\" - Uraufführung von Anne Teresa De Keersmaeker in Berlin",
-    "summary": "Nehring, Elisabeth www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-20T16:47:19.000Z",
-    "url": "https://www.deutschlandfunk.de/gla55-urauffuehrung-von-anne-teresa-de-keersmaeker-in-berlin-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/gla55_urauffuehrung_von_anne_teresa_de_keersmaeker_in_berlin_dlf_20261120_1747_c70cd912.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:99f547e2-0422-5a86-b6a4-522b68748596",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Aufbruch in die Neuzeit: Jan van Eycks Porträts in London",
-    "summary": "Pfister, Sandra www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-20T16:42:10.000Z",
-    "url": "https://www.deutschlandfunk.de/aufbruch-in-die-neuzeit-jan-van-eycks-portraets-in-london-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/aufbruch_in_die_neuzeit_jan_van_eycks_portraets_in_london_dlf_20261120_1742_7c0a8b7f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
+      "Musik",
+      "Geschichte"
     ],
     "language": "de"
   },
@@ -405,106 +503,6 @@
     "category": [
       "Kultur",
       "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a7f275e8-b910-5796-816f-14290e5761be",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Still In A Dream\" - Wird Retromania-Reynolds jetzt selbst nostalgisch?",
-    "summary": "Schneider, Dirk www.deutschlandfunk.de, Corso",
-    "date": "2026-11-20T14:05:15.000Z",
-    "url": "https://www.deutschlandfunk.de/still-in-a-dream-wird-retromania-reynolds-jetzt-selbst-nostalgisch-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/still_in_a_dream_wird_retromania_reynolds_jetzt_selbst_dlf_20261120_1505_2065df30.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:1ab9efba-a47b-56e7-8e5d-5f34a3ed4507",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "30 Jahre Space Invader - Streetart zwischen Game und Stadtpolitik",
-    "summary": "Kühne, Gesine www.deutschlandfunk.de, Corso",
-    "date": "2026-11-20T14:05:00.000Z",
-    "url": "https://www.deutschlandfunk.de/30-jahre-space-invader-streetart-zwischen-game-und-stadtpolitik-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/20/30_jahre_space_invader_streetart_zwischen_game_und_dlf_20261120_1505_ad5c91fa.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeitzeichen:8082f6457ac1be0c0e701c26504e4787",
-    "source": "zeitzeichen",
-    "sourceTitle": "WDR Zeitzeichen",
-    "type": "rss",
-    "title": "Naturschutz: Von Vogelfreunden, Nazis und Windrädern",
-    "summary": "<p>Im November 1871 taucht \"Naturschutz\" erstmals in der deutschen Sprache auf. Erst geht es um schöne Landschaften, später auch um Ideologie: Wie politisch ist Naturschutz?</p><br><br><p><strong>In diesem Zeitzeichen erzählt Marko Rösseler:</strong><br><ul><li>dass der Schutz des Drachenfels im 19. Jahrhundert mehr aus ökonomischen als aus ökologischen Gründen gefordert wird, </li><li>wie die Industrialisierung sich negativ auf die Natur auswirkt,</li><li>warum Nationalsozialisten den \"Naturschutz\" für ihre Ideologie vereinnahmen,</li><li>über den bis heutige sichtbaren Unterschied zwischen Umwelt- und Naturschützern.</li></ul><br>Als der Steinabbau im 19. Jahrhundert das Siebengebirge zwischen Köln und Bonn zunehmend zerkleinert, bangen Bürger um den Drachenfels - ein schon seinerzeit beliebtes Ausflugsziel. Sie protestieren beim preußischen König, der schließlich den Steinabbau verbietet und die Drachenfelsspitze unter Schutz stellt.<br><br>In der Folge gründen sich Vereine, die sich gegen die Zerstörung der Natur durch Steinbrüche rund um den Drachenfels richten. Auch der \"Bund Heimathschutz\" um den Komponisten Ernst Rudorff setzt sich ab 1904 für den Erhalt von Natur und Landschaft ein. Ernst Rudorff gilt daher lange als Erfinder des deutschen Naturschutzes.<br><br>Erst in den letzten Jahren weisen Historiker nach, dass der Tierpräparator und Vogelliebhaber Philipp Leopold Martin schon 1871 in einem Aufsatz den Begriff \"Naturschutz\" verwendet hat.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Jürgen Rosebrock, Historiker, Stiftung Naturschutzgeschichte</li><li>Gerhard Hachmann / Rainer Koch (Hrsg.): Wider die rationelle Bewirtschaftung! Texte und Quellen zur Entstehung des deutschen Naturschutzes. Bundesamt für Naturschutz (BFN) Skripten 417. Bonn 2015</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Stiftung Naturschutzgeschichte: <a href=\"https://www.naturschutzgeschichte.de/\" rel=\"noopener\" target=\"_blank\">Naturschutz hat Geschichte</a></li><li>Stichtag: 03.03.1973 -<a href=\"https://www1.wdr.de/stichtag/stichtag-cites-artenschutzabkommen-100.html\" rel=\"noopener\" target=\"_blank\"> Artenschutzabkommen CITES unterzeichnet</a></li><li>Stichtag: 13.04.1776 - <a href=\"https://www1.wdr.de/stichtag/stichtag-naturschutzgebiet-tobago-100.html\" rel=\"noopener\" target=\"_blank\">Regenwald auf Tobago wird Naturschutzgebiet</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherin und die Macher hinter diesem Zeitzeichen: </strong><br>Autor: Marko Rösseler<br>Redaktion: Matti Hesse<br>Technik: Sarah Fitzek",
-    "date": "2026-11-20T05:00:36.000Z",
-    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-naturschutz-von-vogelfreunden-nazis-und-windraedern-100.html",
-    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-wort-naturschutz-taucht-in-deutscher-sprache-auf-100~_v-Podcast.jpg",
-    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/10/27/ae0a141d-7ab5-471d-9123-9eb0d61118ca/ae0a141d-7ab5-471d-9123-9eb0d61118ca_MP3-128.mp3",
-    "duration": "15 Min",
-    "tags": [
-      "geschichte",
-      "bildung",
-      "zeitgeschichte"
-    ],
-    "category": [
-      "Geschichte",
-      "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "zeit-alles-gesagt:ab140869-3e53-494b-8508-c58e6e4a90bb",
-    "source": "zeit-alles-gesagt",
-    "sourceTitle": "Alles gesagt? – DIE ZEIT",
-    "type": "rss",
-    "title": "Olli Dittrich, was hätte Dittsche gesagt?",
-    "summary": "<p>Er hat Deutschland als »Dittsche«, »Schorsch Aigner« und als Fifa-Friseur »Leo Marcetti« zum Lachen gebracht, außerdem hat er als eine Hälfte des Gesang-Duos »Die Doofen« mit Songs wie »Mief« die deutsche Schlagergeschichte parodiert. Jetzt ist Olli Dittrich, der heute seinen 70. Geburtstag feiert, zu Gast im unendlichen Podcast.<br><br>Im Gespräch erzählt er, wie aus Hörspielen auf dem Anrufbeantworter eine der bekanntesten Figuren des deutschen Fernsehens wurde – Dittsche, jener »Thekenphilosoph im Bademantel«, der sich selbst und den Deutschen von einem Hamburger Imbiss aus die Welt erklärt. Seine Lust an der Komik hat er von seiner hessischen Großmutter, die seine Heinrich-Lübke-Imitationen besonders witzig fand, und von seinem Vater, der einen »goldenen Humor« besaß und das Kabarett liebte. Zudem schwärmt Olli Dittrich für Loriot, mit dem er befreundet war, und erzählt, wie er einmal Uwe Seeler am Hamburger Flughafen hinterherlief, und der ihn als Dittsche erkannte. Bevor er Komiker wurde, wollte Olli Dittrich nämlich Fußballer werden.<br><br>Er spricht über seine Anfänge in der Hamburger Musikszene der 1970er-Jahre, als er, noch minderjährig, in legendären Clubs wie dem Onkel Pö auftrat und später in einer Skiffle-Band spielte. Danach arbeitete er acht Jahre lang bei der Plattenfirma Polydor, was eine Sinnkrise auslöste, aus der er nur mit Hilfe wieder herausfand. Im Podcast erzählt Olli Dittrich, was er aus den Krisen in seinem Leben gelernt hat, und warum gute Kunst oft aus Momenten des Loslassens entsteht.<br><br>Olli Dittrich wurde 1956 in Offenbach geboren. Sein Vater war dort Journalist, seine Mutter Malerin und Modeillustratorin. Später zog die Familie nach Hamburg, weil der Vater beim Springer-Verlag eine Stelle bekam. Mit der Stadt ist er bis heute eng verbunden: Seine ersten Auftritte bestritt er im dortigen Quatsch Comedy Club und auch Dittsche ist durch und durch Hamburger. Anlässlich seines heutigen runden Geburtstags erscheint die Dokumentation »Die Kunst, Olli Dittrich zu sein« von Eric Friedler. Wir gratulieren herzlich!<br><br>Produktion: Pool Artists Redaktion: Sophia Hubel (freie Mitarbeit), Hannah Schraven, Sophie Hübner, Vincent Mank Gästemanagement: Paula Georgi, Anna Vahldick<br>Fragen, Kritik, Anregungen? Schreiben Sie eine Mail an: allesgesagt@zeit.de</a> </p>\n<p><p>Seit dem 15.01.2025 sind Teile des Archivs von <i>Alles gesagt?</i> nur noch exklusiv mit einem Digital- oder Podcastabo der ZEIT zu hören – auf <a href=\"https://www.zeit.de/alles-gesagt\" rel=\"noopener\" target=\"_blank\"><strong>zeit.de</strong></a><strong>, </strong>auf Apple Podcasts und auf Spotify. Ein kostenloses Probeabo können Sie <a href=\"https://www.zeit.de/mehr-hoeren\" rel=\"noopener\" target=\"_blank\">hier</a> abschließen. Wie Sie Ihr Abo mit Spotify oder Apple Podcasts verbinden, lesen Sie <a href=\"https://premium.zeit.de/faq/audio#Audio_Spotify\" rel=\"noopener\" target=\"_blank\">hie<strong>r</strong></a><strong>.</strong></p><p><a href=\"https://cmk.zeit.de/cms/articles/15599/anzeige/podcast-werbepartnerinnen/hier-gibt-s-weitere-infos-zu-den-angeboten-unserer-werbepartner-innen\" rel=\"noopener\" target=\"_blank\"><strong>[ANZEIGE] Mehr über die Angebote unserer Werbepartnerinnen und -partner finden Sie HIER</strong></a><strong>.</strong></p><p><strong>[ANZEIGE] </strong>Mehr hören? Dann testen Sie unser <strong>Podcastabo</strong> mit Zugriff auf alle Dokupodcasts und unser Podcastarchiv. <a href=\"https://premium.zeit.de/bestellung/4000032#start\" rel=\"noopener\" target=\"_blank\">Jetzt 4 Wochen kostenl<strong>os testen</strong></a><strong>.</strong><br>Und falls Sie uns nicht nur hören, sondern auch lesen möchten, testen Sie jetzt <strong>4 Wochen kostenlos DIE ZEIT.</strong> <a href=\"https://abo.zeit.de/podcast/?icode=01w0151k1100angaudall2312&utm_medium=audio&utm_source=podcast&utm_campaign=podcast_shownotes&utm_content=01w0151k1100angaudall2312&wt_zmc=audall.Int.zabo.podcast.podcast_shownotes.x\" rel=\"noopener\" target=\"_blank\">Hier geht's zum Ange<strong>bot</strong></a><strong>. </strong></p>",
-    "date": "2026-11-20T04:55:00.000Z",
-    "url": "http://www.zeit.de/serie/alles-gesagt",
-    "image": "https://image.simplecastcdn.com/images/d51f2924-ec7a-47a6-bcfe-0645013e5925/2ba64ac6-36cb-4c7b-b41c-565848179b0b/property-201-wei-c3-9fes-20z-20-5.jpg",
-    "audio": "https://zeitonline.simplecastaudio.com/01b8f64d-b315-4918-bacd-dbcfa0b0069f/episodes/d32981bf-29cd-4947-a137-4bfef5706533/audio/128/default.mp3?aid=rss_feed&awCollectionId=01b8f64d-b315-4918-bacd-dbcfa0b0069f&awEpisodeId=d32981bf-29cd-4947-a137-4bfef5706533&feed=Y_bRXaw2",
-    "duration": "4 Std 16 Min",
-    "tags": [
-      "interview",
-      "gesellschaft",
-      "kultur",
-      "zeit",
-      "langform",
-      "bildung"
-    ],
-    "category": [
-      "Gesellschaft",
-      "Kultur",
-      "Bildung"
     ],
     "language": "de"
   }
