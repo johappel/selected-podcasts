@@ -1,5 +1,80 @@
 [
   {
+    "id": "dlf-corso:a6ba8c9e-7fac-564e-a103-1a777933ef8f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Krömers letzte Stunde\" - Der langsame Tod der deutschen Fernsehunterhaltung",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-11-26T14:25:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kroemers-letzte-stunde-der-langsame-tod-der-deutschen-fernsehunterhaltung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/kroemers_letzte_stunde_der_langsame_tod_der_deutschen_dlf_20261126_1525_8b517190.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:57aad0f7-d0f1-5fd5-ba7b-b08dd86c6291",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie Aids Gesellschaft und Popkultur verändert hat",
+    "summary": "In seinem Buch \"Aids: Chronik einer Pandemie\" erzählt Axel Schock von einer Zeit, in der Popikonen ihre Homosexualität oder Erkrankung geheim hielten. Und er spürt den Auswirkungen der Krankheit nach - in der Popkultur und im Alltag der Menschen. Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-26T14:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-thema-der-popkultur-autor-axel-schock-ueber-aids-chronik-einer-pandemie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/20/55/a3/e92055a3-743a-49cd-a571-3a7f4c2d74ed/imago0764336608h-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/ein_thema_der_popkultur_autor_axel_schock_ueber_aids_chronik_dlf_20261126_1510_030a0832.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d8e5c83d-3582-55e2-bd33-c69b4dd58470",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Veruschka: Supermodel, Fotografin - Matthias Harder. Newton-Stiftung zum Tod",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-26T14:05:51.000Z",
+    "url": "https://www.deutschlandfunk.de/veruschka-supermodel-fotografin-matthias-harder-newton-stiftung-zum-tod-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/veruschka_supermodel_fotografin_matthias_harder_newton_dlf_20261126_1505_0b0ba664.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-corso:bd819647-3737-5fb8-93c2-6f5d7af07b2a",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -161,81 +236,6 @@
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/weltweite_sounds_aus_london_zehn_jahre_batov_records_dlf_20261123_1520_52cd958b.mp3?refId=corso-104",
     "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0d188e6a-9f23-58c9-b07e-4b09456bdea7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Hype um den Vibe - wie Vibes zur zentralen Kategorie der Popkultur wurden",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-11-23T14:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-hype-um-den-vibe-wie-vibes-zur-zentralen-kategorie-der-popkultur-wurden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/der_hype_um_den_vibe_wie_vibes_zur_zentralen_kategorie_der_dlf_20261123_1515_fb9c6074.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0d3179a0-1e07-57d8-b5f3-1d0af1b415d2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Blade Runner 2099 als Serie - Was macht uns menschlich?",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-23T14:10:46.000Z",
-    "url": "https://www.deutschlandfunk.de/blade-runner-2099-als-serie-was-macht-uns-menschlich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/blade_runner_2099_als_serie_was_macht_uns_menschlich_dlf_20261123_1510_c2bf0747.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:49bb33c6-a638-5fe5-80d3-82cd94b0b3a5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Chor B O D I E S von Kat Frankie - Acht Stimmen als kleine Utopie",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-11-21T14:20:17.000Z",
-    "url": "https://www.deutschlandfunk.de/chor-b-o-d-i-e-s-von-kat-frankie-acht-stimmen-als-kleine-utopie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/chor_b_o_d_i_e_s_von_kat_frankie_acht_stimmen_als_kleine_dlf_20261121_1520_5fa25b6c.mp3?refId=corso-104",
-    "duration": "12 Min",
     "tags": [
       "kultur",
       "pop",

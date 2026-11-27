@@ -26,12 +26,242 @@
     "language": "de"
   },
   {
+    "id": "ndr-being-the-beatles:rnd0-04042402266227618",
+    "source": "ndr-being-the-beatles",
+    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
+    "type": "rss",
+    "title": "Ökonomin Claudia Kemfert im Talk über die Energiewende",
+    "summary": "Für die Ökonomin Prof. Claudia Kemfert ist Klimaschutz kein Idealismus, sondern auch wirtschaftliche Vernunft. Als Vize-Vorsitzende des Sachverständigenrates für Umweltfragen berät Kemfert seit Jahren die verschiedenen Bundesregierungen, gilt als eine der einflussreichsten Stimmen der deutschen Klimadebatte. Außerdem lehrt sie an der Leuphana Universität Lüneburg. Auf dem Roten Sofa wollen wir uns von Prof. Claudia Kemfert erklären lassen, warum Deutschland aus ihrer Sicht die Energiewende braucht und weshalb wir davon vielleicht auch profitieren können.",
+    "date": "2026-11-26T17:45:00.000Z",
+    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/oekonomin-claudia-kemfert-im-talk-ueber-die-energiewende,audio-3621134.html",
+    "image": "https://images.ndr.de/image/37e9b807-4d99-44ff-9aa1-e30848d3acfa/AAABohkchRc/AAABnSStX0g/1x1-big/screenshot-268032.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
+    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1126/AU-20261126-2225-2100.mp3",
+    "duration": "33 Min",
+    "tags": [
+      "beatles",
+      "popgeschichte",
+      "musik",
+      "kultur",
+      "60er"
+    ],
+    "category": [
+      "Musik",
+      "Geschichte"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:2978de02-2a28-5130-961f-bac9e973ea88",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 26.11.2026",
+    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:55:58.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/kulturmeldungen_26112026_dlf_20261126_1755_58f01aae.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bca6b1fc-8d70-54ea-a6ff-70cb9893d761",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Alles Glück der Welt\" - Musikalische Komödie nach Thomas Brasch a.d. Volksbühne",
+    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:50:19.000Z",
+    "url": "https://www.deutschlandfunk.de/alles-glueck-der-welt-musikalische-komoedie-nach-thomas-brasch-a-d-volksbuehne-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/alles_glueck_der_welt_musikalische_komoedie_nach_thomas_dlf_20261126_1750_98ef0f8b.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:ea43e1c2-5d09-55d0-bdeb-ff910c2b8092",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Carpathia\" - Das Dracula-Ballett von Edward Clug am Bayerischen Staatsballett",
+    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:46:15.000Z",
+    "url": "https://www.deutschlandfunk.de/carpathia-das-dracula-ballett-von-edward-clug-am-bayerischen-staatsballett-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/carpathia_das_dracula_ballett_von_edward_clug_am_bayerischen_dlf_20261126_1746_91edc24f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:1d93bc56-849a-5b12-8f4c-117577ec4db8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Venedig 2028 - Hoor Al-Qasimi wird neue Biennale-Kuratorin",
+    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:40:41.000Z",
+    "url": "https://www.deutschlandfunk.de/venedig-2028-hoor-al-qasimi-wird-neue-biennale-kuratorin-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/venedig_2028_hoor_al_qasimi_wird_neue_biennale_kuratorin_dlf_20261126_1740_dfeccd16.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:bc124ea1-d700-5016-9b78-45a24f2e2ae4",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"From inside out\" - Wim Wenders' Film über den Architekten Peter Zumthor",
+    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-26T16:35:30.000Z",
+    "url": "https://www.deutschlandfunk.de/from-inside-out-wim-wenders-film-ueber-den-architekten-peter-zumthor-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/from_inside_out_wim_wenders_film_ueber_den_architekten_peter_dlf_20261126_1735_e4ebaae8.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:a6ba8c9e-7fac-564e-a103-1a777933ef8f",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Krömers letzte Stunde\" - Der langsame Tod der deutschen Fernsehunterhaltung",
+    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
+    "date": "2026-11-26T14:25:10.000Z",
+    "url": "https://www.deutschlandfunk.de/kroemers-letzte-stunde-der-langsame-tod-der-deutschen-fernsehunterhaltung-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/kroemers_letzte_stunde_der_langsame_tod_der_deutschen_dlf_20261126_1525_8b517190.mp3?refId=corso-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:57aad0f7-d0f1-5fd5-ba7b-b08dd86c6291",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wie Aids Gesellschaft und Popkultur verändert hat",
+    "summary": "In seinem Buch \"Aids: Chronik einer Pandemie\" erzählt Axel Schock von einer Zeit, in der Popikonen ihre Homosexualität oder Erkrankung geheim hielten. Und er spürt den Auswirkungen der Krankheit nach - in der Popkultur und im Alltag der Menschen. Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-26T14:10:00.000Z",
+    "url": "https://www.deutschlandfunk.de/ein-thema-der-popkultur-autor-axel-schock-ueber-aids-chronik-einer-pandemie-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/20/55/a3/e92055a3-743a-49cd-a571-3a7f4c2d74ed/imago0764336608h-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/ein_thema_der_popkultur_autor_axel_schock_ueber_aids_chronik_dlf_20261126_1510_030a0832.mp3?refId=corso-104",
+    "duration": "11 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:d8e5c83d-3582-55e2-bd33-c69b4dd58470",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "Veruschka: Supermodel, Fotografin - Matthias Harder. Newton-Stiftung zum Tod",
+    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
+    "date": "2026-11-26T14:05:51.000Z",
+    "url": "https://www.deutschlandfunk.de/veruschka-supermodel-fotografin-matthias-harder-newton-stiftung-zum-tod-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/veruschka_supermodel_fotografin_matthias_harder_newton_dlf_20261126_1505_0b0ba664.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-tatort-kunst:1ce868c6-c2db-5324-b9f2-c23a0339d4f5",
     "source": "dlf-tatort-kunst",
     "sourceTitle": "Tatort Kunst – Deutschlandfunk",
     "type": "rss",
     "title": "Eure Fragen - Rahel und Stefan von Tatort Kunst antworten",
-    "summary": "Wie entdeckt \"Tatort Kunst\" neue Fälle? Welches Bild würden die Hosts Rahel und Stefan gerne selbst stehlen? In dieser Folge beantworten die beiden eure Fragen. Und haben am Ende noch eine Bitte: Bei einem neuen Fall brauchen sie eure Hilfe.<br><br><strong>Das erwartet euch in dieser Folge:</strong><br>(00:00) – Wir decken auf, worüber ihr gerne sprecht<br>(10:02) – Ein paar persönliche Fragen<br>(12:53) – Wie arbeiten wir journalistisch?<br>(19:19) – Wie wir Tatorte besuchen<br>(24:23) – Schnelle Fragerunde für Rahel & Stefan<br>(26:13) – Das ist unser Musik-Geheimnis<br>(28:21) – Buchtipps von Rahel & Stefan<br>(37:50) – Wie die Kunst-Begeisterung geweckt wurde<br>(43:08) – Die größte aller Fragen<br><br><strong>Das Team für diesen Fall:</strong><br>Host Rahel Klein gehört seit Jahren zu den Stimmen von Deutschlandfunk Nova. Sie liebt komplexe Geschichten und investigative Recherchen.<br>Host Stefan Koldehoff ist Chefreporter Kultur des Deutschlandradios. Seit mehr als dreißig Jahren recherchiert er im Kunstbetrieb und weiß, wo man mal genauer hinschauen sollte.<br><br>Autor & Regie: Sven Preger<br>Sounddesign: Norman Wollmacher<br><br>++++<br><br><strong>Weiterführende Links und Quellen<br><br></strong><ul><li>Hier könnt ihr die Bilder sehen, nach denen wir suchen. Schreibt uns, wenn ihr sie kennt: <a href=\"https://www.instagram.com/reel/DSZ4m5OjHcO/?obrf=MTkyMWFiZmJzOTE4dw==\" rel=\"noopener\" target=\"_blank\">Hier könnt ihr Mona Lisa und ihre Doppelgängerinnen sehen</a></li><li>Hier könnt ihr uns live und in Farbe treffen: <a href=\"https://www.swrticketservice.de/veranstaltungen/ard-sounds-festival?peach=%7B%22peachInfo%22%3A%7B%22widget_id%22%3A%227b1b84e1-87f7-49a2-8c60-b862f25b4f8f%3A-3741733353263746383%22%2C%22widget_title%22%3A%22Tickets%22%2C%22widget_type%22%3A%22panorama%22%2C%22teaser_recommended%22%3Afalse%7D%7D\" rel=\"noopener\" target=\"_blank\">Am 20. März 2027 beim ARD Sounds Festival in Mannheim</a></li></ul><br>++++<br><br>Wenn euch \"Tatort Kunst\" gefällt, abonniert uns und empfehlt uns weiter. Feedback gerne an tatortkunst@deutschlandfunk.de</a>.<br><br>Noch mehr spannende Podcasts gibt’s in der Deutschlandfunk App. Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
+    "summary": "Wie entdeckt \"Tatort Kunst\" neue Fälle? Welches Bild würden die Hosts Rahel und Stefan gerne selbst stehlen? In dieser Folge beantworten die beiden eure Fragen. Und haben am Ende noch eine Bitte: Bei einem neuen Fall brauchen sie eure Hilfe.<br><br><strong>Das erwartet euch in dieser Folge:</strong><br>(00:00) – Wir decken auf, worüber ihr gerne sprecht<br>(10:02) – Ein paar persönliche Fragen<br>(12:53) – Wie arbeiten wir journalistisch?<br>(19:19) – Wie wir Tatorte besuchen<br>(24:23) – Schnelle Fragerunde für Rahel & Stefan<br>(26:13) – Das ist unser Musik-Geheimnis<br>(28:21) – Buchtipps von Rahel & Stefan<br>(37:50) – Wie die Kunst-Begeisterung geweckt wurde<br>(43:08) – Die größte aller Fragen<br><br><strong>Das Team für diesen Fall:</strong><br>Host Rahel Klein gehört seit Jahren zu den Stimmen von Deutschlandfunk Nova. Sie liebt komplexe Geschichten und investigative Recherchen.<br>Host Stefan Koldehoff ist Chefreporter Kultur des Deutschlandradios. Seit mehr als dreißig Jahren recherchiert er im Kunstbetrieb und weiß, wo man mal genauer hinschauen sollte.<br><br>Autor & Regie: Sven Preger<br>Sounddesign: Norman Wollmacher<br><br>++++<br><br><strong>Weiterführende Links und Quellen<br><br></strong><ul><li><a href=\"https://www.instagram.com/p/DgMjAt3Cj5W/?utm_source=ig_web_copy_link&bqrl=MzRlODBiNWFlZA%3D%3D&avpt=MzRlODBiNWFlZA%3D%3D\" rel=\"noopener\" target=\"_blank\">Hier könnt ihr die Bilder sehen, nach denen wir suchen. Schreibt uns, wenn ihr sie kennt.</a></li><li><a href=\"https://www.instagram.com/reel/DSZ4m5OjHcO/?obrf=MTkyMWFiZmJzOTE4dw==\" rel=\"noopener\" target=\"_blank\">Hier könnt ihr Mona Lisa und ihre Doppelgängerinnen sehen</a></li><li>Hier könnt ihr uns live und in Farbe treffen: <a href=\"https://www.swrticketservice.de/veranstaltungen/ard-sounds-festival?peach=%7B%22peachInfo%22%3A%7B%22widget_id%22%3A%227b1b84e1-87f7-49a2-8c60-b862f25b4f8f%3A-3741733353263746383%22%2C%22widget_title%22%3A%22Tickets%22%2C%22widget_type%22%3A%22panorama%22%2C%22teaser_recommended%22%3Afalse%7D%7D\" rel=\"noopener\" target=\"_blank\">Am 20. März 2027 beim ARD Sounds Festival in Mannheim</a></li></ul><br>++++<br><br>Wenn euch \"Tatort Kunst\" gefällt, abonniert uns und empfehlt uns weiter. Feedback gerne an tatortkunst@deutschlandfunk.de</a>.<br><br>Noch mehr spannende Podcasts gibt’s in der Deutschlandfunk App. Folgt dem Deutschlandfunk auch auf <a href=\"https://www.instagram.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Instagram</a> oder <a href=\"https://www.facebook.com/deutschlandfunk/\" rel=\"noopener\" target=\"_blank\">Facebook</a>.",
     "date": "2026-11-26T05:00:00.000Z",
     "url": "https://www.deutschlandfunk.de/eure-fragen-rahel-und-stefan-von-tatort-kunst-antworten-100.html",
     "image": "https://bilder.deutschlandfunk.de/02/b2/e9/2e/02b2e92e-ab2a-44aa-8247-142e82c532bc/tatort-kunst-2026-01-communityfolge-100-1920x1920.jpg",
@@ -333,84 +563,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:850f8628-11f4-5ac8-bf4c-8548a23a4442",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Tschechiens öffentlich-rechtlicher Rundfunk unter Druck - Die Folgen fürs Kino",
-    "summary": "Berndt, Christian www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:50:30.000Z",
-    "url": "https://www.deutschlandfunk.de/tschechiens-oeffentlich-rechtlicher-rundfunk-unter-druck-die-folgen-fuers-kino-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/tschechiens_oeffentlich_rechtlicher_rundfunk_unter_druck_die_dlf_20261124_1750_43b752c4.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:c94d6166-40f1-592c-88ab-4b63b701b871",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Felix Nussbaum. Maskeraden\" - Ausstellung im Nussbaum-Haus, Osnabrück",
-    "summary": "Vielhaber, Christiane www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:44:05.000Z",
-    "url": "https://www.deutschlandfunk.de/felix-nussbaum-maskeraden-ausstellung-im-nussbaum-haus-osnabrueck-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/felix_nussbaum_maskeraden_ausstellung_im_nussbaum_haus_dlf_20261124_1744_5fb6447f.mp3?refId=kultur-heute-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:67162654-14fc-52e0-9643-00a34d170886",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Iran: Auspeitschungen, Todesstrafen und Zensur gegen Künstler",
-    "summary": "Eine Sängerin wurde nach einem Auftritt ohne Kopftuch ausgepeitscht, einem Dichter droht die Hinrichtung. Der deutsch-iranischen Autorin Daniela Sepehri (PEN Berlin) zufolge widersetzen sich dennoch immer mehr Künstlerinnen dem Mullah-Regime. Sepehri, Daniela; Siniawski, Adalbert www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-24T16:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/mit-dem-ruecken-zur-wand-iranische-kulturschaffende-im-visier-des-regimes-100.html",
-    "image": "https://bilder.deutschlandfunk.de/ce/91/97/0c/ce91970c-afef-4fef-a7ab-dc07c9f883ca/daniela-sepehri-portrait-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/24/mit_dem_ruecken_zur_wand_iranische_kulturschaffende_im_dlf_20261124_1735_ebb4f157.mp3?refId=kultur-heute-104",
-    "duration": "9 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:4332375f-4d07-57ad-b2b3-833eed810f5e",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -537,58 +689,6 @@
     "language": "de"
   },
   {
-    "id": "dlf-kultur-heute:b18ffe5e-01dc-5854-bdf6-96efa8cf59c8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 23.11.2026",
-    "summary": "Biesler, Jörg www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-23T16:56:28.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-23-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/kulturmeldungen_23112026_dlf_20261123_1756_fb726b2b.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:4c9c144d-8f75-5b07-b856-29454edf60b5",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Nachdenken übers Tun - Das Philosophie-Festival in Berlin",
-    "summary": "Cornelius Wüllenkemper www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-23T16:53:28.000Z",
-    "url": "https://www.deutschlandfunk.de/nachdenken-uebers-tun-das-philosophie-festival-in-berlin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/nachdenken_uebers_tun_das_philosophie_festival_in_berlin_dlf_20261123_1753_e177d04f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
     "id": "dlf-corso:1f3da2a4-ce55-55f3-a7f1-b5875ee477e2",
     "source": "dlf-corso",
     "sourceTitle": "Corso – Deutschlandfunk",
@@ -599,56 +699,6 @@
     "url": "https://www.deutschlandfunk.de/weltweite-sounds-aus-london-zehn-jahre-batov-records-100.html",
     "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
     "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/weltweite_sounds_aus_london_zehn_jahre_batov_records_dlf_20261123_1520_52cd958b.mp3?refId=corso-104",
-    "duration": "6 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0d188e6a-9f23-58c9-b07e-4b09456bdea7",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Der Hype um den Vibe - wie Vibes zur zentralen Kategorie der Popkultur wurden",
-    "summary": "Herbstreuth, Mike www.deutschlandfunk.de, Corso",
-    "date": "2026-11-23T14:15:00.000Z",
-    "url": "https://www.deutschlandfunk.de/der-hype-um-den-vibe-wie-vibes-zur-zentralen-kategorie-der-popkultur-wurden-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/der_hype_um_den_vibe_wie_vibes_zur_zentralen_kategorie_der_dlf_20261123_1515_fb9c6074.mp3?refId=corso-104",
-    "duration": "7 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:0d3179a0-1e07-57d8-b5f3-1d0af1b415d2",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Blade Runner 2099 als Serie - Was macht uns menschlich?",
-    "summary": "Ignatowitsch, Julian www.deutschlandfunk.de, Corso",
-    "date": "2026-11-23T14:10:46.000Z",
-    "url": "https://www.deutschlandfunk.de/blade-runner-2099-als-serie-was-macht-uns-menschlich-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/23/blade_runner_2099_als_serie_was_macht_uns_menschlich_dlf_20261123_1510_c2bf0747.mp3?refId=corso-104",
     "duration": "6 Min",
     "tags": [
       "kultur",
@@ -736,56 +786,6 @@
       "Gesellschaft",
       "Kultur",
       "Feature"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:49bb33c6-a638-5fe5-80d3-82cd94b0b3a5",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "Chor B O D I E S von Kat Frankie - Acht Stimmen als kleine Utopie",
-    "summary": "Reimann, Christoph www.deutschlandfunk.de, Corso",
-    "date": "2026-11-21T14:20:17.000Z",
-    "url": "https://www.deutschlandfunk.de/chor-b-o-d-i-e-s-von-kat-frankie-acht-stimmen-als-kleine-utopie-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/21/chor_b_o_d_i_e_s_von_kat_frankie_acht_stimmen_als_kleine_dlf_20261121_1520_5fa25b6c.mp3?refId=corso-104",
-    "duration": "12 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-3881460395386608",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Motivationsforscherin Michaela Brohm-Badry über Zuversicht und Sinnhaftigkeit",
-    "summary": "Seit vielen Jahren schon beschäftigt sich Prof. Michaela Brohm-Badry mit der Frage, was Menschen stärkt, motiviert und widerstandsfähig macht. An der Universität Trier unterrichtete sie Lernforschung, war dort auch Dekanin. Inzwischen leitet sie das \"Europäische Forum für Positive Neurowissenschaften\". In ihren Büchern, Vorträgen und wissenschaftlichen Arbeiten zeigt die 64-Jährige, wie Zuversicht und Sinnhaftigkeit unser Leben positiv beeinflussen können.",
-    "date": "2026-11-20T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/motivationsforscherin-michaela-brohm-badry-ueber-zuversicht-und-sinnhaftigkeit,audio-3611790.html",
-    "image": "https://images.ndr.de/image/bf2a265f-77be-414f-9203-6e217f9e88db/AAABofo3WWU/AAABnSStX0g/1x1-big/screenshot-264686.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1122/AU-20261122-2136-3400.mp3",
-    "duration": "40 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
     ],
     "language": "de"
   },
