@@ -26,12 +26,189 @@
     "language": "de"
   },
   {
+    "id": "dlf-kultur-heute:7deb3949-d4cf-5d2b-8692-cf02d88cbcd8",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Kulturmeldungen 27.11.2026",
+    "summary": "Hübert, Henning www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-27T16:56:00.000Z",
+    "url": "https://www.deutschlandfunk.de/kulturmeldungen-27-11-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/kulturmeldungen_27112026_dlf_20261127_1756_3c127faa.mp3?refId=kultur-heute-104",
+    "duration": "3 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:3be311e1-c1c7-5cdd-bb7d-d48e4ef7c1e1",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Wiederentdeckung im ZKM Karlsruhe: \"Hidden on Tape - Frühe Videokunst in Europa\"",
+    "summary": "Wetzel, Marie-Dominique www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-27T16:52:00.000Z",
+    "url": "https://www.deutschlandfunk.de/wiederentdeckung-im-zkm-karlsruhe-hidden-on-tape-fruehe-videokunst-in-europa-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/wiederentdeckung_im_zkm_karlsruhe_hidden_on_tape_fruehe_dlf_20261127_1752_d2153f7f.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:75609c04-b72e-508e-814a-b56a127fe333",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "Catarina, oder Von der Schönheit, Faschisten zu töten",
+    "summary": "Leibold, Christoph www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-27T16:47:00.000Z",
+    "url": "https://www.deutschlandfunk.de/catarina-oder-von-der-schoenheit-faschisten-zu-toeten-100.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/catarina_oder_von_der_schoenheit_faschisten_zu_toeten_dlf_20261127_1747_77149f61.mp3?refId=kultur-heute-104",
+    "duration": "5 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-kultur-heute:e6d8f39c-a9c7-5223-a4c3-9c8b31011498",
+    "source": "dlf-kultur-heute",
+    "sourceTitle": "Kultur heute – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Freiräume\": Kunstmuseum Bonn zeigt Wandel und weiblichen Widerstand",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Kultur heute",
+    "date": "2026-11-27T16:41:00.000Z",
+    "url": "https://www.deutschlandfunk.de/freiraeume-kunstmuseum-bonn-zeigt-wandel-und-weiblichen-widerstand-102.html",
+    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/freiraeume_kunstmuseum_bonn_zeigt_wandel_und_weiblichen_dlf_20261127_1741_2813cd0a.mp3?refId=kultur-heute-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "theater",
+      "kunst",
+      "film",
+      "kulturpolitik",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:ee2572ba-f150-5eff-9955-36491919cf8b",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "NS - Soldatenlieder als Remixe - Thorsten Hindrichs, Musikwissenschaftler",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-27T14:10:42.000Z",
+    "url": "https://www.deutschlandfunk.de/ns-soldatenlieder-als-remixe-thorsten-hindrichs-musikwissenschaftler-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/ns_soldatenlieder_als_remixe_thorsten_hindrichs_dlf_20261127_1510_0d72e1a9.mp3?refId=corso-104",
+    "duration": "6 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "dlf-corso:dbb43439-a7b2-59ce-8e6c-a9d55554923d",
+    "source": "dlf-corso",
+    "sourceTitle": "Corso – Deutschlandfunk",
+    "type": "rss",
+    "title": "\"Changes - turn and face the strange\" - Wandel im Pop von Bowie bis Beyoncé",
+    "summary": "Luerweg, Susanne www.deutschlandfunk.de, Corso",
+    "date": "2026-11-27T14:09:58.000Z",
+    "url": "https://www.deutschlandfunk.de/changes-turn-and-face-the-strange-wandel-im-pop-von-bowie-bis-beyonc-100.html",
+    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
+    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/27/changes_turn_and_face_the_strange_wandel_im_pop_von_bowie_dlf_20261127_1509_cae929a9.mp3?refId=corso-104",
+    "duration": "10 Min",
+    "tags": [
+      "kultur",
+      "pop",
+      "kunst",
+      "gesellschaft",
+      "deutschlandfunk"
+    ],
+    "category": [
+      "Kultur",
+      "Gesellschaft"
+    ],
+    "language": "de"
+  },
+  {
+    "id": "zeitzeichen:41d3ae66b4bc7a7085f422e7157bedaa",
+    "source": "zeitzeichen",
+    "sourceTitle": "WDR Zeitzeichen",
+    "type": "rss",
+    "title": "Chlodwig I.: Wie ein Frankenkönig Gallien erobert",
+    "summary": "<p>Chlodwig besiegt Rivalen, vereint fränkische Teilreiche und lässt sich taufen. Sein Aufstieg prägt Europa weit über das Ende der Antike hinaus. Er stirbt am 27.11.511.</p><br><br><p><strong>In diesem Zeitzeichen erzählt Claudia Friedrich:</strong><br><ul><li>wie Archäologen auf das Grab von Chlodwigs Vater stoßen,</li><li>warum ein Krieger wegen einer Vase sein Leben verliert,</li><li>welche Rolle Chlodwigs Frau bei seiner Annäherung an das Christentum spielt,</li><li>warum Chlodwig später zum Vorbild französischer Könige wird.</li></ul><br>Chlodwig I. wächst in einer Zeit auf, in der das Weströmische Reich zerfällt und zahlreiche Herrscher um die Macht in Gallien kämpfen. Der Spross der Merowinger-Dynastie setzt sich mit militärischem Geschick, politischen Bündnissen und großer Härte gegen Rivalen und den letzten römischen Machthaber nördlich der Alpen durch und schafft das erste fränkische Großreich.<br><br>Zugleich vollzieht er einen folgenreichen Wandel: Der heidnische Krieger lässt sich taufen und bindet die christliche Kirche eng an seine Herrschaft. Sein Frankenreich wird zum Ausgangspunkt der französischen und deutschen Geschichte und prägt die politische Ordnung des frühen Mittelalters weit über seinen Tod am 27. November 511 hinaus. Chlodwig I. geht daher als Begründer Europas in die Geschichte ein.<br><br><strong>Das sind unsere wichtigsten Quellen und Interviewpartner:</strong><br><ul><li>Matthias Becher (Autor und Professor für mittelalterliche Geschichte an der Universität Bonn) </li><li>Gregor von Tours: Zehn Bücher Geschichten. Vollständig überarbeitete Übersetzung. Wiesbaden 2021</li><li>Matthias Becher: Chlodwig I. Der Aufstieg der Merowinger und das Ende der antiken Welt. München 2011</li><li>Mischa Meier und Steffen Patzold (Hg.): Chlodwigs Welt. Organisation von Herrschaft um 500 (Reihe: Roma Aeterna). Stuttgart 2014</li></ul><br><strong>Weiterführende Links:</strong><br><ul><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/zeitzeichen-karl-martell-schlacht-tours-poitiers-100.html\" rel=\"noopener\" target=\"_blank\">25. Oktober 732 - Karl Martell und die Schlacht bei Tours und Poitiers</a></li><li>Zeitzeichen: <a href=\"https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/koenig-pippin-100.html\" rel=\"noopener\" target=\"_blank\">24.09.0768 - Todestag von König Pippin III.</a></li></ul><br><strong>Welches Thema sollen wir im Zeitzeichen recherchieren? Gibt es Kritik oder Lob?</strong><br>Gerne her damit: Einfach schreiben an zeitzeichen@wdr.de</a> <br>Wir freuen uns auch über Bewertungen auf der Podcast-Plattform des Vertrauens! <br><br><strong>Diese und viele weitere Folgen vom WDR Zeitzeichen findet ihr in </strong><a href=\"https://kurz.wdr.de/podcastpicker-zeitzeichen\" rel=\"noopener\" target=\"_blank\"><strong>ARD Sounds und überall da, wo es Podcasts gibt.</strong></a><br><br><strong>Die Macherinnen und Macher hinter diesem Zeitzeichen: </strong><br>Autorin: Claudia Friedrich<br>Redaktion: Sefa Inci Suvak und Ronald Feisel",
+    "date": "2026-11-27T05:00:14.000Z",
+    "url": "https://www1.wdr.de/mediathek/audio/zeitzeichen/audio-chlodwig-i-wie-ein-frankenkoenig-gallien-erobert-100.html",
+    "image": "https://www1.wdr.de/mediathek/audio/sendereihen-bilder/zeitzeichen-chlodwig-I-100~_v-Podcast.jpg",
+    "audio": "https://wdrmedien-a.akamaihd.net/media/p/public/weltweit/2026/11/17/57fcf588-a519-4e60-819c-0e639c29d239/57fcf588-a519-4e60-819c-0e639c29d239_MP3-128.mp3",
+    "duration": "15 Min",
+    "tags": [
+      "geschichte",
+      "bildung",
+      "zeitgeschichte"
+    ],
+    "category": [
+      "Geschichte",
+      "Bildung"
+    ],
+    "language": "de"
+  },
+  {
     "id": "dlf-zeitzeugen-im-gespraech:4feab688-0ada-5abb-b32b-244ff3892503",
     "source": "dlf-zeitzeugen-im-gespraech",
     "sourceTitle": "Zeitzeugen im Gespräch – Deutschlandfunk",
     "type": "rss",
     "title": "Dieser Podcast heißt künftig \"Köpfe”",
-    "summary": "Mehr Vertiefen, mehr Verbinden, mehr Verstehen: Dieser Podcast entwickelt sich weiter.<br><br><a href=\"https://www.deutschlandfunk.de/koepfe-100.html\" rel=\"noopener\" target=\"_blank\">“Köpfe”</a> läuft immer am samstags um 11.05 Uhr im Programm vom Deutschlandfunk. Immer dann erscheint auch eine neue Podcast-Folge. <br><br>Alle Infos zum neuen Deutschlandfunk-Programm gibt es hier: <a href=\"https://www.deutschlandfunk.de/mehr-deutschlandfunk-100.html\" rel=\"noopener\" target=\"_blank\">mehr.deutschlandfunk.de</a> <br><br>Bei Fragen zum Programm wenden Sie sich an den Hörerservice: hoererservice@deutschlandradio.de</a> <br>0221 - 345 18 31<br><br>Alle Podcasts und Sendungen vom Deutschlandfunk gibt es in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.",
+    "summary": "Mehr vertiefen, mehr verbinden, mehr verstehen: Dieser Podcast entwickelt sich weiter.<br><br><a href=\"https://www.deutschlandfunk.de/koepfe-100.html\" rel=\"noopener\" target=\"_blank\">“Köpfe”</a> läuft immer am samstags um 11.05 Uhr im Programm vom Deutschlandfunk. Immer dann erscheint auch eine neue Podcast-Folge. <br><br>Alle Infos zum neuen Deutschlandfunk-Programm gibt es hier: <a href=\"https://www.deutschlandfunk.de/mehr-deutschlandfunk-100.html\" rel=\"noopener\" target=\"_blank\">mehr.deutschlandfunk.de</a> <br><br>Bei Fragen zum Programm wenden Sie sich an den Hörerservice: hoererservice@deutschlandradio.de</a> <br>0221 - 345 18 31<br><br>Alle Podcasts und Sendungen vom Deutschlandfunk gibt es in der <a href=\"https://www.deutschlandfunk.de/dlf-app/\" rel=\"noopener\" target=\"_blank\">Deutschlandfunk App</a>.",
     "date": "2026-11-26T19:00:00.000Z",
     "url": "https://www.deutschlandfunk.de/trailer-podcastfeed-umbenannt-zeitzeugen-102.html",
     "image": "https://bilder.deutschlandfunk.de/a5/5b/41/71/a55b4171-1939-461b-959a-a39f6e415b04/koepfe-cover-100-1920x1920.jpg",
@@ -76,186 +253,6 @@
       "Geschichte",
       "Gesellschaft",
       "Bildung"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "ndr-being-the-beatles:rnd0-04042402266227618",
-    "source": "ndr-being-the-beatles",
-    "sourceTitle": "Being The Beatles – Eine Pop-Revolution",
-    "type": "rss",
-    "title": "Ökonomin Claudia Kemfert im Talk über die Energiewende",
-    "summary": "Für die Ökonomin Prof. Claudia Kemfert ist Klimaschutz kein Idealismus, sondern auch wirtschaftliche Vernunft. Als Vize-Vorsitzende des Sachverständigenrates für Umweltfragen berät Kemfert seit Jahren die verschiedenen Bundesregierungen, gilt als eine der einflussreichsten Stimmen der deutschen Klimadebatte. Außerdem lehrt sie an der Leuphana Universität Lüneburg. Auf dem Roten Sofa wollen wir uns von Prof. Claudia Kemfert erklären lassen, warum Deutschland aus ihrer Sicht die Energiewende braucht und weshalb wir davon vielleicht auch profitieren können.",
-    "date": "2026-11-26T17:45:00.000Z",
-    "url": "https://www.ndr.de/fernsehen/sendungen/das_rote_sofa/oekonomin-claudia-kemfert-im-talk-ueber-die-energiewende,audio-3621134.html",
-    "image": "https://images.ndr.de/image/37e9b807-4d99-44ff-9aa1-e30848d3acfa/AAABohkchRc/AAABnSStX0g/1x1-big/screenshot-268032.jpg?overlay=a39befe7-da38-4309-9411-ff1f6ea1391e&overlayModificationDate=AAABl3iVc2c&width=3000",
-    "audio": "https://ndr-podcast.ard-mcdn.de/progressive/2026/1126/AU-20261126-2225-2100.mp3",
-    "duration": "33 Min",
-    "tags": [
-      "beatles",
-      "popgeschichte",
-      "musik",
-      "kultur",
-      "60er"
-    ],
-    "category": [
-      "Musik",
-      "Geschichte"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:2978de02-2a28-5130-961f-bac9e973ea88",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Kulturmeldungen 26.11.2026",
-    "summary": "Kohn, Anna www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-26T16:55:58.000Z",
-    "url": "https://www.deutschlandfunk.de/kulturmeldungen-26-11-102.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/kulturmeldungen_26112026_dlf_20261126_1755_58f01aae.mp3?refId=kultur-heute-104",
-    "duration": "3 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bca6b1fc-8d70-54ea-a6ff-70cb9893d761",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Alles Glück der Welt\" - Musikalische Komödie nach Thomas Brasch a.d. Volksbühne",
-    "summary": "Laages, Michael www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-26T16:50:19.000Z",
-    "url": "https://www.deutschlandfunk.de/alles-glueck-der-welt-musikalische-komoedie-nach-thomas-brasch-a-d-volksbuehne-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/alles_glueck_der_welt_musikalische_komoedie_nach_thomas_dlf_20261126_1750_98ef0f8b.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:ea43e1c2-5d09-55d0-bdeb-ff910c2b8092",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Carpathia\" - Das Dracula-Ballett von Edward Clug am Bayerischen Staatsballett",
-    "summary": "Hüster, Wiebke www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-26T16:46:15.000Z",
-    "url": "https://www.deutschlandfunk.de/carpathia-das-dracula-ballett-von-edward-clug-am-bayerischen-staatsballett-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/carpathia_das_dracula_ballett_von_edward_clug_am_bayerischen_dlf_20261126_1746_91edc24f.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:1d93bc56-849a-5b12-8f4c-117577ec4db8",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "Venedig 2028 - Hoor Al-Qasimi wird neue Biennale-Kuratorin",
-    "summary": "Probst, Carsten www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-26T16:40:41.000Z",
-    "url": "https://www.deutschlandfunk.de/venedig-2028-hoor-al-qasimi-wird-neue-biennale-kuratorin-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/venedig_2028_hoor_al_qasimi_wird_neue_biennale_kuratorin_dlf_20261126_1740_dfeccd16.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-kultur-heute:bc124ea1-d700-5016-9b78-45a24f2e2ae4",
-    "source": "dlf-kultur-heute",
-    "sourceTitle": "Kultur heute – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"From inside out\" - Wim Wenders' Film über den Architekten Peter Zumthor",
-    "summary": "Nicodemus, Katja www.deutschlandfunk.de, Kultur heute",
-    "date": "2026-11-26T16:35:30.000Z",
-    "url": "https://www.deutschlandfunk.de/from-inside-out-wim-wenders-film-ueber-den-architekten-peter-zumthor-100.html",
-    "image": "https://bilder.deutschlandfunk.de/FI/LE/_a/2b/FILE_a2b492ca7166500c6ef32d7a9e8618d7/kultur-heute-16x9-jpg-100-1920x1920.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/from_inside_out_wim_wenders_film_ueber_den_architekten_peter_dlf_20261126_1735_e4ebaae8.mp3?refId=kultur-heute-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "theater",
-      "kunst",
-      "film",
-      "kulturpolitik",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
-    ],
-    "language": "de"
-  },
-  {
-    "id": "dlf-corso:a6ba8c9e-7fac-564e-a103-1a777933ef8f",
-    "source": "dlf-corso",
-    "sourceTitle": "Corso – Deutschlandfunk",
-    "type": "rss",
-    "title": "\"Krömers letzte Stunde\" - Der langsame Tod der deutschen Fernsehunterhaltung",
-    "summary": "Fischer, Sigrid www.deutschlandfunk.de, Corso",
-    "date": "2026-11-26T14:25:10.000Z",
-    "url": "https://www.deutschlandfunk.de/kroemers-letzte-stunde-der-langsame-tod-der-deutschen-fernsehunterhaltung-100.html",
-    "image": "https://bilder.deutschlandfunk.de/e9/1c/6c/61/e91c6c61-b4e5-43fa-9558-cac7a2e4f05a/corso-102-768x768.jpg",
-    "audio": "https://podcast-mp3.dradio.de/podcast/2026/11/26/kroemers_letzte_stunde_der_langsame_tod_der_deutschen_dlf_20261126_1525_8b517190.mp3?refId=corso-104",
-    "duration": "5 Min",
-    "tags": [
-      "kultur",
-      "pop",
-      "kunst",
-      "gesellschaft",
-      "deutschlandfunk"
-    ],
-    "category": [
-      "Kultur",
-      "Gesellschaft"
     ],
     "language": "de"
   }
